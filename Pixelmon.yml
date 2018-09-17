@@ -60,6 +60,7 @@
 - name: variedcommodities
   strings: 
     - ":variedcommodities:"
+    - ":varied:"
   location: "assets/pixelmon/variedcommodities.png"
 - name: johto
   strings: 

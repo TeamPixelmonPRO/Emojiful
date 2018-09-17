@@ -99,7 +99,7 @@
     - ":да:"
     - "tooltip.wawla.да"
   location: "assets/pixelmon/yes.png"
-- name: yes
+- name: no
   strings: 
     - ":no:"
     - ":нет:"

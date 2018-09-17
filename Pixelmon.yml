@@ -67,13 +67,12 @@
 - name: lvl
   strings: 
     - ":lvl:"
-    - "Ур:"
-    - "Ур."
+    - "Ур"
   location: "assets/pixelmon/lvl.png"
 - name: number
   strings: 
     - ":num:"
-    - "№:"
+    - "№"
   location: "assets/pixelmon/number.png"
 - name: female
   strings: 
@@ -89,35 +88,30 @@
   strings: 
     - ":dark:"
     - "Dark"
-    - "[Dark"
-    - "Dark]"
+    - "[Dark]"
   location: "assets/pixelmon/dark.png"
 - name: normal
   strings: 
     - ":normal:"
-    - "[Normal"
-    - "Normal]"
+    - "Normal"
     - "[Normal]"
   location: "assets/pixelmon/normal.png"
 - name: bug
   strings: 
     - ":bug:"
     - "[Bug]"
-    - "[Bug"
-    - "Bug]"
+    - "Bug"
   location: "assets/pixelmon/bug.png"
 - name: fly
   strings: 
     - ":fly:"
     - ":flying:"
     - "[Flying]"
-    - "[Flying"
-    - "Flying]"
+    - "Flying"
   location: "assets/pixelmon/fly.png"
 - name: water
   strings: 
     - ":water:"
     - "[Water]"
-    - "[Water"
-    - "Water]"
+    - "Water"
   location: "assets/pixelmon/water.png"

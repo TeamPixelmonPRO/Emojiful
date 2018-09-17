@@ -24,34 +24,30 @@
 - name: hunt
   strings: 
     - ":hunt:"
-  location: "assets/pixelmon/hunt"
+  location: "assets/pixelmon/hunt.png"
 - name: lk
   strings: 
     - ":lk:"
-  location: "assets/pixelmon/lk"
+  location: "assets/pixelmon/lk.png"
 - name: pokepack
   strings: 
     - ":pokepack:"
-  location: "assets/pixelmon/pokepack"
+  location: "assets/pixelmon/pokepack.png"
 - name: reforged
   strings: 
     - ":reforged:"
     - ":ref:"
-  location: "assets/pixelmon/reforged"
+  location: "assets/pixelmon/reforged.png"
 - name: tavern
   strings: 
     - ":tavern:"
     - ":tav:"
-  location: "assets/pixelmon/tavern"
+  location: "assets/pixelmon/tavern.png"
 - name: vk
   strings: 
     - ":vk:"
-  location: "assets/pixelmon/vk"
+  location: "assets/pixelmon/vk.png"
 - name: johto
   strings: 
     - ":johto:"
-  location: "assets/pixelmon/johto"
-- name: test
-  strings:
-    - ":test:"
-  location: "assets/discord/lul.png"
+  location: "assets/pixelmon/johto.png"

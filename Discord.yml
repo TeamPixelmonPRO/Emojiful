@@ -22,8 +22,3 @@
   strings:
     - ":pogchamp:"
   location: "assets/discord/pogchamp.png"
-- name: bulbasaur
-  strings: 
-    - ":bulbasaur:"
-    - ":001:"
-  location: assets/discord/001

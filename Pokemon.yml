@@ -1,0 +1,5 @@
+- name: bulbasaur
+  strings: 
+    - ":bulbasaur:"
+    - ":001:"
+  location: assets/pokemon/001

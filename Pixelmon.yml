@@ -15,7 +15,6 @@
   strings: 
     - ":discord:"
     - ":dc:"
-    - "Discord"
   location: "assets/pixelmon/discord.png"
 - name: discordpro
   strings: 
@@ -115,13 +114,11 @@
   strings: 
     - ":yes:"
     - ":да:"
-    - "tooltip.wawla.да"
   location: "assets/pixelmon/yes.png"
 - name: no
   strings: 
     - ":no:"
     - ":нет:"
-    - "tooltip.wawla.нет"
   location: "assets/pixelmon/no.png"
 - name: wait
   strings: 
@@ -135,6 +132,16 @@
     - ":warn:"
     - ":failed:"
   location: "assets/pixelmon/warning.png"
+- name: info
+  strings: 
+    - ":info:"
+    - ":информация:"
+  location: "assets/pixelmon/info.png"
+- name: star
+  strings: 
+    - ":star:"
+    - ":звезда:"
+  location: "assets/pixelmon/star.png"
 - name: dark
   strings: 
     - ":dark:"

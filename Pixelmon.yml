@@ -38,6 +38,7 @@
   strings: 
     - ":reforged:"
     - ":ref:"
+    - "Reforged"
   location: "assets/pixelmon/reforged.png"
 - name: tavern
   strings: 
@@ -64,14 +65,6 @@
   strings: 
     - ":unowa:"
   location: "assets/pixelmon/unowa.png"
-- name: Ур
-  strings: 
-    - ":lvl:"
-    - "Ур"
-    - "Ур:"
-    - "lvl:"
-    - "lvl"
-  location: "assets/pixelmon/lvl.png"
 - name: №
   strings: 
     - ":num:"
@@ -79,6 +72,11 @@
     - "№"
     - "#"
     - "#:"
+  location: "assets/pixelmon/number.png"
+- name: shiny
+  strings: 
+    - ":shiny:"
+    - ":шайни:"
   location: "assets/pixelmon/number.png"
 - name: female
   strings: 

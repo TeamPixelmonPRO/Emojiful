@@ -1,0 +1,59 @@
+- name: pixelmon
+  strings: 
+    - ":pixelmon:"
+    - ":pix:"
+    - "pixelmon"
+  location: assets/pixelmon/pixelmon
+- name: pixelmonpro
+  strings: 
+    - ":pixelmonpro:"
+    - ":pro:"
+    - ":pixpro:"
+    - ":logo:"
+  location: assets/pixelmon/pixelmonpro
+- name: discord
+  strings: 
+    - ":discord:"
+    - ":dc:"
+  location: assets/pixelmon/discord
+- name: discordpro
+  strings: 
+    - ":discordpro:"
+    - ":dcpro:"
+  location: assets/pixelmon/discordpro
+- name: hunt
+  strings: 
+    - ":hunt:"
+    - ":охота:"
+  location: assets/pixelmon/hunt
+- name: lk
+  strings: 
+    - ":lk:"
+    - ":лк:"
+  location: assets/pixelmon/lk
+- name: pokepack
+  strings: 
+    - ":pokepack:"
+    - ":покепак:"
+  location: assets/pixelmon/pokepack
+- name: reforged
+  strings: 
+    - ":reforged:"
+    - ":ref:"
+  location: assets/pixelmon/reforged
+- name: tavern
+  strings: 
+    - ":tavern:"
+    - ":tav:"
+    - ":таверна:"
+  location: assets/pixelmon/tavern
+- name: vk
+  strings: 
+    - ":vk:"
+    - ":вк:"
+  location: assets/pixelmon/vk
+- name: johto
+  strings: 
+    - ":johto:"
+    - ":джото:"
+  location: assets/pixelmon/johto

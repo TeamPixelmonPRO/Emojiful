@@ -15,6 +15,33 @@
     - ":пикспро:"
     - ":про:"
   location: "assets/pixelmon/pixelmonpro.png"
+- name: logo_kanto
+  strings: 
+    - ":logokanto:"
+  location: "assets/pixelmon/logo_kanto.png"
+- name: logo_johto
+  strings: 
+    - ":logojohto:"
+  location: "assets/pixelmon/logo_johto.png"
+- name: logo_hoenn
+  strings: 
+    - ":logohoenn:"
+  location: "assets/pixelmon/logo_hoenn.png"
+- name: kanto
+  strings: 
+    - ":k:"
+    - "[K]"
+  location: "assets/pixelmon/kanto.png"
+- name: johto
+  strings: 
+    - ":j:"
+    - "[J]"
+  location: "assets/pixelmon/johto.png"
+- name: hoenn
+  strings: 
+    - ":h:"
+    - "[H]"
+  location: "assets/pixelmon/hoenn.png"
 - name: builder
   strings: 
     - ":builder:"

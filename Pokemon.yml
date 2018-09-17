@@ -2,4 +2,4 @@
   strings: 
     - ":bulbasaur:"
     - ":001:"
-  location: assets/pokemon/001
+  location: "assets/pokemon/001"

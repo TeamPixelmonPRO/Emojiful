@@ -20,34 +20,34 @@
   strings: 
     - ":discordpro:"
     - ":dcpro:"
-  location: assets/pixelmon/discordpro
+  location: "assets/pixelmon/discordpro"
 - name: hunt
   strings: 
     - ":hunt:"
-  location: assets/pixelmon/hunt
+  location: "assets/pixelmon/hunt"
 - name: lk
   strings: 
     - ":lk:"
-  location: assets/pixelmon/lk
+  location: "assets/pixelmon/lk"
 - name: pokepack
   strings: 
     - ":pokepack:"
-  location: assets/pixelmon/pokepack
+  location: "assets/pixelmon/pokepack"
 - name: reforged
   strings: 
     - ":reforged:"
     - ":ref:"
-  location: assets/pixelmon/reforged
+  location: "assets/pixelmon/reforged"
 - name: tavern
   strings: 
     - ":tavern:"
     - ":tav:"
-  location: assets/pixelmon/tavern
+  location: "assets/pixelmon/tavern"
 - name: vk
   strings: 
     - ":vk:"
-  location: assets/pixelmon/vk
+  location: "assets/pixelmon/vk"
 - name: johto
   strings: 
     - ":johto:"
-  location: assets/pixelmon/johto
+  location: "assets/pixelmon/johto"

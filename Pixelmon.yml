@@ -3,6 +3,7 @@
     - ":pixelmon:"
     - ":pix:"
     - "pixelmon"
+    - ":пиксельмон:"
   location: "assets/pixelmon/pixelmon.png"
 - name: pixelmonpro
   strings: 
@@ -10,44 +11,61 @@
     - ":pro:"
     - ":pixpro:"
     - ":logo:"
+    - ":пиксельмонпро:"
+    - ":пикспро:"
+    - ":про:"
   location: "assets/pixelmon/pixelmonpro.png"
 - name: discord
   strings: 
     - ":discord:"
     - ":dc:"
+    - ":дискорд:"
   location: "assets/pixelmon/discord.png"
 - name: discordpro
   strings: 
     - ":discordpro:"
     - ":dcpro:"
+    - ":дискордпро:"
   location: "assets/pixelmon/discordpro.png"
 - name: hunt
   strings: 
     - ":hunt:"
+    - ":охота:"
   location: "assets/pixelmon/hunt.png"
 - name: lk
   strings: 
     - ":lk:"
+    - ":лк:"
   location: "assets/pixelmon/lk.png"
 - name: pokepack
   strings: 
     - ":pokepack:"
+    - ":покепак:"
   location: "assets/pixelmon/pokepack.png"
 - name: reforged
   strings: 
     - ":reforged:"
     - ":ref:"
+    - ":рефоржет:"
     - "[Reforged]"
   location: "assets/pixelmon/reforged.png"
 - name: tavern
   strings: 
     - ":tavern:"
     - ":tav:"
+    - ":таверна:"
   location: "assets/pixelmon/tavern.png"
 - name: vk
   strings: 
     - ":vk:"
+    - ":вк:"
+    - ":вконтакте:"
   location: "assets/pixelmon/vk.png"
+- name: youtube
+  strings: 
+    - ":youtube:"
+    - ":ютуб:"
+  location: "assets/pixelmon/youtube.png"
 - name: customnpc
   strings: 
     - ":customnpc:"
@@ -69,18 +87,22 @@
 - name: johto
   strings: 
     - ":johto:"
+    - ":джото:"
   location: "assets/pixelmon/johto.png"
 - name: hoenn
   strings: 
     - ":hoenn:"
+    - ":хоенн:"
   location: "assets/pixelmon/hoenn.png"
 - name: kanto
   strings: 
     - ":kanto:"
+    - ":канто:"
   location: "assets/pixelmon/kanto.png"
 - name: unowa
   strings: 
     - ":unowa:"
+    - ":юнова:"
   location: "assets/pixelmon/unowa.png"
 - name: №
   strings: 
@@ -99,26 +121,31 @@
   strings: 
     - ":female:"
     - "Female"
+    - ":мальчик:"
   location: "assets/pixelmon/female.png"
 - name: male
   strings: 
     - ":male:"
     - "Male"
+    - ":девочка:"
   location: "assets/pixelmon/male.png"
 - name: none
   strings: 
     - ":none:"
     - "None"
+    - ":нету:"
   location: "assets/pixelmon/none.png"
 - name: yes
   strings: 
     - ":yes:"
     - ":да:"
+    - ":согласен:"
   location: "assets/pixelmon/yes.png"
 - name: no
   strings: 
     - ":no:"
     - ":нет:"
+    - ":не согласен:"
   location: "assets/pixelmon/no.png"
 - name: wait
   strings: 
@@ -136,6 +163,7 @@
   strings: 
     - ":info:"
     - ":информация:"
+    - ":инфо:"
   location: "assets/pixelmon/info.png"
 - name: star
   strings: 
@@ -149,6 +177,8 @@
     - "[Dark]"
     - "[Dark,"
     - "Dark]"
+    - ":дарк:"
+    - ":темный:"
   location: "assets/pixelmon/darktype.png"
 - name: normal
   strings: 
@@ -157,6 +187,8 @@
     - "[Normal]"
     - "[Normal,"
     - "Normal]"
+    - ":нормал:"
+    - ":нормальный:"
   location: "assets/pixelmon/normaltype.png"
 - name: bug
   strings: 
@@ -165,6 +197,10 @@
     - "Bug"
     - "[Bug,"
     - "Bug]"
+    - ":баг:"
+    - ":жучий:"
+    - ":жук:"
+    - ":насекомый:"
   location: "assets/pixelmon/bugtype.png"
 - name: fly
   strings: 
@@ -174,6 +210,9 @@
     - "Flying"
     - "[Flying,"
     - "Flying]"
+    - ":флаинг:"
+    - ":воздушный:"
+    - ":летающий:"
   location: "assets/pixelmon/flyingtype.png"
 - name: fighting
   strings: 
@@ -183,6 +222,8 @@
     - "Fighting"
     - "[Fighting,"
     - "Fighting]"
+    - ":боевой:"
+    - ":файтинг:"
   location: "assets/pixelmon/fightingtype.png"
 - name: water
   strings: 
@@ -191,6 +232,10 @@
     - "Water"
     - "[Water,"
     - "Water]"
+    - ":водный:"
+    - ":водяной:"
+    - ":вотер:"
+    - ":ватер:"
   location: "assets/pixelmon/watertype.png"
 - name: electric
   strings: 
@@ -199,6 +244,8 @@
     - "[Electric]"
     - "[Electric,"
     - "Electric]"
+    - ":электрический"
+    - ":электрик:"
   location: "assets/pixelmon/electrictype.png"
 - name: fairy
   strings: 
@@ -207,6 +254,9 @@
     - "[Fairy]"
     - "[Fairy,"
     - "Fairy]"
+    - ":волшебный:"
+    - ":фэйри:"
+    - ":фаири:"
   location: "assets/pixelmon/fairytype.png"
 - name: ghost
   strings: 
@@ -215,6 +265,8 @@
     - "[Ghost]"
     - "[Ghost,"
     - "Ghost]"
+    - ":призрачный:"
+    - ":гост:"
   location: "assets/pixelmon/ghosttype.png"
 - name: grass
   strings: 
@@ -223,6 +275,8 @@
     - "[Grass]"
     - "[Grass,"
     - "Grass]"
+    - ":травяной:"
+    - ":грасс:"
   location: "assets/pixelmon/grasstype.png"
 - name: ground
   strings: 
@@ -231,6 +285,8 @@
     - "[Ground]"
     - "[Ground,"
     - "Ground]"
+    - ":земляной:"
+    - ":граунд:"
   location: "assets/pixelmon/groundtype.png"
 - name: ice
   strings: 
@@ -239,6 +295,8 @@
     - "[Ice]"
     - "[Ice,"
     - "Ice]"
+    - ":ледяной:"
+    - ":айс:"
   location: "assets/pixelmon/icetype.png"
 - name: poison
   strings: 
@@ -247,6 +305,8 @@
     - "[Poison]"
     - "[Poison,"
     - "Poison]"
+    - ":ядовитый:"
+    - ":поисон:"
   location: "assets/pixelmon/poisontype.png"
 - name: rock
   strings: 
@@ -255,6 +315,8 @@
     - "[Rock]"
     - "[Rock,"
     - "Rock]"
+    - ":каменный:"
+    - ":рок:"
   location: "assets/pixelmon/rocktype.png"
 - name: steel
   strings: 
@@ -263,6 +325,8 @@
     - "[Steel]"
     - "[Steel,"
     - "Steel]"
+    - ":стальной:"
+    - ":стилл:"
   location: "assets/pixelmon/steeltype.png"
 - name: fire
   strings: 
@@ -271,6 +335,8 @@
     - "[Fire]"
     - "[Fire,"
     - "Fire]"
+    - ":огненный:"
+    - ":фаир:"
   location: "assets/pixelmon/firetype.png"
 - name: dragon
   strings: 
@@ -279,6 +345,9 @@
     - "[Dragon]"
     - "[Dragon,"
     - "Dragon]"
+    - ":драконий:"
+    - ":дракон:"
+    - ":дрэгон:"
   location: "assets/pixelmon/dragontype.png"
 - name: psychic
   strings: 
@@ -287,4 +356,7 @@
     - "[Psychic]"
     - "[Psychic,"
     - "Psychic]"
+    - ":психический:"
+    - ":псих:"
+    - ":психик:"
   location: "assets/pixelmon/psychictype.png"

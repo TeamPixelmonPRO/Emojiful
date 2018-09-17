@@ -9,6 +9,9 @@
 - name: ok_hand
   strings:
     - ":ok_hand:"
+    - ":ok:"
+    - "ок"
+    - "окей"
   location: "assets/hands/ok_hand.png"
 - name: clap
   strings:
@@ -38,7 +41,17 @@
   strings:
     - ":thumbs_up:"
   location: "assets/hands/thumbs_up.png"
-- name:   thumbs_down
+- name: thumbs_down
   strings:
     - ":thumbs_down:"
+  location: "assets/hands/thumbs_down.png"
+- name: za
+  strings:
+    - ":za:"
+    - ":za-1:"
+  location: "assets/hands/za.png"
+- name: protiv
+  strings:
+    - ":protiv:"
+    - ":protiv-1:"
   location: "assets/hands/thumbs_down.png"

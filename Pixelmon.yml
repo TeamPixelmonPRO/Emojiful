@@ -14,6 +14,7 @@
     - ":пиксельмонпро:"
     - ":пикспро:"
     - ":про:"
+    - "[*]"
   location: "assets/pixelmon/pixelmonpro.png"
 - name: logo_kanto
   strings: 

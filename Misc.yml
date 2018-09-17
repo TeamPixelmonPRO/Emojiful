@@ -8,15 +8,36 @@
     - "артитоп"
     - "артилучший"
   location: "assets/misc/artitop.png"
+- name: sonic
+  strings:
+    - ":happysonic:"
+    - ":sonic:"
+    - ":соник:"
+  location: "assets/misc/sonic.png"
+- name: ksensei
+  strings:
+    - ":ksensei:"
+    - ":ксенсей:"
+  location: "assets/misc/ksensei.png"
 - name: heart
   strings:
     - ":heart:"
     - "<3"
   location: "assets/misc/heart.png"
+- name: question
+  strings:
+    - ":question:"
+    - ":вопрос:"
+  location: "assets/misc/heart.png"
 - name: apple
   strings:
     - ":apple:"
   location: "assets/misc/apple.png"
+- name: question
+  strings:
+    - ":question:"
+    - ":вопрос:"
+  location: "assets/misc/question.png"
 - name: poop
   strings:
     - ":poop:"

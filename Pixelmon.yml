@@ -15,6 +15,12 @@
     - ":пикспро:"
     - ":про:"
   location: "assets/pixelmon/pixelmonpro.png"
+- name: builder
+  strings: 
+    - ":buider:"
+    - ":строитель:"
+    - ":артихектор:"
+  location: "assets/pixelmon/builder.png"
 - name: discord
   strings: 
     - ":discord:"
@@ -27,21 +33,65 @@
     - ":dcpro:"
     - ":дискордпро:"
   location: "assets/pixelmon/discordpro.png"
+- name: event
+  strings: 
+    - ":event:"
+    - ":ивентер:"
+    - ":ивент:"
+    - ":евент:"
+    - ":балагур:"
+  location: "assets/pixelmon/event.png"
+- name: gts
+  strings: 
+    - ":gts:"
+    - ":торговаяплощадка:"
+    - ":торг:"
+    - ":гтс:"
+  location: "assets/pixelmon/gts.png"
 - name: hunt
   strings: 
     - ":hunt:"
     - ":охота:"
   location: "assets/pixelmon/hunt.png"
+- name: hunt_catch
+  strings: 
+    - ":hunt_catch:"
+    - ":охота1:"
+  location: "assets/pixelmon/hunt_catch.png"
 - name: lk
   strings: 
     - ":lk:"
     - ":лк:"
   location: "assets/pixelmon/lk.png"
+- name: master
+  strings: 
+    - ":master:"
+    - ":мастер:"
+  location: "assets/pixelmon/master.png"
+- name: moderator
+  strings: 
+    - ":moderator:"
+    - ":mod:"
+    - ":модер"
+    - ":мод:"
+    - ":модератор:"
+  location: "assets/pixelmon/moderator.png"
+- name: player
+  strings: 
+    - ":player:"
+    - ":игрок:"
+  location: "assets/pixelmon/player.png"
 - name: pokepack
   strings: 
     - ":pokepack:"
     - ":покепак:"
   location: "assets/pixelmon/pokepack.png"
+- name: privat
+  strings: 
+    - ":privat:"
+    - ":claim:"
+    - ":приват:"
+  location: "assets/pixelmon/privat.png"
 - name: reforged
   strings: 
     - ":reforged:"
@@ -55,12 +105,32 @@
     - ":tav:"
     - ":таверна:"
   location: "assets/pixelmon/tavern.png"
+- name: trainer
+  strings: 
+    - ":trainer:"
+    - ":тренер:"
+  location: "assets/pixelmon/trainer.png"
 - name: vk
   strings: 
     - ":vk:"
     - ":вк:"
     - ":вконтакте:"
   location: "assets/pixelmon/vk.png"
+- name: vote
+  strings: 
+    - ":vote:"
+    - ":голосование:"
+  location: "assets/pixelmon/vote.png"
+- name: yarm
+  strings: 
+    - ":yarm:"
+    - ":ярмарка:"
+  location: "assets/pixelmon/yarm.png"
+- name: wt
+  strings: 
+    - ":wt:"
+    - ":обмен:"
+  location: "assets/pixelmon/wt.png"
 - name: youtube
   strings: 
     - ":youtube:"

@@ -91,11 +91,11 @@
     - ":смех:"
     - ":смешно:"
   location: "assets/faces/joy.png"
-- name: sadd
+- name: Oo
   strings:
-    - ":D:"
+    - ":Oo:"
     - "D:"
-  location: "assets/faces/sadd.png"
+  location: "assets/faces/oo.png"
 - name: stuck_out_tongue
   strings:
     - ":stuck_out_tongue:"
@@ -143,8 +143,6 @@
   location: "assets/faces/thraw.png"
 - name: straw
   strings:
-    - ":mute:"
-    - ":мут:"
     - "говно"
     - "бл"
     - "бля"

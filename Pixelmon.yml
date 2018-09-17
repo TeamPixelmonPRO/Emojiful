@@ -93,6 +93,18 @@
     - ":none:"
     - "None"
   location: "assets/pixelmon/none.png"
+- name: yes
+  strings: 
+    - ":yes:"
+    - ":да:"
+    - "tooltip.wawla.да"
+  location: "assets/pixelmon/yes.png"
+- name: yes
+  strings: 
+    - ":no:"
+    - ":нет:"
+    - "tooltip.wawla.нет"
+  location: "assets/pixelmon/no.png"
 - name: dark
   strings: 
     - ":dark:"
@@ -126,6 +138,15 @@
     - "[Flying,"
     - "Flying]"
   location: "assets/pixelmon/flyingtype.png"
+- name: fighting
+  strings: 
+    - ":fight:"
+    - ":fighting:"
+    - "[Fighting]"
+    - "Fighting"
+    - "[Fighting,"
+    - "Fighting]"
+  location: "assets/pixelmon/Fightingtype.png"
 - name: water
   strings: 
     - ":water:"

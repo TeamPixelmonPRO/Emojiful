@@ -133,7 +133,7 @@
     - "Water"
     - "[Water,"
     - "Water]"
-  location: "assets/pixelmon/waterype.png"
+  location: "assets/pixelmon/watertype.png"
 - name: electric
   strings: 
     - ":electric:"

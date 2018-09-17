@@ -68,6 +68,15 @@
     - ":master:"
     - ":мастер:"
   location: "assets/pixelmon/master.png"
+- name: mentor
+  strings: 
+    - ":mentor:"
+    - ":ментор:"
+    - ":мент:"
+    - ":ментр:"
+    - ":хэлпер:"
+    - ":хелпер:"
+  location: "assets/pixelmon/mentor.png"
 - name: moderator
   strings: 
     - ":moderator:"

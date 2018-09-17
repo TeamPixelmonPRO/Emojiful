@@ -89,29 +89,83 @@
     - ":dark:"
     - "Dark"
     - "[Dark]"
-  location: "assets/pixelmon/dark.png"
+  location: "assets/pixelmon/darktype.png"
 - name: normal
   strings: 
     - ":normal:"
     - "Normal"
     - "[Normal]"
-  location: "assets/pixelmon/normal.png"
+  location: "assets/pixelmon/normaltype.png"
 - name: bug
   strings: 
     - ":bug:"
     - "[Bug]"
     - "Bug"
-  location: "assets/pixelmon/bug.png"
+  location: "assets/pixelmon/bugtype.png"
 - name: fly
   strings: 
     - ":fly:"
     - ":flying:"
     - "[Flying]"
     - "Flying"
-  location: "assets/pixelmon/fly.png"
+  location: "assets/pixelmon/flytype.png"
 - name: water
   strings: 
     - ":water:"
     - "[Water]"
     - "Water"
-  location: "assets/pixelmon/water.png"
+  location: "assets/pixelmon/waterype.png"
+- name: electric
+  strings: 
+    - ":electric:"
+    - "Electric"
+    - "[Electric]"
+  location: "assets/pixelmon/electrictype.png"
+- name: fairy
+  strings: 
+    - ":fairy:"
+    - "Fairy"
+    - "[Fairy]"
+  location: "assets/pixelmon/fairytype.png"
+- name: ghost
+  strings: 
+    - ":ghost:"
+    - "Ghost"
+    - "[Ghost]"
+  location: "assets/pixelmon/ghosttype.png"
+- name: grass
+  strings: 
+    - ":grass:"
+    - "Grass"
+    - "[Grass]"
+  location: "assets/pixelmon/grasstype.png"
+- name: ground
+  strings: 
+    - ":ground:"
+    - "Ground"
+    - "[Ground]"
+  location: "assets/pixelmon/groundtype.png"
+- name: ice
+  strings: 
+    - ":ice:"
+    - "Ice"
+    - "[Ice]"
+  location: "assets/pixelmon/icetype.png"
+- name: poison
+  strings: 
+    - ":poison:"
+    - "Poison"
+    - "[Poison]"
+  location: "assets/pixelmon/poisontype.png"
+- name: rock
+  strings: 
+    - ":rock:"
+    - "Rock"
+    - "[Rock]"
+  location: "assets/pixelmon/rocktype.png"
+- name: steel
+  strings: 
+    - ":steel:"
+    - "Steel"
+    - "[Steel]"
+  location: "assets/pixelmon/steeltype.png"

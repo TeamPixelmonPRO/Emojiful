@@ -3,24 +3,26 @@
     - ":pixelmon:"
     - ":pix:"
     - "pixelmon"
-  location: assets/pixelmon/pixelmon
+  location: "assets/pixelmon/pixelmon.png"
 - name: pixelmonpro
   strings: 
     - ":pixelmonpro:"
     - ":pro:"
     - ":pixpro:"
     - ":logo:"
-  location: assets/pixelmon/pixelmonpro
+    - "Pixelmon.PRO"
+  location: "assets/pixelmon/pixelmonpro.png"
 - name: discord
   strings: 
     - ":discord:"
     - ":dc:"
-  location: assets/pixelmon/discord
+    - "Discord"
+  location: "assets/pixelmon/discord.png"
 - name: discordpro
   strings: 
     - ":discordpro:"
     - ":dcpro:"
-  location: "assets/pixelmon/discordpro"
+  location: "assets/pixelmon/discordpro.png"
 - name: hunt
   strings: 
     - ":hunt:"

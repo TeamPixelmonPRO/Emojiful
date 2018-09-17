@@ -64,7 +64,7 @@
   strings: 
     - ":unowa:"
   location: "assets/pixelmon/unowa.png"
-- name: lvl
+- name: Ур
   strings: 
     - ":lvl:"
     - "Ур"

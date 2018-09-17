@@ -69,10 +69,13 @@
     - ":lvl:"
     - "Ур"
   location: "assets/pixelmon/lvl.png"
-- name: number
+- name: №
   strings: 
     - ":num:"
+    - "№:"
     - "№"
+    - "#"
+    - "#:"
   location: "assets/pixelmon/number.png"
 - name: female
   strings: 
@@ -84,23 +87,34 @@
     - ":male:"
     - "Male"
   location: "assets/pixelmon/male.png"
+- name: none
+  strings: 
+    - ":none:"
+    - "None"
+  location: "assets/pixelmon/none.png"
 - name: dark
   strings: 
     - ":dark:"
     - "Dark"
     - "[Dark]"
+    - "[Dark,"
+    - "Dark]"
   location: "assets/pixelmon/darktype.png"
 - name: normal
   strings: 
     - ":normal:"
     - "Normal"
     - "[Normal]"
+    - "[Normal,"
+    - "Normal]"
   location: "assets/pixelmon/normaltype.png"
 - name: bug
   strings: 
     - ":bug:"
     - "[Bug]"
     - "Bug"
+    - "[Bug,"
+    - "Bug]"
   location: "assets/pixelmon/bugtype.png"
 - name: fly
   strings: 
@@ -108,64 +122,86 @@
     - ":flying:"
     - "[Flying]"
     - "Flying"
-  location: "assets/pixelmon/flytype.png"
+    - "[Flying,"
+    - "Flying]"
+  location: "assets/pixelmon/flyingtype.png"
 - name: water
   strings: 
     - ":water:"
     - "[Water]"
     - "Water"
+    - "[Water,"
+    - "Water]"
   location: "assets/pixelmon/waterype.png"
 - name: electric
   strings: 
     - ":electric:"
     - "Electric"
     - "[Electric]"
+    - "[Electric,"
+    - "Electric]"
   location: "assets/pixelmon/electrictype.png"
 - name: fairy
   strings: 
     - ":fairy:"
     - "Fairy"
     - "[Fairy]"
+    - "[Fairy,"
+    - "Fairy]"
   location: "assets/pixelmon/fairytype.png"
 - name: ghost
   strings: 
     - ":ghost:"
     - "Ghost"
     - "[Ghost]"
+    - "[Ghost,"
+    - "Ghost]"
   location: "assets/pixelmon/ghosttype.png"
 - name: grass
   strings: 
     - ":grass:"
     - "Grass"
     - "[Grass]"
+    - "[Grass,"
+    - "Grass]"
   location: "assets/pixelmon/grasstype.png"
 - name: ground
   strings: 
     - ":ground:"
     - "Ground"
     - "[Ground]"
+    - "[Ground,"
+    - "Ground]"
   location: "assets/pixelmon/groundtype.png"
 - name: ice
   strings: 
     - ":ice:"
     - "Ice"
     - "[Ice]"
+    - "[Ice,"
+    - "Ice]"
   location: "assets/pixelmon/icetype.png"
 - name: poison
   strings: 
     - ":poison:"
     - "Poison"
     - "[Poison]"
+    - "[Poison,"
+    - "Poison]"
   location: "assets/pixelmon/poisontype.png"
 - name: rock
   strings: 
     - ":rock:"
     - "Rock"
     - "[Rock]"
+    - "[Rock,"
+    - "Rock]"
   location: "assets/pixelmon/rocktype.png"
 - name: steel
   strings: 
     - ":steel:"
     - "Steel"
     - "[Steel]"
+    - "[Steel,"
+    - "Steel]"
   location: "assets/pixelmon/steeltype.png"

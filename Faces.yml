@@ -38,6 +38,7 @@
     - ":sob:"
     - ";("
     - ");"
+    - ":("
   location: "assets/faces/stuck_out_tongue.png"
 - name: shocked
   strings:

@@ -68,6 +68,9 @@
   strings: 
     - ":lvl:"
     - "Ур"
+    - "Ур:"
+    - "lvl:"
+    - "lvl"
   location: "assets/pixelmon/lvl.png"
 - name: №
   strings: 
@@ -205,3 +208,27 @@
     - "[Steel,"
     - "Steel]"
   location: "assets/pixelmon/steeltype.png"
+- name: fire
+  strings: 
+    - ":fire:"
+    - "Fire"
+    - "[Fire]"
+    - "[Fire,"
+    - "Fire]"
+  location: "assets/pixelmon/firetype.png"
+- name: dragon
+  strings: 
+    - ":dragon:"
+    - "Dragon"
+    - "[Dragon]"
+    - "[Dragon,"
+    - "Dragon]"
+  location: "assets/pixelmon/dragontype.png"
+- name: psychic
+  strings: 
+    - ":psychic:"
+    - "Psychic"
+    - "[Psychic]"
+    - "[Psychic,"
+    - "Psychic]"
+  location: "assets/pixelmon/psychictype.png"

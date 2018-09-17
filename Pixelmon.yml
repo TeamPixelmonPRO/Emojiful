@@ -80,17 +80,6 @@
     - ":male:"
     - "Male"
   location: "assets/pixelmon/male.png"
-- name: hp
-  strings: 
-    - ":hp:"
-    - "ОЗ:"
-    - "Ур."
-  location: "assets/pixelmon/lvl.png"
-- name: attack
-  strings: 
-    - ":attack:"
-    - "Атака:"
-  location: "assets/pixelmon/attack.png"
 - name: dark
   strings: 
     - ":dark:"
@@ -100,10 +89,12 @@
   strings: 
     - ":normal:"
     - "Normal"
+    - "[Normal]"
   location: "assets/pixelmon/normal.png"
 - name: bug
   strings: 
     - ":bug:"
+    - "[Bug]"
     - "Bug"
   location: "assets/pixelmon/bug.png"
 - name: fly

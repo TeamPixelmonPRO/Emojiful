@@ -17,10 +17,15 @@
   location: "assets/pixelmon/pixelmonpro.png"
 - name: builder
   strings: 
-    - ":buider:"
+    - ":builder:"
     - ":строитель:"
     - ":артихектор:"
   location: "assets/pixelmon/builder.png"
+- name: config
+  strings: 
+    - ":config:"
+    - ":настроки:"
+  location: "assets/pixelmon/config.png"
 - name: discord
   strings: 
     - ":discord:"

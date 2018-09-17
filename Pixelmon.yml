@@ -10,7 +10,6 @@
     - ":pro:"
     - ":pixpro:"
     - ":logo:"
-    - "Pixelmon.PRO"
   location: "assets/pixelmon/pixelmonpro.png"
 - name: discord
   strings: 
@@ -53,3 +52,67 @@
   strings: 
     - ":johto:"
   location: "assets/pixelmon/johto.png"
+- name: hoenn
+  strings: 
+    - ":hoenn:"
+  location: "assets/pixelmon/hoenn.png"
+- name: kanto
+  strings: 
+    - ":kanto:"
+  location: "assets/pixelmon/kanto.png"
+- name: unowa
+  strings: 
+    - ":unowa:"
+  location: "assets/pixelmon/unowa.png"
+- name: lvl
+  strings: 
+    - ":lvl:"
+    - "Ур:"
+    - "Ур."
+  location: "assets/pixelmon/lvl.png"
+- name: female
+  strings: 
+    - ":female:"
+    - "Female"
+  location: "assets/pixelmon/female.png"
+- name: male
+  strings: 
+    - ":male:"
+    - "Male"
+  location: "assets/pixelmon/male.png"
+- name: hp
+  strings: 
+    - ":hp:"
+    - "ОЗ:"
+    - "Ур."
+  location: "assets/pixelmon/lvl.png"
+- name: attack
+  strings: 
+    - ":attack:"
+    - "Атака:"
+  location: "assets/pixelmon/attack.png"
+- name: dark
+  strings: 
+    - ":dark:"
+    - "Dark"
+  location: "assets/pixelmon/dark.png"
+- name: normal
+  strings: 
+    - ":normal:"
+    - "Normal"
+  location: "assets/pixelmon/normal.png"
+- name: bug
+  strings: 
+    - ":bug:"
+    - "Bug"
+  location: "assets/pixelmon/bug.png"
+- name: fly
+  strings: 
+    - ":fly:"
+    - "Flying"
+  location: "assets/pixelmon/fly.png"
+- name: water
+  strings: 
+    - ":water:"
+    - "Water"
+  location: "assets/pixelmon/water.png"

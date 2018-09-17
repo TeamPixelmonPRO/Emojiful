@@ -49,6 +49,11 @@
     - ":смех:"
     - ":смешно:"
   location: "assets/faces/joy.png"
+- name: sadD
+  strings:
+    - ":D:"
+    - "D:"
+  location: "assets/faces/sadD.png"
 - name: stuck_out_tongue
   strings:
     - ":stuck_out_tongue:"
@@ -101,5 +106,8 @@
     - ":please:"
     - "ну пожалуйста"
     - "ну пж"
+    - "ну пжж"
     - "пж"
+    - "пжж"
+    - "пжжж"
   location: "assets/faces/please.png"

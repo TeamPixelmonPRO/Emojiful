@@ -196,26 +196,6 @@
     - ":sgcraft:"
     - ":hoopagates"
   location: "assets/pixelmon/sgcraft.png"
-- name: johto
-  strings: 
-    - ":johto:"
-    - ":джото:"
-  location: "assets/pixelmon/johto.png"
-- name: hoenn
-  strings: 
-    - ":hoenn:"
-    - ":хоенн:"
-  location: "assets/pixelmon/hoenn.png"
-- name: kanto
-  strings: 
-    - ":kanto:"
-    - ":канто:"
-  location: "assets/pixelmon/kanto.png"
-- name: unowa
-  strings: 
-    - ":unowa:"
-    - ":юнова:"
-  location: "assets/pixelmon/unowa.png"
 - name: №
   strings: 
     - ":num:"
@@ -282,6 +262,12 @@
     - ":star:"
     - ":звезда:"
   location: "assets/pixelmon/star.png"
+- name: photo
+  strings: 
+    - ":photo:"
+    - ":camera:"
+    - ":screenshot:"
+  location: "assets/pixelmon/photo.png"
 - name: dark
   strings: 
     - ":dark:"

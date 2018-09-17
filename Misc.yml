@@ -48,11 +48,6 @@
     - ":heart:"
     - "<3"
   location: "assets/misc/heart.png"
-- name: question
-  strings:
-    - ":question:"
-    - ":вопрос:"
-  location: "assets/misc/question.png"
 - name: apple
   strings:
     - ":apple:"

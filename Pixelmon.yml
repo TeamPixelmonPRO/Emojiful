@@ -51,3 +51,7 @@
   strings: 
     - ":johto:"
   location: "assets/pixelmon/johto"
+- name: test
+  strings:
+    - ":test:"
+  location: "assets/discord/lul.png"

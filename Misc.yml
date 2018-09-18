@@ -39,6 +39,10 @@
     - ":gwm:"
     - ":гвм:"
   location: "assets/misc/gwm.png"
+- name: din
+  strings:
+    - ":din:"
+  location: "assets/misc/din.png"
 - name: laykras
   strings:
     - ":laykras:"

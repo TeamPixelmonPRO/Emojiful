@@ -36,6 +36,7 @@
 - name: laykras
   strings:
     - ":laykras:"
+    - ":pp:"
   location: "assets/misc/laykras.png"
 - name: heart
   strings:

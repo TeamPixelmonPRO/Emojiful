@@ -268,6 +268,50 @@
     - ":camera:"
     - ":screenshot:"
   location: "assets/pixelmon/photo.png"
+- name: mail
+  strings: 
+    - ":mail:"
+    - ":сообщение:"
+    - ":письмо:"
+  location: "assets/pixelmon/mail.png"
+- name: coffe
+  strings: 
+    - ":coffe:"
+    - ":кофе:"
+  location: "assets/pixelmon/coffe.png"
+- name: winner
+  strings: 
+    - ":winner:"
+    - ":win:"
+    - ":победа:"
+  location: "assets/pixelmon/winner.png"
+- name: coin
+  strings: 
+    - ":coin:"
+    - ":монета:"
+  location: "assets/pixelmon/coin.png"
+- name: coin_dollar
+  strings: 
+    - ":coin_dollar:"
+    - ":dollar:"
+    - ":доллар:"
+  location: "assets/pixelmon/coin_dollar.png"
+- name: map
+  strings: 
+    - ":map:"
+    - ":карта:"
+  location: "assets/pixelmon/map.png"
+- name: shield
+  strings: 
+    - ":shield:"
+    - ":щит:"
+  location: "assets/pixelmon/shield.png"
+- name: magic
+  strings: 
+    - ":magic:"
+    - ":магия:"
+    - ":эффект:"
+  location: "assets/pixelmon/magic.png"
 - name: dark
   strings: 
     - ":dark:"

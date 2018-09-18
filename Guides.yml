@@ -1,112 +1,216 @@
 - name: k-kanto
   strings: 
     - ":k-kanto:"
-  location: "assets/pixelmon/k_kanto.png"
+  location: "assets/guides/k_kanto.png"
 - name: a-kanto
   strings: 
     - ":a-kanto:"
-  location: "assets/pixelmon/a_kanto.png"
+  location: "assets/guides/a_kanto.png"
 - name: n-kanto
   strings: 
     - ":n-kanto:"
-  location: "assets/pixelmon/n_kanto.png"
+  location: "assets/guides/n_kanto.png"
 - name: t-kanto
   strings: 
     - ":t-kanto:"
-  location: "assets/pixelmon/t_kanto.png"
+  location: "assets/guides/t_kanto.png"
 - name: o-kanto
   strings: 
     - ":o-kanto:"
-  location: "assets/pixelmon/o_kanto.png"
+  location: "assets/guides/o_kanto.png"
 - name: j-johto
   strings: 
     - ":j-johto:"
-  location: "assets/pixelmon/j_johto.png"
+  location: "assets/guides/j_johto.png"
 - name: o-johto
   strings: 
     - ":o-johto:"
-  location: "assets/pixelmon/o_johto.png"
+  location: "assets/guides/o_johto.png"
 - name: h-johto
   strings: 
     - ":h-johto:"
-  location: "assets/pixelmon/h_johto.png"
+  location: "assets/guides/h_johto.png"
 - name: t-johto
   strings: 
     - ":t-johto:"
-  location: "assets/pixelmon/t_johto.png"
+  location: "assets/guides/t_johto.png"
 - name: h-hoenn
   strings: 
     - ":h-hoenn:"
-  location: "assets/pixelmon/h_hoenn.png"
+  location: "assets/guides/h_hoenn.png"
 - name: o-hoenn
   strings: 
     - ":o-hoenn:"
-  location: "assets/pixelmon/o_hoenn.png"
+  location: "assets/guides/o_hoenn.png"
 - name: o-hoenn
   strings: 
     - ":e-hoenn:"
-  location: "assets/pixelmon/e_hoenn.png"
+  location: "assets/guides/e_hoenn.png"
 - name: n-hoenn
   strings: 
     - ":n-hoenn:"
-  location: "assets/pixelmon/n_hoenn.png"
+  location: "assets/guides/n_hoenn.png"
 - name: nole
   strings: 
     - ":null:"
     - ":0:"
     - ":ноль:"
-  location: "assets/pixelmon/0.png"
+  location: "assets/guides/0.png"
 - name: one
   strings: 
     - ":one:"
     - ":1:"
     - ":один:"
-  location: "assets/pixelmon/1.png"
+  location: "assets/guides/1.png"
 - name: two
   strings: 
     - ":two:"
     - ":2:"
     - ":два:"
-  location: "assets/pixelmon/2.png"
+  location: "assets/guides/2.png"
 - name: three
   strings: 
     - ":three:"
     - ":3:"
     - ":три:"
-  location: "assets/pixelmon/3.png"
+  location: "assets/guides/3.png"
 - name: four
   strings: 
     - ":four:"
     - ":4:"
     - ":четыре:"
-  location: "assets/pixelmon/4.png"
+  location: "assets/guides/4.png"
 - name: five
   strings: 
     - ":five:"
     - ":5:"
     - ":пять:"
-  location: "assets/pixelmon/5.png"
+  location: "assets/guides/5.png"
 - name: six
   strings: 
     - ":six:"
     - ":6:"
     - ":шесть:"
-  location: "assets/pixelmon/6.png"
+  location: "assets/guides/6.png"
 - name: seven
   strings: 
     - ":seven:"
     - ":7:"
     - ":семь:"
-  location: "assets/pixelmon/7.png"
+  location: "assets/guides/7.png"
 - name: eight
   strings: 
     - ":eight:"
     - ":8:"
     - ":восемь:"
-  location: "assets/pixelmon/8.png"
+  location: "assets/guides/8.png"
 - name: nine
   strings: 
     - ":nine:"
     - ":9:"
     - ":девять:"
-  location: "assets/pixelmon/9.png"
+  location: "assets/guides/9.png"
+- name: black
+  strings: 
+    - ":black:"
+    - ":чёрный:"
+    - ":черный:"
+    - ":&0:"
+  location: "assets/guides/black.png"
+- name: dark-blue
+  strings: 
+    - ":dark-blue:"
+    - ":dark_blue:"
+    - ":тёмно-синий:"
+    - ":темно-синий:"
+    - ":&1:"
+  location: "assets/guides/dark_blue.png"
+- name: dark-green
+  strings: 
+    - ":dark-green:"
+    - ":dark_green:"
+    - ":тёмно-зелёный:"
+    - ":тёмно-зеленый:"
+    - ":темно-зелёный:"
+    - ":темно-зеленый:"
+    - ":&2:"
+  location: "assets/guides/dark_green.png"
+- name: dark-aqua
+  strings: 
+    - ":dark-aqua:"
+    - ":dark_aqua:"
+    - ":темно-сине-зеленый:"
+    - ":тёмно-сине-зеленый:"
+    - ":темно-сине-зелёный:"
+    - ":тёмно-сине-зелёный:"
+    - ":&3:"
+  location: "assets/guides/dark_aqua.png"
+- name: dark-red
+  strings: 
+    - ":dark-red:"
+    - ":dark_red:"
+    - ":темно-красный:"
+    - ":тёмно-крвсный:"
+    - ":&4:"
+  location: "assets/guides/dark_red.png"
+- name: dark-purple
+  strings: 
+    - ":dark-purple:"
+    - ":dark_purple:"
+    - ":темно-фиолетовый:"
+    - ":тёмно-фиолетовый:"
+    - ":&5:"
+  location: "assets/guides/dark_purple.png"
+- name: gold
+  strings: 
+    - ":gold:"
+    - ":золотой:"
+    - ":&6:"
+  location: "assets/guides/gold.png"
+- name: gray
+  strings: 
+    - ":gray:"
+    - ":серый:"
+    - ":&7:"
+  location: "assets/guides/gray.png"
+- name: dark-gray
+  strings: 
+    - ":dark-gray:"
+    - ":темно-серый:"
+    - ":dark_gray:"
+    - ":тёмно-серый:"
+    - ":&8:"
+  location: "assets/guides/dark_gray.png"
+- name: blue
+  strings: 
+    - ":blue:"
+    - ":синий:"
+    - ":&9:"
+  location: "assets/guides/blue.png"
+- name: green
+  strings: 
+    - ":green:"
+    - ":зелёный:"
+    - ":зеленый:"
+    - ":&a:"
+  location: "assets/guides/green.png"
+- name: red
+  strings: 
+    - ":red:"
+    - ":красный:"
+    - ":&c:"
+  location: "assets/guides/red.png"
+- name: light-purple
+  strings: 
+    - ":light_purple:"
+    - ":light-purple:"
+    - ":фиолетовый:"
+    - ":светло-фиолетовый:"
+    - ":&d:"
+  location: "assets/guides/purple.png"
+- name: white
+  strings: 
+    - ":white:"
+    - ":белый:"
+    - ":&f:"
+  location: "assets/guides/white.png"

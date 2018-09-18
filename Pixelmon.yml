@@ -271,7 +271,6 @@
 - name: dark
   strings: 
     - ":dark:"
-    - "Dark"
     - "[Dark]"
     - "[Dark,"
     - "Dark]"
@@ -281,7 +280,6 @@
 - name: normal
   strings: 
     - ":normal:"
-    - "Normal"
     - "[Normal]"
     - "[Normal,"
     - "Normal]"
@@ -292,7 +290,6 @@
   strings: 
     - ":bug:"
     - "[Bug]"
-    - "Bug"
     - "[Bug,"
     - "Bug]"
     - ":баг:"
@@ -305,7 +302,6 @@
     - ":fly:"
     - ":flying:"
     - "[Flying]"
-    - "Flying"
     - "[Flying,"
     - "Flying]"
     - ":флаинг:"
@@ -317,7 +313,6 @@
     - ":fight:"
     - ":fighting:"
     - "[Fighting]"
-    - "Fighting"
     - "[Fighting,"
     - "Fighting]"
     - ":боевой:"
@@ -327,7 +322,6 @@
   strings: 
     - ":water:"
     - "[Water]"
-    - "Water"
     - "[Water,"
     - "Water]"
     - ":водный:"
@@ -338,7 +332,6 @@
 - name: electric
   strings: 
     - ":electric:"
-    - "Electric"
     - "[Electric]"
     - "[Electric,"
     - "Electric]"
@@ -348,7 +341,6 @@
 - name: fairy
   strings: 
     - ":fairy:"
-    - "Fairy"
     - "[Fairy]"
     - "[Fairy,"
     - "Fairy]"
@@ -359,7 +351,6 @@
 - name: ghost
   strings: 
     - ":ghost:"
-    - "Ghost"
     - "[Ghost]"
     - "[Ghost,"
     - "Ghost]"
@@ -369,7 +360,6 @@
 - name: grass
   strings: 
     - ":grass:"
-    - "Grass"
     - "[Grass]"
     - "[Grass,"
     - "Grass]"
@@ -379,7 +369,6 @@
 - name: ground
   strings: 
     - ":ground:"
-    - "Ground"
     - "[Ground]"
     - "[Ground,"
     - "Ground]"
@@ -389,7 +378,6 @@
 - name: ice
   strings: 
     - ":ice:"
-    - "Ice"
     - "[Ice]"
     - "[Ice,"
     - "Ice]"
@@ -399,7 +387,6 @@
 - name: poison
   strings: 
     - ":poison:"
-    - "Poison"
     - "[Poison]"
     - "[Poison,"
     - "Poison]"
@@ -409,7 +396,6 @@
 - name: rock
   strings: 
     - ":rock:"
-    - "Rock"
     - "[Rock]"
     - "[Rock,"
     - "Rock]"
@@ -419,7 +405,6 @@
 - name: steel
   strings: 
     - ":steel:"
-    - "Steel"
     - "[Steel]"
     - "[Steel,"
     - "Steel]"
@@ -429,7 +414,6 @@
 - name: fire
   strings: 
     - ":fire:"
-    - "Fire"
     - "[Fire]"
     - "[Fire,"
     - "Fire]"
@@ -439,7 +423,6 @@
 - name: dragon
   strings: 
     - ":dragon:"
-    - "Dragon"
     - "[Dragon]"
     - "[Dragon,"
     - "Dragon]"
@@ -450,7 +433,6 @@
 - name: psychic
   strings: 
     - ":psychic:"
-    - "Psychic"
     - "[Psychic]"
     - "[Psychic,"
     - "Psychic]"

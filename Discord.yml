@@ -1,11 +1,12 @@
 - name: thonk
   strings:
     - ":thonk:"
-    - "хммм"
+    - ":хммм:"
   location: "assets/discord/thonk.png"
 - name: thonkbutcool
   strings:
     - ":thonkbutcool:"
+    - ":хммм:"
   location: "assets/discord/thonkbutcool.png"
 - name: balance
   strings:
@@ -18,10 +19,10 @@
 - name: lul
   strings:
     - ":lul:"
-    - "лол"
-    - "лул"
-    - "лолъ"
-    - "лоль"
+    - ":лол:"
+    - ":лул:"
+    - ":лолъ:"
+    - ":лоль:"
   location: "assets/discord/lul.png"
 - name: oof
   strings:

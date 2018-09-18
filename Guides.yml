@@ -1,0 +1,112 @@
+- name: k-kanto
+  strings: 
+    - ":k-kanto:"
+  location: "assets/pixelmon/k_kanto.png"
+- name: a-kanto
+  strings: 
+    - ":a-kanto:"
+  location: "assets/pixelmon/a_kanto.png"
+- name: n-kanto
+  strings: 
+    - ":n-kanto:"
+  location: "assets/pixelmon/n_kanto.png"
+- name: t-kanto
+  strings: 
+    - ":t-kanto:"
+  location: "assets/pixelmon/t_kanto.png"
+- name: o-kanto
+  strings: 
+    - ":o-kanto:"
+  location: "assets/pixelmon/o_kanto.png"
+- name: j-johto
+  strings: 
+    - ":j-johto:"
+  location: "assets/pixelmon/j_johto.png"
+- name: o-johto
+  strings: 
+    - ":o-johto:"
+  location: "assets/pixelmon/o_johto.png"
+- name: h-johto
+  strings: 
+    - ":h-johto:"
+  location: "assets/pixelmon/h_johto.png"
+- name: t-johto
+  strings: 
+    - ":t-johto:"
+  location: "assets/pixelmon/t_johto.png"
+- name: h-hoenn
+  strings: 
+    - ":h-hoenn:"
+  location: "assets/pixelmon/h_hoenn.png"
+- name: o-hoenn
+  strings: 
+    - ":o-hoenn:"
+  location: "assets/pixelmon/o_hoenn.png"
+- name: o-hoenn
+  strings: 
+    - ":e-hoenn:"
+  location: "assets/pixelmon/e_hoenn.png"
+- name: n-hoenn
+  strings: 
+    - ":n-hoenn:"
+  location: "assets/pixelmon/n_hoenn.png"
+- name: nole
+  strings: 
+    - ":null:"
+    - ":0:"
+    - ":ноль:"
+  location: "assets/pixelmon/0.png"
+- name: one
+  strings: 
+    - ":one:"
+    - ":1:"
+    - ":один:"
+  location: "assets/pixelmon/1.png"
+- name: two
+  strings: 
+    - ":two:"
+    - ":2:"
+    - ":два:"
+  location: "assets/pixelmon/2.png"
+- name: three
+  strings: 
+    - ":three:"
+    - ":3:"
+    - ":три:"
+  location: "assets/pixelmon/3.png"
+- name: four
+  strings: 
+    - ":four:"
+    - ":4:"
+    - ":четыре:"
+  location: "assets/pixelmon/4.png"
+- name: five
+  strings: 
+    - ":five:"
+    - ":5:"
+    - ":пять:"
+  location: "assets/pixelmon/5.png"
+- name: six
+  strings: 
+    - ":six:"
+    - ":6:"
+    - ":шесть:"
+  location: "assets/pixelmon/6.png"
+- name: seven
+  strings: 
+    - ":seven:"
+    - ":7:"
+    - ":семь:"
+  location: "assets/pixelmon/7.png"
+- name: eight
+  strings: 
+    - ":eight:"
+    - ":8:"
+    - ":восемь:"
+  location: "assets/pixelmon/8.png"
+- name: nine
+  strings: 
+    - ":nine:"
+    - ":9:"
+    - ":девять:"
+  location: "assets/pixelmon/9.png"

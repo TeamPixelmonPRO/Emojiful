@@ -271,6 +271,7 @@
 - name: mail
   strings: 
     - ":mail:"
+    - ":message:"
     - ":сообщение:"
     - ":письмо:"
   location: "assets/pixelmon/mail.png"

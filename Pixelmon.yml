@@ -326,6 +326,31 @@
     - ":dollar:"
     - ":доллар:"
   location: "assets/pixelmon/coin_dollar.png"
+- name: lottery1
+  strings: 
+    - ":lottery1:"
+    - ":лотерея1:"
+  location: "assets/pixelmon/lottery1.png"
+- name: lottery2
+  strings: 
+    - ":lottery2:"
+    - ":лотерея2:"
+  location: "assets/pixelmon/lottery2.png"
+- name: lottery3
+  strings: 
+    - ":lottery3:"
+    - ":лотерея3:"
+  location: "assets/pixelmon/lottery3.png"
+- name: lottery4
+  strings: 
+    - ":lottery4:"
+    - ":лотерея4:"
+  location: "assets/pixelmon/lottery4.png"
+- name: clock
+  strings: 
+    - ":clock:"
+    - ":часы:"
+  location: "assets/pixelmon/clock.png"
 - name: map
   strings: 
     - ":map:"

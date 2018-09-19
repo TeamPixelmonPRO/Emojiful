@@ -54,26 +54,6 @@
   strings: 
     - ":plus:"
   location: "assets/guides/plus.png"
-- name: lottery1
-  strings: 
-    - ":lottery1:"
-    - ":лотерея1:"
-  location: "assets/guides/lottery1.png"
-- name: lottery2
-  strings: 
-    - ":lottery2:"
-    - ":лотерея2:"
-  location: "assets/guides/lottery2.png"
-- name: lottery3
-  strings: 
-    - ":lottery3:"
-    - ":лотерея3:"
-  location: "assets/guides/lottery3.png"
-- name: lottery4
-  strings: 
-    - ":lottery4:"
-    - ":лотерея4:"
-  location: "assets/guides/lottery4.png"
 - name: nole
   strings: 
     - ":null:"

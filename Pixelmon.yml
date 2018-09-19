@@ -350,7 +350,13 @@
   strings: 
     - ":clock:"
     - ":часы:"
+    - ":время:"
   location: "assets/pixelmon/clock.png"
+- name: free
+  strings: 
+    - ":free:"
+    - ":бесплатно:"
+  location: "assets/pixelmon/free.png"
 - name: map
   strings: 
     - ":map:"

@@ -367,6 +367,11 @@
     - ":map:"
     - ":карта:"
   location: "assets/pixelmon/map.png"
+- name: weather
+  strings: 
+    - ":weather:"
+    - ":погода:"
+  location: "assets/pixelmon/weather.png"
 - name: kill
   strings: 
     - ":kill:"

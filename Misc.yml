@@ -84,3 +84,8 @@
     - "ууууу"
     - "уууууу"
   location: "assets/misc/mute.png"
+- name: kick
+  strings: 
+    - ":kick:"
+    - ":кик:"
+  location: "assets/misc/kick.png"

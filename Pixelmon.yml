@@ -298,6 +298,23 @@
     - ":egg:"
     - ":яйцо:"
   location: "assets/pixelmon/egg.png"
+- name: reward
+  strings: 
+    - ":reward:"
+    - ":награда:"
+  location: "assets/pixelmon/reward.png"
+- name: reward_eat
+  strings: 
+    - ":rewardeat:"
+    - ":наградаеда:"
+    - ":пончик:"
+    - ":донат:"
+  location: "assets/pixelmon/reward_eat.png"
+- name: reward_money
+  strings: 
+    - ":rewardmoney:"
+    - ":наградаденьги:"
+  location: "assets/pixelmon/reward_money.png"
 - name: coin
   strings: 
     - ":coin:"

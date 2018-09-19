@@ -262,6 +262,11 @@
     - ":star:"
     - ":звезда:"
   location: "assets/pixelmon/star.png"
+- name: shop
+  strings: 
+    - ":shop:"
+    - ":магазин:"
+  location: "assets/pixelmon/shop.png"
 - name: photo
   strings: 
     - ":photo:"

@@ -54,6 +54,10 @@
   strings: 
     - ":plus:"
   location: "assets/guides/plus.png"
+- name: arrow_left
+  strings: 
+    - ":arrow_left:"
+  location: "assets/guides/arrow_left.png"
 - name: nole
   strings: 
     - ":null:"

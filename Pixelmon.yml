@@ -367,11 +367,26 @@
     - ":map:"
     - ":карта:"
   location: "assets/pixelmon/map.png"
+- name: kill
+  strings: 
+    - ":kill:"
+    - ":убить:"
+  location: "assets/pixelmon/kill.png"
+- name: sword
+  strings: 
+    - ":sword:"
+    - ":меч:"
+  location: "assets/pixelmon/sword.png"
 - name: shield
   strings: 
     - ":shield:"
     - ":щит:"
   location: "assets/pixelmon/shield.png"
+- name: skull
+  strings: 
+    - ":skull:"
+    - ":череп:"
+  location: "assets/pixelmon/skull.png"
 - name: magic
   strings: 
     - ":magic:"

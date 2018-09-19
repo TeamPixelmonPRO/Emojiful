@@ -50,6 +50,10 @@
   strings: 
     - ":n-hoenn:"
   location: "assets/guides/n_hoenn.png"
+- name: plus
+  strings: 
+    - ":plus:"
+  location: "assets/guides/plus.png"
 - name: nole
   strings: 
     - ":null:"

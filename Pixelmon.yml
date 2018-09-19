@@ -292,7 +292,12 @@
     - ":торговля:"
     - ":обмен:"
     - ":торг:"
-  location: "assets/pixelmon/winner.png"
+  location: "assets/pixelmon/trade.png"
+- name: egg
+  strings: 
+    - ":egg:"
+    - ":яйцо:"
+  location: "assets/pixelmon/egg.png"
 - name: coin
   strings: 
     - ":coin:"

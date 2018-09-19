@@ -38,6 +38,10 @@
     - ":laykras:"
     - ":pp:"
   location: "assets/misc/laykras.png"
+- name: akida
+  strings:
+    - ":akida:"
+  location: "assets/misc/akida.png"
 - name: heart
   strings:
     - ":heart:"

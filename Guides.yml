@@ -42,7 +42,7 @@
   strings: 
     - ":o-hoenn:"
   location: "assets/guides/o_hoenn.png"
-- name: o-hoenn
+- name: e-hoenn
   strings: 
     - ":e-hoenn:"
   location: "assets/guides/e_hoenn.png"

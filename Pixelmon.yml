@@ -171,7 +171,7 @@
 - name: wt
   strings: 
     - ":wt:"
-    - ":обмен:"
+    - ":случайныйобмен:"
   location: "assets/pixelmon/wt.png"
 - name: youtube
   strings: 
@@ -285,6 +285,13 @@
     - ":winner:"
     - ":win:"
     - ":победа:"
+  location: "assets/pixelmon/winner.png"
+- name: trade
+  strings: 
+    - ":trade:"
+    - ":торговля:"
+    - ":обмен:"
+    - ":торг:"
   location: "assets/pixelmon/winner.png"
 - name: coin
   strings: 

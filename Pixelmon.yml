@@ -14,8 +14,15 @@
     - ":пиксельмонпро:"
     - ":пикспро:"
     - ":про:"
-    - "[*]"
   location: "assets/pixelmon/pixelmonpro.png"
+- name: pixelmonpromini
+  strings: 
+    - ":pixelmonpromini:"
+    - ":promini:"
+    - ":pixpromini:"
+    - ":logomini:"
+    - "[*]"
+  location: "assets/pixelmon/pixelmonpromini.png"
 - name: logo_kanto
   strings: 
     - ":logokanto:"
@@ -318,6 +325,7 @@
 - name: reward_money
   strings: 
     - ":rewardmoney:"
+    - ":reward_money:"
     - ":наградаденьги:"
   location: "assets/pixelmon/reward_money.png"
 - name: coin

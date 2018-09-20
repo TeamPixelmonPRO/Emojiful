@@ -95,6 +95,22 @@
   strings: 
     - "»"
   location: "assets/guides/misc2.png"
+- name: sunrise
+  strings: 
+    - ":sun:"
+  location: "assets/guides/sun.png"
+- name: night
+  strings: 
+    - ":night:"
+  location: "assets/guides/night.png"
+- name: sunrise
+  strings: 
+    - ":sunrise:"
+  location: "assets/guides/sunrise.png"
+- name: sunset
+  strings: 
+    - ":sunset:"
+  location: "assets/guides/sunset.png"
 - name: dvoetochie
   strings: 
     - ":dvoetochie:"

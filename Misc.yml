@@ -32,7 +32,7 @@
   strings:
     - ":gwm:"
     - ":гвм:"
-    - "tech_geeg10"
+    - "TECH_GEEK10"
   location: "assets/misc/gwm.png"
 - name: din
   strings:

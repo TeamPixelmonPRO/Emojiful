@@ -32,7 +32,7 @@
   strings:
     - ":gwm:"
     - ":гвм:"
-    - "techgeeg_10"
+    - "tech_geeg10"
   location: "assets/misc/gwm.png"
 - name: din
   strings:
@@ -48,7 +48,7 @@
 - name: akida
   strings:
     - ":akida:"
-    - "sukandar"
+    - "sikandar"
   location: "assets/misc/akida.png"
 - name: heart
   strings:

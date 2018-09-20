@@ -61,15 +61,15 @@
 - name: x_cord
   strings: 
     - ":x_cord:"
-  location: "assets/guides/x_cord.png"
+  location: "assets/guides/x.png"
 - name: y_cord
   strings: 
     - ":y_cord:"
-  location: "assets/guides/y_cord.png"
+  location: "assets/guides/y.png"
 - name: z_cord
   strings: 
     - ":z_cord:"
-  location: "assets/guides/z_cord.png"
+  location: "assets/guides/z.png"
 - name: dvoetochie
   strings: 
     - ":dvoetochie:"

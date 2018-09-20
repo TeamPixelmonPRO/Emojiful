@@ -98,6 +98,7 @@
 - name: sunrise
   strings: 
     - ":sun:"
+    - ":day:"
   location: "assets/guides/sun.png"
 - name: night
   strings: 
@@ -111,6 +112,10 @@
   strings: 
     - ":sunset:"
   location: "assets/guides/sunset.png"
+- name: pixelmonway
+  strings: 
+    - ":pixelmonway:"
+  location: "assets/guides/pixelmonway.png"
 - name: dvoetochie
   strings: 
     - ":dvoetochie:"

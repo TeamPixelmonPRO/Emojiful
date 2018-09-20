@@ -318,6 +318,7 @@
 - name: reward_eat
   strings: 
     - ":rewardeat:"
+    - ":reward_eat:"
     - ":наградаеда:"
     - ":пончик:"
     - ":донат:"

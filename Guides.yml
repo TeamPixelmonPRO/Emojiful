@@ -87,6 +87,14 @@
   strings: 
     - ":ug:"
   location: "assets/guides/ug.png"
+- name: misc1
+  strings: 
+    - "«"
+  location: "assets/guides/misc1.png"
+- name: misc2
+  strings: 
+    - "»"
+  location: "assets/guides/misc2.png"
 - name: dvoetochie
   strings: 
     - ":dvoetochie:"

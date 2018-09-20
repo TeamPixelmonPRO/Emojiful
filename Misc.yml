@@ -7,27 +7,32 @@
 - name: artitop
   strings:
     - ":artitop:"
+    - "techbrew"
   location: "assets/misc/artitop.png"
 - name: sonic
   strings:
     - ":happysonic:"
     - ":sonic:"
     - ":соник:"
+    - "davkas"
   location: "assets/misc/sonic.png"
 - name: ksensei
   strings:
     - ":ksensei:"
     - ":ксенсей:"
+    - "misticdrew"
   location: "assets/misc/ksensei.png"
 - name: rencraw
   strings:
     - ":rencraw:"
     - ":strawhat:"
+    - "eladjenkins"
   location: "assets/misc/rencraw.png"
 - name: gwm
   strings:
     - ":gwm:"
     - ":гвм:"
+    - "techgeg_10"
   location: "assets/misc/gwm.png"
 - name: din
   strings:

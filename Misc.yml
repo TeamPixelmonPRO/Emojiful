@@ -20,7 +20,7 @@
   strings:
     - ":ksensei:"
     - ":ксенсей:"
-    - "misticdrew"
+    - "mysticdrew"
   location: "assets/misc/ksensei.png"
 - name: rencraw
   strings:
@@ -32,20 +32,23 @@
   strings:
     - ":gwm:"
     - ":гвм:"
-    - "techgeg_10"
+    - "techgeeg_10"
   location: "assets/misc/gwm.png"
 - name: din
   strings:
     - ":din:"
+    - "endless"
   location: "assets/misc/din.png"
 - name: laykras
   strings:
     - ":laykras:"
     - ":pp:"
+    - "durrani"
   location: "assets/misc/laykras.png"
 - name: akida
   strings:
     - ":akida:"
+    - "sukandar"
   location: "assets/misc/akida.png"
 - name: heart
   strings:

@@ -184,6 +184,7 @@
   strings: 
     - ":youtube:"
     - ":ютуб:"
+    - "the"
   location: "assets/pixelmon/youtube.png"
 - name: customnpc
   strings: 

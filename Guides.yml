@@ -70,6 +70,23 @@
   strings: 
     - ":z_cord:"
   location: "assets/guides/z.png"
+- name: zapad
+  strings: 
+    - ":zapad:"
+  location: "assets/guides/zapad.png"
+- name: vostoc
+  strings: 
+    - ":vostok:"
+    - ":vostoc:"
+  location: "assets/guides/vostoc.png"
+- name: sever
+  strings: 
+    - ":sever:"
+  location: "assets/guides/sever.png"
+- name: ug
+  strings: 
+    - ":ug:"
+  location: "assets/guides/ug.png"
 - name: dvoetochie
   strings: 
     - ":dvoetochie:"

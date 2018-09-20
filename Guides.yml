@@ -58,6 +58,26 @@
   strings: 
     - ":arrow_left:"
   location: "assets/guides/arrow_left.png"
+- name: x_cord
+  strings: 
+    - ":x_cord:"
+  location: "assets/guides/x_cord.png"
+- name: y_cord
+  strings: 
+    - ":y_cord:"
+  location: "assets/guides/y_cord.png"
+- name: z_cord
+  strings: 
+    - ":z_cord:"
+  location: "assets/guides/z_cord.png"
+- name: dvoetochie
+  strings: 
+    - ":dvoetochie:"
+  location: "assets/guides/dvoetochie.png"
+- name: dev
+  strings: 
+    - ":dev:"
+  location: "assets/guides/dev.png"
 - name: nole
   strings: 
     - ":null:"

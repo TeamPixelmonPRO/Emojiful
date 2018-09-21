@@ -216,6 +216,11 @@
     - ":oak:"
     - ":profoak:"
   location: "assets/pixelmon/oak.png"
+- name: bank
+  strings: 
+    - ":bank:"
+    - ":банк:"
+  location: "assets/pixelmon/bank.png"
 - name: shiny
   strings: 
     - ":shiny:"

@@ -99,7 +99,7 @@
   strings: 
     - ":sun:"
     - ":day:"
-  location: "assets/guides/sun.png"
+  location: "assets/guides/day.png"
 - name: night
   strings: 
     - ":night:"

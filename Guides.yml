@@ -112,6 +112,10 @@
   strings: 
     - ":sunset:"
   location: "assets/guides/sunset.png"
+- name: search
+  strings: 
+    - ":search:"
+  location: "assets/guides/search.png"
 - name: pixelmonway
   strings: 
     - ":pixelmonway:"

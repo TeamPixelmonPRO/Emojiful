@@ -216,6 +216,20 @@
     - ":shiny:"
     - ":шайни:"
   location: "assets/pixelmon/shiny.png"
+- name: boss
+  strings: 
+    - ":boss:"
+    - ":босс:"
+  location: "assets/pixelmon/boss.png"
+- name: schrine
+  strings: 
+    - ":schrine:"
+  location: "assets/pixelmon/schrine.png"
+- name: pokeloot
+  strings: 
+    - ":pokeloot:"
+    - ":покелут:"
+  location: "assets/pixelmon/pokeloot.png"
 - name: female
   strings: 
     - ":female:"

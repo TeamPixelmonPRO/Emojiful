@@ -214,6 +214,7 @@
   location: "assets/pixelmon/number.png"
 - name: oak
   strings: 
+    - ":cloak:"
     - ":oak:"
     - ":profoak:"
   location: "assets/pixelmon/oak.png"

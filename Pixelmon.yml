@@ -211,6 +211,11 @@
     - "#"
     - "#:"
   location: "assets/pixelmon/number.png"
+- name: oak
+  strings: 
+    - ":oak:"
+    - ":profoak:"
+  location: "assets/pixelmon/oak.png"
 - name: shiny
   strings: 
     - ":shiny:"

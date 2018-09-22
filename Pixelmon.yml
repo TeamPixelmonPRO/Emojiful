@@ -152,6 +152,7 @@
 - name: tavern
   strings: 
     - ":tavern:"
+    - ":taven:"
     - ":tav:"
     - ":таверна:"
   location: "assets/pixelmon/tavern.png"

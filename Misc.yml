@@ -1,7 +1,9 @@
 - name: arti
   strings:
     - ":arti:"
+    - ":articuno:"
     - ":арти:"
+    - ":артикуно:"
     - ":птиц:"
   location: "assets/misc/arti.png"
 - name: artitop

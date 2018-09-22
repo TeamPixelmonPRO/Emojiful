@@ -122,7 +122,8 @@
   strings: 
     - ":moderator:"
     - ":mod:"
-    - ":модер"
+    - ":модер:"
+    - ":moder:"
     - ":мод:"
     - ":модератор:"
   location: "assets/pixelmon/moderator.png"

@@ -272,6 +272,12 @@
     - ":зеленый:"
     - ":&a:"
   location: "assets/guides/green.png"
+- name: aqua
+  strings: 
+    - ":aqua:"
+    - ":аква:"
+    - ":&b:"
+  location: "assets/guides/aqua.png"
 - name: red
   strings: 
     - ":red:"
@@ -281,11 +287,18 @@
 - name: light-purple
   strings: 
     - ":light_purple:"
-    - ":light-purple:"
+    - ":purple:"
     - ":фиолетовый:"
     - ":светло-фиолетовый:"
     - ":&d:"
   location: "assets/guides/purple.png"
+- name: yellow
+  strings: 
+    - ":yellow:"
+    - ":желтый:"
+    - ":жёлтый:"
+    - ":&e:"
+  location: "assets/guides/yellow.png"
 - name: white
   strings: 
     - ":white:"

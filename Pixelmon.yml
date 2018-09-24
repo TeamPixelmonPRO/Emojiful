@@ -432,6 +432,7 @@
 - name: magic
   strings: 
     - ":magic:"
+    - ":magik:"
     - ":магия:"
     - ":эффект:"
   location: "assets/pixelmon/magic.png"

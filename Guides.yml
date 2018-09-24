@@ -128,6 +128,10 @@
   strings: 
     - ":dev:"
   location: "assets/guides/dev.png"
+- name: splash
+  strings: 
+    - ":splash:"
+  location: "assets/guides/splash.png"
 - name: nole
   strings: 
     - ":null:"

@@ -50,6 +50,46 @@
   strings: 
     - ":n-hoenn:"
   location: "assets/guides/n_hoenn.png"
+- name: я
+  strings: 
+    - ":я:"
+  location: "assets/guides/я.png"
+- name: р
+  strings: 
+    - ":р:"
+  location: "assets/guides/р.png"
+- name: м
+  strings: 
+    - ":м:"
+  location: "assets/guides/м.png"
+- name: а
+  strings: 
+    - ":а:"
+  location: "assets/guides/а.png"
+- name: к
+  strings: 
+    - ":к:"
+  location: "assets/guides/к.png"
+- name: д
+  strings: 
+    - ":д:"
+  location: "assets/guides/д.png"
+- name: и
+  strings: 
+    - ":и:"
+  location: "assets/guides/и.png"
+- name: о
+  strings: 
+    - ":о:"
+  location: "assets/guides/о.png"
+- name: в
+  strings: 
+    - ":в:"
+  location: "assets/guides/в.png"
+- name: н
+  strings: 
+    - ":н:"
+  location: "assets/guides/н.png"
 - name: plus
   strings: 
     - ":plus:"

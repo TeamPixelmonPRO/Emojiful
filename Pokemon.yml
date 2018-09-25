@@ -7,12 +7,14 @@
 - name: 382-primal-kyogre
   strings: 
     - ":primal_kyogre:"
+    - ":primal-kyogre:"
     - ":382-primal:"
     - ":праймал-кайогр"
   location: "assets/pokemon/382-primal.png"
 - name: 383-primal-groudon
   strings: 
     - ":primal_groudon:"
+    - ":primal-groudon:"
     - ":383-primal:"
     - ":праймал-граудон"
     - ":праймал-гроудон"
@@ -20,6 +22,7 @@
 - name: 384-mega-rayquaza
   strings: 
     - ":mega-rayquaza:"
+    - ":mega_rayquaza:"
     - ":384-mega:"
     - ":мега-рэйкваза"
     - ":мега-райкваза"

@@ -53,43 +53,43 @@
 - name: я
   strings: 
     - ":я:"
-  location: "assets/guides/я.png"
+  location: "assets/guides/yarm-y.png"
 - name: р
   strings: 
     - ":р:"
-  location: "assets/guides/р.png"
+  location: "assets/guides/yarm-p.png"
 - name: м
   strings: 
     - ":м:"
-  location: "assets/guides/м.png"
+  location: "assets/guides/yarm-m.png"
 - name: а
   strings: 
     - ":а:"
-  location: "assets/guides/а.png"
+  location: "assets/guides/yarm-a.png"
 - name: к
   strings: 
     - ":к:"
-  location: "assets/guides/к.png"
+  location: "assets/guides/yarm-k.png"
 - name: д
   strings: 
-    - ":д:"
-  location: "assets/guides/д.png"
+    - ":ди:"
+  location: "assets/guides/yarm-d.png"
 - name: и
   strings: 
     - ":и:"
-  location: "assets/guides/и.png"
+  location: "assets/guides/yarm-i.png"
 - name: о
   strings: 
     - ":о:"
-  location: "assets/guides/о.png"
+  location: "assets/guides/yarm-o.png"
 - name: в
   strings: 
     - ":в:"
-  location: "assets/guides/в.png"
+  location: "assets/guides/yarm-b.png"
 - name: н
   strings: 
     - ":н:"
-  location: "assets/guides/н.png"
+  location: "assets/guides/yarm-h.png"
 - name: plus
   strings: 
     - ":plus:"

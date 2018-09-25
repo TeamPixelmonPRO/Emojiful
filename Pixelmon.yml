@@ -338,6 +338,11 @@
     - ":egg:"
     - ":яйцо:"
   location: "assets/pixelmon/egg.png"
+- name: mega
+  strings: 
+    - ":mega:"
+    - ":мега:"
+  location: "assets/pixelmon/mega.png"
 - name: reward
   strings: 
     - ":reward:"

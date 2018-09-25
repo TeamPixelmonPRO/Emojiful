@@ -2,15 +2,99 @@
   strings: 
     - ":bulbasaur:"
     - ":001:"
-    - ":бульбазавр"
-  location: "assets/pokemon/001.png"
+    - ":бульбазавр:"
+  location: "assets/pokemon/001-bulbasaur.png"
+- name: 006-charizard-x
+  strings: 
+    - ":charizard-x:"
+    - ":006-charizard-x:"
+    - ":006-mega-x"
+    - ":чаризард-х:"
+  location: "assets/pokemon/006-charizard-mega-x.png"
+- name: 006-charizard-y
+  strings: 
+    - ":charizard-y:"
+    - ":006-charizard-y:"
+    - ":006-mega-y"
+    - ":чаризард-у:"
+  location: "assets/pokemon/006-charizard-mega-y.png"
+- name: 115-kangaskhan
+  strings: 
+    - ":kangaskhan-mega:"
+    - ":115-kangaskhan-mega:"
+    - ":115-mega"
+    - ":кангасхан-мега:"
+  location: "assets/pokemon/115-kangaskhan-mega.png"
+- name: 130-gyarados
+  strings: 
+    - ":gyarados-mega:"
+    - ":130-gyarados-mega:"
+    - ":130-mega"
+    - ":гярадос-мега:"
+  location: "assets/pokemon/130-gyarados-mega.png"
+- name: 150-mewtwo
+  strings: 
+    - ":mewtwo:"
+    - ":150-mewtwo:"
+    - ":150:"
+    - ":мьюту:"
+  location: "assets/pokemon/150-mewtwo.png"
+- name: 151-mew
+  strings: 
+    - ":mew:"
+    - ":151-mew:"
+    - ":151:"
+    - ":мью:"
+  location: "assets/pokemon/151-mew.png"
+- name: 208-steelix
+  strings: 
+    - ":steelix-mega:"
+    - ":208-steelix-mega:"
+    - ":208-mega"
+    - ":стиликс-мега:"
+  location: "assets/pokemon/208-steelix-mega.png"
+- name: 212-scizor
+  strings: 
+    - ":scizor-mega:"
+    - ":208-scizor:"
+    - ":208-mega"
+    - ":сизор-мега:"
+  location: "assets/pokemon/212-scizor-mega.png"
+- name: 229-houndoom
+  strings: 
+    - ":houndoom-mega:"
+    - ":229-houndoom:"
+    - ":229-mega"
+    - ":хаундум-мега:"
+  location: "assets/pokemon/229-houndoom-mega.png"
+- name: 249-lugia
+  strings: 
+    - ":lugia:"
+    - ":249-lugia:"
+    - ":249:"
+    - ":лугия:"
+  location: "assets/pokemon/249-lugia.png"
+- name: 250-hooh
+  strings: 
+    - ":hooh:"
+    - ":250-hooh:"
+    - ":250:"
+    - ":хоох:"
+  location: "assets/pokemon/250-hooh.png"
+- name: 251-celebi
+  strings: 
+    - ":celebi:"
+    - ":251-celebi:"
+    - ":251:"
+    - ":селеби:"
+  location: "assets/pokemon/251-celebi.png"
 - name: 382-primal-kyogre
   strings: 
     - ":primal_kyogre:"
     - ":primal-kyogre:"
     - ":382-primal:"
     - ":праймал-кайогр"
-  location: "assets/pokemon/382-primal.png"
+  location: "assets/pokemon/382-kyogre-primal.png"
 - name: 383-primal-groudon
   strings: 
     - ":primal_groudon:"
@@ -18,12 +102,20 @@
     - ":383-primal:"
     - ":праймал-граудон"
     - ":праймал-гроудон"
-  location: "assets/pokemon/383-primal.png"
-- name: 384-mega-rayquaza
+  location: "assets/pokemon/383-groudon-primal.png"
+- name: 384-rayquaza-mega
   strings: 
     - ":mega-rayquaza:"
     - ":mega_rayquaza:"
     - ":384-mega:"
     - ":мега-рэйкваза"
     - ":мега-райкваза"
-  location: "assets/pokemon/384-mega.png"
+  location: "assets/pokemon/384-rayquaza-mega.png"
+- name: 658-greninja-ash
+  strings: 
+    - ":ash-greninja:"
+    - ":ash_greninja:"
+    - ":658-ash:"
+    - ":эш-грениндзя"
+    - ":эш_грениндзя"
+  location: "assets/pokemon/658-greninja-ash.png"

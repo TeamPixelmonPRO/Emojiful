@@ -1,5 +1,26 @@
-- name: bulbasaur
+- name: 001-bulbasaur
   strings: 
     - ":bulbasaur:"
     - ":001:"
+    - ":бульбазавр"
   location: "assets/pokemon/001.png"
+- name: 382-primal-kyogre
+  strings: 
+    - ":primal_kyogre:"
+    - ":382-primal:"
+    - ":праймал-кайогр"
+  location: "assets/pokemon/382-primal.png"
+- name: 383-primal-groudon
+  strings: 
+    - ":primal_groudon:"
+    - ":383-primal:"
+    - ":праймал-граудон"
+    - ":праймал-гроудон"
+  location: "assets/pokemon/383-primal.png"
+- name: 384-mega-rayquaza
+  strings: 
+    - ":mega-rayquaza:"
+    - ":384-mega:"
+    - ":мега-рэйкваза"
+    - ":мега-райкваза"
+  location: "assets/pokemon/384-mega.png"

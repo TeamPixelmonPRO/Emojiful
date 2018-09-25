@@ -15,7 +15,7 @@
   strings: 
     - ":charizard-y:"
     - ":006-charizard-y:"
-    - ":006-mega-y"
+    - ":006-mega-y:"
     - ":чаризард-у:"
   location: "assets/pokemon/006-charizard-mega-y.png"
 - name: 115-kangaskhan
@@ -56,8 +56,8 @@
 - name: 212-scizor
   strings: 
     - ":scizor-mega:"
-    - ":208-scizor:"
-    - ":208-mega:"
+    - ":212-scizor:"
+    - ":212-mega:"
     - ":сизор-мега:"
   location: "assets/pokemon/212-scizor-mega.png"
 - name: 229-houndoom

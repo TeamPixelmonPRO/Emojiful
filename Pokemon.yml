@@ -98,7 +98,7 @@
     - ":мега-саломенс:"
     - ":мега-саламанс:"
     - ":мега-сало:"
-  location: "assets/pokemon/384-salamence-mega.png"
+  location: "assets/pokemon/373-salamence-mega.png"
 - name: 376-metagross-mega
   strings: 
     - ":mega-metagross:"
@@ -160,6 +160,15 @@
     - ":мега-рэйкваза:"
     - ":мега-райкваза:"
   location: "assets/pokemon/384-rayquaza-mega.png"
+- name: 428-lopunny-mega
+  strings: 
+    - ":mega-lopunny:"
+    - ":mega_lopunny:"
+    - ":428-lopunny-mega:"
+    - ":428-mega:"
+    - ":мега-лопани:"
+    - ":мега-лупуни:"
+  location: "assets/pokemon/428-lopunny-mega.png"
 - name: 445-garchomp-mega
   strings: 
     - ":mega-garchomp:"
@@ -236,7 +245,7 @@
     - ":644-zekrom:"
     - ":644:"
     - ":зекром:"
-  location: "assets/pokemon/644-zekrmon.png"
+  location: "assets/pokemon/644-zekrom.png"
 - name: 645-landorus-incarnate
   strings: 
     - ":landorus-incarnate:"

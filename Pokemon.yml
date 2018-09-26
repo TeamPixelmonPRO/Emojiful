@@ -88,35 +88,230 @@
     - ":251:"
     - ":селеби:"
   location: "assets/pokemon/251-celebi.png"
+- name: 373-salamence-mega
+  strings: 
+    - ":mega-salamence:"
+    - ":mega_salamence:"
+    - ":373-salamence-mega:"
+    - ":373-mega:"
+    - ":мега-саламенс:"
+    - ":мега-саломенс:"
+    - ":мега-саламанс:"
+    - ":мега-сало:"
+  location: "assets/pokemon/384-salamence-mega.png"
+- name: 376-metagross-mega
+  strings: 
+    - ":mega-metagross:"
+    - ":mega_metagross:"
+    - ":376-metagross-mega:"
+    - ":376-mega:"
+    - ":мега-метагросс:"
+    - ":мега-метагрос:"
+    - ":мега-мета:"
+  location: "assets/pokemon/376-metagross-mega.png"
+- name: 382-kyogre
+  strings: 
+    - ":kyogre:"
+    - ":382:"
+    - ":382-kyogre"
+    - ":кайогр:"
+    - ":кайогра:"
+  location: "assets/pokemon/382-kyogre.png"
 - name: 382-primal-kyogre
   strings: 
     - ":primal_kyogre:"
     - ":primal-kyogre:"
+    - ":382-kyogre-primal:"
     - ":382-primal:"
     - ":праймал-кайогр:"
   location: "assets/pokemon/382-kyogre-primal.png"
+- name: 383-groudon
+  strings: 
+    - ":groudon:"
+    - ":383-groudon:"
+    - ":383:"
+    - ":граудон:"
+    - ":пгроудон:"
+  location: "assets/pokemon/383-groudon-primal.png"
 - name: 383-primal-groudon
   strings: 
     - ":primal_groudon:"
     - ":primal-groudon:"
+    - ":383-groudon-primal:"
     - ":383-primal:"
     - ":праймал-граудон:"
     - ":праймал-гроудон:"
   location: "assets/pokemon/383-groudon-primal.png"
+- name: 384-rayquaza
+  strings: 
+    - ":rayquaza:"
+    - ":384-rayquaza:"
+    - ":384:"
+    - ":рэйкваза:"
+    - ":райкваза:"
+    - ":рейкваза:"
+  location: "assets/pokemon/384-rayquaza.png"
 - name: 384-rayquaza-mega
   strings: 
     - ":mega-rayquaza:"
     - ":mega_rayquaza:"
+    - ":384-rayquaza-mega:"
     - ":384-mega:"
     - ":мега-рэйкваза:"
     - ":мега-райкваза:"
   location: "assets/pokemon/384-rayquaza-mega.png"
+- name: 445-garchomp-mega
+  strings: 
+    - ":mega-garchomp:"
+    - ":mega_garchomp:"
+    - ":445-garchomp-mega:"
+    - ":445-mega:"
+    - ":мега-гарчомп:"
+    - ":мега-гарчумп:"
+  location: "assets/pokemon/445-garchomp-mega.png"
+- name: 448-lucario-mega
+  strings: 
+    - ":mega-lucario:"
+    - ":mega_lucario:"
+    - ":448-lucario-mega:"
+    - ":448-mega:"
+    - ":мега-лукарио:"
+    - ":мега-лука:"
+  location: "assets/pokemon/448-lucario-mega.png"
+- name: 487-giratina-origin
+  strings: 
+    - ":giratina-origin:"
+    - ":giratina_origin:"
+    - ":487-giratina-origin:"
+    - ":487-origin:"
+    - ":487:"
+    - ":гиратина-орижин:"
+    - ":гиратина:"
+  location: "assets/pokemon/487-giratina-origin.png"
+- name: 491-darkrai
+  strings: 
+    - ":darkrai:"
+    - ":491-darkrai:"
+    - ":491:"
+    - ":даркрай:"
+    - ":даркраи:"
+  location: "assets/pokemon/491-darkrai.png"
+- name: 493-arceus
+  strings: 
+    - ":arceus:"
+    - ":493-arceus:"
+    - ":493:"
+    - ":аркеус:"
+    - ":арцеус:"
+  location: "assets/pokemon/493-arceus.png"
+- name: 641-tornadus-incarnate
+  strings: 
+    - ":tornadus-incarnate:"
+    - ":641-tornadus-incarnate:"
+    - ":641-incarnate:"
+    - ":641:"
+    - ":торнадус:"
+    - ":тернадус:"
+  location: "assets/pokemon/641-tornadus-incarnate.png"
+- name: 642-thundurus-incarnate
+  strings: 
+    - ":thundurus-incarnate:"
+    - ":642-thundurus-incarnate:"
+    - ":642-incarnate:"
+    - ":642:"
+    - ":тандурус:"
+    - ":тендурус:"
+  location: "assets/pokemon/642-thundurus-incarnate.png"
+- name: 643-reshiram
+  strings: 
+    - ":reshiram:"
+    - ":643-reshiram:"
+    - ":643:"
+    - ":реширам:"
+    - ":решерам:"
+  location: "assets/pokemon/643-reshiram.png"
+- name: 644-zekrom
+  strings: 
+    - ":zekrom:"
+    - ":644-zekrom:"
+    - ":644:"
+    - ":зекром:"
+  location: "assets/pokemon/644-zekrmon.png"
+- name: 645-landorus-incarnate
+  strings: 
+    - ":landorus-incarnate:"
+    - ":645-landorus-incarnate:"
+    - ":645-incarnate:"
+    - ":645:"
+    - ":ландорус:"
+    - ":лэндорус:"
+  location: "assets/pokemon/645-landorus-incarnate.png"
+- name: 646-kyurem-normal
+  strings: 
+    - ":kyurem:"
+    - ":kyurem-normal:"
+    - ":646-kyurem:"
+    - ":646:"
+    - ":кюрем:"
+  location: "assets/pokemon/646-kyurem-normal.png"
 - name: 658-greninja-ash
   strings: 
     - ":greninja-ash:"
     - ":ash-greninja:"
     - ":ash_greninja:"
+    - ":658-greninja-ash:"
     - ":658-ash:"
     - ":эш-грениндзя:"
     - ":эш_грениндзя:"
   location: "assets/pokemon/658-greninja-ash.png"
+- name: 716-xerneas
+  strings: 
+    - ":xerneas:"
+    - ":716-xerneas:"
+    - ":716:"
+    - ":ксерниас:"
+    - ":хернес:"
+    - ":херниас:"
+    - ":зерниас:"
+    - ":зерниас:"
+    - ":зерно:"
+  location: "assets/pokemon/716-xerneas.png"
+- name: 717-yveltal
+  strings: 
+    - ":yveltal:"
+    - ":717-yveltal:"
+    - ":717:"
+    - ":ивелтал:"
+    - ":йвелтал:"
+  location: "assets/pokemon/717-yveltal.png"
+- name: 718-zygarde
+  strings: 
+    - ":zygarde:"
+    - ":718-zygarde:"
+    - ":718:"
+    - ":зайгард:"
+    - ":зигард:"
+  location: "assets/pokemon/718-zygarde.png"
+- name: 719-diancie
+  strings: 
+    - ":diancie:"
+    - ":719-diancie:"
+    - ":719:"
+    - ":дианси:"
+  location: "assets/pokemon/719-diancie.png"
+- name: 719-diancie-mega
+  strings: 
+    - ":diancie-mega:"
+    - ":719-diancie-mega:"
+    - ":719-mga:"
+    - ":дианси-мега:"
+  location: "assets/pokemon/719-diancie-mega.png"
+- name: 720-hoopa-unbound
+  strings: 
+    - ":hoopa:"
+    - ":hoopa-unbound:"
+    - ":720-hoopa:"
+    - ":720:"
+    - ":хупа:"
+    - ":хуппа:"
+  location: "assets/pokemon/720-hoopa-unbound.png"

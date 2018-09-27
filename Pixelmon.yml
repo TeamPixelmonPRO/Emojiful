@@ -409,6 +409,11 @@
     - ":map:"
     - ":карта:"
   location: "assets/pixelmon/map.png"
+- name: music
+  strings: 
+    - ":music:"
+    - ":музыка:"
+  location: "assets/pixelmon/music.png"
 - name: weather
   strings: 
     - ":weather:"

@@ -414,6 +414,11 @@
     - ":music:"
     - ":музыка:"
   location: "assets/pixelmon/music.png"
+- name: volume
+  strings: 
+    - ":volume:"
+    - ":громкость:"
+  location: "assets/pixelmon/volume.png"
 - name: weather
   strings: 
     - ":weather:"

@@ -56,6 +56,14 @@
   strings:
     - ":CAPITOL:"
   location: "assets/misc/kaneik.png"
+- name: colend
+  strings:
+    - ":ahit:"
+  location: "assets/misc/colend.png"
+- name: fviros
+  strings:
+    - ":fviros:"
+  location: "assets/misc/fviros.png"
 - name: heart
   strings:
     - ":heart:"

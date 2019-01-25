@@ -616,6 +616,7 @@
 - name: psychic
   strings: 
     - ":psychic:"
+    - ":psyhic:"
     - "[Psychic]"
     - "[Psychic,"
     - "Psychic]"

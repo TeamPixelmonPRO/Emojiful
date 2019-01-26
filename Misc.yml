@@ -52,6 +52,10 @@
     - ":akida:"
     - "sikandar"
   location: "assets/misc/akida.png"
+- name: alpha
+  strings:
+    - ":alpha:"
+  location: "assets/misc/alpha.png"
 - name: kaneik
   strings:
     - ":CAPITOL:"

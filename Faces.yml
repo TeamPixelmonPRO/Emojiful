@@ -18,7 +18,7 @@
 - name: oil
   strings:
     - ":GWqlabsOilUp:"
-    - ":oil:"
+    - ":gwoil:"
   location: "assets/faces/oil.png"
 - name: kek
   strings:
@@ -239,6 +239,7 @@
     - "підораз"
     - "підозра"
     - "пiдрахуй"
+    - "лесбиянка"
   location: "assets/faces/1f92c.png"
 - name: please
   strings:
@@ -250,3 +251,7 @@
     - "пжж"
     - "пжжж"
   location: "assets/faces/please.png"
+- name: coolstory
+  strings:
+    - ":coolstorykonoplia:"
+  location: "assets/faces/coolstory.png"

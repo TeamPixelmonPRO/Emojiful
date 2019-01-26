@@ -267,3 +267,8 @@
   strings:
     - ":maidereasy:"
   location: "assets/faces/maidereasy.png"
+- name: sunglasses
+  strings:
+    - ":sunglasses:"
+    - ":круто:"
+  location: "assets/faces/sunglasses.png"

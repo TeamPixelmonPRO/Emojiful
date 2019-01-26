@@ -259,3 +259,11 @@
   strings:
     - ":ukdikold:"
   location: "assets/faces/ukdikold.png"
+- name: spravedlivo
+  strings:
+    - ":spravedlivo:"
+  location: "assets/faces/spravedlivo.png"
+- name: maidereasy
+  strings:
+    - ":maidereasy:"
+  location: "assets/faces/maidereasy.png"

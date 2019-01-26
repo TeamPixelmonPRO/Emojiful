@@ -255,3 +255,7 @@
   strings:
     - ":coolstorykonoplia:"
   location: "assets/faces/coolstory.png"
+- name: ukdikold
+  strings:
+    - ":ukdikold:"
+  location: "assets/faces/ukdikold.png"

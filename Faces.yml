@@ -272,3 +272,16 @@
     - ":sunglasses:"
     - ":круто:"
   location: "assets/faces/sunglasses.png"
+- name: nespravedlivo
+  strings:
+    - ":nespravedlivo:"
+  location: "assets/faces/nespravedlivo.png"
+- name: magician
+  strings:
+    - ":magician:"
+  location: "assets/faces/magician.png"
+- name: facepalm
+  strings:
+    - ":facepalm:"
+    - ":фейспалм:"
+  location: "assets/faces/facepalm.png"

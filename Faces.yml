@@ -285,3 +285,11 @@
     - ":facepalm:"
     - ":фейспалм:"
   location: "assets/faces/facepalm.png"
+- name: pandaren
+  strings:
+    - ":pandaren:"
+  location: "assets/faces/pandaren.png"
+- name: roflaneska
+  strings:
+    - ":roflaneska:"
+  location: "assets/faces/roflaneska.png"

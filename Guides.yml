@@ -137,7 +137,7 @@
     - "»"
     - "]п"
   location: "assets/guides/misc2.png"
-- name: sunrise
+- name: sunrise1
   strings: 
     - ":sun:"
     - ":day:"
@@ -146,7 +146,7 @@
   strings: 
     - ":night:"
   location: "assets/guides/night.png"
-- name: sunrise
+- name: sunrise2
   strings: 
     - ":sunrise:"
   location: "assets/guides/sunrise.png"

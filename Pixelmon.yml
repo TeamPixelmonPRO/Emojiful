@@ -367,6 +367,11 @@
     - ":coin:"
     - ":монета:"
   location: "assets/pixelmon/coin.png"
+- name: candy
+  strings: 
+    - ":candy:"
+    - ":конфета:"
+  location: "assets/pixelmon/candy.png"
 - name: coin_dollar
   strings: 
     - ":coin_dollar:"
@@ -570,6 +575,7 @@
 - name: poison
   strings: 
     - ":poison:"
+    - ":poision:"
     - "[Poison]"
     - "[Poison,"
     - "Poison]"

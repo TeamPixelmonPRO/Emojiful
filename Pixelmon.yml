@@ -372,6 +372,11 @@
     - ":candy:"
     - ":конфета:"
   location: "assets/pixelmon/candy.png"
+- name: candy
+  strings: 
+    - ":rand_poke_ball:"
+    - ":randpokeball:"
+  location: "assets/pixelmon/rand_poke_ball.png"
 - name: coin_dollar
   strings: 
     - ":coin_dollar:"

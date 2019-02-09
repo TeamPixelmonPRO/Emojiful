@@ -372,7 +372,7 @@
     - ":candy:"
     - ":конфета:"
   location: "assets/pixelmon/candy.png"
-- name: candy
+- name: rand_poke_ball
   strings: 
     - ":rand_poke_ball:"
     - ":randpokeball:"

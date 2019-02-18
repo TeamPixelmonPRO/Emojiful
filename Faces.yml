@@ -294,3 +294,24 @@
   strings:
     - ":roflaneska:"
   location: "assets/faces/roflaneska.png"
+- name: gfffl
+  strings:
+    - ":chika:"
+  location: "assets/faces/gfffl.png"
+- name: manioknazabiv
+  strings:
+    - ":manioknazabiv:"
+  location: "assets/faces/manioknazabiv.png"
+- name: manioknazabiv
+  strings:
+    - ":manioknazabiv:"
+    - ":ricardo"
+  location: "assets/faces/manioknazabiv.png"
+- name: mmm
+  strings:
+    - ":mmm:"
+  location: "assets/faces/mmm.png"
+- name: hokage
+  strings:
+    - ":hokage:"
+  location: "assets/faces/hokage.png"

@@ -114,6 +114,7 @@
 - name: ban_hummer
   strings:
     - ":ban_hummer:"
+    - ":ban_hammer:"
     - ":banhummer:"
     - ":банхаммер:"
   location: "assets/discord/ban_hummer.png"

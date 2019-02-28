@@ -109,6 +109,7 @@
   location: "assets/discord/fishcowboy.png"
 - name: dollar_2
   strings:
+    - ":pokedollars:"
     - ":dollar_2:"
   location: "assets/discord/dollar_2.png"
 - name: ban_hummer
@@ -132,7 +133,8 @@
   location: "assets/discord/smirk.png"
 - name: pizza
   strings:
-    - ":pizza:"
+    - ":pizzaz:"
+    - ":pizza"
     - ":пицца:"
   location: "assets/discord/pizza.png"
 - name: hee

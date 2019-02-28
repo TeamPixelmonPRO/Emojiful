@@ -134,3 +134,21 @@
     - ":pizza:"
     - ":пицца:"
   location: "assets/discord/pizza.png"
+- name: hee
+  strings:
+    - ":hee:"
+    - ":хее:"
+  location: "assets/discord/hee.png"
+- name: nooo
+  strings:
+    - ":nooo:"
+    - ":нееет:"
+  location: "assets/discord/nooo.png"
+- name: owner
+  strings:
+    - ":owner:"
+  location: "assets/discord/owner.png"
+- name: truedat
+  strings:
+    - ":truedat:"
+  location: "assets/discord/truedat.png"

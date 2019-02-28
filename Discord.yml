@@ -32,3 +32,105 @@
   strings:
     - ":pogchamp:"
   location: "assets/discord/pogchamp.png"
+- name: ruined
+  strings:
+    - ":ruined:"
+  location: "assets/discord/ruined.png"
+- name: okfa
+  strings:
+    - ":okface:"
+    - ":ok_face:"
+  location: "assets/discord/okfa.png"
+- name: pikachu
+  strings:
+    - ":pikachu:"
+    - ":пикачу:"
+  location: "assets/discord/pikachu.png"
+- name: pika
+  strings:
+    - ":pika:"
+    - ":пика:"
+  location: "assets/discord/pika.png"
+- name: scroll
+  strings:
+    - ":scroll:"
+  location: "assets/discord/scroll.png"
+- name: shrug
+  strings:
+    - ":shrug:"
+    - ":разводитруками:"
+  location: "assets/discord/shrug.png"
+- name: shrug1
+  strings:
+    - ":shrug1:"
+    - ":разводитруками1:"
+  location: "assets/discord/shrug1.png"
+- name: rip
+  strings:
+    - ":могилка:"
+    - ":могила:"
+    - ":rip:"
+  location: "assets/discord/rip.png"
+- name: hs_brilliance
+  strings:
+    - ":hs_brilliance:"
+  location: "assets/discord/hsbrilliance.png"
+- name: hs_balance
+  strings:
+    - ":hs_balance:"
+  location: "assets/discord/hsbalance.png"
+- name: hs_bravery
+  strings:
+    - ":hs_bravery:"
+  location: "assets/discord/hsbravery.png"
+- name: fedora
+  strings:
+    - ":fedora:"
+  location: "assets/discord/fedora.png"
+- name: whip
+  strings:
+    - ":whip:"
+  location: "assets/discord/whip.png"
+- name: heart_2
+  strings:
+    - ":heart_2:"
+  location: "assets/discord/heart1.png"
+- name: calc
+  strings:
+    - ":calc:"
+  location: "assets/discord/calc.png"
+- name: coolthink
+  strings:
+    - ":coolthink:"
+  location: "assets/discord/coolthink.png"
+- name: fishcowboy
+  strings:
+    - ":fishcowboy:"
+  location: "assets/discord/fishcowboy.png"
+- name: dollar_2
+  strings:
+    - ":dollar_2:"
+  location: "assets/discord/dollar_2.png"
+- name: ban_hummer
+  strings:
+    - ":ban_hummer:"
+    - ":banhummer:"
+    - ":банхаммер:"
+  location: "assets/discord/ban_hummer.png"
+- name: pixeltop
+  strings:
+    - ":pixeltop:"
+  location: "assets/discord/pixeltop.png"
+- name: squirrel
+  strings:
+    - ":squirrel:"
+  location: "assets/discord/squirrel.png"
+- name: smirk
+  strings:
+    - ":smirk:"
+  location: "assets/discord/smirk.png"
+- name: pizza
+  strings:
+    - ":pizza:"
+    - ":пицца:"
+  location: "assets/discord/pizza.png"

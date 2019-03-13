@@ -464,6 +464,7 @@
 - name: dark
   strings: 
     - ":dark:"
+    - ":dark::"
     - "[Dark]"
     - "[Dark,"
     - "Dark]"
@@ -473,6 +474,7 @@
 - name: normal
   strings: 
     - ":normal:"
+    - ":normal::"
     - "[Normal]"
     - "[Normal,"
     - "Normal]"
@@ -482,6 +484,7 @@
 - name: bug
   strings: 
     - ":bug:"
+    - ":bug::"
     - "[Bug]"
     - "[Bug,"
     - "Bug]"
@@ -493,6 +496,7 @@
 - name: fly
   strings: 
     - ":fly:"
+    - ":fly::"
     - ":flying:"
     - "[Flying]"
     - "[Flying,"
@@ -504,6 +508,7 @@
 - name: fighting
   strings: 
     - ":fight:"
+    - ":fight::"
     - ":fighting:"
     - "[Fighting]"
     - "[Fighting,"
@@ -514,6 +519,7 @@
 - name: water
   strings: 
     - ":water:"
+    - ":water::"
     - "[Water]"
     - "[Water,"
     - "Water]"
@@ -525,6 +531,7 @@
 - name: electric
   strings: 
     - ":electric:"
+    - ":electric::"
     - "[Electric]"
     - "[Electric,"
     - "Electric]"
@@ -534,6 +541,7 @@
 - name: fairy
   strings: 
     - ":fairy:"
+    - ":fairy::"
     - "[Fairy]"
     - "[Fairy,"
     - "Fairy]"
@@ -544,6 +552,7 @@
 - name: ghost
   strings: 
     - ":ghost:"
+    - ":ghost::"
     - "[Ghost]"
     - "[Ghost,"
     - "Ghost]"
@@ -553,6 +562,7 @@
 - name: grass
   strings: 
     - ":grass:"
+    - ":grass::"
     - "[Grass]"
     - "[Grass,"
     - "Grass]"
@@ -562,6 +572,7 @@
 - name: ground
   strings: 
     - ":ground:"
+    - ":ground::"
     - "[Ground]"
     - "[Ground,"
     - "Ground]"
@@ -571,6 +582,7 @@
 - name: ice
   strings: 
     - ":ice:"
+    - ":ice::"
     - "[Ice]"
     - "[Ice,"
     - "Ice]"
@@ -580,6 +592,7 @@
 - name: poison
   strings: 
     - ":poison:"
+    - ":poison::"
     - ":poision:"
     - "[Poison]"
     - "[Poison,"
@@ -590,6 +603,7 @@
 - name: rock
   strings: 
     - ":rock:"
+    - ":rock::"
     - "[Rock]"
     - "[Rock,"
     - "Rock]"
@@ -599,6 +613,7 @@
 - name: steel
   strings: 
     - ":steel:"
+    - ":steel::"
     - "[Steel]"
     - "[Steel,"
     - "Steel]"
@@ -608,6 +623,7 @@
 - name: fire
   strings: 
     - ":fire:"
+    - ":fire::"
     - "[Fire]"
     - "[Fire,"
     - "Fire]"
@@ -617,6 +633,7 @@
 - name: dragon
   strings: 
     - ":dragon:"
+    - ":dragon::"
     - "[Dragon]"
     - "[Dragon,"
     - "Dragon]"
@@ -627,6 +644,7 @@
 - name: psychic
   strings: 
     - ":psychic:"
+    - ":psychic::"
     - ":psyhic:"
     - "[Psychic]"
     - "[Psychic,"

@@ -298,6 +298,10 @@
   strings:
     - ":chika:"
   location: "assets/faces/gfffl.png"
+- name: gfffl2
+  strings:
+    - ":animelike:"
+  location: "assets/faces/gfffl2.png"
 - name: manioknazabiv
   strings:
     - ":manioknazabiv:"

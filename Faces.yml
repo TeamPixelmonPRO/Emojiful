@@ -319,3 +319,31 @@
   strings:
     - ":hokage:"
   location: "assets/faces/hokage.png"
+- name: plovegold
+  strings:
+    - ":plovegold:"
+  location: "assets/faces/plovegold.png"
+- name: triumph
+  strings:
+    - ":triumph:"
+  location: "assets/faces/triumph.png"
+- name: roflanpominki
+  strings:
+    - ":roflanpominki:"
+  location: "assets/faces/roflanpominki.png"
+- name: pomolchi
+  strings:
+    - ":pomolchi:"
+  location: "assets/faces/pomolchi.png"
+- name: upside_down
+  strings:
+    - ":upside_down:"
+  location: "assets/faces/upside_down.png"
+- name: ytrechka
+  strings:
+    - ":ytrechka:"
+  location: "assets/faces/ytrechka.png"
+- name: pravdacho
+  strings:
+    - ":pravdacho:"
+  location: "assets/faces/pravdacho.png"

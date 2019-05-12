@@ -347,3 +347,15 @@
   strings:
     - ":pravdacho:"
   location: "assets/faces/pravdacho.png"
+- name: NoAnimePenguin
+  strings:
+    - ":NoAnimePenguin:"
+  location: "assets/faces/NoAnimePenguin.png"
+- name: moyai
+  strings:
+    - ":moyai:"
+  location: "assets/faces/moyai.png"
+- name: DinTrigg
+  strings:
+    - ":DinTrigg:"
+  location: "assets/faces/DinTrigg.png"

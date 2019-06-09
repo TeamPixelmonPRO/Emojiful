@@ -359,3 +359,20 @@
   strings:
     - ":DinTrigg:"
   location: "assets/faces/DinTrigg.png"
+- name: smilingimp
+  strings:
+    - ":smiling_imp:"
+  location: "assets/faces/smilingimp.png"
+- name: rollingeyes
+  strings:
+    - ":rolling_eyes:"
+  location: "assets/faces/rollingeyes.png"
+- name: czheri
+  strings:
+    - ":czheri:"
+    - ":джерри:"
+  location: "assets/faces/czheri.png"
+- name: Itlico
+  strings:
+    - ":itlico:"
+  location: "assets/faces/itlico.png"

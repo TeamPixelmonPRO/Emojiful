@@ -374,5 +374,5 @@
   location: "assets/faces/czheri.png"
 - name: Itlico
   strings:
-    - ":itlico:"
-  location: "assets/faces/itlico.png"
+    - ":Itlico:"
+  location: "assets/faces/Itlico.png"

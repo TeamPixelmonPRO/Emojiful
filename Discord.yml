@@ -155,3 +155,11 @@
   strings:
     - ":truedat:"
   location: "assets/discord/truedat.png"
+- name: sweatsmile
+  strings:
+    - ":sweat_smile:"
+  location: "assets/discord/sweat_smile.png"
+- name: cross
+  strings:
+    - ":cross:"
+  location: "assets/discord/cross.png"

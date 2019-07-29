@@ -361,6 +361,7 @@
     - ":rewardmoney:"
     - ":reward_money:"
     - ":наградаденьги:"
+    = ":money:"
   location: "assets/pixelmon/reward_money.png"
 - name: coin
   strings: 

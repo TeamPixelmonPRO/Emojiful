@@ -163,3 +163,15 @@
   strings:
     - ":cross:"
   location: "assets/discord/cross.png"
+- name: coolpoop
+  strings:
+    - ":coolpoop:"
+    - ":крутаяговняшка:"
+  location: "assets/discord/coolpoop.png"
+- name: umbreonrealy
+  strings:
+    - ":umbreonrealy:"
+    - ":umbreonreally:"
+    - ":umbreonwhat:"
+    - ":umbwhat:"
+  location: "assets/discord/umbreonrealy.png"

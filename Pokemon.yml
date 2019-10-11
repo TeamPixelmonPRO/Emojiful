@@ -160,6 +160,16 @@
     - ":мега-рэйкваза:"
     - ":мега-райкваза:"
   location: "assets/pokemon/384-rayquaza-mega.png"
+- name: 386-deoxys-normal
+  strings: 
+    - ":deoxys:"
+    - ":386-deoxys-normal:"
+    - ":386-deoxys:"
+    = ":386:"
+    - ":deoxys-normal:"
+    - ":normal-deoxys:"
+    - ":деоксис:"
+  location: "assets/pokemon/386-deoxys-normal.png"
 - name: 428-lopunny-mega
   strings: 
     - ":mega-lopunny:"
@@ -187,6 +197,20 @@
     - ":мега-лукарио:"
     - ":мега-лука:"
   location: "assets/pokemon/448-lucario-mega.png"
+- name: 483-dialga
+  strings: 
+    - ":dialga:"
+    - ":483-dialga:"
+    - ":483:"
+    - ":диалга:"
+  location: "assets/pokemon/483-dialga.png"
+- name: 484-palkia
+  strings: 
+    - ":palkia:"
+    - ":484-palkia:"
+    - ":484:"
+    - ":палкия:"
+  location: "assets/pokemon/484-palkia.png"
 - name: 487-giratina-origin
   strings: 
     - ":giratina-origin:"
@@ -263,6 +287,14 @@
     - ":646:"
     - ":кюрем:"
   location: "assets/pokemon/646-kyurem-normal.png"
+- name: 649-genesect-normal
+  strings: 
+    - ":genesect:"
+    - ":genesect-normal:"
+    - ":649-genesect:"
+    - ":649:"
+    - ":генесект:"
+  location: "assets/pokemon/649-genesect-normal.png"
 - name: 658-greninja-ash
   strings: 
     - ":greninja-ash:"
@@ -324,3 +356,84 @@
     - ":хупа:"
     - ":хуппа:"
   location: "assets/pokemon/720-hoopa-unbound.png"
+- name: 791-solgaleo
+  strings: 
+    - ":solgaleo:"
+    - ":791-solgaleo:"
+    - ":791:"
+    - ":солга:"
+    - ":солгалео:"
+  location: "assets/pokemon/791-solgaleo.png"
+- name: 792-lunala
+  strings: 
+    - ":lunala:"
+    - ":792-lunala:"
+    - ":792:"
+    - ":лунал:"
+    - ":лунала:"
+  location: "assets/pokemon/792-lunala.png"
+- name: 798-kartana
+  strings: 
+    - ":kartana:"
+    - ":798-kartana:"
+    - ":798:"
+    - ":катрана:"
+    - ":картана:"
+  location: "assets/pokemon/798-kartana.png"
+- name: 799-guzzlord
+  strings: 
+    - ":guzzlord:"
+    - ":799-guzzlord:"
+    - ":799:"
+    - ":газзлорд:"
+    - ":газлорд:"
+  location: "assets/pokemon/799-guzzlord.png"
+- name: 800-necrozma
+  strings: 
+    - ":necrozma:"
+    - ":800-necrozma-normal:"
+    - ":800-necrozma:"
+    - ":800:"
+    - ":никрозма:"
+    - ":некрозма:"
+  location: "assets/pokemon/800-necrozma-normal.png"
+- name: 801-magearna
+  strings: 
+    - ":magearna:"
+    - ":801-magearna:"
+    - ":801:"
+    - ":магирна:"
+    - ":магеарна:"
+  location: "assets/pokemon/801-magearna.png"
+- name: 802-marshadow
+  strings: 
+    - ":marshadow:"
+    - ":802-marshadow:"
+    - ":802:"
+    - ":марсшадоу:"
+    - ":маршадоу:"
+  location: "assets/pokemon/802-marshadow.png"
+- name: 805-stakataka
+  strings: 
+    - ":stakataka:"
+    - ":805-stakataka:"
+    - ":805:"
+    - ":стакатака:"
+    - ":стакака:"
+  location: "assets/pokemon/805-stakataka.png"
+- name: 807-zeraora
+  strings: 
+    - ":zeraora:"
+    - ":807-zeraora:"
+    - ":807:"
+    - ":зераор:"
+    - ":зераора:"
+  location: "assets/pokemon/807-zeraora.png"
+- name: 809-melmetal
+  strings: 
+    - ":melmetal:"
+    - ":809-melmetal:"
+    - ":809:"
+    - ":метмелтал:"
+    - ":мелметал:"
+  location: "assets/pokemon/809-melmetal.png"

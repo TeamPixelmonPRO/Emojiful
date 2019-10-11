@@ -164,9 +164,8 @@
   strings: 
     - ":deoxys:"
     - ":386-deoxys-normal:"
-    - ":386-deoxys:"
+    - ":386-normal:"
     = ":386:"
-    - ":deoxys-normal:"
     - ":normal-deoxys:"
     - ":деоксис:"
   location: "assets/pokemon/386-deoxys-normal.png"

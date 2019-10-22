@@ -18,14 +18,14 @@
     - ":006-mega-y:"
     - ":чаризард-у:"
   location: "assets/pokemon/006-charizard-mega-y.png"
-- name: 115-kangaskhan
+- name: 115-kangaskhan-mega
   strings: 
     - ":kangaskhan-mega:"
     - ":115-kangaskhan-mega:"
     - ":115-mega:"
     - ":кангасхан-мега:"
   location: "assets/pokemon/115-kangaskhan-mega.png"
-- name: 130-gyarados
+- name: 130-gyarados-mega
   strings: 
     - ":gyarados-mega:"
     - ":130-gyarados-mega:"
@@ -39,6 +39,20 @@
     - ":150:"
     - ":мьюту:"
   location: "assets/pokemon/150-mewtwo.png"
+- name: 150-mewtwo-x
+  strings: 
+    - ":mewtwo-x:"
+    - ":150-mewtwo-x:"
+    - ":150-mega-x:"
+    - ":мьютух:"
+  location: "assets/pokemon/150-mewtwo-x.png"
+- name: 150-mewtwo-y
+  strings: 
+    - ":mewtwo-y:"
+    - ":150-mewtwo-y:"
+    - ":150-mega-y:"
+    - ":мьютуу:"
+  location: "assets/pokemon/150-mewtwo-y.png"
 - name: 151-mew
   strings: 
     - ":mew:"
@@ -46,24 +60,24 @@
     - ":151:"
     - ":мью:"
   location: "assets/pokemon/151-mew.png"
-- name: 208-steelix
+- name: 208-steelix-mega
   strings: 
     - ":steelix-mega:"
     - ":208-steelix-mega:"
     - ":208-mega:"
     - ":стиликс-мега:"
   location: "assets/pokemon/208-steelix-mega.png"
-- name: 212-scizor
+- name: 212-scizor-mega
   strings: 
     - ":scizor-mega:"
-    - ":212-scizor:"
+    - ":212-scizor-mega:"
     - ":212-mega:"
     - ":сизор-мега:"
   location: "assets/pokemon/212-scizor-mega.png"
-- name: 229-houndoom
+- name: 229-houndoom-mega
   strings: 
     - ":houndoom-mega:"
-    - ":229-houndoom:"
+    - ":229-houndoom-mega:"
     - ":229-mega:"
     - ":хаундум-мега:"
   location: "assets/pokemon/229-houndoom-mega.png"
@@ -88,6 +102,48 @@
     - ":251:"
     - ":селеби:"
   location: "assets/pokemon/251-celebi.png"
+- name: 254-sceptile-mega
+  strings: 
+    - ":sceptile-mega:"
+    - ":254-mega:"
+    - ":254-sceptile-mega:"
+    - ":скептайл-мега:"
+  location: "assets/pokemon/254-sceptile-mega.png"
+- name: 257-blaziken-mega
+  strings: 
+    - ":blaziken-mega:"
+    - ":257-mega:"
+    - ":257-blaziken-mega:"
+    - ":блейзикен-мега:"
+  location: "assets/pokemon/257-blaziken-mega.png"
+- name: 260-swampert-mega
+  strings: 
+    - ":swampert-mega:"
+    - ":260-mega:"
+    - ":260-swampert-mega:"
+    - ":свамперт-мега:"
+  location: "assets/pokemon/260-swampert-mega.png"
+- name: 308-medicham-mega
+  strings: 
+    - ":medicham-mega:"
+    - ":308-mega:"
+    - ":308-medicham-mega:"
+    - ":медичам-мега:"
+  location: "assets/pokemon/308-medicham-mega.png"
+- name: 334-altaria-mega
+  strings: 
+    - ":altaria-mega:"
+    - ":334-mega:"
+    - ":334-altaria-mega:"
+    - ":алтария-мега:"
+  location: "assets/pokemon/334-altaria-mega.png"
+- name: 354-banette-mega
+  strings: 
+    - ":banette-mega:"
+    - ":354-mega:"
+    - ":354-banette-mega:"
+    - ":бэнетт-мега:"
+  location: "assets/pokemon/354-banette-mega.png"
 - name: 373-salamence-mega
   strings: 
     - ":mega-salamence:"

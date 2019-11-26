@@ -51,6 +51,11 @@
     - ":h:"
     - "[H]"
   location: "assets/pixelmon/hoenn.png"
+- name: teron
+  strings: 
+    - ":t:"
+    - "[T]"
+  location: "assets/pixelmon/teron.png"
 - name: builder
   strings: 
     - ":builder:"

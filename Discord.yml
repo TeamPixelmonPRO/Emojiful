@@ -175,3 +175,10 @@
     - ":umbreonwhat:"
     - ":umbwhat:"
   location: "assets/discord/umbreonrealy.png"
+- name: twitch
+  strings:
+    - ":twitch:"
+    - ":tw:"
+    - ":твитч:"
+    - ":твич:"
+  location: "assets/discord/twitch.png"

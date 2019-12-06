@@ -184,6 +184,7 @@
   location: "assets/discord/twitch.png"
 - name: neron
   strings:
+    - "[N]"
     - ":nero:"
     - ":neron:"
     - ":неро:"

@@ -3,3 +3,8 @@
     - ":grimoire:"
     - ":grimoireofgaia:"
   location: "assets/nero/grimoire.png"
+- name: ic2
+  strings:
+    - ":ic2:"
+    - ":industrialcraft2:"
+  location: "assets/nero/ic2.png"

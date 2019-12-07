@@ -1,0 +1,5 @@
+- name: grimoire
+  strings:
+    - ":grimoire:"
+    - ":grimoireofgaia:"
+  location: "assets/nero/grimoire.png"

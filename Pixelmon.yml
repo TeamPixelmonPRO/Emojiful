@@ -56,12 +56,22 @@
     - ":t:"
     - "[T]"
   location: "assets/pixelmon/teron.png"
+- name: begin-builder
+  strings: 
+    - ":begin-builder:"
+    - ":начальныйстроитель:"
+  location: "assets/pixelmon/begin-builder.png"
 - name: builder
   strings: 
     - ":builder:"
     - ":строитель:"
     - ":артихектор:"
   location: "assets/pixelmon/builder.png"
+- name: major-builder
+  strings: 
+    - ":major-builder:"
+    - ":старшийстроитель:"
+  location: "assets/pixelmon/major-builder.png"
 - name: config
   strings: 
     - ":config:"
@@ -114,6 +124,46 @@
     - ":master:"
     - ":мастер:"
   location: "assets/pixelmon/master.png"
+- name: premium-1
+  strings: 
+    - ":premium-1:"
+    - ":prem-1:"
+    - ":prem1:"
+  location: "assets/pixelmon/premium-1.png"
+- name: premium-2
+  strings: 
+    - ":premium-2:"
+    - ":prem-2:"
+    - ":prem2:"
+  location: "assets/pixelmon/premium-2.png"
+- name: premium-3
+  strings: 
+    - ":premium-3:"
+    - ":prem-3:"
+    - ":prem3:"
+  location: "assets/pixelmon/premium-3.png"
+- name: premium-4
+  strings: 
+    - ":premium-4:"
+    - ":prem-4:"
+    - ":prem4:"
+  location: "assets/pixelmon/premium-4.png"
+- name: premium-5
+  strings: 
+    - ":premium-5:"
+    - ":prem-5:"
+    - ":prem5:"
+  location: "assets/pixelmon/premium-5.png"
+- name: town-builder
+  strings: 
+    - ":town-builder:"
+    - ":градостроитель:"
+  location: "assets/pixelmon/town-builder.png"
+- name: begin-mentor
+  strings: 
+    - ":begin-mentor:"
+    - ":начальныйментор:"
+  location: "assets/pixelmon/begin-mentor.png"
 - name: mentor
   strings: 
     - ":mentor:"
@@ -123,6 +173,18 @@
     - ":хэлпер:"
     - ":хелпер:"
   location: "assets/pixelmon/mentor.png"
+- name: major-mentor
+  strings: 
+    - ":major-mentor:"
+    - ":старшийментор:"
+  location: "assets/pixelmon/major-mentor.png"
+- name: begin-moderator
+  strings: 
+    - ":begin-moderator:"
+    - ":начальныймодер:"
+    - ":begin-moder:"
+    - ":начальныймодератор:"
+  location: "assets/pixelmon/begin-moderator.png"
 - name: moderator
   strings: 
     - ":moderator:"
@@ -132,6 +194,13 @@
     - ":мод:"
     - ":модератор:"
   location: "assets/pixelmon/moderator.png"
+- name: major-moderator
+  strings: 
+    - ":major-moderator:"
+    - ":старшиймодер:"
+    - ":major-moder:"
+    - ":старшиймодератор:"
+  location: "assets/pixelmon/major-moderator.png"
 - name: player
   strings: 
     - ":player:"

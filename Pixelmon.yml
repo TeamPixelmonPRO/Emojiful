@@ -59,6 +59,7 @@
 - name: begin-builder
   strings: 
     - ":begin-builder:"
+    - ":bbu:"
     - ":начальныйстроитель:"
   location: "assets/pixelmon/begin-builder.png"
 - name: builder
@@ -71,6 +72,7 @@
 - name: major-builder
   strings: 
     - ":major-builder:"
+    - ":mbu:"
     - ":старшийстроитель:"
   location: "assets/pixelmon/major-builder.png"
 - name: config

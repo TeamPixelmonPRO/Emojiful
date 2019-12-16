@@ -64,6 +64,7 @@
 - name: builder
   strings: 
     - ":builder:"
+    - ":bu:"
     - ":строитель:"
     - ":артихектор:"
   location: "assets/pixelmon/builder.png"
@@ -129,44 +130,52 @@
     - ":premium-1:"
     - ":prem-1:"
     - ":prem1:"
+    - ":pr1:"
   location: "assets/pixelmon/premium-1.png"
 - name: premium-2
   strings: 
     - ":premium-2:"
     - ":prem-2:"
     - ":prem2:"
+    - ":pr2:"
   location: "assets/pixelmon/premium-2.png"
 - name: premium-3
   strings: 
     - ":premium-3:"
     - ":prem-3:"
     - ":prem3:"
+    - ":pr3:"
   location: "assets/pixelmon/premium-3.png"
 - name: premium-4
   strings: 
     - ":premium-4:"
     - ":prem-4:"
     - ":prem4:"
+    - ":pr4:"
   location: "assets/pixelmon/premium-4.png"
 - name: premium-5
   strings: 
     - ":premium-5:"
     - ":prem-5:"
     - ":prem5:"
+    - ":pr5:"
   location: "assets/pixelmon/premium-5.png"
 - name: town-builder
   strings: 
     - ":town-builder:"
+    - ":tbu:"
     - ":градостроитель:"
   location: "assets/pixelmon/town-builder.png"
 - name: begin-mentor
   strings: 
     - ":begin-mentor:"
+    - ":bment:"
     - ":начальныйментор:"
   location: "assets/pixelmon/begin-mentor.png"
 - name: mentor
   strings: 
     - ":mentor:"
+    - ":ment:"
     - ":ментор:"
     - ":мент:"
     - ":ментр:"
@@ -176,6 +185,7 @@
 - name: major-mentor
   strings: 
     - ":major-mentor:"
+    - ":mment:"
     - ":старшийментор:"
   location: "assets/pixelmon/major-mentor.png"
 - name: begin-moderator
@@ -183,12 +193,14 @@
     - ":begin-moderator:"
     - ":начальныймодер:"
     - ":begin-moder:"
+    - ":bmod:"
     - ":начальныймодератор:"
   location: "assets/pixelmon/begin-moderator.png"
 - name: moderator
   strings: 
     - ":moderator:"
     - ":mod:"
+    - ":md:"
     - ":модер:"
     - ":moder:"
     - ":мод:"
@@ -199,11 +211,13 @@
     - ":major-moderator:"
     - ":старшиймодер:"
     - ":major-moder:"
+    - ":mmod:"
     - ":старшиймодератор:"
   location: "assets/pixelmon/major-moderator.png"
 - name: player
   strings: 
     - ":player:"
+    - ":pl:"
     - ":игрок:"
   location: "assets/pixelmon/player.png"
 - name: pokepack

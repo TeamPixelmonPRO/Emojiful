@@ -117,6 +117,13 @@
     - ":hunt_catch:"
     - ":охота1:"
   location: "assets/pixelmon/hunt_catch.png"
+- name: wormhole
+  strings: 
+    - ":wormhole:"
+    - ":ultra-wormhole:"
+    - ":червоточина:"
+    - ":ультра-портал:"
+  location: "assets/pixelmon/wormhole.png"
 - name: lk
   strings: 
     - ":lk:"

@@ -119,3 +119,7 @@
     - ":kick:"
     - ":кик:"
   location: "assets/misc/kick.png"
+- name: golisopod
+  strings: 
+    - ":golisopod:"
+  location: "assets/misc/golisopod.png"

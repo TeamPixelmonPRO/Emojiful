@@ -64,6 +64,7 @@
   location: "assets/pixelmon/begin-builder.png"
 - name: builder
   strings: 
+    - ":builder:"
     - ":bu:"
     - ":строитель:"
     - ":артихектор:"
@@ -182,6 +183,7 @@
   location: "assets/pixelmon/begin-mentor.png"
 - name: mentor
   strings: 
+    - ":mentor:"
     - ":ment:"
     - ":ментор:"
     - ":мент:"
@@ -209,6 +211,7 @@
     - ":mod:"
     - ":md:"
     - ":модер:"
+    - ":moder:"
     - ":мод:"
     - ":модератор:"
   location: "assets/pixelmon/moderator.png"

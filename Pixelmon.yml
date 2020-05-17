@@ -64,7 +64,6 @@
   location: "assets/pixelmon/begin-builder.png"
 - name: builder
   strings: 
-    - ":builder:"
     - ":bu:"
     - ":строитель:"
     - ":артихектор:"

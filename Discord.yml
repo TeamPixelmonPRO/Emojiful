@@ -190,3 +190,107 @@
     - ":неро:"
     - ":нерон:"
   location: "assets/discord/neron.png"
+- name: pokedex1
+  strings:
+    - "<:pokedex1:711404425637527563>"
+  location: "assets/discord/pokedex1.png"
+- name: pokedex10
+  strings:
+    - "<:pokedex10:711410224401088564>"
+  location: "assets/discord/pokedex10.png"
+- name: pokedex20
+  strings:
+    - "<:pokedex20:711410225252532344>"
+  location: "assets/discord/pokedex20.png"
+- name: pokedex30
+  strings:
+    - "<:pokedex30:711404424752398357>"
+  location: "assets/discord/pokedex30.png"
+- name: pokedex40
+  strings:
+    - "<:pokedex40:711410226217222174>"
+  location: "assets/discord/pokedex40.png"
+- name: pokedex50
+  strings:
+    - "<:pokedex50:711410226057707524>"
+  location: "assets/discord/pokedex50.png"
+- name: pokedex60
+  strings:
+    - "<:pokedex60:711404424148418672>"
+  location: "assets/discord/pokedex60.png"
+- name: pokedex70
+  strings:
+    - "<:pokedex70:711410225839603743>"
+  location: "assets/discord/pokedex70.png"
+- name: pokedex80
+  strings:
+    - "<:pokedex80:711410225697128498>"
+  location: "assets/discord/pokedex80.png"
+- name: pokedex90
+  strings:
+    - "<:pokedex90:711404425192931359>"
+  location: "assets/discord/pokedex90.png"
+- name: pokedex100
+  strings:
+    - "<:pokedex100:711404425008382023>"
+  location: "assets/discord/pokedex100.png"
+- name: premium1
+  strings:
+    - "<:premium1:711404425171959950>"
+  location: "assets/discord/premium1.png"
+- name: premium2
+  strings:
+    - "<:premium2:711404423867269180>"
+  location: "assets/discord/premium2.png"
+- name: premium3
+  strings:
+    - "<:premium3:711404423259095041>"
+  location: "assets/discord/premium3.png"
+- name: premium4
+  strings:
+    - "<:premium4:711404424874164295>"
+  location: "assets/discord/premium4.png"
+- name: premium5
+  strings:
+    - "<:premium5:711404425188606013>"
+  location: "assets/discord/premium5.png"
+- name: beginbuilder
+  strings:
+    - "<:beginbuilder:711430277758451804>"
+  location: "assets/discord/beginbuilder.png"
+- name: buildernew
+  strings:
+    - "<:builder:711430277750194246>"
+  location: "assets/discord/builder.png"
+- name: headbuilder
+  strings:
+    - "<:headbuilder:711430277087494194>"
+  location: "assets/discord/headbuilder.png"
+- name: beginmentor
+  strings:
+    - "<:beginmentor:711430277603393557>"
+  location: "assets/discord/beginmentor.png"
+- name: mentornew
+  strings:
+    - "<:mentor:711430278916210710>"
+  location: "assets/discord/mentor.png"
+- name: headmentor
+  strings:
+    - "<:headmentor:711430278299516988>"
+  location: "assets/discord/headmentor.png"
+- name: beginmoder
+  strings:
+    - "<:beginmoder:711430276378656789>"
+  location: "assets/discord/beginmoder.png"
+- name: modernew
+  strings:
+    - "<:moder:711430278840582185>"
+  location: "assets/discord/moder.png"
+- name: headmoder
+  strings:
+    - "<:headmoder:711430278551437333>"
+  location: "assets/discord/headmoder.png"
+- name: adminowner
+  strings:
+    - "<:admin:711404425037611058>"
+  location: "assets/discord/admin.png"

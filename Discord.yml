@@ -279,7 +279,31 @@
   strings:
     - "<:beginbuilder:711430277758451804>"
     - ":m9:"
-  location: "assets/discord/beginbuilder.png"
+- name: sd1500
+  strings:
+    - "<:sd1500:711808504146559038>"
+    - ":s1:"
+  location: "assets/discord/sd1500.png"
+- name: sd1750
+  strings:
+    - "<:sd1750:711808504842813511>"
+    - ":s2:"
+  location: "assets/discord/sd1750.png"
+- name: sd2000
+  strings:
+    - "<:sd2000:711808504951996509>"
+    - ":s3:"
+  location: "assets/discord/sd2000.png"
+- name: sd2250
+  strings:
+    - "<:sd2250:711808503991500891>"
+    - ":s4:"
+  location: "assets/discord/sd2250.png"
+- name: sd2500
+  strings:
+    - "<:sd2500:711808504293359647>"
+    - ":s5:"
+  location: "assets/discord/sd2500.png"
 - name: buildernew
   strings:
     - "<:builder:711430277750194246>"

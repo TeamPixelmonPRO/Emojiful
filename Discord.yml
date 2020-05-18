@@ -364,3 +364,8 @@
     - "<:ultra:711759097908953150>"
     - ":d3:"
   location: "assets/discord/wormhole.png"
+- name: jailed
+  strings:
+    - "<:jailed:711819504702849097>"
+    - ":jd:"
+  location: "assets/discord/jailed.png"

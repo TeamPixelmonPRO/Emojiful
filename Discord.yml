@@ -325,3 +325,18 @@
     - "<:admin:711404425037611058>"
     - ":m0:"
   location: "assets/discord/admin.png"
+- name: helldim
+  strings:
+    - "<:the_hell:711759095526588497>"
+    - ":d1:"
+  location: "assets/discord/hell.png"
+- name: enddim
+  strings:
+    - "<:the_end:711759096566513745>"
+    - ":d2:"
+  location: "assets/discord/end.png"
+- name: ultradim
+  strings:
+    - "<:ultra:711759097908953150>"
+    - ":d3:"
+  location: "assets/discord/wormhole.png"

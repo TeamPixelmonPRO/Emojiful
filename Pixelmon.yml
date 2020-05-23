@@ -5,6 +5,8 @@
     - "pixelmon"
     - ":пиксельмон:"
     - "[§1AromaBackup§r]"
+    - "[&1AromaBackup&r]"
+    - "[AromaBackup]"
   location: "assets/pixelmon/pixelmon.png"
 - name: pixelmonpro
   strings: 

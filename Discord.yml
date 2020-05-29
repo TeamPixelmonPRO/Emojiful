@@ -198,37 +198,37 @@
 - name: pokedex1
   strings:
     - "<:pokedex1:711404425637527563>"
-    - ":p1:"
+    - ":p0:"
   location: "assets/discord/pokedex1.png"
 - name: pokedex10
   strings:
     - "<:pokedex10:711410224401088564>"
-    - ":p2:"
+    - ":p1:"
   location: "assets/discord/pokedex10.png"
 - name: pokedex20
   strings:
     - "<:pokedex20:711410225252532344>"
-    - ":p3:"
+    - ":p2:"
   location: "assets/discord/pokedex20.png"
 - name: pokedex30
   strings:
     - "<:pokedex30:711404424752398357>"
-    - ":p4:"
+    - ":p3:"
   location: "assets/discord/pokedex30.png"
 - name: pokedex40
   strings:
     - "<:pokedex40:711410226217222174>"
-    - ":p5:"
+    - ":p4:"
   location: "assets/discord/pokedex40.png"
 - name: pokedex50
   strings:
     - "<:pokedex50:711410226057707524>"
-    - ":p6:"
+    - ":p5:"
   location: "assets/discord/pokedex50.png"
 - name: pokedex60
   strings:
     - "<:pokedex60:711404424148418672>"
-    - ":p7:"
+    - ":p6:"
   location: "assets/discord/pokedex60.png"
 - name: pokedex70
   strings:

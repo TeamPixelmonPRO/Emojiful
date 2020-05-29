@@ -275,10 +275,6 @@
     - "<:premium5:711404425188606013>"
     - ":b5:"
   location: "assets/discord/premium5.png"
-- name: beginbuilder
-  strings:
-    - "<:beginbuilder:711430277758451804>"
-    - ":m9:"
 - name: sd1500
   strings:
     - "<:sd1500:711808504146559038>"
@@ -304,6 +300,11 @@
     - "<:sd2500:711808504293359647>"
     - ":s5:"
   location: "assets/discord/sd2500.png"
+- name: beginbuilder
+  strings:
+    - "<:beginbuilder:711430277758451804>"
+    - ":m9:"
+  location: "assets/discord/beginbuilder.png"
 - name: buildernew
   strings:
     - "<:builder:711430277750194246>"

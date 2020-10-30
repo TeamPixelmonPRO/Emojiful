@@ -755,3 +755,8 @@
     - ":псих:"
     - ":психик:"
   location: "assets/pixelmon/psychictype.png"
+- name: halloween
+  strings: 
+    - ":halloween:"
+    - ":хэллоуин::"
+  location: "assets/pixelmon/halloween.png"

@@ -19,6 +19,18 @@
     - ":пикспро:"
     - ":про:"
   location: "assets/pixelmon/pixelmonpro.png"
+- name: pixelmonprony
+  strings: 
+    - ":pixelmonprony:"
+    - ":pixelmonpony:"
+    - ":prony:"
+    - ":pixprony:"
+    - ":logony:"
+    - ":ny:"
+    - ":пиксельмонпронг:"
+    - ":пикспронг:"
+    - ":пронг:"
+  location: "assets/pixelmon/pixelmonprony.png"
 - name: pixelmonpromini
   strings: 
     - ":pixelmonpromini:"

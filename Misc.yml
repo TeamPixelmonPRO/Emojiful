@@ -109,16 +109,16 @@
     - "уууууу"
   location: "assets/misc/mute.png"
 - name: kick
-  strings: 
+  strings:
     - ":kick:"
     - ":кик:"
   location: "assets/misc/kick.png"
 - name: golisopod
-  strings: 
+  strings:
     - ":golisopod:"
   location: "assets/misc/golisopod.png"
 - name: pizza
-  strings: 
+  strings:
     - ":pizza:"
     - ":пицца:"
   location: "assets/misc/pizza.png"

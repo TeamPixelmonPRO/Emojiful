@@ -120,5 +120,5 @@
 - name: pizza
   strings: 
     - ":pizza:"
-    = ":пицца:"
+    - ":пицца:"
   location: "assets/misc/pizza.png"

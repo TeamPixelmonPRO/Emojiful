@@ -52,14 +52,6 @@
     - ":akida:"
     - "sikandar"
   location: "assets/misc/akida.png"
-- name: alpha
-  strings:
-    - ":alpha:"
-  location: "assets/misc/alpha.png"
-- name: kaneik
-  strings:
-    - ":CAPITOL:"
-  location: "assets/misc/kaneik.png"
 - name: colend
   strings:
     - ":ahit:"
@@ -125,3 +117,8 @@
   strings: 
     - ":golisopod:"
   location: "assets/misc/golisopod.png"
+- name: pizza
+  strings: 
+    - ":pizza:"
+    = ":пицца:"
+  location: "assets/misc/pizza.png"

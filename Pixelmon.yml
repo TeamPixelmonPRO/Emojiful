@@ -770,5 +770,10 @@
 - name: halloween
   strings: 
     - ":halloween:"
-    - ":хэллоуин::"
+    - ":хэллоуин:"
   location: "assets/pixelmon/halloween.png"
+- name: snowflake
+  strings: 
+    - ":snowflake:"
+    - ":sf:"
+  location: "assets/pixelmon/snowflake.png"

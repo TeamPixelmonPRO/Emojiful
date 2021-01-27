@@ -378,3 +378,12 @@
   strings:
     - ":Itlico:"
   location: "assets/faces/Itlico.png"
+- name: SideSwipeYT
+  strings:
+    - ":side:"
+    - ":sideswipe:"
+    - ":sideswipeyt:"
+    - ":сайд:"
+    - ":сайдсвайп:"
+    - ":сайдсвайпют:"
+  location: "assets/faces/side.png"

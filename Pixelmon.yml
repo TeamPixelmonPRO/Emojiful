@@ -777,3 +777,8 @@
     - ":snowflake:"
     - ":sf:"
   location: "assets/pixelmon/snowflake.png"
+- name: battlepass
+  strings: 
+    - ":battlepass:"
+    - ":bp:"
+  location: "assets/pixelmon/battlepass.png"

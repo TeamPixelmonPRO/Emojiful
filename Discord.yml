@@ -370,3 +370,107 @@
     - "<:jailed:711819504702849097>"
     - ":jd:"
   location: "assets/discord/jailed.png"
+- name: angengar
+  strings:
+    - ":angengar:"
+  location: "assets/discord/angengar.png"
+- name: angrypuff
+  strings:
+    - ":angrypuff:"
+  location: "assets/discord/angrypuff.png"
+- name: buizelaugh
+  strings:
+    - ":buizelaugh:"
+  location: "assets/discord/buizelaugh.png"
+- name: charmanderfacepalm
+  strings:
+    - ":charmanderfacepalm:"
+  location: "assets/discord/charmanderfacepalm.png"
+- name: charmanderidk
+  strings:
+    - ":charmanderidk:"
+  location: "assets/discord/charmanderidk.png"
+- name: charping
+  strings:
+    - ":charping:"
+  location: "assets/discord/charping.png"
+- name: cryowth
+  strings:
+    - ":cryowth:"
+  location: "assets/discord/cryowth.png"
+- name: cryreon
+  strings:
+    - ":cryreon:"
+  location: "assets/discord/cryreon.png"
+- name: cupeevee
+  strings:
+    - ":cupeevee:"
+  location: "assets/discord/cupeevee.png"
+- name: cuteleon
+  strings:
+    - ":cuteleon:"
+  location: "assets/discord/cuteleon.png"
+- name: eeveepalm
+  strings:
+    - ":eeveepalm:"
+  location: "assets/discord/eeveepalm.png"
+- name: gastlaugh
+  strings:
+    - ":gastlaugh:"
+  location: "assets/discord/gastlaugh.png"
+- name: genglaugh
+  strings:
+    - ":genglaugh:"
+  location: "assets/discord/genglaugh.png"
+- name: himew
+  strings:
+    - ":himew:"
+  location: "assets/discord/himew.png"
+- name: hisire
+  strings:
+    - ":hisire:"
+  location: "assets/discord/hisire.png"
+- name: lovechu
+  strings:
+    - ":lovechu:"
+  location: "assets/discord/lovechu.png"
+- name: oshacool
+  strings:
+    - ":oshacool:"
+  location: "assets/discord/oshacool.png"
+- name: pikachuuu
+  strings:
+    - ":pikachuuu:"
+  location: "assets/discord/pikachuuu.png"
+- name: psyduckwow
+  strings:
+    - ":psyduckwow:"
+  location: "assets/discord/psyduckwow.png"
+- name: raichyeah
+  strings:
+    - ":raichyeah:"
+  location: "assets/discord/raichyeah.png"
+- name: slowlagging
+  strings:
+    - ":slowlagging:"
+  location: "assets/discord/slowlagging.png"
+- name: snorlaxeat
+  strings:
+    - ":snorlaxeat:"
+  location: "assets/discord/snorlaxeat.png"
+- name: squirwow
+  strings:
+    - ":squirwow:"
+  location: "assets/discord/squirwow.png"
+- name: thinkle
+  strings:
+    - ":thinkle:"
+  location: "assets/discord/thinkle.png"
+- name: wowduck
+  strings:
+    - ":wowduck:"
+  location: "assets/discord/wowduck.png"
+- name: zzznorlax
+  strings:
+    - ":zzznorlax:"
+  location: "assets/discord/zzznorlax.png"

@@ -387,3 +387,9 @@
     - ":сайдсвайп:"
     - ":сайдсвайпют:"
   location: "assets/faces/side.png"
+- name: adir
+  strings:
+    - ":adir:"
+    - ":kekw:"
+    - ":adir951:"
+  location: "assets/faces/adir.png"

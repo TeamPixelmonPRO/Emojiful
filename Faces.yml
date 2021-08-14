@@ -393,3 +393,9 @@
     - ":kekw:"
     - ":adir951:"
   location: "assets/faces/adir.png"
+- name: skifplay
+  strings:
+    - ":skif:"
+    - ":skifplay:"
+    - ":dOobriy:"
+  location: "assets/faces/skif.png"

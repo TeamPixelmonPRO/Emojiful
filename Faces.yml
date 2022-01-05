@@ -399,3 +399,12 @@
     - ":skifplay:"
     - ":dOobriy:"
   location: "assets/faces/skif.png"
+- name: MarshallMetters
+  strings:
+    - ":mars:"
+    - ":marshall:"
+    - ":marshallmetters:"
+    - ":marshall_metters:"
+    - ":маршал:"
+    - ":марс:"
+  location: "assets/faces/mars.png"

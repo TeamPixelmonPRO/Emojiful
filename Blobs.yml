@@ -38,6 +38,7 @@
    location: "assets/blobs/blobcataww.png"
    strings: 
    - ":blobcataww:"
+   - ":bcw:"
 -  name: blobcatb1nzy
    location: "assets/blobs/blobcatb1nzy.png"
    strings: 

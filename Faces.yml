@@ -295,6 +295,7 @@
 - name: roflaneska
   strings:
     - ":roflaneska:"
+    - ":rfs:"
   location: "assets/faces/roflaneska.png"
 - name: gfffl
   strings:

@@ -410,3 +410,11 @@
     - ":маршал:"
     - ":марс:"
   location: "assets/faces/mars.png"
+- name: littleduck
+  strings:
+    - ":little_duck:"
+    - ":littleduck:"
+    - ":duck:"
+    - ":ld:"
+    - ":утка:"
+  location: "assets/faces/duck.png"

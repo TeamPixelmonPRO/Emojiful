@@ -782,3 +782,52 @@
     - ":battlepass:"
     - ":bp:"
   location: "assets/pixelmon/battlepass.png"
+- name: shield1
+  strings: 
+    - ":shield1:"
+    - ":r1:"
+    - ":рыцарь:"
+    - ":knight:"
+  location: "assets/pixelmon/shield1.png"
+- name: shield2
+  strings: 
+    - ":shield2:"
+    - ":r2:"
+    - ":барон:"
+    - ":baron:"
+  location: "assets/pixelmon/shield2.png"
+- name: shield3
+  strings: 
+    - ":shield3:"
+    - ":r3:"
+    - ":виконт:"
+    - ":viscount:"
+  location: "assets/pixelmon/shield3.png"
+- name: shield4
+  strings: 
+    - ":shield4:"
+    - ":r4:"
+    - ":граф:"
+    - ":earl:"
+  location: "assets/pixelmon/shield4.png"
+- name: shield5
+  strings: 
+    - ":shield5:"
+    - ":r5:"
+    - ":маркиз:"
+    - ":marquis:"
+  location: "assets/pixelmon/shield5.png"
+- name: shield6
+  strings: 
+    - ":shield6:"
+    - ":r6:"
+    - ":герцог:"
+    - ":duke:"
+  location: "assets/pixelmon/shield6.png"
+- name: shield7
+  strings: 
+    - ":shield7:"
+    - ":r7:"
+    - ":великийгерцог:"
+    - ":grandduke:"
+  location: "assets/pixelmon/shield7.png"

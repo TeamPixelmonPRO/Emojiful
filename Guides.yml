@@ -131,12 +131,20 @@
   strings: 
     - "«"
     - "«["
+    - "«&a["
+    - "«§a["
     - "о["
   location: "assets/guides/misc1.png"
 - name: misc2
   strings: 
     - "»"
     - "]»"
+    - "&a]»"
+    - "&a]&r»"
+    - "&a]&f»"
+    - "§a]»"
+    - "§a]§r»"
+    - "§a]§f»"
     - "]п"
   location: "assets/guides/misc2.png"
 - name: sunrise1

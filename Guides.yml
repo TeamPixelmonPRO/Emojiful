@@ -130,11 +130,13 @@
 - name: misc1
   strings: 
     - "«"
+    - "«["
     - "о["
   location: "assets/guides/misc1.png"
 - name: misc2
   strings: 
     - "»"
+    - "]»"
     - "]п"
   location: "assets/guides/misc2.png"
 - name: sunrise1

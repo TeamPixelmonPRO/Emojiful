@@ -831,3 +831,8 @@
     - ":великийгерцог:"
     - ":grandduke:"
   location: "assets/pixelmon/shield7.png"
+- name: pokedollar_eugene
+  strings: 
+    - ":pd:"
+    - ":пд:"
+  location: "assets/pixelmon/pd.png"

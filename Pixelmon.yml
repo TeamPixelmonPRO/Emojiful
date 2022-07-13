@@ -836,3 +836,8 @@
     - ":pd:"
     - ":пд:"
   location: "assets/pixelmon/pd.png"
+- name: qazwseer2
+  strings: 
+    - ":qazw:"
+    - ":qwaz:"
+  location: "assets/faces/qazw.png"

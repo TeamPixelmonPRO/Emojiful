@@ -418,3 +418,10 @@
     - ":ld:"
     - ":утка:"
   location: "assets/faces/duck.png"
+- name: bekzat
+  strings:
+    - ":gull:"
+    - ":gl:"
+    - ":kanna:"
+    - ":bekzat:"
+  location: "assets/faces/bekzat.png"

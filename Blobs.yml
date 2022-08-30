@@ -127,6 +127,7 @@
    location: "assets/blobs/blobcatninja.png"
    strings: 
    - ":blobcatninja:"
+   - ":bcn:"
 -  name: blobcatnomcookie
    location: "assets/blobs/blobcatnomcookie.png"
    strings: 

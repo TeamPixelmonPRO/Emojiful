@@ -389,6 +389,7 @@
 - name: charmanderidk
   strings:
     - ":charmanderidk:"
+    - ":cdk:"
   location: "assets/discord/charmanderidk.png"
 - name: charping
   strings:

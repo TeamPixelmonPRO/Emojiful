@@ -1,6 +1,6 @@
 {
     "api": {
-      "importings": "https://emojicord.teamfruit.net/connect/",
+      "importings": "https://discord/pixelmon.pro",
       "analytics": null
     },
     "emojis": [
@@ -8,5 +8,8 @@
     ],
     "picker": [
       "https://raw.githubusercontent.com/TeamPixelmonPRO/Emojiful/master/categories.min.json"
+    ],
+    "discord": [
+      "https://raw.githubusercontent.com/TeamPixelmonPRO/Emojiful/master/discord.json"
     ]
   }

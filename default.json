@@ -5778,7 +5778,7 @@
         {
           "name": "star",
           "strings": [
-            "star"
+            "star2"
           ],
           "location": "2b50.png",
           "surrogates": "⭐"
@@ -5786,7 +5786,7 @@
         {
           "name": "star2",
           "strings": [
-            "star2"
+            "star3"
           ],
           "location": "1f31f.png",
           "surrogates": "🌟"
@@ -6150,7 +6150,7 @@
         {
           "name": "apple",
           "strings": [
-            "apple"
+            "apple_orig"
           ],
           "location": "1f34e.png",
           "surrogates": "🍎"
@@ -6368,7 +6368,7 @@
         {
           "name": "pizza",
           "strings": [
-            "pizza"
+            "pizza_orig"
           ],
           "location": "1f355.png",
           "surrogates": "🍕"
@@ -6538,7 +6538,7 @@
         {
           "name": "candy",
           "strings": [
-            "candy"
+            "candy_orig"
           ],
           "location": "1f36c.png",
           "surrogates": "🍬"
@@ -6651,7 +6651,7 @@
         {
           "name": "coffee",
           "strings": [
-            "coffee"
+            "coffee_orig"
           ],
           "location": "2615.png",
           "surrogates": "☕"
@@ -6794,7 +6794,7 @@
         {
           "name": "egg",
           "strings": [
-            "egg"
+            "egg_orig"
           ],
           "location": "1f95a.png",
           "surrogates": "🥚"
@@ -8729,7 +8729,7 @@
         {
           "name": "sunrise",
           "strings": [
-            "sunrise"
+            "sunrise_orig"
           ],
           "location": "1f305.png",
           "surrogates": "🌅"
@@ -9210,7 +9210,7 @@
         {
           "name": "camera",
           "strings": [
-            "camera"
+            "camera_orig"
           ],
           "location": "1f4f7.png",
           "surrogates": "📷"
@@ -9357,7 +9357,7 @@
         {
           "name": "clock",
           "strings": [
-            "clock",
+            "clock_orig",
             "mantlepiece_clock"
           ],
           "location": "1f570.png",
@@ -9455,7 +9455,7 @@
         {
           "name": "dollar",
           "strings": [
-            "dollar"
+            "dollar_orig"
           ],
           "location": "1f4b5.png",
           "surrogates": "💵"
@@ -11346,7 +11346,7 @@
         {
           "name": "warning",
           "strings": [
-            "warning"
+            "warning_orig"
           ],
           "location": "26a0.png",
           "surrogates": "⚠"
@@ -11893,7 +11893,7 @@
         {
           "name": "arrow_right",
           "strings": [
-            "arrow_right"
+            "arrow_right_orig"
           ],
           "location": "27a1.png",
           "surrogates": "➡"
@@ -11901,7 +11901,7 @@
         {
           "name": "arrow_left",
           "strings": [
-            "arrow_left"
+            "arrow_left_orig"
           ],
           "location": "2b05.png",
           "surrogates": "⬅"
@@ -12430,7 +12430,7 @@
         {
           "name": "mute",
           "strings": [
-            "mute"
+            "mute_orig"
           ],
           "location": "1f507.png",
           "surrogates": "🔇"
@@ -15454,6 +15454,4365 @@
           "strings": [
             ":blobcoolcat:"
           ]
+        }
+      ]
+    },
+    {
+      "location": "https://raw.githubusercontent.com/TeamPixelmonPRO/Emojiful/master/assets/discord/",
+      "emojis": [
+        {
+          "name": "thonk",
+          "strings": [
+            ":thonk:",
+            ":хммм:"
+          ],
+          "location": "thonk.png",
+          "surrogates": "50"
+        },
+        {
+          "name": "thonkbutcool",
+          "strings": [
+            ":thonkbutcool:",
+            ":хмммм:"
+          ],
+          "location": "thonkbutcool.png",
+          "surrogates": "51"
+        },
+        {
+          "name": "balance",
+          "strings": [
+            ":balance:",
+            ":bal:",
+            ":деньги:",
+            ":баланс:",
+            ":валюта:"
+          ],
+          "location": "balance.png",
+          "surrogates": "52"
+        },
+        {
+          "name": "lul",
+          "strings": [
+            ":lul:",
+            ":лол:",
+            ":лул:",
+            ":лолъ:",
+            ":лоль:"
+          ],
+          "location": "lul.png",
+          "surrogates": "53"
+        },
+        {
+          "name": "oof",
+          "strings": [
+            ":oof:"
+          ],
+          "location": "oof.png",
+          "surrogates": "54"
+        },
+        {
+          "name": "pogchamp",
+          "strings": [
+            ":pogchamp:"
+          ],
+          "location": "pogchamp.png",
+          "surrogates": "55"
+        },
+        {
+          "name": "ruined",
+          "strings": [
+            ":ruined:"
+          ],
+          "location": "ruined.png",
+          "surrogates": "56"
+        },
+        {
+          "name": "okfa",
+          "strings": [
+            ":okface:",
+            ":ok_face:"
+          ],
+          "location": "okfa.png",
+          "surrogates": "57"
+        },
+        {
+          "name": "pikachu",
+          "strings": [
+            ":pikachu:",
+            ":пикачу:"
+          ],
+          "location": "pikachu.png",
+          "surrogates": "58"
+        },
+        {
+          "name": "pika",
+          "strings": [
+            ":pika:",
+            ":пика:"
+          ],
+          "location": "pika.png",
+          "surrogates": "59"
+        },
+        {
+          "name": "scroll",
+          "strings": [
+            ":scroll:"
+          ],
+          "location": "scroll.png",
+          "surrogates": "60"
+        },
+        {
+          "name": "shrug",
+          "strings": [
+            ":shrug:",
+            ":разводитруками:"
+          ],
+          "location": "shrug.png",
+          "surrogates": "61"
+        },
+        {
+          "name": "shrug1",
+          "strings": [
+            ":shrug1:",
+            ":разводитруками1:"
+          ],
+          "location": "shrug1.png",
+          "surrogates": "62"
+        },
+        {
+          "name": "rip",
+          "strings": [
+            ":могилка:",
+            ":могила:",
+            ":rip:"
+          ],
+          "location": "rip.png",
+          "surrogates": "63"
+        },
+        {
+          "name": "hs_brilliance",
+          "strings": [
+            ":hs_brilliance:"
+          ],
+          "location": "hsbrilliance.png",
+          "surrogates": "64"
+        },
+        {
+          "name": "hs_balance",
+          "strings": [
+            ":hs_balance:"
+          ],
+          "location": "hsbalance.png",
+          "surrogates": "65"
+        },
+        {
+          "name": "hs_bravery",
+          "strings": [
+            ":hs_bravery:"
+          ],
+          "location": "hsbravery.png",
+          "surrogates": "66"
+        },
+        {
+          "name": "fedora",
+          "strings": [
+            ":fedora:"
+          ],
+          "location": "fedora.png",
+          "surrogates": "67"
+        },
+        {
+          "name": "whip",
+          "strings": [
+            ":whip:"
+          ],
+          "location": "whip.png",
+          "surrogates": "68"
+        },
+        {
+          "name": "heart_2",
+          "strings": [
+            ":heart_2:"
+          ],
+          "location": "heart1.png",
+          "surrogates": "69"
+        },
+        {
+          "name": "calc",
+          "strings": [
+            ":calc:"
+          ],
+          "location": "calc.png",
+          "surrogates": "70"
+        },
+        {
+          "name": "coolthink",
+          "strings": [
+            ":coolthink:"
+          ],
+          "location": "coolthink.png",
+          "surrogates": "71"
+        },
+        {
+          "name": "fishcowboy",
+          "strings": [
+            ":fishcowboy:"
+          ],
+          "location": "fishcowboy.png",
+          "surrogates": "72"
+        },
+        {
+          "name": "dollar_2",
+          "strings": [
+            ":pokedollars:",
+            ":dollar_2:"
+          ],
+          "location": "dollar_2.png",
+          "surrogates": "73"
+        },
+        {
+          "name": "ban_hummer",
+          "strings": [
+            ":ban_hummer:",
+            ":ban_hammer:",
+            ":banhummer:",
+            ":банхаммер:"
+          ],
+          "location": "ban_hummer.png",
+          "surrogates": "74"
+        },
+        {
+          "name": "pixeltop",
+          "strings": [
+            ":pixeltop:"
+          ],
+          "location": "pixeltop.png",
+          "surrogates": "75"
+        },
+        {
+          "name": "squirrel",
+          "strings": [
+            ":squirrel:"
+          ],
+          "location": "squirrel.png",
+          "surrogates": "76"
+        },
+        {
+          "name": "smirk",
+          "strings": [
+            ":smirk:"
+          ],
+          "location": "smirk.png",
+          "surrogates": "77"
+        },
+        {
+          "name": "pizza",
+          "strings": [
+            ":pizzaz:",
+            ":pizza",
+            ":пицца:"
+          ],
+          "location": "pizza.png",
+          "surrogates": "78"
+        },
+        {
+          "name": "hee",
+          "strings": [
+            ":hee:",
+            ":хее:"
+          ],
+          "location": "hee.png",
+          "surrogates": "79"
+        },
+        {
+          "name": "nooo",
+          "strings": [
+            ":nooo:",
+            ":нееет:"
+          ],
+          "location": "nooo.png",
+          "surrogates": "80"
+        },
+        {
+          "name": "owner",
+          "strings": [
+            ":owner:"
+          ],
+          "location": "owner.png",
+          "surrogates": "81"
+        },
+        {
+          "name": "truedat",
+          "strings": [
+            ":truedat:"
+          ],
+          "location": "truedat.png",
+          "surrogates": "82"
+        },
+        {
+          "name": "sweatsmile",
+          "strings": [
+            ":sweat_smile:"
+          ],
+          "location": "sweat_smile.png",
+          "surrogates": "83"
+        },
+        {
+          "name": "cross",
+          "strings": [
+            ":cross:"
+          ],
+          "location": "cross.png",
+          "surrogates": "84"
+        },
+        {
+          "name": "coolpoop",
+          "strings": [
+            ":coolpoop:",
+            ":крутаяговняшка:"
+          ],
+          "location": "coolpoop.png",
+          "surrogates": "85"
+        },
+        {
+          "name": "umbreonrealy",
+          "strings": [
+            ":umbreonrealy:",
+            ":umbreonreally:",
+            ":umbreonwhat:",
+            ":umbwhat:"
+          ],
+          "location": "umbreonrealy.png",
+          "surrogates": "86"
+        },
+        {
+          "name": "twitch",
+          "strings": [
+            ":twitch:",
+            ":tw:",
+            ":твитч:",
+            ":твич:"
+          ],
+          "location": "twitch.png",
+          "surrogates": "87"
+        },
+        {
+          "name": "neron",
+          "strings": [
+            "[N]",
+            ":nero:",
+            ":neron:",
+            ":неро:",
+            ":нерон:"
+          ],
+          "location": "neron.png",
+          "surrogates": "88"
+        },
+        {
+          "name": "default",
+          "strings": [
+            "<:defailt:711752304327393310>",
+            ":d0:"
+          ],
+          "location": "default.png",
+          "surrogates": "89"
+        },
+        {
+          "name": "pokedex1",
+          "strings": [
+            "<:pokedex1:711404425637527563>",
+            ":p0:"
+          ],
+          "location": "pokedex1.png",
+          "surrogates": "90"
+        },
+        {
+          "name": "pokedex10",
+          "strings": [
+            "<:pokedex10:711410224401088564>",
+            ":p1:"
+          ],
+          "location": "pokedex10.png",
+          "surrogates": "91"
+        },
+        {
+          "name": "pokedex20",
+          "strings": [
+            "<:pokedex20:711410225252532344>",
+            ":p2:"
+          ],
+          "location": "pokedex20.png",
+          "surrogates": "92"
+        },
+        {
+          "name": "pokedex30",
+          "strings": [
+            "<:pokedex30:711404424752398357>",
+            ":p3:"
+          ],
+          "location": "pokedex30.png",
+          "surrogates": "93"
+        },
+        {
+          "name": "pokedex40",
+          "strings": [
+            "<:pokedex40:711410226217222174>",
+            ":p4:"
+          ],
+          "location": "pokedex40.png",
+          "surrogates": "94"
+        },
+        {
+          "name": "pokedex50",
+          "strings": [
+            "<:pokedex50:711410226057707524>",
+            ":p5:"
+          ],
+          "location": "pokedex50.png",
+          "surrogates": "95"
+        },
+        {
+          "name": "pokedex60",
+          "strings": [
+            "<:pokedex60:711404424148418672>",
+            ":p6:"
+          ],
+          "location": "pokedex60.png",
+          "surrogates": "96"
+        },
+        {
+          "name": "pokedex70",
+          "strings": [
+            "<:pokedex70:711410225839603743>",
+            ":p7:"
+          ],
+          "location": "pokedex70.png",
+          "surrogates": "97"
+        },
+        {
+          "name": "pokedex80",
+          "strings": [
+            "<:pokedex80:711410225697128498>",
+            ":p8:"
+          ],
+          "location": "pokedex80.png",
+          "surrogates": "98"
+        },
+        {
+          "name": "pokedex90",
+          "strings": [
+            "<:pokedex90:711404425192931359>",
+            ":p9:"
+          ],
+          "location": "pokedex90.png",
+          "surrogates": "99"
+        },
+        {
+          "name": "pokedex100",
+          "strings": [
+            "<:pokedex100:711404425008382023>",
+            ":pm:"
+          ],
+          "location": "pokedex100.png",
+          "surrogates": "100"
+        },
+        {
+          "name": "premium1",
+          "strings": [
+            "<:premium1:711404425171959950>",
+            ":b1:"
+          ],
+          "location": "premium1.png",
+          "surrogates": "101"
+        },
+        {
+          "name": "premium2",
+          "strings": [
+            "<:premium2:711404423867269180>",
+            ":b2:"
+          ],
+          "location": "premium2.png",
+          "surrogates": "102"
+        },
+        {
+          "name": "premium3",
+          "strings": [
+            "<:premium3:711404423259095041>",
+            ":b3:"
+          ],
+          "location": "premium3.png",
+          "surrogates": "103"
+        },
+        {
+          "name": "premium4",
+          "strings": [
+            "<:premium4:711404424874164295>",
+            ":b4:"
+          ],
+          "location": "premium4.png",
+          "surrogates": "104"
+        },
+        {
+          "name": "premium5",
+          "strings": [
+            "<:premium5:711404425188606013>",
+            ":b5:"
+          ],
+          "location": "premium5.png",
+          "surrogates": "105"
+        },
+        {
+          "name": "sd1500",
+          "strings": [
+            "<:sd1500:711808504146559038>",
+            ":s1:"
+          ],
+          "location": "sd1500.png",
+          "surrogates": "106"
+        },
+        {
+          "name": "sd1750",
+          "strings": [
+            "<:sd1750:711808504842813511>",
+            ":s2:"
+          ],
+          "location": "sd1750.png",
+          "surrogates": "107"
+        },
+        {
+          "name": "sd2000",
+          "strings": [
+            "<:sd2000:711808504951996509>",
+            ":s3:"
+          ],
+          "location": "sd2000.png",
+          "surrogates": "108"
+        },
+        {
+          "name": "sd2250",
+          "strings": [
+            "<:sd2250:711808503991500891>",
+            ":s4:"
+          ],
+          "location": "sd2250.png",
+          "surrogates": "109"
+        },
+        {
+          "name": "sd2500",
+          "strings": [
+            "<:sd2500:711808504293359647>",
+            ":s5:"
+          ],
+          "location": "sd2500.png",
+          "surrogates": "110"
+        },
+        {
+          "name": "beginbuilder",
+          "strings": [
+            "<:beginbuilder:711430277758451804>",
+            ":m9:"
+          ],
+          "location": "beginbuilder.png",
+          "surrogates": "111"
+        },
+        {
+          "name": "buildernew",
+          "strings": [
+            "<:builder:711430277750194246>",
+            ":m8:"
+          ],
+          "location": "builder.png",
+          "surrogates": "112"
+        },
+        {
+          "name": "headbuilder",
+          "strings": [
+            "<:headbuilder:711430277087494194>",
+            ":m7:"
+          ],
+          "location": "headbuilder.png",
+          "surrogates": "113"
+        },
+        {
+          "name": "beginmentor",
+          "strings": [
+            "<:beginmentor:711430277603393557>",
+            ":m6:"
+          ],
+          "location": "beginmentor.png",
+          "surrogates": "114"
+        },
+        {
+          "name": "mentornew",
+          "strings": [
+            "<:mentor:711430278916210710>",
+            ":m5:"
+          ],
+          "location": "mentor.png",
+          "surrogates": "115"
+        },
+        {
+          "name": "headmentor",
+          "strings": [
+            "<:headmentor:711430278299516988>",
+            ":m4:"
+          ],
+          "location": "headmentor.png",
+          "surrogates": "116"
+        },
+        {
+          "name": "beginmoder",
+          "strings": [
+            "<:beginmoder:711430276378656789>",
+            ":m3:"
+          ],
+          "location": "beginmoder.png",
+          "surrogates": "117"
+        },
+        {
+          "name": "modernew",
+          "strings": [
+            "<:moder:711430278840582185>",
+            ":m2:"
+          ],
+          "location": "moder.png",
+          "surrogates": "118"
+        },
+        {
+          "name": "headmoder",
+          "strings": [
+            "<:headmoder:711430278551437333>",
+            ":m1:"
+          ],
+          "location": "headmoder.png",
+          "surrogates": "119"
+        },
+        {
+          "name": "adminowner",
+          "strings": [
+            "<:admin:711404425037611058>",
+            ":m0:"
+          ],
+          "location": "admin.png",
+          "surrogates": "120"
+        },
+        {
+          "name": "helldim",
+          "strings": [
+            "<:the_hell:711759095526588497>",
+            ":d1:"
+          ],
+          "location": "hell.png",
+          "surrogates": "121"
+        },
+        {
+          "name": "enddim",
+          "strings": [
+            "<:the_end:711759096566513745>",
+            ":d2:"
+          ],
+          "location": "end.png",
+          "surrogates": "122"
+        },
+        {
+          "name": "ultradim",
+          "strings": [
+            "<:ultra:711759097908953150>",
+            ":d3:"
+          ],
+          "location": "wormhole.png",
+          "surrogates": "123"
+        },
+        {
+          "name": "jailed",
+          "strings": [
+            "<:jailed:711819504702849097>",
+            ":jd:"
+          ],
+          "location": "jailed.png",
+          "surrogates": "124"
+        },
+        {
+          "name": "angengar",
+          "strings": [
+            ":angengar:"
+          ],
+          "location": "angengar.png",
+          "surrogates": "125"
+        },
+        {
+          "name": "angrypuff",
+          "strings": [
+            ":angrypuff:"
+          ],
+          "location": "angrypuff.png",
+          "surrogates": "126"
+        },
+        {
+          "name": "buizelaugh",
+          "strings": [
+            ":buizelaugh:"
+          ],
+          "location": "buizelaugh.png",
+          "surrogates": "127"
+        },
+        {
+          "name": "charmanderfacepalm",
+          "strings": [
+            ":charmanderfacepalm:"
+          ],
+          "location": "charmanderfacepalm.png",
+          "surrogates": "128"
+        },
+        {
+          "name": "charmanderidk",
+          "strings": [
+            ":charmanderidk:",
+            ":cdk:"
+          ],
+          "location": "charmanderidk.png",
+          "surrogates": "129"
+        },
+        {
+          "name": "charping",
+          "strings": [
+            ":charping:"
+          ],
+          "location": "charping.png",
+          "surrogates": "130"
+        },
+        {
+          "name": "cryowth",
+          "strings": [
+            ":cryowth:"
+          ],
+          "location": "cryowth.png",
+          "surrogates": "131"
+        },
+        {
+          "name": "cryreon",
+          "strings": [
+            ":cryreon:"
+          ],
+          "location": "cryreon.png",
+          "surrogates": "132"
+        },
+        {
+          "name": "cupeevee",
+          "strings": [
+            ":cupeevee:"
+          ],
+          "location": "cupeevee.png",
+          "surrogates": "133"
+        },
+        {
+          "name": "cuteleon",
+          "strings": [
+            ":cuteleon:"
+          ],
+          "location": "cuteleon.png",
+          "surrogates": "134"
+        },
+        {
+          "name": "eeveepalm",
+          "strings": [
+            ":eeveepalm:"
+          ],
+          "location": "eeveepalm.png",
+          "surrogates": "135"
+        },
+        {
+          "name": "gastlaugh",
+          "strings": [
+            ":gastlaugh:"
+          ],
+          "location": "gastlaugh.png",
+          "surrogates": "136"
+        },
+        {
+          "name": "genglaugh",
+          "strings": [
+            ":genglaugh:"
+          ],
+          "location": "genglaugh.png",
+          "surrogates": "137"
+        },
+        {
+          "name": "happevee",
+          "strings": [
+            ":happevee:",
+            ":happyeevee:",
+            ":hev:"
+          ],
+          "location": "happevee.png",
+          "surrogates": "138"
+        },
+        {
+          "name": "himew",
+          "strings": [
+            ":himew:"
+          ],
+          "location": "himew.png",
+          "surrogates": "139"
+        },
+        {
+          "name": "hisire",
+          "strings": [
+            ":hisire:"
+          ],
+          "location": "hisire.png",
+          "surrogates": "140"
+        },
+        {
+          "name": "lovechu",
+          "strings": [
+            ":lovechu:"
+          ],
+          "location": "lovechu.png",
+          "surrogates": "141"
+        },
+        {
+          "name": "oshacool",
+          "strings": [
+            ":oshacool:"
+          ],
+          "location": "oshacool.png",
+          "surrogates": "142"
+        },
+        {
+          "name": "pikachuuu",
+          "strings": [
+            ":pikachuuu:"
+          ],
+          "location": "pikachuuu.png",
+          "surrogates": "143"
+        },
+        {
+          "name": "psyduckwow",
+          "strings": [
+            ":psyduckwow:"
+          ],
+          "location": "psyduckwow.png",
+          "surrogates": "144"
+        },
+        {
+          "name": "raichyeah",
+          "strings": [
+            ":raichyeah:"
+          ],
+          "location": "raichyeah.png",
+          "surrogates": "145"
+        },
+        {
+          "name": "slowlagging",
+          "strings": [
+            ":slowlagging:"
+          ],
+          "location": "slowlagging.png",
+          "surrogates": "146"
+        },
+        {
+          "name": "snorlaxeat",
+          "strings": [
+            ":snorlaxeat:"
+          ],
+          "location": "snorlaxeat.png",
+          "surrogates": "147"
+        },
+        {
+          "name": "squirwow",
+          "strings": [
+            ":squirwow:"
+          ],
+          "location": "squirwow.png",
+          "surrogates": "148"
+        },
+        {
+          "name": "thinkle",
+          "strings": [
+            ":thinkle:"
+          ],
+          "location": "thinkle.png",
+          "surrogates": "149"
+        },
+        {
+          "name": "wowduck",
+          "strings": [
+            ":wowduck:"
+          ],
+          "location": "wowduck.png",
+          "surrogates": "150"
+        },
+        {
+          "name": "zzznorlax",
+          "strings": [
+            ":zzznorlax:"
+          ],
+          "location": "zzznorlax.png",
+          "surrogates": "151"
+        }
+      ]
+    },
+    {
+      "location": "https://raw.githubusercontent.com/TeamPixelmonPRO/Emojiful/master/assets/faces/",
+      "emojis": [
+        {
+          "name": "sad",
+          "strings": [
+            ":sad:"
+          ],
+          "location": "sad.png",
+          "surrogates": "152"
+        },
+        {
+          "name": "sadcat",
+          "strings": [
+            ":GWfroggySadCat:",
+            ":sadcat:"
+          ],
+          "location": "sadcat.png",
+          "surrogates": "153"
+        },
+        {
+          "name": "oil",
+          "strings": [
+            ":GWqlabsOilUp:",
+            ":gwoil:"
+          ],
+          "location": "oil.png",
+          "surrogates": "154"
+        },
+        {
+          "name": "kek",
+          "strings": [
+            ":GWqlabsKek:",
+            ":kek:",
+            ":кек:"
+          ],
+          "location": "kek.png",
+          "surrogates": "155"
+        },
+        {
+          "name": "ban",
+          "strings": [
+            ":GWqlabsBan1",
+            ":ban:",
+            ":бан:"
+          ],
+          "location": "ban.png",
+          "surrogates": "156"
+        },
+        {
+          "name": "thinking",
+          "strings": [
+            ":задумался:",
+            ":хм:",
+            ":хмм:"
+          ],
+          "location": "thinking.png",
+          "surrogates": "157"
+        },
+        {
+          "name": "angry",
+          "strings": [
+            ":злой:",
+            ":злость:"
+          ],
+          "location": "angry.png",
+          "surrogates": "158"
+        },
+        {
+          "name": "rage",
+          "strings": [
+            ":ярость:",
+            ":гнев:"
+          ],
+          "location": "rage.png",
+          "surrogates": "159"
+        },
+        {
+          "name": "neutral",
+          "strings": [
+            ":neutral:",
+            ":|",
+            "|:",
+            ":пофиг:"
+          ],
+          "location": "neutral.png",
+          "surrogates": "160"
+        },
+        {
+          "name": "joy",
+          "strings": [
+            ":D",
+            ":Д:",
+            ":аха:",
+            ":ахах:",
+            ":ахаха:",
+            ":ахахах:",
+            ":хах:",
+            ":хаха:",
+            ":хахах:",
+            ":хахаха:",
+            ":хех:",
+            ":хехе:",
+            ":хехех:",
+            ":хехехе:",
+            ":хых:",
+            ":аза:",
+            ":азаз:",
+            ":азаза:",
+            ":азазаз:",
+            ":смех:",
+            ":смешно:"
+          ],
+          "location": "joy.png",
+          "surrogates": "161"
+        },
+        {
+          "name": "Oo",
+          "strings": [
+            ":Oo:",
+            "Oo",
+            "D:"
+          ],
+          "location": "oo.png",
+          "surrogates": "162"
+        },
+        {
+          "name": "shocked",
+          "strings": [
+            ":shocked:",
+            "O:",
+            ":O",
+            ":ого:",
+            ":огоо:",
+            ":огооо:",
+            ":О",
+            "О:"
+          ],
+          "location": "shocked.png",
+          "surrogates": "163"
+        },
+        {
+          "name": "dunno",
+          "strings": [
+            ":dunno:",
+            ":разводитруками:",
+            ":незнаю:"
+          ],
+          "location": "dunno.png",
+          "surrogates": "164"
+        },
+        {
+          "name": "eyy",
+          "strings": [
+            ":eyy:"
+          ],
+          "location": "eyy.png",
+          "surrogates": "165"
+        },
+        {
+          "name": "smarts",
+          "strings": [
+            ":smarts:"
+          ],
+          "location": "smarts.png",
+          "surrogates": "166"
+        },
+        {
+          "name": "thraw",
+          "strings": [
+            ":thraw:"
+          ],
+          "location": "thraw.png",
+          "surrogates": "167"
+        },
+        {
+          "name": "please",
+          "strings": [
+            ":please:",
+            "нупожалуйста",
+            "нупж",
+            "нупжж",
+            "пж",
+            ":пж:",
+            "пжж",
+            "пжжж"
+          ],
+          "location": "please.png",
+          "surrogates": "168"
+        },
+        {
+          "name": "coolstory",
+          "strings": [
+            ":coolstorykonoplia:",
+            ":konoplia:",
+            ":coolstory:"
+          ],
+          "location": "coolstory.png",
+          "surrogates": "169"
+        },
+        {
+          "name": "ukdikold",
+          "strings": [
+            ":ukdikold:"
+          ],
+          "location": "ukdikold.png",
+          "surrogates": "170"
+        },
+        {
+          "name": "spravedlivo",
+          "strings": [
+            ":spravedlivo:"
+          ],
+          "location": "spravedlivo.png",
+          "surrogates": "171"
+        },
+        {
+          "name": "maidereasy",
+          "strings": [
+            ":maidereasy:"
+          ],
+          "location": "maidereasy.png",
+          "surrogates": "172"
+        },
+        {
+          "name": "sunglasses",
+          "strings": [
+            ":sunglasses2:",
+            ":круто:"
+          ],
+          "location": "sunglasses.png",
+          "surrogates": "173"
+        },
+        {
+          "name": "nespravedlivo",
+          "strings": [
+            ":nespravedlivo:"
+          ],
+          "location": "nespravedlivo.png",
+          "surrogates": "174"
+        },
+        {
+          "name": "magician",
+          "strings": [
+            ":magician:"
+          ],
+          "location": "magician.png",
+          "surrogates": "175"
+        },
+        {
+          "name": "facepalm",
+          "strings": [
+            ":facepalm2:",
+            ":фейспалм:"
+          ],
+          "location": "facepalm.png",
+          "surrogates": "176"
+        },
+        {
+          "name": "pandaren",
+          "strings": [
+            ":pandaren:"
+          ],
+          "location": "pandaren.png",
+          "surrogates": "177"
+        },
+        {
+          "name": "roflaneska",
+          "strings": [
+            ":roflaneska:",
+            ":rfs:"
+          ],
+          "location": "roflaneska.png",
+          "surrogates": "178"
+        },
+        {
+          "name": "gfffl",
+          "strings": [
+            ":chika:"
+          ],
+          "location": "gfffl.png",
+          "surrogates": "179"
+        },
+        {
+          "name": "gfffl2",
+          "strings": [
+            ":animelike:"
+          ],
+          "location": "gfffl2.png",
+          "surrogates": "180"
+        },
+        {
+          "name": "manioknazabiv",
+          "strings": [
+            ":manioknazabiv:",
+            ":maniok:",
+            ":ricardo"
+          ],
+          "location": "manioknazabiv.png",
+          "surrogates": "181"
+        },
+        {
+          "name": "mmm",
+          "strings": [
+            ":mmm:"
+          ],
+          "location": "mmm.png",
+          "surrogates": "182"
+        },
+        {
+          "name": "hokage",
+          "strings": [
+            ":hokage:"
+          ],
+          "location": "hokage.png",
+          "surrogates": "183"
+        },
+        {
+          "name": "plovegold",
+          "strings": [
+            ":plovegold:"
+          ],
+          "location": "plovegold.png",
+          "surrogates": "184"
+        },
+        {
+          "name": "triumph",
+          "strings": [
+            ":triumph:"
+          ],
+          "location": "triumph.png",
+          "surrogates": "185"
+        },
+        {
+          "name": "roflanpominki",
+          "strings": [
+            ":roflanpominki:"
+          ],
+          "location": "roflanpominki.png",
+          "surrogates": "186"
+        },
+        {
+          "name": "pomolchi",
+          "strings": [
+            ":pomolchi:"
+          ],
+          "location": "pomolchi.png",
+          "surrogates": "187"
+        },
+        {
+          "name": "ytrechka",
+          "strings": [
+            ":ytrechka:"
+          ],
+          "location": "ytrechka.png",
+          "surrogates": "188"
+        },
+        {
+          "name": "pravdacho",
+          "strings": [
+            ":pravdacho:"
+          ],
+          "location": "pravdacho.png",
+          "surrogates": "189"
+        },
+        {
+          "name": "noanimepenguin",
+          "strings": [
+            ":noanimepenguin:"
+          ],
+          "location": "NoAnimePenguin.png",
+          "surrogates": "190"
+        },
+        {
+          "name": "moyai",
+          "strings": [
+            ":moyai:"
+          ],
+          "location": "moyai.png",
+          "surrogates": "191"
+        },
+        {
+          "name": "dintrigg",
+          "strings": [
+            ":dintrigg:"
+          ],
+          "location": "DinTrigg.png",
+          "surrogates": "192"
+        },
+        {
+          "name": "smilingimp",
+          "strings": [
+            ":smiling_imp:"
+          ],
+          "location": "smilingimp.png",
+          "surrogates": "193"
+        },
+        {
+          "name": "rollingeyes",
+          "strings": [
+            ":rolling_eyes2:"
+          ],
+          "location": "rollingeyes.png",
+          "surrogates": "194"
+        },
+        {
+          "name": "czheri",
+          "strings": [
+            ":czheri:",
+            ":джерри:"
+          ],
+          "location": "czheri.png",
+          "surrogates": "195"
+        },
+        {
+          "name": "itlico",
+          "strings": [
+            ":itlico:"
+          ],
+          "location": "Itlico.png",
+          "surrogates": "196"
+        },
+        {
+          "name": "SideSwipeYT",
+          "strings": [
+            ":side:",
+            ":sideswipe:",
+            ":sideswipeyt:",
+            ":сайд:",
+            ":сайдсвайп:",
+            ":сайдсвайпют:"
+          ],
+          "location": "side.png",
+          "surrogates": "197"
+        },
+        {
+          "name": "adir",
+          "strings": [
+            ":adir:",
+            ":kekw:",
+            ":adir951:"
+          ],
+          "location": "adir.png",
+          "surrogates": "198"
+        },
+        {
+          "name": "skifplay",
+          "strings": [
+            ":skif:",
+            ":skifplay:",
+            ":doobriy:"
+          ],
+          "location": "skif.png",
+          "surrogates": "199"
+        },
+        {
+          "name": "MarshallMetters",
+          "strings": [
+            ":ml:",
+            ":mars:",
+            ":marshall:",
+            ":marshallmetters:",
+            ":marshall_metters:",
+            ":маршал:",
+            ":марс:"
+          ],
+          "location": "mars.png",
+          "surrogates": "200"
+        },
+        {
+          "name": "littleduck",
+          "strings": [
+            ":little_duck:",
+            ":littleduck:",
+            ":duck2:",
+            ":ld:",
+            ":утка:"
+          ],
+          "location": "duck.png",
+          "surrogates": "201"
+        },
+        {
+          "name": "bekzat",
+          "strings": [
+            ":gull:",
+            ":gl:",
+            ":kanna:",
+            ":bekzat:"
+          ],
+          "location": "bekzat.png",
+          "surrogates": "202"
+        }
+      ]
+    },
+    {
+      "location": "https://raw.githubusercontent.com/TeamPixelmonPRO/Emojiful/master/assets/guides/",
+      "emojis": [
+        {
+          "name": "k-kanto",
+          "strings": [
+            ":k-kanto:"
+          ],
+          "location": "k_kanto.png",
+          "surrogates": "203"
+        },
+        {
+          "name": "a-kanto",
+          "strings": [
+            ":a-kanto:"
+          ],
+          "location": "a_kanto.png",
+          "surrogates": "204"
+        },
+        {
+          "name": "n-kanto",
+          "strings": [
+            ":n-kanto:"
+          ],
+          "location": "n_kanto.png",
+          "surrogates": "205"
+        },
+        {
+          "name": "t-kanto",
+          "strings": [
+            ":t-kanto:"
+          ],
+          "location": "t_kanto.png",
+          "surrogates": "206"
+        },
+        {
+          "name": "o-kanto",
+          "strings": [
+            ":o-kanto:"
+          ],
+          "location": "o_kanto.png",
+          "surrogates": "207"
+        },
+        {
+          "name": "j-johto",
+          "strings": [
+            ":j-johto:"
+          ],
+          "location": "j_johto.png",
+          "surrogates": "208"
+        },
+        {
+          "name": "o-johto",
+          "strings": [
+            ":o-johto:"
+          ],
+          "location": "o_johto.png",
+          "surrogates": "209"
+        },
+        {
+          "name": "h-johto",
+          "strings": [
+            ":h-johto:"
+          ],
+          "location": "h_johto.png",
+          "surrogates": "210"
+        },
+        {
+          "name": "t-johto",
+          "strings": [
+            ":t-johto:"
+          ],
+          "location": "t_johto.png",
+          "surrogates": "211"
+        },
+        {
+          "name": "h-hoenn",
+          "strings": [
+            ":h-hoenn:"
+          ],
+          "location": "h_hoenn.png",
+          "surrogates": "212"
+        },
+        {
+          "name": "o-hoenn",
+          "strings": [
+            ":o-hoenn:"
+          ],
+          "location": "o_hoenn.png",
+          "surrogates": "213"
+        },
+        {
+          "name": "e-hoenn",
+          "strings": [
+            ":e-hoenn:"
+          ],
+          "location": "e_hoenn.png",
+          "surrogates": "214"
+        },
+        {
+          "name": "n-hoenn",
+          "strings": [
+            ":n-hoenn:"
+          ],
+          "location": "n_hoenn.png",
+          "surrogates": "215"
+        },
+        {
+          "name": "я",
+          "strings": [
+            ":я:"
+          ],
+          "location": "yarm-y.png",
+          "surrogates": "216"
+        },
+        {
+          "name": "р",
+          "strings": [
+            ":р:"
+          ],
+          "location": "yarm-p.png",
+          "surrogates": "217"
+        },
+        {
+          "name": "м",
+          "strings": [
+            ":м:"
+          ],
+          "location": "yarm-m.png",
+          "surrogates": "218"
+        },
+        {
+          "name": "а",
+          "strings": [
+            ":а:"
+          ],
+          "location": "yarm-a.png",
+          "surrogates": "219"
+        },
+        {
+          "name": "к",
+          "strings": [
+            ":к:"
+          ],
+          "location": "yarm-k.png",
+          "surrogates": "220"
+        },
+        {
+          "name": "д",
+          "strings": [
+            ":ди:"
+          ],
+          "location": "yarm-d.png",
+          "surrogates": "221"
+        },
+        {
+          "name": "и",
+          "strings": [
+            ":и:"
+          ],
+          "location": "yarm-i.png",
+          "surrogates": "222"
+        },
+        {
+          "name": "о",
+          "strings": [
+            ":о:"
+          ],
+          "location": "yarm-o.png",
+          "surrogates": "223"
+        },
+        {
+          "name": "в",
+          "strings": [
+            ":в:"
+          ],
+          "location": "yarm-b.png",
+          "surrogates": "224"
+        },
+        {
+          "name": "н",
+          "strings": [
+            ":н:"
+          ],
+          "location": "yarm-h.png",
+          "surrogates": "225"
+        },
+        {
+          "name": "plus",
+          "strings": [
+            ":plus:"
+          ],
+          "location": "plus.png",
+          "surrogates": "226"
+        },
+        {
+          "name": "arrow_left",
+          "strings": [
+            ":arrow_left:"
+          ],
+          "location": "arrow_left.png",
+          "surrogates": "227"
+        },
+        {
+          "name": "x_cord",
+          "strings": [
+            ":x_cord:"
+          ],
+          "location": "x.png",
+          "surrogates": "228"
+        },
+        {
+          "name": "y_cord",
+          "strings": [
+            ":y_cord:"
+          ],
+          "location": "y.png",
+          "surrogates": "229"
+        },
+        {
+          "name": "z_cord",
+          "strings": [
+            ":z_cord:"
+          ],
+          "location": "z.png",
+          "surrogates": "230"
+        },
+        {
+          "name": "zapad",
+          "strings": [
+            ":zapad:"
+          ],
+          "location": "zapad.png",
+          "surrogates": "231"
+        },
+        {
+          "name": "vostoc",
+          "strings": [
+            ":vostok:",
+            ":vostoc:"
+          ],
+          "location": "vostoc.png",
+          "surrogates": "232"
+        },
+        {
+          "name": "sever",
+          "strings": [
+            ":sever:"
+          ],
+          "location": "sever.png",
+          "surrogates": "233"
+        },
+        {
+          "name": "ug",
+          "strings": [
+            ":ug:"
+          ],
+          "location": "ug.png",
+          "surrogates": "234"
+        },
+        {
+          "name": "misc1",
+          "strings": [
+            "«",
+            "«[",
+            "«&a[",
+            "«§a[",
+            "о["
+          ],
+          "location": "misc1.png",
+          "surrogates": "235"
+        },
+        {
+          "name": "misc2",
+          "strings": [
+            "»",
+            "]»",
+            "&a]»",
+            "&a]&r»",
+            "&a]&f»",
+            "§a]»",
+            "§a]§r»",
+            "§a]§f»",
+            "]п"
+          ],
+          "location": "misc2.png",
+          "surrogates": "236"
+        },
+        {
+          "name": "sunrise1",
+          "strings": [
+            ":sun:",
+            ":day:"
+          ],
+          "location": "sun.png",
+          "surrogates": "237"
+        },
+        {
+          "name": "night",
+          "strings": [
+            ":night:"
+          ],
+          "location": "night.png",
+          "surrogates": "238"
+        },
+        {
+          "name": "sunrise2",
+          "strings": [
+            ":sunrise:"
+          ],
+          "location": "sunrise.png",
+          "surrogates": "239"
+        },
+        {
+          "name": "sunset",
+          "strings": [
+            ":sunset:"
+          ],
+          "location": "sunset.png",
+          "surrogates": "240"
+        },
+        {
+          "name": "search",
+          "strings": [
+            ":search:"
+          ],
+          "location": "search.png",
+          "surrogates": "241"
+        },
+        {
+          "name": "pixelmonway",
+          "strings": [
+            ":pixelmonway:"
+          ],
+          "location": "pixelmonway.png",
+          "surrogates": "242"
+        },
+        {
+          "name": "dvoetochie",
+          "strings": [
+            ":dvoetochie:"
+          ],
+          "location": "dvoetochie.png",
+          "surrogates": "243"
+        },
+        {
+          "name": "dev",
+          "strings": [
+            ":dev:"
+          ],
+          "location": "dev.png",
+          "surrogates": "244"
+        },
+        {
+          "name": "splash",
+          "strings": [
+            ":splash:"
+          ],
+          "location": "splash.png",
+          "surrogates": "245"
+        },
+        {
+          "name": "nole",
+          "strings": [
+            ":null:",
+            ":0:",
+            ":ноль:"
+          ],
+          "location": "0.png",
+          "surrogates": "246"
+        },
+        {
+          "name": "one",
+          "strings": [
+            ":1:",
+            ":один:"
+          ],
+          "location": "1.png",
+          "surrogates": "247"
+        },
+        {
+          "name": "two",
+          "strings": [
+            ":2:",
+            ":два:"
+          ],
+          "location": "2.png",
+          "surrogates": "248"
+        },
+        {
+          "name": "three",
+          "strings": [
+            ":3:",
+            ":три:"
+          ],
+          "location": "3.png",
+          "surrogates": "249"
+        },
+        {
+          "name": "four",
+          "strings": [
+            ":4:",
+            ":четыре:"
+          ],
+          "location": "4.png",
+          "surrogates": "250"
+        },
+        {
+          "name": "five",
+          "strings": [
+            ":5:",
+            ":пять:"
+          ],
+          "location": "5.png",
+          "surrogates": "251"
+        },
+        {
+          "name": "six",
+          "strings": [
+            ":6:",
+            ":шесть:"
+          ],
+          "location": "6.png",
+          "surrogates": "252"
+        },
+        {
+          "name": "seven",
+          "strings": [
+            ":7:",
+            ":семь:"
+          ],
+          "location": "7.png",
+          "surrogates": "253"
+        },
+        {
+          "name": "eight",
+          "strings": [
+            ":8:",
+            ":восемь:"
+          ],
+          "location": "8.png",
+          "surrogates": "254"
+        },
+        {
+          "name": "nine",
+          "strings": [
+            ":9:",
+            ":девять:"
+          ],
+          "location": "9.png",
+          "surrogates": "255"
+        },
+        {
+          "name": "black",
+          "strings": [
+            ":black:",
+            ":чёрный:",
+            ":черный:",
+            ":&0:"
+          ],
+          "location": "black.png",
+          "surrogates": "256"
+        },
+        {
+          "name": "dark-blue",
+          "strings": [
+            ":dark-blue:",
+            ":dark_blue:",
+            ":тёмно-синий:",
+            ":темно-синий:",
+            ":&1:"
+          ],
+          "location": "dark_blue.png",
+          "surrogates": "257"
+        },
+        {
+          "name": "dark-green",
+          "strings": [
+            ":dark-green:",
+            ":dark_green:",
+            ":тёмно-зелёный:",
+            ":тёмно-зеленый:",
+            ":темно-зелёный:",
+            ":темно-зеленый:",
+            ":&2:"
+          ],
+          "location": "dark_green.png",
+          "surrogates": "258"
+        },
+        {
+          "name": "dark-aqua",
+          "strings": [
+            ":dark-aqua:",
+            ":dark_aqua:",
+            ":темно-сине-зеленый:",
+            ":тёмно-сине-зеленый:",
+            ":темно-сине-зелёный:",
+            ":тёмно-сине-зелёный:",
+            ":&3:"
+          ],
+          "location": "dark_aqua.png",
+          "surrogates": "259"
+        },
+        {
+          "name": "dark-red",
+          "strings": [
+            ":dark-red:",
+            ":dark_red:",
+            ":темно-красный:",
+            ":тёмно-крвсный:",
+            ":&4:"
+          ],
+          "location": "dark_red.png",
+          "surrogates": "260"
+        },
+        {
+          "name": "dark-purple",
+          "strings": [
+            ":dark-purple:",
+            ":dark_purple:",
+            ":темно-фиолетовый:",
+            ":тёмно-фиолетовый:",
+            ":&5:"
+          ],
+          "location": "dark_purple.png",
+          "surrogates": "261"
+        },
+        {
+          "name": "gold",
+          "strings": [
+            ":gold:",
+            ":золотой:",
+            ":&6:"
+          ],
+          "location": "gold.png",
+          "surrogates": "262"
+        },
+        {
+          "name": "gray",
+          "strings": [
+            ":gray:",
+            ":серый:",
+            ":&7:"
+          ],
+          "location": "gray.png",
+          "surrogates": "263"
+        },
+        {
+          "name": "dark-gray",
+          "strings": [
+            ":dark-gray:",
+            ":темно-серый:",
+            ":dark_gray:",
+            ":тёмно-серый:",
+            ":&8:"
+          ],
+          "location": "dark_gray.png",
+          "surrogates": "264"
+        },
+        {
+          "name": "blue",
+          "strings": [
+            ":blue:",
+            ":синий:",
+            ":&9:"
+          ],
+          "location": "blue.png",
+          "surrogates": "265"
+        },
+        {
+          "name": "green",
+          "strings": [
+            ":green:",
+            ":зелёный:",
+            ":зеленый:",
+            ":&a:"
+          ],
+          "location": "green.png",
+          "surrogates": "266"
+        },
+        {
+          "name": "aqua",
+          "strings": [
+            ":aqua:",
+            ":аква:",
+            ":&b:"
+          ],
+          "location": "aqua.png",
+          "surrogates": "267"
+        },
+        {
+          "name": "red",
+          "strings": [
+            ":red:",
+            ":красный:",
+            ":&c:"
+          ],
+          "location": "red.png",
+          "surrogates": "268"
+        },
+        {
+          "name": "light-purple",
+          "strings": [
+            ":light_purple:",
+            ":purple:",
+            ":фиолетовый:",
+            ":светло-фиолетовый:",
+            ":&d:"
+          ],
+          "location": "purple.png",
+          "surrogates": "269"
+        },
+        {
+          "name": "yellow",
+          "strings": [
+            ":yellow:",
+            ":желтый:",
+            ":жёлтый:",
+            ":&e:"
+          ],
+          "location": "yellow.png",
+          "surrogates": "270"
+        },
+        {
+          "name": "white",
+          "strings": [
+            ":white:",
+            ":белый:",
+            ":&f:"
+          ],
+          "location": "white.png",
+          "surrogates": "271"
+        }
+      ]
+    },
+    {
+      "location": "https://raw.githubusercontent.com/TeamPixelmonPRO/Emojiful/master/assets/hands/",
+      "emojis": [
+        {
+          "name": "ok_hand",
+          "strings": [
+            ":ok_hand:",
+            ":ок:",
+            ":окей:"
+          ],
+          "location": "ok_hand.png",
+          "surrogates": "272"
+        },
+        {
+          "name": "za",
+          "strings": [
+            ":za:",
+            ":za-1:"
+          ],
+          "location": "za.png",
+          "surrogates": "273"
+        },
+        {
+          "name": "protiv",
+          "strings": [
+            ":protiv:",
+            ":protiv-1:"
+          ],
+          "location": "protiv.png",
+          "surrogates": "274"
+        }
+      ]
+    },
+    {
+      "location": "https://raw.githubusercontent.com/TeamPixelmonPRO/Emojiful/master/assets/misc/",
+      "emojis": [
+        {
+          "name": "arti",
+          "strings": [
+            ":arti:",
+            ":articuno:",
+            ":арти:",
+            ":артикуно:",
+            ":птиц:"
+          ],
+          "location": "arti.png",
+          "surrogates": "275"
+        },
+        {
+          "name": "artitop",
+          "strings": [
+            ":artitop:",
+            ":артитоп:",
+            "techbrew"
+          ],
+          "location": "artitop.png",
+          "surrogates": "276"
+        },
+        {
+          "name": "sonic",
+          "strings": [
+            ":happysonic:",
+            ":sonic:",
+            ":соник:",
+            "davkas"
+          ],
+          "location": "sonic.png",
+          "surrogates": "277"
+        },
+        {
+          "name": "ksensei",
+          "strings": [
+            ":ksensei:",
+            ":ксенсей:",
+            "mysticdrew"
+          ],
+          "location": "ksensei.png",
+          "surrogates": "278"
+        },
+        {
+          "name": "rencraw",
+          "strings": [
+            ":rencraw:",
+            ":strawhat:",
+            "eladjenkins"
+          ],
+          "location": "rencraw.png",
+          "surrogates": "279"
+        },
+        {
+          "name": "gwm",
+          "strings": [
+            ":gwm:",
+            ":гвм:",
+            "TECH_GEEK10"
+          ],
+          "location": "gwm.png",
+          "surrogates": "280"
+        },
+        {
+          "name": "din",
+          "strings": [
+            ":din:",
+            "endless"
+          ],
+          "location": "din.png",
+          "surrogates": "281"
+        },
+        {
+          "name": "laykras",
+          "strings": [
+            ":laykras:",
+            ":pp:",
+            "durrani"
+          ],
+          "location": "laykras.png",
+          "surrogates": "282"
+        },
+        {
+          "name": "akida",
+          "strings": [
+            ":akida:",
+            "sikandar"
+          ],
+          "location": "akida.png",
+          "surrogates": "283"
+        },
+        {
+          "name": "colend",
+          "strings": [
+            ":ahit:"
+          ],
+          "location": "colend.png",
+          "surrogates": "284"
+        },
+        {
+          "name": "fviros",
+          "strings": [
+            ":fviros:"
+          ],
+          "location": "fviros.png",
+          "surrogates": "285"
+        },
+        {
+          "name": "apple",
+          "strings": [
+            ":apple:"
+          ],
+          "location": "apple.png",
+          "surrogates": "286"
+        },
+        {
+          "name": "question",
+          "strings": [
+            ":question2:",
+            ":вопрос:"
+          ],
+          "location": "question.png",
+          "surrogates": "287"
+        },
+        {
+          "name": 100,
+          "strings": [
+            ":100:"
+          ],
+          "location": "100.png",
+          "surrogates": "288"
+        },
+        {
+          "name": "mute",
+          "strings": [
+            ":mute:",
+            ":mt:",
+            "<:muted:711818446739996775>",
+            ":мут:"
+          ],
+          "location": "mute.png",
+          "surrogates": "289"
+        },
+        {
+          "name": "kick",
+          "strings": [
+            ":kick:",
+            ":кик:"
+          ],
+          "location": "kick.png",
+          "surrogates": "290"
+        },
+        {
+          "name": "golisopod",
+          "strings": [
+            ":golisopod:"
+          ],
+          "location": "golisopod.png",
+          "surrogates": "291"
+        },
+        {
+          "name": "pizza",
+          "strings": [
+            ":pizza:",
+            ":пицца:"
+          ],
+          "location": "pizza.png",
+          "surrogates": "292"
+        }
+      ]
+    },
+    {
+      "location": "https://raw.githubusercontent.com/TeamPixelmonPRO/Emojiful/master/assets/nero/",
+      "emojis": [
+        {
+          "name": "grimoire",
+          "strings": [
+            ":grimoire:",
+            ":grimoireofgaia:"
+          ],
+          "location": "assets/nero/grimoire.png",
+          "surrogates": "293"
+        },
+        {
+          "name": "ic2",
+          "strings": [
+            ":ic2:",
+            ":industrialcraft2:"
+          ],
+          "location": "assets/nero/ic2.png",
+          "surrogates": "294"
+        }
+      ]
+    },
+    {
+      "location": "https://raw.githubusercontent.com/TeamPixelmonPRO/Emojiful/master/assets/pepe/",
+      "emojis": [
+        {
+          "name": "feelsbadman",
+          "strings": [
+            ":feelsbadman:"
+          ],
+          "location": "feelsbadman.png",
+          "surrogates": "295"
+        },
+        {
+          "name": "monkas",
+          "strings": [
+            ":monkas:",
+            ":monka:"
+          ],
+          "location": "monkas.png",
+          "surrogates": "296"
+        },
+        {
+          "name": "monka_gun",
+          "strings": [
+            ":monka_gun:"
+          ],
+          "location": "monka_gun.png",
+          "surrogates": "297"
+        }
+      ]
+    },
+    {
+      "location": "https://raw.githubusercontent.com/TeamPixelmonPRO/Emojiful/master/assets/pixelmon/",
+      "emojis": [
+        {
+          "name": "pixelmon",
+          "strings": [
+            ":pixelmon:",
+            ":pix:",
+            "pixelmon",
+            ":пиксельмон:"
+          ],
+          "location": "pixelmon.png",
+          "surrogates": "298"
+        },
+        {
+          "name": "pixelmonpro",
+          "strings": [
+            ":pixelmonpro:",
+            ":pixelmonpo:",
+            ":pro:",
+            ":pixpro:",
+            ":logo:",
+            ":пиксельмонпро:",
+            ":пикспро:",
+            ":про:"
+          ],
+          "location": "pixelmonpro.png",
+          "surrogates": "299"
+        },
+        {
+          "name": "pixelmonprony",
+          "strings": [
+            ":pixelmonprony:",
+            ":pixelmonpony:",
+            ":prony:",
+            ":pixprony:",
+            ":logony:",
+            ":ny:",
+            ":пиксельмонпронг:",
+            ":пикспронг:",
+            ":пронг:"
+          ],
+          "location": "pixelmonprony.png",
+          "surrogates": "300"
+        },
+        {
+          "name": "pixelmonpromini",
+          "strings": [
+            ":pixelmonpromini:",
+            ":promini:",
+            ":pixpromini:",
+            ":logomini:"
+          ],
+          "location": "pixelmonpromini.png",
+          "surrogates": "301"
+        },
+        {
+          "name": "logo_kanto",
+          "strings": [
+            ":logokanto:"
+          ],
+          "location": "logo_kanto.png",
+          "surrogates": "302"
+        },
+        {
+          "name": "logo_johto",
+          "strings": [
+            ":logojohto:"
+          ],
+          "location": "logo_johto.png",
+          "surrogates": "303"
+        },
+        {
+          "name": "logo_hoenn",
+          "strings": [
+            ":logohoenn:"
+          ],
+          "location": "logo_hoenn.png",
+          "surrogates": "304"
+        },
+        {
+          "name": "kanto",
+          "strings": [
+            ":k:",
+            "[K]"
+          ],
+          "location": "kanto.png",
+          "surrogates": "305"
+        },
+        {
+          "name": "johto",
+          "strings": [
+            ":j:",
+            "[J]"
+          ],
+          "location": "johto.png",
+          "surrogates": "306"
+        },
+        {
+          "name": "hoenn",
+          "strings": [
+            ":h:",
+            "[H]"
+          ],
+          "location": "hoenn.png",
+          "surrogates": "307"
+        },
+        {
+          "name": "teron",
+          "strings": [
+            ":t:",
+            "[T]"
+          ],
+          "location": "teron.png",
+          "surrogates": "308"
+        },
+        {
+          "name": "begin-builder",
+          "strings": [
+            ":begin-builder:",
+            ":bbu:",
+            ":начальныйстроитель:"
+          ],
+          "location": "begin-builder.png",
+          "surrogates": "309"
+        },
+        {
+          "name": "builder",
+          "strings": [
+            ":builder:",
+            ":bu:",
+            ":строитель:",
+            ":артихектор:"
+          ],
+          "location": "builder.png",
+          "surrogates": "310"
+        },
+        {
+          "name": "major-builder",
+          "strings": [
+            ":major-builder:",
+            ":mbu:",
+            ":старшийстроитель:"
+          ],
+          "location": "major-builder.png",
+          "surrogates": "311"
+        },
+        {
+          "name": "config",
+          "strings": [
+            ":config:",
+            ":настроки:"
+          ],
+          "location": "config.png",
+          "surrogates": "312"
+        },
+        {
+          "name": "discord",
+          "strings": [
+            ":discord:",
+            ":dc:",
+            ":дискорд:"
+          ],
+          "location": "discord.png",
+          "surrogates": "313"
+        },
+        {
+          "name": "discordpro",
+          "strings": [
+            ":discordpro:",
+            ":dcpro:",
+            ":дискордпро:"
+          ],
+          "location": "discordpro.png",
+          "surrogates": "314"
+        },
+        {
+          "name": "event",
+          "strings": [
+            ":event:",
+            ":ивентер:",
+            ":ивент:",
+            ":евент:",
+            ":балагур:"
+          ],
+          "location": "event.png",
+          "surrogates": "315"
+        },
+        {
+          "name": "gts",
+          "strings": [
+            ":gts:",
+            ":торговаяплощадка:",
+            ":торг:",
+            ":гтс:"
+          ],
+          "location": "gts.png",
+          "surrogates": "316"
+        },
+        {
+          "name": "hunt",
+          "strings": [
+            ":hunt:",
+            ":охота:"
+          ],
+          "location": "hunt.png",
+          "surrogates": "317"
+        },
+        {
+          "name": "hunt_catch",
+          "strings": [
+            ":hunt_catch:",
+            ":охота1:"
+          ],
+          "location": "hunt_catch.png",
+          "surrogates": "318"
+        },
+        {
+          "name": "wormhole",
+          "strings": [
+            ":wormhole:",
+            ":ultra-wormhole:",
+            ":червоточина:",
+            ":ультра-портал:"
+          ],
+          "location": "wormhole.png",
+          "surrogates": "319"
+        },
+        {
+          "name": "lk",
+          "strings": [
+            ":lk:",
+            ":лк:"
+          ],
+          "location": "lk.png",
+          "surrogates": "319"
+        },
+        {
+          "name": "master",
+          "strings": [
+            ":master:",
+            ":мастер:"
+          ],
+          "location": "master.png",
+          "surrogates": "320"
+        },
+        {
+          "name": "premium-1",
+          "strings": [
+            ":premium-1:",
+            ":prem-1:",
+            ":prem1:",
+            ":pr1:"
+          ],
+          "location": "premium-1.png",
+          "surrogates": "321"
+        },
+        {
+          "name": "premium-2",
+          "strings": [
+            ":premium-2:",
+            ":prem-2:",
+            ":prem2:",
+            ":pr2:"
+          ],
+          "location": "premium-2.png",
+          "surrogates": "322"
+        },
+        {
+          "name": "premium-3",
+          "strings": [
+            ":premium-3:",
+            ":prem-3:",
+            ":prem3:",
+            ":pr3:"
+          ],
+          "location": "premium-3.png",
+          "surrogates": "323"
+        },
+        {
+          "name": "premium-4",
+          "strings": [
+            ":premium-4:",
+            ":prem-4:",
+            ":prem4:",
+            ":pr4:"
+          ],
+          "location": "premium-4.png",
+          "surrogates": "324"
+        },
+        {
+          "name": "premium-5",
+          "strings": [
+            ":premium-5:",
+            ":prem-5:",
+            ":prem5:",
+            ":pr5:"
+          ],
+          "location": "premium-5.png",
+          "surrogates": "325"
+        },
+        {
+          "name": "town-builder",
+          "strings": [
+            ":town-builder:",
+            ":tbu:",
+            ":градостроитель:"
+          ],
+          "location": "town-builder.png",
+          "surrogates": "326"
+        },
+        {
+          "name": "begin-mentor",
+          "strings": [
+            ":begin-mentor:",
+            ":bment:",
+            ":начальныйментор:"
+          ],
+          "location": "begin-mentor.png",
+          "surrogates": "327"
+        },
+        {
+          "name": "mentor",
+          "strings": [
+            ":mentor:",
+            ":ment:",
+            ":ментор:",
+            ":мент:",
+            ":ментр:",
+            ":хэлпер:",
+            ":хелпер:"
+          ],
+          "location": "mentor.png",
+          "surrogates": "328"
+        },
+        {
+          "name": "major-mentor",
+          "strings": [
+            ":major-mentor:",
+            ":mment:",
+            ":старшийментор:"
+          ],
+          "location": "major-mentor.png",
+          "surrogates": "329"
+        },
+        {
+          "name": "begin-moderator",
+          "strings": [
+            ":begin-moderator:",
+            ":начальныймодер:",
+            ":begin-moder:",
+            ":bmod:",
+            ":начальныймодератор:"
+          ],
+          "location": "begin-moderator.png",
+          "surrogates": "330"
+        },
+        {
+          "name": "moderator",
+          "strings": [
+            ":moderator:",
+            ":mod:",
+            ":md:",
+            ":модер:",
+            ":moder:",
+            ":мод:",
+            ":модератор:"
+          ],
+          "location": "moderator.png",
+          "surrogates": "331"
+        },
+        {
+          "name": "major-moderator",
+          "strings": [
+            ":major-moderator:",
+            ":старшиймодер:",
+            ":major-moder:",
+            ":mmod:",
+            ":старшиймодератор:"
+          ],
+          "location": "major-moderator.png",
+          "surrogates": "332"
+        },
+        {
+          "name": "player",
+          "strings": [
+            ":player:",
+            ":pl:",
+            ":игрок:"
+          ],
+          "location": "player.png",
+          "surrogates": "333"
+        },
+        {
+          "name": "pokepack",
+          "strings": [
+            ":pokepack:",
+            ":покепак:"
+          ],
+          "location": "pokepack.png",
+          "surrogates": "334"
+        },
+        {
+          "name": "privat",
+          "strings": [
+            ":privat:",
+            ":claim:",
+            ":приват:"
+          ],
+          "location": "privat.png",
+          "surrogates": "335"
+        },
+        {
+          "name": "reforged",
+          "strings": [
+            ":reforged:",
+            ":ref:",
+            ":рефоржет:",
+            "[Reforged]"
+          ],
+          "location": "reforged.png",
+          "surrogates": "336"
+        },
+        {
+          "name": "tavern",
+          "strings": [
+            ":tavern:",
+            ":taven:",
+            ":tav:",
+            ":таверна:"
+          ],
+          "location": "tavern.png",
+          "surrogates": "337"
+        },
+        {
+          "name": "trainer",
+          "strings": [
+            ":trainer:",
+            ":тренер:"
+          ],
+          "location": "trainer.png",
+          "surrogates": "338"
+        },
+        {
+          "name": "vk",
+          "strings": [
+            ":vk:",
+            ":вк:",
+            ":вконтакте:"
+          ],
+          "location": "vk.png",
+          "surrogates": "339"
+        },
+        {
+          "name": "vote",
+          "strings": [
+            ":vote:",
+            ":голосование:"
+          ],
+          "location": "vote.png",
+          "surrogates": "340"
+        },
+        {
+          "name": "yarm",
+          "strings": [
+            ":yarm:",
+            ":ярмарка:"
+          ],
+          "location": "yarm.png",
+          "surrogates": "341"
+        },
+        {
+          "name": "wt",
+          "strings": [
+            ":wt:",
+            ":случайныйобмен:"
+          ],
+          "location": "wt.png",
+          "surrogates": "342"
+        },
+        {
+          "name": "youtube",
+          "strings": [
+            ":youtube:",
+            ":yt:",
+            ":ютуб:"
+          ],
+          "location": "youtube.png",
+          "surrogates": "343"
+        },
+        {
+          "name": "customnpc",
+          "strings": [
+            ":customnpc:"
+          ],
+          "location": "customnpc.png",
+          "surrogates": "344"
+        },
+        {
+          "name": "ironchest",
+          "strings": [
+            ":ironchest:"
+          ],
+          "location": "ironchest.png",
+          "surrogates": "345"
+        },
+        {
+          "name": "variedcommodities",
+          "strings": [
+            ":variedcommodities:",
+            ":varied:"
+          ],
+          "location": "variedcommodities.png",
+          "surrogates": "346"
+        },
+        {
+          "name": "sgcraft",
+          "strings": [
+            ":sgcraft:",
+            ":hoopagates"
+          ],
+          "location": "sgcraft.png",
+          "surrogates": "347"
+        },
+        {
+          "name": "№",
+          "strings": [
+            ":num:",
+            "№:",
+            "№",
+            "#",
+            "#:"
+          ],
+          "location": "number.png",
+          "surrogates": "348"
+        },
+        {
+          "name": "oak",
+          "strings": [
+            ":cloak:",
+            ":oak:",
+            ":profoak:"
+          ],
+          "location": "oak.png",
+          "surrogates": "349"
+        },
+        {
+          "name": "shiny",
+          "strings": [
+            ":shiny:",
+            ":шайни:"
+          ],
+          "location": "shiny.png",
+          "surrogates": "350"
+        },
+        {
+          "name": "boss",
+          "strings": [
+            ":boss:",
+            ":босс:"
+          ],
+          "location": "boss.png",
+          "surrogates": "351"
+        },
+        {
+          "name": "schrine",
+          "strings": [
+            ":schrine:"
+          ],
+          "location": "schrine.png",
+          "surrogates": "352"
+        },
+        {
+          "name": "pokeloot",
+          "strings": [
+            ":pokeloot:",
+            ":покелут:"
+          ],
+          "location": "pokeloot.png",
+          "surrogates": "353"
+        },
+        {
+          "name": "female",
+          "strings": [
+            ":female:",
+            "Female",
+            ":мальчик:"
+          ],
+          "location": "female.png",
+          "surrogates": "354"
+        },
+        {
+          "name": "male",
+          "strings": [
+            ":male:",
+            "Male",
+            ":девочка:"
+          ],
+          "location": "male.png",
+          "surrogates": "355"
+        },
+        {
+          "name": "none",
+          "strings": [
+            ":none:",
+            "None",
+            ":нету:"
+          ],
+          "location": "none.png",
+          "surrogates": "356"
+        },
+        {
+          "name": "yes",
+          "strings": [
+            ":yes:",
+            ":да:",
+            ":согласен:"
+          ],
+          "location": "yes.png",
+          "surrogates": "357"
+        },
+        {
+          "name": "no",
+          "strings": [
+            ":no:",
+            ":нет:",
+            ":не согласен:"
+          ],
+          "location": "no.png",
+          "surrogates": "358"
+        },
+        {
+          "name": "wait",
+          "strings": [
+            ":wait:",
+            ":ожидание:"
+          ],
+          "location": "wait.png",
+          "surrogates": "359"
+        },
+        {
+          "name": "warning",
+          "strings": [
+            ":warning:",
+            ":предупреждение:",
+            ":warn:",
+            ":failed:"
+          ],
+          "location": "warning.png",
+          "surrogates": "360"
+        },
+        {
+          "name": "info",
+          "strings": [
+            ":info:",
+            ":информация:",
+            ":инфо:"
+          ],
+          "location": "info.png",
+          "surrogates": "361"
+        },
+        {
+          "name": "star",
+          "strings": [
+            ":star:",
+            ":звезда:"
+          ],
+          "location": "star.png",
+          "surrogates": "362"
+        },
+        {
+          "name": "shop",
+          "strings": [
+            ":shop:",
+            ":магазин:"
+          ],
+          "location": "shop.png",
+          "surrogates": "363"
+        },
+        {
+          "name": "photo",
+          "strings": [
+            ":photo:",
+            ":camera:",
+            ":screenshot:"
+          ],
+          "location": "photo.png",
+          "surrogates": "364"
+        },
+        {
+          "name": "mail",
+          "strings": [
+            ":mail:",
+            ":message:",
+            ":сообщение:",
+            ":письмо:"
+          ],
+          "location": "mail.png",
+          "surrogates": "365"
+        },
+        {
+          "name": "coffe",
+          "strings": [
+            ":coffe:",
+            ":кофе:"
+          ],
+          "location": "coffe.png",
+          "surrogates": "366"
+        },
+        {
+          "name": "winner",
+          "strings": [
+            ":winner:",
+            ":win:",
+            ":победа:"
+          ],
+          "location": "winner.png",
+          "surrogates": "368"
+        },
+        {
+          "name": "trade",
+          "strings": [
+            ":trade:",
+            ":торговля:",
+            ":обмен:",
+            ":торг:"
+          ],
+          "location": "trade.png",
+          "surrogates": "369"
+        },
+        {
+          "name": "egg",
+          "strings": [
+            ":egg:",
+            ":яйцо:"
+          ],
+          "location": "egg.png",
+          "surrogates": "370"
+        },
+        {
+          "name": "mega",
+          "strings": [
+            ":mega:",
+            ":мега:"
+          ],
+          "location": "mega.png",
+          "surrogates": "371"
+        },
+        {
+          "name": "reward",
+          "strings": [
+            ":reward:",
+            ":награда:"
+          ],
+          "location": "reward.png",
+          "surrogates": "372"
+        },
+        {
+          "name": "reward_eat",
+          "strings": [
+            ":rewardeat:",
+            ":reward_eat:",
+            ":donat:",
+            ":donate:",
+            ":наградаеда:",
+            ":пончик:",
+            ":донат:"
+          ],
+          "location": "reward_eat.png",
+          "surrogates": "373"
+        },
+        {
+          "name": "reward_money",
+          "strings": [
+            ":rewardmoney:",
+            ":reward_money:",
+            ":наградаденьги:",
+            ":money:"
+          ],
+          "location": "reward_money.png",
+          "surrogates": "374"
+        },
+        {
+          "name": "coin",
+          "strings": [
+            ":coin:",
+            ":монета:"
+          ],
+          "location": "coin.png",
+          "surrogates": "375"
+        },
+        {
+          "name": "candy",
+          "strings": [
+            ":candy:",
+            ":конфета:"
+          ],
+          "location": "candy.png",
+          "surrogates": "376"
+        },
+        {
+          "name": "rand_poke_ball",
+          "strings": [
+            ":rand_poke_ball:",
+            ":randpokeball:"
+          ],
+          "location": "rand_poke_ball.png",
+          "surrogates": "377"
+        },
+        {
+          "name": "coin_dollar",
+          "strings": [
+            ":coin_dollar:",
+            ":dollar:",
+            ":доллар:"
+          ],
+          "location": "coin_dollar.png",
+          "surrogates": "378"
+        },
+        {
+          "name": "lottery1",
+          "strings": [
+            ":lottery1:",
+            ":лотерея1:"
+          ],
+          "location": "lottery1.png",
+          "surrogates": "379"
+        },
+        {
+          "name": "lottery2",
+          "strings": [
+            ":lottery2:",
+            ":лотерея2:"
+          ],
+          "location": "lottery2.png",
+          "surrogates": "380"
+        },
+        {
+          "name": "lottery3",
+          "strings": [
+            ":lottery3:",
+            ":лотерея3:"
+          ],
+          "location": "lottery3.png",
+          "surrogates": "381"
+        },
+        {
+          "name": "lottery4",
+          "strings": [
+            ":lottery4:",
+            ":лотерея4:"
+          ],
+          "location": "lottery4.png",
+          "surrogates": "382"
+        },
+        {
+          "name": "clock",
+          "strings": [
+            ":clock:",
+            ":часы:",
+            ":время:"
+          ],
+          "location": "clock.png",
+          "surrogates": "383"
+        },
+        {
+          "name": "free",
+          "strings": [
+            ":free2:",
+            ":бесплатно:"
+          ],
+          "location": "free.png",
+          "surrogates": "384"
+        },
+        {
+          "name": "music",
+          "strings": [
+            ":music:",
+            ":музыка:"
+          ],
+          "location": "music.png",
+          "surrogates": "385"
+        },
+        {
+          "name": "volume",
+          "strings": [
+            ":volume:",
+            ":громкость:"
+          ],
+          "location": "volume.png",
+          "surrogates": "386"
+        },
+        {
+          "name": "weather",
+          "strings": [
+            ":weather:",
+            ":погода:"
+          ],
+          "location": "weather.png",
+          "surrogates": "387"
+        },
+        {
+          "name": "kill",
+          "strings": [
+            ":kill:",
+            ":убить:"
+          ],
+          "location": "kill.png",
+          "surrogates": "388"
+        },
+        {
+          "name": "sword",
+          "strings": [
+            ":sword:",
+            ":меч:"
+          ],
+          "location": "sword.png",
+          "surrogates": "389"
+        },
+        {
+          "name": "shield",
+          "strings": [
+            ":shield_new:",
+            ":щит:"
+          ],
+          "location": "shield.png",
+          "surrogates": "389"
+        },
+        {
+          "name": "skull",
+          "strings": [
+            ":skull_new:",
+            ":череп:"
+          ],
+          "location": "skull.png",
+          "surrogates": "390"
+        },
+        {
+          "name": "magic",
+          "strings": [
+            ":magic:",
+            ":magik:",
+            ":магия:",
+            ":эффект:"
+          ],
+          "location": "magic.png",
+          "surrogates": "391"
+        },
+        {
+          "name": "dark",
+          "strings": [
+            ":dark:",
+            ":dark::",
+            "[Dark]",
+            "[Dark,",
+            "Dark]",
+            ":дарк:",
+            ":темный:"
+          ],
+          "location": "darktype.png",
+          "surrogates": "392"
+        },
+        {
+          "name": "normal",
+          "strings": [
+            ":normal:",
+            ":normal::",
+            "[Normal]",
+            "[Normal,",
+            "Normal]",
+            ":нормал:",
+            ":нормальный:"
+          ],
+          "location": "normaltype.png",
+          "surrogates": "393"
+        },
+        {
+          "name": "bug",
+          "strings": [
+            ":bug:",
+            ":bug::",
+            "[Bug]",
+            "[Bug,",
+            "Bug]",
+            ":баг:",
+            ":жучий:",
+            ":жук:",
+            ":насекомый:"
+          ],
+          "location": "bugtype.png",
+          "surrogates": "394"
+        },
+        {
+          "name": "fly",
+          "strings": [
+            ":fly:",
+            ":fly::",
+            ":flying:",
+            "[Flying]",
+            "[Flying,",
+            "Flying]",
+            ":флаинг:",
+            ":воздушный:",
+            ":летающий:"
+          ],
+          "location": "flyingtype.png",
+          "surrogates": "395"
+        },
+        {
+          "name": "fighting",
+          "strings": [
+            ":fight:",
+            ":fight::",
+            ":fighting:",
+            "[Fighting]",
+            "[Fighting,",
+            "Fighting]",
+            ":боевой:",
+            ":файтинг:"
+          ],
+          "location": "fightingtype.png",
+          "surrogates": "396"
+        },
+        {
+          "name": "water",
+          "strings": [
+            ":water:",
+            ":water::",
+            "[Water]",
+            "[Water,",
+            "Water]",
+            ":водный:",
+            ":водяной:",
+            ":вотер:",
+            ":ватер:"
+          ],
+          "location": "watertype.png",
+          "surrogates": "397"
+        },
+        {
+          "name": "electric",
+          "strings": [
+            ":electric:",
+            ":electric::",
+            "[Electric]",
+            "[Electric,",
+            "Electric]",
+            ":электрический",
+            ":электрик:"
+          ],
+          "location": "electrictype.png",
+          "surrogates": "398"
+        },
+        {
+          "name": "fairy",
+          "strings": [
+            ":fairy:",
+            ":fairy::",
+            "[Fairy]",
+            "[Fairy,",
+            "Fairy]",
+            ":волшебный:",
+            ":фэйри:",
+            ":фаири:"
+          ],
+          "location": "fairytype.png",
+          "surrogates": "399"
+        },
+        {
+          "name": "ghost",
+          "strings": [
+            ":ghost:",
+            ":ghost::",
+            "[Ghost]",
+            "[Ghost,",
+            "Ghost]",
+            ":призрачный:",
+            ":гост:"
+          ],
+          "location": "ghosttype.png",
+          "surrogates": "400"
+        },
+        {
+          "name": "grass",
+          "strings": [
+            ":grass:",
+            ":grass::",
+            "[Grass]",
+            "[Grass,",
+            "Grass]",
+            ":травяной:",
+            ":грасс:"
+          ],
+          "location": "grasstype.png",
+          "surrogates": "401"
+        },
+        {
+          "name": "ground",
+          "strings": [
+            ":ground:",
+            ":ground::",
+            "[Ground]",
+            "[Ground,",
+            "Ground]",
+            ":земляной:",
+            ":граунд:"
+          ],
+          "location": "groundtype.png",
+          "surrogates": "402"
+        },
+        {
+          "name": "ice",
+          "strings": [
+            ":ice:",
+            ":ice::",
+            "[Ice]",
+            "[Ice,",
+            "Ice]",
+            ":ледяной:",
+            ":айс:"
+          ],
+          "location": "icetype.png",
+          "surrogates": "403"
+        },
+        {
+          "name": "poison",
+          "strings": [
+            ":poison:",
+            ":poison::",
+            ":poision:",
+            "[Poison]",
+            "[Poison,",
+            "Poison]",
+            ":ядовитый:",
+            ":поисон:"
+          ],
+          "location": "poisontype.png",
+          "surrogates": "404"
+        },
+        {
+          "name": "rock",
+          "strings": [
+            ":rock:",
+            ":rock::",
+            "[Rock]",
+            "[Rock,",
+            "Rock]",
+            ":каменный:",
+            ":рок:"
+          ],
+          "location": "rocktype.png",
+          "surrogates": "405"
+        },
+        {
+          "name": "steel",
+          "strings": [
+            ":steel:",
+            ":steel::",
+            "[Steel]",
+            "[Steel,",
+            "Steel]",
+            ":стальной:",
+            ":стилл:"
+          ],
+          "location": "steeltype.png",
+          "surrogates": "406"
+        },
+        {
+          "name": "fire",
+          "strings": [
+            ":fire:",
+            ":fire::",
+            "[Fire]",
+            "[Fire,",
+            "Fire]",
+            ":огненный:",
+            ":фаир:"
+          ],
+          "location": "firetype.png",
+          "surrogates": "407"
+        },
+        {
+          "name": "dragon",
+          "strings": [
+            ":dragon:",
+            ":dragon::",
+            "[Dragon]",
+            "[Dragon,",
+            "Dragon]",
+            ":драконий:",
+            ":дракон:",
+            ":дрэгон:"
+          ],
+          "location": "dragontype.png",
+          "surrogates": "408"
+        },
+        {
+          "name": "psychic",
+          "strings": [
+            ":psychic:",
+            ":psychic::",
+            ":psyhic:",
+            "[Psychic]",
+            "[Psychic,",
+            "Psychic]",
+            ":психический:",
+            ":псих:",
+            ":психик:"
+          ],
+          "location": "psychictype.png",
+          "surrogates": "409"
+        },
+        {
+          "name": "halloween",
+          "strings": [
+            ":halloween:",
+            ":хэллоуин:"
+          ],
+          "location": "halloween.png",
+          "surrogates": "410"
+        },
+        {
+          "name": "snowflake",
+          "strings": [
+            ":snowflake:",
+            ":sf:"
+          ],
+          "location": "snowflake.png",
+          "surrogates": "411"
+        },
+        {
+          "name": "battlepass",
+          "strings": [
+            ":battlepass:",
+            ":bp:"
+          ],
+          "location": "battlepass.png",
+          "surrogates": "412"
+        },
+        {
+          "name": "shield1",
+          "strings": [
+            ":shield1:",
+            ":r1:",
+            ":рыцарь:",
+            ":knight:"
+          ],
+          "location": "shield1.png",
+          "surrogates": "413"
+        },
+        {
+          "name": "shield2",
+          "strings": [
+            ":shield2:",
+            ":r2:",
+            ":барон:",
+            ":baron:"
+          ],
+          "location": "shield2.png",
+          "surrogates": "414"
+        },
+        {
+          "name": "shield3",
+          "strings": [
+            ":shield3:",
+            ":r3:",
+            ":виконт:",
+            ":viscount:"
+          ],
+          "location": "shield3.png",
+          "surrogates": "415"
+        },
+        {
+          "name": "shield4",
+          "strings": [
+            ":shield4:",
+            ":r4:",
+            ":граф:",
+            ":earl:"
+          ],
+          "location": "shield4.png",
+          "surrogates": "416"
+        },
+        {
+          "name": "shield5",
+          "strings": [
+            ":shield5:",
+            ":r5:",
+            ":маркиз:",
+            ":marquis:"
+          ],
+          "location": "shield5.png",
+          "surrogates": "417"
+        },
+        {
+          "name": "shield6",
+          "strings": [
+            ":shield6:",
+            ":r6:",
+            ":герцог:",
+            ":duke:"
+          ],
+          "location": "shield6.png",
+          "surrogates": "418"
+        },
+        {
+          "name": "shield7",
+          "strings": [
+            ":shield7:",
+            ":r7:",
+            ":великийгерцог:",
+            ":grandduke:"
+          ],
+          "location": "shield7.png",
+          "surrogates": "419"
+        },
+        {
+          "name": "pokedollar_eugene",
+          "strings": [
+            ":pd:",
+            ":пд:"
+          ],
+          "location": "pd.png",
+          "surrogates": "420"
+        }
+      ]
+    },
+    {
+      "location": "https://raw.githubusercontent.com/TeamPixelmonPRO/Emojiful/master/assets/pokemon/",
+      "emojis": [
+        {
+          "name": "001-bulbasaur",
+          "strings": [
+            ":bulbasaur:",
+            ":001:",
+            ":бульбазавр:"
+          ],
+          "location": "001-bulbasaur.png",
+          "surrogates": "421"
+        },
+        {
+          "name": "006-charizard-x",
+          "strings": [
+            ":charizard-x:",
+            ":006-charizard-x:",
+            ":006-mega-x:",
+            ":чаризард-х:"
+          ],
+          "location": "006-charizard-mega-x.png",
+          "surrogates": "422"
+        },
+        {
+          "name": "006-charizard-y",
+          "strings": [
+            ":charizard-y:",
+            ":006-charizard-y:",
+            ":006-mega-y:",
+            ":чаризард-у:"
+          ],
+          "location": "006-charizard-mega-y.png",
+          "surrogates": "423"
+        },
+        {
+          "name": "115-kangaskhan-mega",
+          "strings": [
+            ":kangaskhan-mega:",
+            ":115-kangaskhan-mega:",
+            ":115-mega:",
+            ":кангасхан-мега:"
+          ],
+          "location": "115-kangaskhan-mega.png",
+          "surrogates": "424"
+        },
+        {
+          "name": "130-gyarados-mega",
+          "strings": [
+            ":gyarados-mega:",
+            ":130-gyarados-mega:",
+            ":130-mega:",
+            ":гярадос-мега:"
+          ],
+          "location": "130-gyarados-mega.png",
+          "surrogates": "425"
+        },
+        {
+          "name": "150-mewtwo",
+          "strings": [
+            ":mewtwo:",
+            ":150-mewtwo:",
+            ":150:",
+            ":мьюту:"
+          ],
+          "location": "150-mewtwo.png",
+          "surrogates": "426"
+        },
+        {
+          "name": "150-mewtwo-x",
+          "strings": [
+            ":mewtwo-x:",
+            ":150-mewtwo-x:",
+            ":150-mega-x:",
+            ":мьютух:"
+          ],
+          "location": "150-mewtwo-x.png",
+          "surrogates": "427"
+        },
+        {
+          "name": "150-mewtwo-y",
+          "strings": [
+            ":mewtwo-y:",
+            ":150-mewtwo-y:",
+            ":150-mega-y:",
+            ":мьютуу:"
+          ],
+          "location": "150-mewtwo-y.png",
+          "surrogates": "428"
+        },
+        {
+          "name": "151-mew",
+          "strings": [
+            ":mew:",
+            ":151-mew:",
+            ":151:",
+            ":мью:"
+          ],
+          "location": "151-mew.png",
+          "surrogates": "429"
+        },
+        {
+          "name": "208-steelix-mega",
+          "strings": [
+            ":steelix-mega:",
+            ":208-steelix-mega:",
+            ":208-mega:",
+            ":стиликс-мега:"
+          ],
+          "location": "208-steelix-mega.png",
+          "surrogates": "430"
+        },
+        {
+          "name": "212-scizor-mega",
+          "strings": [
+            ":scizor-mega:",
+            ":212-scizor-mega:",
+            ":212-mega:",
+            ":сизор-мега:"
+          ],
+          "location": "212-scizor-mega.png",
+          "surrogates": "431"
+        },
+        {
+          "name": "229-houndoom-mega",
+          "strings": [
+            ":houndoom-mega:",
+            ":229-houndoom-mega:",
+            ":229-mega:",
+            ":хаундум-мега:"
+          ],
+          "location": "229-houndoom-mega.png",
+          "surrogates": "432"
+        },
+        {
+          "name": "249-lugia",
+          "strings": [
+            ":lugia:",
+            ":249-lugia:",
+            ":249:",
+            ":лугия:"
+          ],
+          "location": "249-lugia.png",
+          "surrogates": "433"
+        },
+        {
+          "name": "250-hooh",
+          "strings": [
+            ":hooh:",
+            ":250-hooh:",
+            ":250:",
+            ":хоох:"
+          ],
+          "location": "250-hooh.png",
+          "surrogates": "434"
+        },
+        {
+          "name": "251-celebi",
+          "strings": [
+            ":celebi:",
+            ":251-celebi:",
+            ":251:",
+            ":селеби:"
+          ],
+          "location": "251-celebi.png",
+          "surrogates": "435"
+        },
+        {
+          "name": "254-sceptile-mega",
+          "strings": [
+            ":sceptile-mega:",
+            ":254-mega:",
+            ":254-sceptile-mega:",
+            ":скептайл-мега:"
+          ],
+          "location": "254-sceptile-mega.png",
+          "surrogates": "436"
+        },
+        {
+          "name": "257-blaziken-mega",
+          "strings": [
+            ":blaziken-mega:",
+            ":257-mega:",
+            ":257-blaziken-mega:",
+            ":блейзикен-мега:"
+          ],
+          "location": "257-blaziken-mega.png",
+          "surrogates": "437"
+        },
+        {
+          "name": "260-swampert-mega",
+          "strings": [
+            ":swampert-mega:",
+            ":260-mega:",
+            ":260-swampert-mega:",
+            ":свамперт-мега:"
+          ],
+          "location": "260-swampert-mega.png",
+          "surrogates": "438"
+        },
+        {
+          "name": "308-medicham-mega",
+          "strings": [
+            ":medicham-mega:",
+            ":308-mega:",
+            ":308-medicham-mega:",
+            ":медичам-мега:"
+          ],
+          "location": "308-medicham-mega.png",
+          "surrogates": "439"
+        },
+        {
+          "name": "334-altaria-mega",
+          "strings": [
+            ":altaria-mega:",
+            ":334-mega:",
+            ":334-altaria-mega:",
+            ":алтария-мега:"
+          ],
+          "location": "334-altaria-mega.png",
+          "surrogates": "440"
+        },
+        {
+          "name": "354-banette-mega",
+          "strings": [
+            ":banette-mega:",
+            ":354-mega:",
+            ":354-banette-mega:",
+            ":бэнетт-мега:"
+          ],
+          "location": "354-banette-mega.png",
+          "surrogates": "441"
+        },
+        {
+          "name": "373-salamence-mega",
+          "strings": [
+            ":mega-salamence:",
+            ":mega_salamence:",
+            ":373-salamence-mega:",
+            ":373-mega:",
+            ":мега-саламенс:",
+            ":мега-саломенс:",
+            ":мега-саламанс:",
+            ":мега-сало:"
+          ],
+          "location": "373-salamence-mega.png",
+          "surrogates": "442"
+        },
+        {
+          "name": "376-metagross-mega",
+          "strings": [
+            ":mega-metagross:",
+            ":mega_metagross:",
+            ":376-metagross-mega:",
+            ":376-mega:",
+            ":мега-метагросс:",
+            ":мега-метагрос:",
+            ":мега-мета:"
+          ],
+          "location": "376-metagross-mega.png",
+          "surrogates": "443"
+        },
+        {
+          "name": "382-kyogre",
+          "strings": [
+            ":kyogre:",
+            ":382:",
+            ":382-kyogre",
+            ":кайогр:",
+            ":кайогра:"
+          ],
+          "location": "382-kyogre.png",
+          "surrogates": "444"
+        },
+        {
+          "name": "382-primal-kyogre",
+          "strings": [
+            ":primal_kyogre:",
+            ":primal-kyogre:",
+            ":382-kyogre-primal:",
+            ":382-primal:",
+            ":праймал-кайогр:"
+          ],
+          "location": "382-kyogre-primal.png",
+          "surrogates": "445"
+        },
+        {
+          "name": "383-groudon",
+          "strings": [
+            ":groudon:",
+            ":383-groudon:",
+            ":383:",
+            ":граудон:",
+            ":пгроудон:"
+          ],
+          "location": "383-groudon-primal.png",
+          "surrogates": "446"
+        },
+        {
+          "name": "383-primal-groudon",
+          "strings": [
+            ":primal_groudon:",
+            ":primal-groudon:",
+            ":383-groudon-primal:",
+            ":383-primal:",
+            ":праймал-граудон:",
+            ":праймал-гроудон:"
+          ],
+          "location": "383-groudon-primal.png",
+          "surrogates": "447"
+        },
+        {
+          "name": "384-rayquaza",
+          "strings": [
+            ":rayquaza:",
+            ":384-rayquaza:",
+            ":384:",
+            ":рэйкваза:",
+            ":райкваза:",
+            ":рейкваза:"
+          ],
+          "location": "384-rayquaza.png",
+          "surrogates": "448"
+        },
+        {
+          "name": "384-rayquaza-mega",
+          "strings": [
+            ":mega-rayquaza:",
+            ":mega_rayquaza:",
+            ":384-rayquaza-mega:",
+            ":384-mega:",
+            ":мега-рэйкваза:",
+            ":мега-райкваза:"
+          ],
+          "location": "384-rayquaza-mega.png",
+          "surrogates": "449"
+        },
+        {
+          "name": "386-deoxys-normal",
+          "strings": [
+            ":deoxys:",
+            ":386-deoxys-normal:",
+            ":386-normal:",
+            ":386:",
+            ":normal-deoxys:",
+            ":деоксис:"
+          ],
+          "location": "386-deoxys-normal.png",
+          "surrogates": "450"
+        },
+        {
+          "name": "428-lopunny-mega",
+          "strings": [
+            ":mega-lopunny:",
+            ":mega_lopunny:",
+            ":428-lopunny-mega:",
+            ":428-mega:",
+            ":мега-лопани:",
+            ":мега-лупуни:"
+          ],
+          "location": "428-lopunny-mega.png",
+          "surrogates": "451"
+        },
+        {
+          "name": "445-garchomp-mega",
+          "strings": [
+            ":mega-garchomp:",
+            ":mega_garchomp:",
+            ":445-garchomp-mega:",
+            ":445-mega:",
+            ":мега-гарчомп:",
+            ":мега-гарчумп:"
+          ],
+          "location": "445-garchomp-mega.png",
+          "surrogates": "452"
+        },
+        {
+          "name": "448-lucario-mega",
+          "strings": [
+            ":mega-lucario:",
+            ":mega_lucario:",
+            ":448-lucario-mega:",
+            ":448-mega:",
+            ":мега-лукарио:",
+            ":мега-лука:"
+          ],
+          "location": "448-lucario-mega.png",
+          "surrogates": "453"
+        },
+        {
+          "name": "483-dialga",
+          "strings": [
+            ":dialga:",
+            ":483-dialga:",
+            ":483:",
+            ":диалга:"
+          ],
+          "location": "483-dialga.png",
+          "surrogates": "454"
+        },
+        {
+          "name": "484-palkia",
+          "strings": [
+            ":palkia:",
+            ":484-palkia:",
+            ":484:",
+            ":палкия:"
+          ],
+          "location": "484-palkia.png",
+          "surrogates": "455"
+        },
+        {
+          "name": "487-giratina-origin",
+          "strings": [
+            ":giratina-origin:",
+            ":giratina_origin:",
+            ":487-giratina-origin:",
+            ":487-origin:",
+            ":487:",
+            ":гиратина-орижин:",
+            ":гиратина:"
+          ],
+          "location": "487-giratina-origin.png",
+          "surrogates": "456"
+        },
+        {
+          "name": "491-darkrai",
+          "strings": [
+            ":darkrai:",
+            ":491-darkrai:",
+            ":491:",
+            ":даркрай:",
+            ":даркраи:"
+          ],
+          "location": "491-darkrai.png",
+          "surrogates": "457"
+        },
+        {
+          "name": "493-arceus",
+          "strings": [
+            ":arceus:",
+            ":493-arceus:",
+            ":493:",
+            ":аркеус:",
+            ":арцеус:"
+          ],
+          "location": "493-arceus.png",
+          "surrogates": "458"
+        },
+        {
+          "name": "641-tornadus-incarnate",
+          "strings": [
+            ":tornadus-incarnate:",
+            ":641-tornadus-incarnate:",
+            ":641-incarnate:",
+            ":641:",
+            ":торнадус:",
+            ":тернадус:"
+          ],
+          "location": "641-tornadus-incarnate.png",
+          "surrogates": "459"
+        },
+        {
+          "name": "642-thundurus-incarnate",
+          "strings": [
+            ":thundurus-incarnate:",
+            ":642-thundurus-incarnate:",
+            ":642-incarnate:",
+            ":642:",
+            ":тандурус:",
+            ":тендурус:"
+          ],
+          "location": "642-thundurus-incarnate.png",
+          "surrogates": "460"
+        },
+        {
+          "name": "643-reshiram",
+          "strings": [
+            ":reshiram:",
+            ":643-reshiram:",
+            ":643:",
+            ":реширам:",
+            ":решерам:"
+          ],
+          "location": "643-reshiram.png",
+          "surrogates": "461"
+        },
+        {
+          "name": "644-zekrom",
+          "strings": [
+            ":zekrom:",
+            ":644-zekrom:",
+            ":644:",
+            ":зекром:"
+          ],
+          "location": "644-zekrom.png",
+          "surrogates": "462"
+        },
+        {
+          "name": "645-landorus-incarnate",
+          "strings": [
+            ":landorus-incarnate:",
+            ":645-landorus-incarnate:",
+            ":645-incarnate:",
+            ":645:",
+            ":ландорус:",
+            ":лэндорус:"
+          ],
+          "location": "645-landorus-incarnate.png",
+          "surrogates": "463"
+        },
+        {
+          "name": "646-kyurem-normal",
+          "strings": [
+            ":kyurem:",
+            ":kyurem-normal:",
+            ":646-kyurem:",
+            ":646:",
+            ":кюрем:"
+          ],
+          "location": "646-kyurem-normal.png",
+          "surrogates": "464"
+        },
+        {
+          "name": "649-genesect-normal",
+          "strings": [
+            ":genesect:",
+            ":genesect-normal:",
+            ":649-genesect:",
+            ":649:",
+            ":генесект:"
+          ],
+          "location": "649-genesect-normal.png",
+          "surrogates": "465"
+        },
+        {
+          "name": "658-greninja-ash",
+          "strings": [
+            ":greninja-ash:",
+            ":ash-greninja:",
+            ":ash_greninja:",
+            ":658-greninja-ash:",
+            ":658-ash:",
+            ":эш-грениндзя:",
+            ":эш_грениндзя:"
+          ],
+          "location": "658-greninja-ash.png",
+          "surrogates": "466"
+        },
+        {
+          "name": "716-xerneas",
+          "strings": [
+            ":xerneas:",
+            ":716-xerneas:",
+            ":716:",
+            ":ксерниас:",
+            ":хернес:",
+            ":херниас:",
+            ":зерниас:",
+            ":зерниас:",
+            ":зерно:"
+          ],
+          "location": "716-xerneas.png",
+          "surrogates": "467"
+        },
+        {
+          "name": "717-yveltal",
+          "strings": [
+            ":yveltal:",
+            ":717-yveltal:",
+            ":717:",
+            ":ивелтал:",
+            ":йвелтал:"
+          ],
+          "location": "717-yveltal.png",
+          "surrogates": "468"
+        },
+        {
+          "name": "718-zygarde",
+          "strings": [
+            ":zygarde:",
+            ":718-zygarde:",
+            ":718:",
+            ":зайгард:",
+            ":зигард:"
+          ],
+          "location": "718-zygarde.png",
+          "surrogates": "469"
+        },
+        {
+          "name": "719-diancie",
+          "strings": [
+            ":diancie:",
+            ":719-diancie:",
+            ":719:",
+            ":дианси:"
+          ],
+          "location": "719-diancie.png",
+          "surrogates": "470"
+        },
+        {
+          "name": "719-diancie-mega",
+          "strings": [
+            ":diancie-mega:",
+            ":719-diancie-mega:",
+            ":719-mga:",
+            ":дианси-мега:"
+          ],
+          "location": "719-diancie-mega.png",
+          "surrogates": "471"
+        },
+        {
+          "name": "720-hoopa-unbound",
+          "strings": [
+            ":hoopa:",
+            ":hoopa-unbound:",
+            ":720-hoopa:",
+            ":720:",
+            ":хупа:",
+            ":хуппа:"
+          ],
+          "location": "720-hoopa-unbound.png",
+          "surrogates": "472"
+        },
+        {
+          "name": "791-solgaleo",
+          "strings": [
+            ":solgaleo:",
+            ":791-solgaleo:",
+            ":791:",
+            ":солга:",
+            ":солгалео:"
+          ],
+          "location": "791-solgaleo.png",
+          "surrogates": "473"
+        },
+        {
+          "name": "792-lunala",
+          "strings": [
+            ":lunala:",
+            ":792-lunala:",
+            ":792:",
+            ":лунал:",
+            ":лунала:"
+          ],
+          "location": "792-lunala.png",
+          "surrogates": "474"
+        },
+        {
+          "name": "798-kartana",
+          "strings": [
+            ":kartana:",
+            ":798-kartana:",
+            ":798:",
+            ":катрана:",
+            ":картана:"
+          ],
+          "location": "798-kartana.png",
+          "surrogates": "475"
+        },
+        {
+          "name": "799-guzzlord",
+          "strings": [
+            ":guzzlord:",
+            ":799-guzzlord:",
+            ":799:",
+            ":газзлорд:",
+            ":газлорд:"
+          ],
+          "location": "799-guzzlord.png",
+          "surrogates": "476"
+        },
+        {
+          "name": "800-necrozma",
+          "strings": [
+            ":necrozma:",
+            ":800-necrozma-normal:",
+            ":800-necrozma:",
+            ":800:",
+            ":никрозма:",
+            ":некрозма:"
+          ],
+          "location": "800-necrozma-normal.png",
+          "surrogates": "477"
+        },
+        {
+          "name": "801-magearna",
+          "strings": [
+            ":magearna:",
+            ":801-magearna:",
+            ":801:",
+            ":магирна:",
+            ":магеарна:"
+          ],
+          "location": "801-magearna.png",
+          "surrogates": "478"
+        },
+        {
+          "name": "802-marshadow",
+          "strings": [
+            ":marshadow:",
+            ":802-marshadow:",
+            ":802:",
+            ":марсшадоу:",
+            ":маршадоу:"
+          ],
+          "location": "802-marshadow.png",
+          "surrogates": "479"
+        },
+        {
+          "name": "805-stakataka",
+          "strings": [
+            ":stakataka:",
+            ":805-stakataka:",
+            ":805:",
+            ":стакатака:",
+            ":стакака:"
+          ],
+          "location": "805-stakataka.png",
+          "surrogates": "480"
+        },
+        {
+          "name": "807-zeraora",
+          "strings": [
+            ":zeraora:",
+            ":807-zeraora:",
+            ":807:",
+            ":зераор:",
+            ":зераора:"
+          ],
+          "location": "807-zeraora.png",
+          "surrogates": "481"
+        },
+        {
+          "name": "809-melmetal",
+          "strings": [
+            ":melmetal:",
+            ":809-melmetal:",
+            ":809:",
+            ":метмелтал:",
+            ":мелметал:"
+          ],
+          "location": "809-melmetal.png",
+          "surrogates": "482"
         }
       ]
     }

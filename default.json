@@ -15059,74 +15059,74 @@
       ]
     },
     {
-      "location": "https://raw.githubusercontent.com/TeamPixelmonPRO/Emojiful/master/",
+      "location": "https://raw.githubusercontent.com/TeamPixelmonPRO/Emojiful/master/assets/blobs/",
       "emojis": [
         {
           "name": "blobcatcaged",
-          "location": "assets/blobs/blobcatcaged.png",
+          "location": "blobcatcaged.png",
           "strings": [
             ":blobcatcaged:"
           ]
         },
         {
           "name": "blobcatnotlike",
-          "location": "assets/blobs/blobcatnotlike.png",
+          "location": "blobcatnotlike.png",
           "strings": [
             ":blobcatnotlike:"
           ]
         },
         {
           "name": "blobcatevil",
-          "location": "assets/blobs/blobcatevil.png",
+          "location": "blobcatevil.png",
           "strings": [
             ":blobcatevil:"
           ]
         },
         {
           "name": "blobcatpopsicle",
-          "location": "assets/blobs/blobcatpopsicle.png",
+          "location": "blobcatpopsicle.png",
           "strings": [
             ":blobcatpopsicle:"
           ]
         },
         {
           "name": "blobcatreeeeeee",
-          "location": "assets/blobs/blobcatreeeeeee.png",
+          "location": "blobcatreeeeeee.png",
           "strings": [
             ":blobcatreeeeeee:"
           ]
         },
         {
           "name": "blobcatblep",
-          "location": "assets/blobs/blobcatblep.png",
+          "location": "blobcatblep.png",
           "strings": [
             ":blobcatblep:"
           ]
         },
         {
           "name": "blobcatpinged",
-          "location": "assets/blobs/blobcatpinged.png",
+          "location": "blobcatpinged.png",
           "strings": [
             ":blobcatpinged:"
           ]
         },
         {
           "name": "blobcat",
-          "location": "assets/blobs/blobcat.png",
+          "location": "blobcat.png",
           "strings": [
             ":blobcat:"
           ]
         },
         {
           "name": "blobcatangry",
-          "location": "assets/blobs/blobcatangry.png",
+          "location": "blobcatangry.png",
           "strings": [
             ":blobcatangry:"
           ]
         },
         {
           "name": "blobcataww",
-          "location": "assets/blobs/blobcataww.png",
+          "location": "blobcataww.png",
           "strings": [
             ":blobcataww:",
             ":bcw:"
@@ -15134,154 +15134,154 @@
         },
         {
           "name": "blobcatb1nzy",
-          "location": "assets/blobs/blobcatb1nzy.png",
+          "location": "blobcatb1nzy.png",
           "strings": [
             ":blobcatb1nzy:"
           ]
         },
         {
           "name": "blobcatban",
-          "location": "assets/blobs/blobcatban.png",
+          "location": "blobcatban.png",
           "strings": [
             ":blobcatban:"
           ]
         },
         {
           "name": "blobcatbolb",
-          "location": "assets/blobs/blobcatbolb.png",
+          "location": "blobcatbolb.png",
           "strings": [
             ":blobcatbolb:"
           ]
         },
         {
           "name": "blobcatcoffee",
-          "location": "assets/blobs/blobcatcoffee.png",
+          "location": "blobcatcoffee.png",
           "strings": [
             ":blobcatcoffee:"
           ]
         },
         {
           "name": "blobcatdead",
-          "location": "assets/blobs/blobcatdead.png",
+          "location": "blobcatdead.png",
           "strings": [
             ":blobcatdead:"
           ]
         },
         {
           "name": "blobcatdizzy",
-          "location": "assets/blobs/blobcatdizzy.png",
+          "location": "blobcatdizzy.png",
           "strings": [
             ":blobcatdizzy:"
           ]
         },
         {
           "name": "blobcatfrowning",
-          "location": "assets/blobs/blobcatfrowning.png",
+          "location": "blobcatfrowning.png",
           "strings": [
             ":blobcatfrowning:"
           ]
         },
         {
           "name": "blobcatfunny",
-          "location": "assets/blobs/blobcatfunny.png",
+          "location": "blobcatfunny.png",
           "strings": [
             ":blobcatfunny:"
           ]
         },
         {
           "name": "blobcatglare",
-          "location": "assets/blobs/blobcatglare.png",
+          "location": "blobcatglare.png",
           "strings": [
             ":blobcatglare:"
           ]
         },
         {
           "name": "blobcatgoogly",
-          "location": "assets/blobs/blobcatgoogly.png",
+          "location": "blobcatgoogly.png",
           "strings": [
             ":blobcatgoogly:"
           ]
         },
         {
           "name": "blobcatgun",
-          "location": "assets/blobs/blobcatgun.png",
+          "location": "blobcatgun.png",
           "strings": [
             ":blobcatgun:"
           ]
         },
         {
           "name": "blobcathappy",
-          "location": "assets/blobs/blobcathappy.png",
+          "location": "blobcathappy.png",
           "strings": [
             ":blobcathappy:"
           ]
         },
         {
           "name": "blobcathearteyes",
-          "location": "assets/blobs/blobcathearteyes.png",
+          "location": "blobcathearteyes.png",
           "strings": [
             ":blobcathearteyes:"
           ]
         },
         {
           "name": "blobcatjoy",
-          "location": "assets/blobs/blobcatjoy.png",
+          "location": "blobcatjoy.png",
           "strings": [
             ":blobcatjoy:"
           ]
         },
         {
           "name": "blobcatmelt",
-          "location": "assets/blobs/blobcatmelt.png",
+          "location": "blobcatmelt.png",
           "strings": [
             ":blobcatmelt:"
           ]
         },
         {
           "name": "blobcatmlem",
-          "location": "assets/blobs/blobcatmlem.png",
+          "location": "blobcatmlem.png",
           "strings": [
             ":blobcatmlem:"
           ]
         },
         {
           "name": "blobcatmorning",
-          "location": "assets/blobs/blobcatmorning.png",
+          "location": "blobcatmorning.png",
           "strings": [
             ":blobcatmorning:"
           ]
         },
         {
           "name": "blobcatnauseated",
-          "location": "assets/blobs/blobcatnauseated.png",
+          "location": "blobcatnauseated.png",
           "strings": [
             ":blobcatnauseated:"
           ]
         },
         {
           "name": "blobcatnerd",
-          "location": "assets/blobs/blobcatnerd.png",
+          "location": "blobcatnerd.png",
           "strings": [
             ":blobcatnerd:"
           ]
         },
         {
           "name": "blobcatneutral",
-          "location": "assets/blobs/blobcatneutral.png",
+          "location": "blobcatneutral.png",
           "strings": [
             ":blobcatneutral:"
           ]
         },
         {
           "name": "blobcatnight",
-          "location": "assets/blobs/blobcatnight.png",
+          "location": "blobcatnight.png",
           "strings": [
             ":blobcatnight:"
           ]
         },
         {
           "name": "blobcatninja",
-          "location": "assets/blobs/blobcatninja.png",
+          "location": "blobcatninja.png",
           "strings": [
             ":blobcatninja:",
             ":bcn:"
@@ -15289,119 +15289,119 @@
         },
         {
           "name": "blobcatnomcookie",
-          "location": "assets/blobs/blobcatnomcookie.png",
+          "location": "blobcatnomcookie.png",
           "strings": [
             ":blobcatnomcookie:"
           ]
         },
         {
           "name": "blobcatnomfish",
-          "location": "assets/blobs/blobcatnomfish.png",
+          "location": "blobcatnomfish.png",
           "strings": [
             ":blobcatnomfish:"
           ]
         },
         {
           "name": "blobcatnomouth",
-          "location": "assets/blobs/blobcatnomouth.png",
+          "location": "blobcatnomouth.png",
           "strings": [
             ":blobcatnomouth:"
           ]
         },
         {
           "name": "blobcatpats",
-          "location": "assets/blobs/blobcatpats.png",
+          "location": "blobcatpats.png",
           "strings": [
             ":blobcatpats:"
           ]
         },
         {
           "name": "blobcatsad",
-          "location": "assets/blobs/blobcatsad.png",
+          "location": "blobcatsad.png",
           "strings": [
             ":blobcatsad:"
           ]
         },
         {
           "name": "blobcatscream",
-          "location": "assets/blobs/blobcatscream.png",
+          "location": "blobcatscream.png",
           "strings": [
             ":blobcatscream:"
           ]
         },
         {
           "name": "blobcatsick",
-          "location": "assets/blobs/blobcatsick.png",
+          "location": "blobcatsick.png",
           "strings": [
             ":blobcatsick:"
           ]
         },
         {
           "name": "blobcatthinkOwO",
-          "location": "assets/blobs/blobcatthinkOwO.png",
+          "location": "blobcatthinkOwO.png",
           "strings": [
             ":blobcatthinkOwO:"
           ]
         },
         {
           "name": "blobcatthinkingeyes",
-          "location": "assets/blobs/blobcatthinkingeyes.png",
+          "location": "blobcatthinkingeyes.png",
           "strings": [
             ":blobcatthinkingeyes:"
           ]
         },
         {
           "name": "blobcatthinkingsmirk",
-          "location": "assets/blobs/blobcatthinkingsmirk.png",
+          "location": "blobcatthinkingsmirk.png",
           "strings": [
             ":blobcatthinkingsmirk:"
           ]
         },
         {
           "name": "blobcatuwu",
-          "location": "assets/blobs/blobcatuwu.png",
+          "location": "blobcatuwu.png",
           "strings": [
             ":blobcatuwu:"
           ]
         },
         {
           "name": "blobcatwhatsthis",
-          "location": "assets/blobs/blobcatwhatsthis.png",
+          "location": "blobcatwhatsthis.png",
           "strings": [
             ":blobcatwhatsthis:"
           ]
         },
         {
           "name": "blobcatwhistle",
-          "location": "assets/blobs/blobcatwhistle.png",
+          "location": "blobcatwhistle.png",
           "strings": [
             ":blobcatwhistle:"
           ]
         },
         {
           "name": "blobcatwink",
-          "location": "assets/blobs/blobcatwink.png",
+          "location": "blobcatwink.png",
           "strings": [
             ":blobcatwink:"
           ]
         },
         {
           "name": "blobcatwinktongue",
-          "location": "assets/blobs/blobcatwinktongue.png",
+          "location": "blobcatwinktongue.png",
           "strings": [
             ":blobcatwinktongue:"
           ]
         },
         {
           "name": "blobcatwolfiri",
-          "location": "assets/blobs/blobcatwolfiri.png",
+          "location": "blobcatwolfiri.png",
           "strings": [
             ":blobcatwolfiri:"
           ]
         },
         {
           "name": "blobcoolcat",
-          "location": "assets/blobs/blobcoolcat.png",
+          "location": "blobcoolcat.png",
           "strings": [
             ":blobcoolcat:"
           ]

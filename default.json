@@ -15059,11 +15059,12 @@
       ]
     },
     {
-      "location": "https://raw.githubusercontent.com/TeamPixelmonPRO/Emojiful/master/",
+      "location": "https://raw.githubusercontent.com/TeamPixelmonPRO/Emojiful/master/assets/blobs/",
       "emojis": [
         {
           "name": "blobcatcaged",
           "location": "blobcatcaged.png",
+          "surrogates": "1",
           "strings": [
             ":blobcatcaged:"
           ]
@@ -15071,6 +15072,7 @@
         {
           "name": "blobcatnotlike",
           "location": "blobcatnotlike.png",
+          "surrogates": "2",
           "strings": [
             ":blobcatnotlike:"
           ]
@@ -15078,6 +15080,7 @@
         {
           "name": "blobcatevil",
           "location": "blobcatevil.png",
+          "surrogates": "3",
           "strings": [
             ":blobcatevil:"
           ]
@@ -15085,6 +15088,7 @@
         {
           "name": "blobcatpopsicle",
           "location": "blobcatpopsicle.png",
+          "surrogates": "4",
           "strings": [
             ":blobcatpopsicle:"
           ]
@@ -15092,6 +15096,7 @@
         {
           "name": "blobcatreeeeeee",
           "location": "blobcatreeeeeee.png",
+          "surrogates": "5",
           "strings": [
             ":blobcatreeeeeee:"
           ]
@@ -15099,6 +15104,7 @@
         {
           "name": "blobcatblep",
           "location": "blobcatblep.png",
+          "surrogates": "6",
           "strings": [
             ":blobcatblep:"
           ]
@@ -15106,6 +15112,7 @@
         {
           "name": "blobcatpinged",
           "location": "blobcatpinged.png",
+          "surrogates": "7",
           "strings": [
             ":blobcatpinged:"
           ]
@@ -15113,6 +15120,7 @@
         {
           "name": "blobcat",
           "location": "blobcat.png",
+          "surrogates": "8",
           "strings": [
             ":blobcat:"
           ]
@@ -15120,6 +15128,7 @@
         {
           "name": "blobcatangry",
           "location": "blobcatangry.png",
+          "surrogates": "9",
           "strings": [
             ":blobcatangry:"
           ]
@@ -15127,6 +15136,7 @@
         {
           "name": "blobcataww",
           "location": "blobcataww.png",
+          "surrogates": "10",
           "strings": [
             ":blobcataww:",
             ":bcw:"
@@ -15135,6 +15145,7 @@
         {
           "name": "blobcatb1nzy",
           "location": "blobcatb1nzy.png",
+          "surrogates": "11",
           "strings": [
             ":blobcatb1nzy:"
           ]
@@ -15142,6 +15153,7 @@
         {
           "name": "blobcatban",
           "location": "blobcatban.png",
+          "surrogates": "12",
           "strings": [
             ":blobcatban:"
           ]
@@ -15149,6 +15161,7 @@
         {
           "name": "blobcatbolb",
           "location": "blobcatbolb.png",
+          "surrogates": "13",
           "strings": [
             ":blobcatbolb:"
           ]
@@ -15156,6 +15169,7 @@
         {
           "name": "blobcatcoffee",
           "location": "blobcatcoffee.png",
+          "surrogates": "14",
           "strings": [
             ":blobcatcoffee:"
           ]
@@ -15163,6 +15177,7 @@
         {
           "name": "blobcatdead",
           "location": "blobcatdead.png",
+          "surrogates": "15",
           "strings": [
             ":blobcatdead:"
           ]
@@ -15170,6 +15185,7 @@
         {
           "name": "blobcatdizzy",
           "location": "blobcatdizzy.png",
+          "surrogates": "16",
           "strings": [
             ":blobcatdizzy:"
           ]
@@ -15177,6 +15193,7 @@
         {
           "name": "blobcatfrowning",
           "location": "blobcatfrowning.png",
+          "surrogates": "17",
           "strings": [
             ":blobcatfrowning:"
           ]
@@ -15184,6 +15201,7 @@
         {
           "name": "blobcatfunny",
           "location": "blobcatfunny.png",
+          "surrogates": "18",
           "strings": [
             ":blobcatfunny:"
           ]
@@ -15191,6 +15209,7 @@
         {
           "name": "blobcatglare",
           "location": "blobcatglare.png",
+          "surrogates": "19",
           "strings": [
             ":blobcatglare:"
           ]
@@ -15198,6 +15217,7 @@
         {
           "name": "blobcatgoogly",
           "location": "blobcatgoogly.png",
+          "surrogates": "20",
           "strings": [
             ":blobcatgoogly:"
           ]
@@ -15205,6 +15225,7 @@
         {
           "name": "blobcatgun",
           "location": "blobcatgun.png",
+          "surrogates": "21",
           "strings": [
             ":blobcatgun:"
           ]
@@ -15212,6 +15233,7 @@
         {
           "name": "blobcathappy",
           "location": "blobcathappy.png",
+          "surrogates": "22",
           "strings": [
             ":blobcathappy:"
           ]
@@ -15219,6 +15241,7 @@
         {
           "name": "blobcathearteyes",
           "location": "blobcathearteyes.png",
+          "surrogates": "23",
           "strings": [
             ":blobcathearteyes:"
           ]
@@ -15226,6 +15249,7 @@
         {
           "name": "blobcatjoy",
           "location": "blobcatjoy.png",
+          "surrogates": "24",
           "strings": [
             ":blobcatjoy:"
           ]
@@ -15233,6 +15257,7 @@
         {
           "name": "blobcatmelt",
           "location": "blobcatmelt.png",
+          "surrogates": "25",
           "strings": [
             ":blobcatmelt:"
           ]
@@ -15240,6 +15265,7 @@
         {
           "name": "blobcatmlem",
           "location": "blobcatmlem.png",
+          "surrogates": "26",
           "strings": [
             ":blobcatmlem:"
           ]
@@ -15247,6 +15273,7 @@
         {
           "name": "blobcatmorning",
           "location": "blobcatmorning.png",
+          "surrogates": "27",
           "strings": [
             ":blobcatmorning:"
           ]
@@ -15254,6 +15281,7 @@
         {
           "name": "blobcatnauseated",
           "location": "blobcatnauseated.png",
+          "surrogates": "28",
           "strings": [
             ":blobcatnauseated:"
           ]
@@ -15261,6 +15289,7 @@
         {
           "name": "blobcatnerd",
           "location": "blobcatnerd.png",
+          "surrogates": "29",
           "strings": [
             ":blobcatnerd:"
           ]
@@ -15268,6 +15297,7 @@
         {
           "name": "blobcatneutral",
           "location": "blobcatneutral.png",
+          "surrogates": "30",
           "strings": [
             ":blobcatneutral:"
           ]
@@ -15275,6 +15305,7 @@
         {
           "name": "blobcatnight",
           "location": "blobcatnight.png",
+          "surrogates": "31",
           "strings": [
             ":blobcatnight:"
           ]
@@ -15282,6 +15313,7 @@
         {
           "name": "blobcatninja",
           "location": "blobcatninja.png",
+          "surrogates": "32",
           "strings": [
             ":blobcatninja:",
             ":bcn:"
@@ -15290,6 +15322,7 @@
         {
           "name": "blobcatnomcookie",
           "location": "blobcatnomcookie.png",
+          "surrogates": "33",
           "strings": [
             ":blobcatnomcookie:"
           ]
@@ -15297,6 +15330,7 @@
         {
           "name": "blobcatnomfish",
           "location": "blobcatnomfish.png",
+          "surrogates": "34",
           "strings": [
             ":blobcatnomfish:"
           ]
@@ -15304,6 +15338,7 @@
         {
           "name": "blobcatnomouth",
           "location": "blobcatnomouth.png",
+          "surrogates": "35",
           "strings": [
             ":blobcatnomouth:"
           ]
@@ -15311,6 +15346,7 @@
         {
           "name": "blobcatpats",
           "location": "blobcatpats.png",
+          "surrogates": "36",
           "strings": [
             ":blobcatpats:"
           ]
@@ -15318,6 +15354,7 @@
         {
           "name": "blobcatsad",
           "location": "blobcatsad.png",
+          "surrogates": "37",
           "strings": [
             ":blobcatsad:"
           ]
@@ -15325,6 +15362,7 @@
         {
           "name": "blobcatscream",
           "location": "blobcatscream.png",
+          "surrogates": "38",
           "strings": [
             ":blobcatscream:"
           ]
@@ -15332,6 +15370,7 @@
         {
           "name": "blobcatsick",
           "location": "blobcatsick.png",
+          "surrogates": "39",
           "strings": [
             ":blobcatsick:"
           ]
@@ -15339,6 +15378,7 @@
         {
           "name": "blobcatthinkOwO",
           "location": "blobcatthinkOwO.png",
+          "surrogates": "40",
           "strings": [
             ":blobcatthinkOwO:"
           ]
@@ -15346,6 +15386,7 @@
         {
           "name": "blobcatthinkingeyes",
           "location": "blobcatthinkingeyes.png",
+          "surrogates": "41",
           "strings": [
             ":blobcatthinkingeyes:"
           ]
@@ -15353,6 +15394,7 @@
         {
           "name": "blobcatthinkingsmirk",
           "location": "blobcatthinkingsmirk.png",
+          "surrogates": "42",
           "strings": [
             ":blobcatthinkingsmirk:"
           ]
@@ -15360,6 +15402,7 @@
         {
           "name": "blobcatuwu",
           "location": "blobcatuwu.png",
+          "surrogates": "43",
           "strings": [
             ":blobcatuwu:"
           ]
@@ -15367,6 +15410,7 @@
         {
           "name": "blobcatwhatsthis",
           "location": "blobcatwhatsthis.png",
+          "surrogates": "44",
           "strings": [
             ":blobcatwhatsthis:"
           ]
@@ -15374,6 +15418,7 @@
         {
           "name": "blobcatwhistle",
           "location": "blobcatwhistle.png",
+          "surrogates": "45",
           "strings": [
             ":blobcatwhistle:"
           ]
@@ -15381,6 +15426,7 @@
         {
           "name": "blobcatwink",
           "location": "blobcatwink.png",
+          "surrogates": "46",
           "strings": [
             ":blobcatwink:"
           ]
@@ -15388,6 +15434,7 @@
         {
           "name": "blobcatwinktongue",
           "location": "blobcatwinktongue.png",
+          "surrogates": "47",
           "strings": [
             ":blobcatwinktongue:"
           ]
@@ -15395,6 +15442,7 @@
         {
           "name": "blobcatwolfiri",
           "location": "blobcatwolfiri.png",
+          "surrogates": "48",
           "strings": [
             ":blobcatwolfiri:"
           ]
@@ -15402,6 +15450,7 @@
         {
           "name": "blobcoolcat",
           "location": "blobcoolcat.png",
+          "surrogates": "49",
           "strings": [
             ":blobcoolcat:"
           ]

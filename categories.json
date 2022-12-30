@@ -1,6 +1,42 @@
 {
     "category": [
       {
+        "name": "PIXELMON",
+        "emojis": [
+          ":pixelmonpro:",
+          ":pixelmonprony:",
+          ":pixelmon:",
+          ":pokedollar:",
+          ":likes:",
+          ":yes:",
+          ":no:",
+          ":brainduck:",
+          ":bulbaroll:",
+          ":charmander:",
+          ":coolitto:",
+          ":dabachu:",
+          ":gengarun:",
+          ":heyyeah:",
+          ":hikachu:",
+          ":idkrowlet:",
+          ":latiaslove:",
+          ":latioslove:",
+          ":leafegle:",
+          ":leafeney:",
+          ":loading:",
+          ":meowney:",
+          ":muncheat:",
+          ":ouf:",
+          ":pikawink:",
+          ":roundlet:",
+          ":ruby:",
+          ":shaydrink:",
+          ":sylkiss:",
+          ":sylvcry:",
+          ":vulpresent:"
+        ]
+      },
+      {
         "name": "PEOPLE",
         "emojis": [
           ":grinning:",

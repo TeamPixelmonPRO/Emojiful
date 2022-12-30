@@ -15513,7 +15513,7 @@
           "name": "thonk",
           "strings": [
             "thonk",
-            "хммм"
+            ":хммм:"
           ],
           "location": "thonk.png",
           "surrogates": "emoji-id-50"
@@ -15522,7 +15522,7 @@
           "name": "thonkbutcool",
           "strings": [
             "thonkbutcool",
-            "хмммм"
+            ":хмммм:"
           ],
           "location": "thonkbutcool.png",
           "surrogates": "emoji-id-51"
@@ -15532,9 +15532,9 @@
           "strings": [
             "balance",
             "bal",
-            "деньги",
-            "баланс",
-            "валюта"
+            ":деньги:",
+            ":баланс:",
+            ":валюта:"
           ],
           "location": "balance.png",
           "surrogates": "emoji-id-52"
@@ -15543,10 +15543,10 @@
           "name": "lul",
           "strings": [
             "lul",
-            "лол",
-            "лул",
-            "лолъ",
-            "лоль"
+            ":лол:",
+            ":лул:",
+            ":лолъ:",
+            ":лоль:"
           ],
           "location": "lul.png",
           "surrogates": "emoji-id-53"
@@ -15555,7 +15555,7 @@
           "name": "oof",
           "strings": [
             "oof",
-            "уф"
+            ":уф:"
           ],
           "location": "oof.png",
           "surrogates": "emoji-id-54"
@@ -15564,7 +15564,7 @@
           "name": "pogchamp",
           "strings": [
             "pogchamp",
-            "погчамп"
+            ":погчамп:"
           ],
           "location": "pogchamp.png",
           "surrogates": "emoji-id-55"
@@ -15573,7 +15573,7 @@
           "name": "ruined",
           "strings": [
             "ruined",
-            "руинед"
+            ":руинед:"
           ],
           "location": "ruined.png",
           "surrogates": "emoji-id-56"
@@ -15583,7 +15583,7 @@
           "strings": [
             "okfa",
             "okface",
-            "ok_face"
+            ":окда:"
           ],
           "location": "okfa.png",
           "surrogates": "emoji-id-57"
@@ -15592,7 +15592,7 @@
           "name": "pikachu",
           "strings": [
             "pikachu",
-            "пикачу"
+            ":пикачу:"
           ],
           "location": "pikachu.png",
           "surrogates": "emoji-id-58"
@@ -15601,7 +15601,7 @@
           "name": "pika",
           "strings": [
             "pika",
-            "пика"
+            ":пика:"
           ],
           "location": "pika.png",
           "surrogates": "emoji-id-59"
@@ -15610,7 +15610,7 @@
           "name": "scroll",
           "strings": [
             "scroll",
-            "свиток"
+            ":свиток:"
           ],
           "location": "scroll.png",
           "surrogates": "emoji-id-60"
@@ -15619,7 +15619,7 @@
           "name": "shrug",
           "strings": [
             "shrug",
-            "разводитруками"
+            ":разводитруками:"
           ],
           "location": "shrug.png",
           "surrogates": "emoji-id-61"
@@ -15628,7 +15628,7 @@
           "name": "shrug1",
           "strings": [
             "shrug1",
-            "разводитруками1"
+            ":разводитруками1:"
           ],
           "location": "shrug1.png",
           "surrogates": "emoji-id-62"
@@ -15637,8 +15637,8 @@
           "name": "rip",
           "strings": [
             "rip",
-            "могилка",
-            "могила"
+            ":могилка:",
+            ":могила:"
           ],
           "location": "rip.png",
           "surrogates": "emoji-id-63"
@@ -15674,7 +15674,7 @@
           "name": "fedora",
           "strings": [
             "fedora",
-            "федора"
+            ":федора:"
           ],
           "location": "fedora.png",
           "surrogates": "emoji-id-67"
@@ -15683,7 +15683,7 @@
           "name": "whip",
           "strings": [
             "whip",
-            "кнут"
+            ":кнут:"
           ],
           "location": "whip.png",
           "surrogates": "emoji-id-68"
@@ -15692,7 +15692,7 @@
           "name": "heart_2",
           "strings": [
             "heart_2",
-            "сердце_2"
+            ":сердце_2:"
           ],
           "location": "heart1.png",
           "surrogates": "emoji-id-69"
@@ -15701,7 +15701,7 @@
           "name": "calc",
           "strings": [
             "calc",
-            "калк"
+            ":калк:"
           ],
           "location": "calc.png",
           "surrogates": "emoji-id-70"
@@ -15710,7 +15710,7 @@
           "name": "coolthink",
           "strings": [
             "coolthink",
-            "крутодумает"
+            ":крутодумает:"
           ],
           "location": "coolthink.png",
           "surrogates": "emoji-id-71"
@@ -15719,7 +15719,7 @@
           "name": "fishcowboy",
           "strings": [
             "fishcowboy",
-            "фишковбой"
+            ":фишковбой:"
           ],
           "location": "fishcowboy.png",
           "surrogates": "emoji-id-72"
@@ -15739,7 +15739,7 @@
             "ban_hummer",
             "ban_hammer",
             "banhummer",
-            "банхаммер"
+            ":банхаммер:"
           ],
           "location": "ban_hummer.png",
           "surrogates": "emoji-id-74"
@@ -15747,7 +15747,8 @@
         {
           "name": "pixeltop",
           "strings": [
-            "pixeltop"
+            "pixeltop",
+            ":пиксельтоп:"
           ],
           "location": "pixeltop.png",
           "surrogates": "emoji-id-75"
@@ -15756,7 +15757,7 @@
           "name": "squirrel",
           "strings": [
             "squirrel",
-            "белка"
+            ":белка:"
           ],
           "location": "squirrel.png",
           "surrogates": "emoji-id-76"
@@ -15765,7 +15766,7 @@
           "name": "smirk_2",
           "strings": [
             "smirk_2",
-            "подмигивает_2"
+            ":подмигивает_2:"
           ],
           "location": "smirk.png",
           "surrogates": "emoji-id-77"
@@ -15783,7 +15784,7 @@
           "name": "hee",
           "strings": [
             "hee",
-            "хее"
+            ":хее:"
           ],
           "location": "hee.png",
           "surrogates": "emoji-id-79"
@@ -15792,7 +15793,7 @@
           "name": "nooo",
           "strings": [
             "nooo",
-            "нееет"
+            ":нееет:"
           ],
           "location": "nooo.png",
           "surrogates": "emoji-id-80"
@@ -15801,7 +15802,7 @@
           "name": "owner",
           "strings": [
             "owner",
-            "создатель"
+            ":создатель:"
           ],
           "location": "owner.png",
           "surrogates": "emoji-id-81"
@@ -15810,7 +15811,7 @@
           "name": "truedat",
           "strings": [
             "truedat",
-            "труедат"
+            ":труедат:"
           ],
           "location": "truedat.png",
           "surrogates": "emoji-id-82"
@@ -15838,7 +15839,7 @@
           "strings": [
             "coolpoop",
             "cool_poop",
-            "крутаяговняшка"
+            ":крутаяговняшка:"
           ],
           "location": "coolpoop.png",
           "surrogates": "emoji-id-85"
@@ -15860,8 +15861,8 @@
           "strings": [
             "twitch",
             "tw",
-            "твитч",
-            "твич"
+            ":твитч:",
+            ":твич:"
           ],
           "location": "twitch.png",
           "surrogates": "emoji-id-87"
@@ -15872,8 +15873,8 @@
             "neron",
             "[N]",
             ":nero",
-            "неро",
-            "нерон"
+            ":неро:",
+            ":нерон:"
           ],
           "location": "neron.png",
           "surrogates": "emoji-id-88"
@@ -16242,7 +16243,7 @@
           "name": "angengar",
           "strings": [
             "angengar",
-            "злойгенгар"
+            ":злойгенгар:"
           ],
           "location": "angengar.png",
           "surrogates": "emoji-id-125"
@@ -16251,7 +16252,7 @@
           "name": "angrypuff",
           "strings": [
             "angrypuff",
-            "злойпуфф"
+            ":злойпуфф:"
           ],
           "location": "angrypuff.png",
           "surrogates": "emoji-id-126"
@@ -16532,7 +16533,7 @@
           "strings": [
             "ban",
             "gwqlabsban1",
-            "бан"
+            ":бан:"
           ],
           "location": "ban.png",
           "surrogates": "emoji-id-156"
@@ -16541,9 +16542,9 @@
           "name": "thinking",
           "strings": [
             "thinking",
-            "задумался",
-            "хм",
-            "хмм"
+            ":задумался:",
+            ":хм:",
+            ":хмм:"
           ],
           "location": "thinking.png",
           "surrogates": "emoji-id-157"
@@ -16552,8 +16553,8 @@
           "name": "angry",
           "strings": [
             "angry",
-            "злой",
-            "злость"
+            ":злой:",
+            ":злость:"
           ],
           "location": "angry.png",
           "surrogates": "emoji-id-158"
@@ -16562,8 +16563,8 @@
           "name": "rage",
           "strings": [
             "rage",
-            "ярость",
-            "гнев"
+            ":ярость:",
+            ":гнев:"
           ],
           "location": "rage.png",
           "surrogates": "emoji-id-159"
@@ -16572,8 +16573,8 @@
           "name": "neutral",
           "strings": [
             "neutral",
-            "нейтрально",
-            "пофиг"
+            ":нейтрально:",
+            ":пофиг:"
           ],
           "location": "neutral.png",
           "surrogates": "emoji-id-160"
@@ -16582,8 +16583,8 @@
           "name": "dunno",
           "strings": [
             "dunno",
-            "разводитруками",
-            "незнаю"
+            ":разводитруками:",
+            ":незнаю:"
           ],
           "location": "dunno.png",
           "surrogates": "emoji-id-164"
@@ -16592,7 +16593,7 @@
           "name": "eyy",
           "strings": [
             "eyy",
-            "еуу"
+            ":еуу:"
           ],
           "location": "eyy.png",
           "surrogates": "emoji-id-165"
@@ -16601,7 +16602,7 @@
           "name": "smarts",
           "strings": [
             "smarts",
-            "ум"
+            ":ум:"
           ],
           "location": "smarts.png",
           "surrogates": "emoji-id-166"
@@ -16610,7 +16611,7 @@
           "name": "thraw",
           "strings": [
             "thraw",
-            "бросать"
+            ":бросать:"
           ],
           "location": "thraw.png",
           "surrogates": "emoji-id-167"
@@ -16619,12 +16620,12 @@
           "name": "please",
           "strings": [
             "please",
-            "нупожалуйста",
-            "нупж",
-            "нупжж",
-            "пж",
-            "пжж",
-            "пжжж"
+            ":нупожалуйста:",
+            ":нупж:",
+            ":нупжж:",
+            ":пж:",
+            ":пжж:",
+            ":пжжж:"
           ],
           "location": "please.png",
           "surrogates": "emoji-id-168"
@@ -16652,7 +16653,7 @@
           "name": "spravedlivo",
           "strings": [
             "spravedlivo",
-            "справедливо"
+            ":справедливо:"
           ],
           "location": "spravedlivo.png",
           "surrogates": "emoji-id-171"
@@ -16670,7 +16671,7 @@
           "name": "sunglasses2",
           "strings": [
             "sunglasses2",
-            "круто"
+            ":круто:"
           ],
           "location": "sunglasses.png",
           "surrogates": "emoji-id-173"
@@ -16679,7 +16680,7 @@
           "name": "nespravedlivo",
           "strings": [
             "nespravedlivo",
-            "несправедливо"
+            ":несправедливо:"
           ],
           "location": "nespravedlivo.png",
           "surrogates": "emoji-id-174"
@@ -16697,7 +16698,7 @@
           "name": "facepalm2",
           "strings": [
             "facepalm2",
-            "фейспалм"
+            ":фейспалм:"
           ],
           "location": "facepalm.png",
           "surrogates": "emoji-id-176"
@@ -16752,7 +16753,7 @@
           "name": "mmm",
           "strings": [
             "mmm",
-            "ммм"
+            ":ммм:"
           ],
           "location": "mmm.png",
           "surrogates": "emoji-id-182"
@@ -16761,7 +16762,7 @@
           "name": "hokage",
           "strings": [
             "hokage",
-            "хокаге"
+            ":хокаге:"
           ],
           "location": "hokage.png",
           "surrogates": "emoji-id-183"
@@ -16779,7 +16780,7 @@
           "name": "triumph",
           "strings": [
             "triumph",
-            "триумф"
+            ":триумф:"
           ],
           "location": "triumph.png",
           "surrogates": "emoji-id-185"
@@ -16797,7 +16798,7 @@
           "name": "pomolchi",
           "strings": [
             "pomolchi",
-            "помолчи"
+            ":помолчи:"
           ],
           "location": "pomolchi.png",
           "surrogates": "emoji-id-187"
@@ -16806,7 +16807,7 @@
           "name": "ytrechka",
           "strings": [
             "ytrechka",
-            "утречка"
+            ":утречка:"
           ],
           "location": "ytrechka.png",
           "surrogates": "emoji-id-188"
@@ -16815,7 +16816,7 @@
           "name": "pravdacho",
           "strings": [
             "pravdacho",
-            "правдачо"
+            ":правдачо:"
           ],
           "location": "pravdacho.png",
           "surrogates": "emoji-id-189"
@@ -16824,7 +16825,7 @@
           "name": "noanimepenguin",
           "strings": [
             "noanimepenguin",
-            "нетанимепингвин"
+            ":нетанимепингвин:"
           ],
           "location": "NoAnimePenguin.png",
           "surrogates": "emoji-id-190"
@@ -16869,7 +16870,7 @@
           "name": "czheri",
           "strings": [
             "czheri",
-            "джерри"
+            ":джерри:"
           ],
           "location": "czheri.png",
           "surrogates": "emoji-id-195"
@@ -16878,7 +16879,7 @@
           "name": "itlico",
           "strings": [
             "itlico",
-            "илитко"
+            ":илитко:"
           ],
           "location": "Itlico.png",
           "surrogates": "emoji-id-196"
@@ -16889,9 +16890,9 @@
             "SideSwipeYT",
             "side",
             "sideswipe",
-            "сайд",
-            "сайдсвайп",
-            "сайдсвайпют"
+            ":сайд:",
+            ":сайдсвайп:",
+            ":сайдсвайпют:"
           ],
           "location": "side.png",
           "surrogates": "emoji-id-197"
@@ -16924,8 +16925,8 @@
             "mars",
             "marshall",
             "marshall_metters",
-            "маршал",
-            "марс"
+            ":маршал:",
+            ":марс:"
           ],
           "location": "mars.png",
           "surrogates": "emoji-id-200"
@@ -16937,7 +16938,7 @@
             "little_duck",
             "duck2",
             "ld",
-            "утка"
+            ":утка:"
           ],
           "location": "duck.png",
           "surrogates": "emoji-id-201"
@@ -17179,7 +17180,7 @@
           "name": "plus",
           "strings": [
             "plus",
-            "плюс"
+            ":плюс:"
           ],
           "location": "plus.png",
           "surrogates": "emoji-id-226"
@@ -17224,7 +17225,7 @@
           "name": "zapad",
           "strings": [
             "zapad",
-            "запад"
+            ":запад:"
           ],
           "location": "zapad.png",
           "surrogates": "emoji-id-231"
@@ -17233,7 +17234,7 @@
           "name": "vostoc",
           "strings": [
             "vostoc",
-            "восток"
+            ":восток:"
           ],
           "location": "vostoc.png",
           "surrogates": "emoji-id-232"
@@ -17242,7 +17243,7 @@
           "name": "sever",
           "strings": [
             "sever",
-            "север"
+            ":север:"
           ],
           "location": "sever.png",
           "surrogates": "emoji-id-233"
@@ -17251,7 +17252,7 @@
           "name": "ug",
           "strings": [
             "ug",
-            "юг"
+            ":юг:"
           ],
           "location": "ug.png",
           "surrogates": "emoji-id-234"
@@ -17270,7 +17271,7 @@
           "name": "night",
           "strings": [
             "night",
-            "ночь"
+            ":ночь:"
           ],
           "location": "night.png",
           "surrogates": "emoji-id-238"
@@ -17279,7 +17280,7 @@
           "name": "sunrise2",
           "strings": [
             "sunrise2",
-            "санрайз"
+            ":санрайз:"
           ],
           "location": "sunrise.png",
           "surrogates": "emoji-id-239"
@@ -17288,7 +17289,7 @@
           "name": "sunset",
           "strings": [
             "sunset",
-            "сансет"
+            ":сансет:"
           ],
           "location": "sunset.png",
           "surrogates": "emoji-id-240"
@@ -17297,7 +17298,7 @@
           "name": "search",
           "strings": [
             "search",
-            "поиск"
+            ":поиск:"
           ],
           "location": "search.png",
           "surrogates": "emoji-id-241"
@@ -17315,7 +17316,7 @@
           "name": "dvoetochie",
           "strings": [
             "dvoetochie",
-            "двоеточие"
+            ":двоеточие:"
           ],
           "location": "dvoetochie.png",
           "surrogates": "emoji-id-243"
@@ -17324,7 +17325,7 @@
           "name": "dev",
           "strings": [
             "dev",
-            "разработчик"
+            ":разработчик:"
           ],
           "location": "dev.png",
           "surrogates": "emoji-id-244"
@@ -17333,7 +17334,7 @@
           "name": "splash",
           "strings": [
             "splash",
-            "слэш"
+            ":слэш:"
           ],
           "location": "splash.png",
           "surrogates": "emoji-id-245"
@@ -17342,8 +17343,8 @@
           "name": "black",
           "strings": [
             "black",
-            "чёрный",
-            "черный"
+            ":чёрный:",
+            ":черный:"
           ],
           "location": "black.png",
           "surrogates": "emoji-id-256"
@@ -17353,8 +17354,8 @@
           "strings": [
             "dark-blue",
             "dark_blue",
-            "тёмно-синий",
-            "темно-синий"
+            ":тёмно-синий:",
+            ":темно-синий:"
           ],
           "location": "dark_blue.png",
           "surrogates": "emoji-id-257"
@@ -17364,10 +17365,10 @@
           "strings": [
             "dark-green",
             "dark_green",
-            "тёмно-зелёный",
-            "тёмно-зеленый",
-            "темно-зелёный",
-            "темно-зеленый"
+            ":тёмно-зелёный:",
+            ":тёмно-зеленый:",
+            ":темно-зелёный:",
+            ":темно-зеленый:"
           ],
           "location": "dark_green.png",
           "surrogates": "emoji-id-258"
@@ -17377,10 +17378,10 @@
           "strings": [
             "dark-aqua",
             "dark_aqua",
-            "темно-сине-зеленый",
-            "тёмно-сине-зеленый",
-            "темно-сине-зелёный",
-            "тёмно-сине-зелёный"
+            ":темно-сине-зеленый:",
+            ":тёмно-сине-зеленый:",
+            ":темно-сине-зелёный:",
+            ":тёмно-сине-зелёный:"
           ],
           "location": "dark_aqua.png",
           "surrogates": "emoji-id-259"
@@ -17390,8 +17391,8 @@
           "strings": [
             "dark-red",
             "dark_red",
-            "темно-красный",
-            "тёмно-крвсный"
+            ":темно-красный:",
+            ":тёмно-крвсный:"
           ],
           "location": "dark_red.png",
           "surrogates": "emoji-id-260"
@@ -17401,8 +17402,8 @@
           "strings": [
             "dark-purple",
             "dark_purple",
-            "темно-фиолетовый",
-            "тёмно-фиолетовый"
+            ":темно-фиолетовый:",
+            ":тёмно-фиолетовый:"
           ],
           "location": "dark_purple.png",
           "surrogates": "emoji-id-261"
@@ -17411,7 +17412,7 @@
           "name": "gold",
           "strings": [
             "gold",
-            "золотой"
+            ":золотой:"
           ],
           "location": "gold.png",
           "surrogates": "emoji-id-262"
@@ -17420,7 +17421,7 @@
           "name": "gray",
           "strings": [
             "gray",
-            "серый"
+            ":серый:"
           ],
           "location": "gray.png",
           "surrogates": "emoji-id-263"
@@ -17429,9 +17430,9 @@
           "name": "dark-gray",
           "strings": [
             "dark-gray",
-            "темно-серый",
+            ":темно-серый:",
             "dark_gray",
-            "тёмно-серый"
+            ":тёмно-серый:"
           ],
           "location": "dark_gray.png",
           "surrogates": "emoji-id-264"
@@ -17440,7 +17441,7 @@
           "name": "blue",
           "strings": [
             "blue",
-            "синий"
+            ":синий:"
           ],
           "location": "blue.png",
           "surrogates": "emoji-id-265"
@@ -17449,8 +17450,8 @@
           "name": "green",
           "strings": [
             "green",
-            "зелёный",
-            "зеленый"
+            ":зелёный:",
+            ":зеленый:"
           ],
           "location": "green.png",
           "surrogates": "emoji-id-266"
@@ -17459,7 +17460,7 @@
           "name": "aqua",
           "strings": [
             "aqua",
-            "аква"
+            ":аква:"
           ],
           "location": "aqua.png",
           "surrogates": "emoji-id-267"
@@ -17468,7 +17469,7 @@
           "name": "red",
           "strings": [
             "red",
-            "красный"
+            ":красный:"
           ],
           "location": "red.png",
           "surrogates": "emoji-id-268"
@@ -17479,8 +17480,8 @@
             "light-purple",
             "light_purple",
             "purple",
-            "фиолетовый",
-            "светло-фиолетовый"
+            ":фиолетовый:",
+            ":светло-фиолетовый:"
           ],
           "location": "purple.png",
           "surrogates": "emoji-id-269"
@@ -17489,8 +17490,8 @@
           "name": "yellow",
           "strings": [
             "yellow",
-            "желтый",
-            "жёлтый"
+            ":желтый:",
+            ":жёлтый:"
           ],
           "location": "yellow.png",
           "surrogates": "emoji-id-270"
@@ -17499,7 +17500,7 @@
           "name": "white",
           "strings": [
             "white",
-            "белый"
+            ":белый:"
           ],
           "location": "white.png",
           "surrogates": "emoji-id-271"
@@ -17513,8 +17514,8 @@
           "name": "ok_hand2",
           "strings": [
             "ok_hand2",
-            "ок",
-            "окей"
+            ":ок:",
+            ":окей:"
           ],
           "location": "ok_hand.png",
           "surrogates": "emoji-id-272"
@@ -17547,9 +17548,9 @@
           "strings": [
             "arti",
             "articuno",
-            "арти",
-            "артикуно",
-            "птиц"
+            ":арти:",
+            ":артикуно:",
+            ":птиц:"
           ],
           "location": "arti.png",
           "surrogates": "emoji-id-275"
@@ -17558,7 +17559,7 @@
           "name": "artitop",
           "strings": [
             "artitop",
-            "артитоп",
+            ":артитоп:",
             "techbrew"
           ],
           "location": "artitop.png",
@@ -17569,7 +17570,7 @@
           "strings": [
             "sonic",
             "happysonic",
-            "соник",
+            ":соник:",
             "davkas"
           ],
           "location": "sonic.png",
@@ -17579,7 +17580,7 @@
           "name": "ksensei",
           "strings": [
             "ksensei",
-            "ксенсей",
+            ":ксенсей:",
             "mysticdrew"
           ],
           "location": "ksensei.png",
@@ -17599,7 +17600,7 @@
           "name": "gwm",
           "strings": [
             "gwm",
-            "гвм",
+            ":гвм:",
             "TECH_GEEK10"
           ],
           "location": "gwm.png",
@@ -17646,7 +17647,7 @@
           "name": "fviros",
           "strings": [
             "fviros",
-            "фирос"
+            ":фирос:"
           ],
           "location": "fviros.png",
           "surrogates": "emoji-id-285"
@@ -17655,7 +17656,7 @@
           "name": "apple",
           "strings": [
             "apple",
-            "яблоко"
+            ":яблоко:"
           ],
           "location": "apple.png",
           "surrogates": "emoji-id-286"
@@ -17664,7 +17665,7 @@
           "name": "question2",
           "strings": [
             "question2",
-            "вопрос"
+            ":вопрос:"
           ],
           "location": "question.png",
           "surrogates": "emoji-id-287"
@@ -17673,7 +17674,7 @@
           "name": "100_2",
           "strings": [
             "100_2",
-            "сто"
+            ":сто:"
           ],
           "location": "100.png",
           "surrogates": "emoji-id-288"
@@ -17684,7 +17685,7 @@
             "mute",
             "mt:",
             "<:muted:711818446739996775>",
-            "мут"
+            ":мут:"
           ],
           "location": "mute.png",
           "surrogates": "emoji-id-289"
@@ -17693,7 +17694,7 @@
           "name": "kick",
           "strings": [
             "kick",
-            "кик"
+            ":кик:"
           ],
           "location": "kick.png",
           "surrogates": "emoji-id-290"
@@ -17702,7 +17703,7 @@
           "name": "golisopod",
           "strings": [
             "golisopod",
-            "голисопод"
+            ":голисопод:"
           ],
           "location": "golisopod.png",
           "surrogates": "emoji-id-291"
@@ -17711,7 +17712,7 @@
           "name": "pizza",
           "strings": [
             "pizza",
-            "пицца"
+            ":пицца:"
           ],
           "location": "pizza.png",
           "surrogates": "emoji-id-292"
@@ -17748,7 +17749,7 @@
           "name": "feelsbadman",
           "strings": [
             "feelsbadman",
-            "плохосебячувствует"
+            ":плохосебячувствует:"
           ],
           "location": "feelsbadman.png",
           "surrogates": "emoji-id-295"
@@ -17757,8 +17758,8 @@
           "name": "monkas",
           "strings": [
             "monkas",
-            "монк",
-            "манки"
+            ":монк:",
+            ":манки:"
           ],
           "location": "monkas.png",
           "surrogates": "emoji-id-296"
@@ -17767,7 +17768,7 @@
           "name": "monka_gun",
           "strings": [
             "monka_gun",
-            "манки_пистолет"
+            ":манки_пистолет:"
           ],
           "location": "monka_gun.png",
           "surrogates": "emoji-id-297"
@@ -17782,7 +17783,7 @@
           "strings": [
             "pixelmon",
             "pix",
-            "пиксельмон"
+            ":пиксельмон:"
           ],
           "location": "pixelmon.png",
           "surrogates": "emoji-id-298"
@@ -17794,9 +17795,9 @@
             "pro",
             "pixpro",
             "logo",
-            "пиксельмонпро",
-            "пикспро",
-            "про"
+            ":пиксельмонпро:",
+            ":пикспро:",
+            ":про:"
           ],
           "location": "pixelmonpro.png",
           "surrogates": "emoji-id-299"
@@ -17810,9 +17811,9 @@
             "pixprony",
             "logony",
             "ny",
-            "пиксельмонпронг",
-            "пикспронг",
-            "пронг"
+            ":пиксельмонпронг:",
+            ":пикспронг:",
+            ":пронг:"
           ],
           "location": "pixelmonprony.png",
           "surrogates": "emoji-id-300"
@@ -17897,7 +17898,7 @@
             "begin-builder",
             "begin_builder",
             "bbu",
-            "начальныйстроитель"
+            ":начальныйстроитель:"
           ],
           "location": "begin-builder.png",
           "surrogates": "emoji-id-309"
@@ -17907,8 +17908,8 @@
           "strings": [
             "builder",
             "bu",
-            "строитель",
-            "артихектор"
+            ":строитель:",
+            ":артихектор:"
           ],
           "location": "builder.png",
           "surrogates": "emoji-id-310"
@@ -17919,7 +17920,7 @@
             "major-builder",
             "major_builder",
             "mbu",
-            "старшийстроитель"
+            ":старшийстроитель:"
           ],
           "location": "major-builder.png",
           "surrogates": "emoji-id-311"
@@ -17928,7 +17929,7 @@
           "name": "config",
           "strings": [
             "config",
-            "настроки"
+            ":настроки:"
           ],
           "location": "config.png",
           "surrogates": "emoji-id-312"
@@ -17938,7 +17939,7 @@
           "strings": [
             "discord",
             "dc",
-            "дискорд"
+            ":дискорд:"
           ],
           "location": "discord.png",
           "surrogates": "emoji-id-313"
@@ -17948,7 +17949,7 @@
           "strings": [
             "discordpro",
             "dcpro",
-            "дискордпро"
+            ":дискордпро:"
           ],
           "location": "discordpro.png",
           "surrogates": "emoji-id-314"
@@ -17957,10 +17958,10 @@
           "name": "event",
           "strings": [
             "event",
-            "ивентер",
-            "ивент",
-            "евент",
-            "балагур"
+            ":ивентер:",
+            ":ивент:",
+            ":евент:",
+            ":балагур:"
           ],
           "location": "event.png",
           "surrogates": "emoji-id-315"
@@ -17969,9 +17970,9 @@
           "name": "gts",
           "strings": [
             "gts",
-            "торговаяплощадка",
-            "торг",
-            "гтс"
+            ":торговаяплощадка:",
+            ":торг:",
+            ":гтс:"
           ],
           "location": "gts.png",
           "surrogates": "emoji-id-316"
@@ -17980,7 +17981,7 @@
           "name": "hunt",
           "strings": [
             "hunt",
-            "охота"
+            ":охота:"
           ],
           "location": "hunt.png",
           "surrogates": "emoji-id-317"
@@ -17989,7 +17990,7 @@
           "name": "hunt_catch",
           "strings": [
             "hunt_catch",
-            "охота1"
+            ":охота1:"
           ],
           "location": "hunt_catch.png",
           "surrogates": "emoji-id-318"
@@ -17999,8 +18000,8 @@
           "strings": [
             "wormhole",
             "ultra-wormhole",
-            "червоточина",
-            "ультра-портал"
+            ":червоточина:",
+            ":ультра-портал:"
           ],
           "location": "wormhole.png",
           "surrogates": "emoji-id-319"
@@ -18009,7 +18010,7 @@
           "name": "lk",
           "strings": [
             "lk",
-            "лк"
+            ":лк:"
           ],
           "location": "lk.png",
           "surrogates": "emoji-id-319"
@@ -18018,7 +18019,7 @@
           "name": "master",
           "strings": [
             "master",
-            "мастер"
+            ":мастер:"
           ],
           "location": "master.png",
           "surrogates": "emoji-id-320"
@@ -18084,7 +18085,7 @@
             "town-builder",
             "town_builder",
             "tbu",
-            "градостроитель"
+            ":градостроитель:"
           ],
           "location": "town-builder.png",
           "surrogates": "emoji-id-326"
@@ -18095,7 +18096,7 @@
             "begin-mentor",
             "begin_mentor",
             "bment",
-            "начальныйментор"
+            ":начальныйментор:"
           ],
           "location": "begin-mentor.png",
           "surrogates": "emoji-id-327"
@@ -18105,11 +18106,11 @@
           "strings": [
             "mentor",
             "ment",
-            "ментор",
-            "мент",
-            "ментр",
-            "хэлпер",
-            "хелпер"
+            ":ментор:",
+            ":мент:",
+            ":ментр:",
+            ":хэлпер:",
+            ":хелпер:"
           ],
           "location": "mentor.png",
           "surrogates": "emoji-id-328"
@@ -18120,7 +18121,7 @@
             "major-mentor",
             "major_mentor",
             "mment",
-            "старшийментор"
+            ":старшийментор:"
           ],
           "location": "major-mentor.png",
           "surrogates": "emoji-id-329"
@@ -18130,10 +18131,10 @@
           "strings": [
             "begin-moderator",
             "begin_moderator",
-            "начальныймодер",
+            ":начальныймодер:",
             "begin-moder",
             "bmod",
-            "начальныймодератор"
+            ":начальныймодератор:"
           ],
           "location": "begin-moderator.png",
           "surrogates": "emoji-id-330"
@@ -18144,10 +18145,10 @@
             "moderator",
             "mod",
             "md",
-            "модер",
+            ":модер:",
             "moder",
-            "мод",
-            "модератор"
+            ":мод:",
+            ":модератор:"
           ],
           "location": "moderator.png",
           "surrogates": "emoji-id-331"
@@ -18156,10 +18157,10 @@
           "name": "major-moderator",
           "strings": [
             "major-moderator",
-            "старшиймодер",
+            ":старшиймодер:",
             "major-moder",
             "mmod",
-            "старшиймодератор"
+            ":старшиймодератор:"
           ],
           "location": "major-moderator.png",
           "surrogates": "emoji-id-332"
@@ -18169,7 +18170,7 @@
           "strings": [
             "player",
             "pl",
-            "игрок"
+            ":игрок:"
           ],
           "location": "player.png",
           "surrogates": "emoji-id-333"
@@ -18178,7 +18179,7 @@
           "name": "pokepack",
           "strings": [
             "pokepack",
-            "покепак"
+            ":покепак:"
           ],
           "location": "pokepack.png",
           "surrogates": "emoji-id-334"
@@ -18188,7 +18189,7 @@
           "strings": [
             "privat",
             "claim",
-            "приват"
+            ":приват:"
           ],
           "location": "privat.png",
           "surrogates": "emoji-id-335"
@@ -18198,7 +18199,7 @@
           "strings": [
             "reforged",
             "ref",
-            "рефоржет",
+            ":рефоржет:",
             "[Reforged]"
           ],
           "location": "reforged.png",
@@ -18210,7 +18211,7 @@
             "tavern",
             "taven",
             "tav",
-            "таверна"
+            ":таверна:"
           ],
           "location": "tavern.png",
           "surrogates": "emoji-id-337"
@@ -18219,7 +18220,7 @@
           "name": "trainer",
           "strings": [
             "trainer",
-            "тренер"
+            ":тренер:"
           ],
           "location": "trainer.png",
           "surrogates": "emoji-id-338"
@@ -18228,8 +18229,8 @@
           "name": "vk",
           "strings": [
             "vk",
-            "вк",
-            "вконтакте"
+            ":вк:",
+            ":вконтакте:"
           ],
           "location": "vk.png",
           "surrogates": "emoji-id-339"
@@ -18238,7 +18239,7 @@
           "name": "vote",
           "strings": [
             "vote",
-            "голосование"
+            ":голосование:"
           ],
           "location": "vote.png",
           "surrogates": "emoji-id-340"
@@ -18247,7 +18248,7 @@
           "name": "yarm",
           "strings": [
             "yarm",
-            "ярмарка"
+            ":ярмарка:"
           ],
           "location": "yarm.png",
           "surrogates": "emoji-id-341"
@@ -18256,7 +18257,7 @@
           "name": "wt",
           "strings": [
             "wt",
-            "случайныйобмен"
+            ":случайныйобмен:"
           ],
           "location": "wt.png",
           "surrogates": "emoji-id-342"
@@ -18267,7 +18268,7 @@
             "youtube",
             "you-tube",
             "yt",
-            "ютуб"
+            ":ютуб:"
           ],
           "location": "youtube.png",
           "surrogates": "emoji-id-343"
@@ -18332,7 +18333,7 @@
           "name": "shiny",
           "strings": [
             "shiny",
-            "шайни"
+            ":шайни:"
           ],
           "location": "shiny.png",
           "surrogates": "emoji-id-350"
@@ -18341,7 +18342,7 @@
           "name": "boss",
           "strings": [
             "boss",
-            "босс"
+            ":босс:"
           ],
           "location": "boss.png",
           "surrogates": "emoji-id-351"
@@ -18350,7 +18351,7 @@
           "name": "schrine",
           "strings": [
             "schrine",
-            "святыня"
+            ":святыня:"
           ],
           "location": "schrine.png",
           "surrogates": "emoji-id-352"
@@ -18360,7 +18361,7 @@
           "strings": [
             "pokeloot",
             "poke-loot",
-            "покелут"
+            ":покелут:"
           ],
           "location": "pokeloot.png",
           "surrogates": "emoji-id-353"
@@ -18369,7 +18370,7 @@
           "name": "female",
           "strings": [
             "female",
-            "мальчик"
+            ":мальчик:"
           ],
           "location": "female.png",
           "surrogates": "emoji-id-354"
@@ -18378,7 +18379,7 @@
           "name": "male",
           "strings": [
             "male",
-            "девочка"
+            ":девочка:"
           ],
           "location": "male.png",
           "surrogates": "emoji-id-355"
@@ -18387,7 +18388,7 @@
           "name": "none",
           "strings": [
             "none",
-            "отсутствует"
+            ":отсутствует:"
           ],
           "location": "none.png",
           "surrogates": "emoji-id-356"
@@ -18396,8 +18397,8 @@
           "name": "yes_2",
           "strings": [
             "yes_2",
-            "да2",
-            "согласен"
+            ":да2:",
+            ":согласен:"
           ],
           "location": "yes.png",
           "surrogates": "emoji-id-357"
@@ -18406,8 +18407,8 @@
           "name": "no_2",
           "strings": [
             "no_2",
-            "нет2",
-            "несогласен"
+            ":нет2:",
+            ":несогласен:"
           ],
           "location": "no.png",
           "surrogates": "emoji-id-358"
@@ -18416,7 +18417,7 @@
           "name": "wait",
           "strings": [
             "wait",
-            "ожидание"
+            ":ожидание:"
           ],
           "location": "wait.png",
           "surrogates": "emoji-id-359"
@@ -18425,7 +18426,7 @@
           "name": "warning",
           "strings": [
             "warning",
-            "предупреждение",
+            ":предупреждение:",
             "warn",
             "failed"
           ],
@@ -18436,8 +18437,8 @@
           "name": "info",
           "strings": [
             "info",
-            "информация",
-            "инфо"
+            ":информация:",
+            ":инфо:"
           ],
           "location": "info.png",
           "surrogates": "emoji-id-361"
@@ -18446,7 +18447,7 @@
           "name": "star",
           "strings": [
             "star",
-            "звезда"
+            ":звезда:"
           ],
           "location": "star.png",
           "surrogates": "emoji-id-362"
@@ -18455,7 +18456,7 @@
           "name": "shop",
           "strings": [
             "shop",
-            "магазин"
+            ":магазин:"
           ],
           "location": "shop.png",
           "surrogates": "emoji-id-363"
@@ -18475,8 +18476,8 @@
           "strings": [
             "mail",
             "message",
-            "сообщение",
-            "письмо"
+            ":сообщение:",
+            ":письмо:"
           ],
           "location": "mail.png",
           "surrogates": "emoji-id-365"
@@ -18485,7 +18486,7 @@
           "name": "coffe",
           "strings": [
             "coffe",
-            "кофе"
+            ":кофе:"
           ],
           "location": "coffe.png",
           "surrogates": "emoji-id-366"
@@ -18495,7 +18496,7 @@
           "strings": [
             "winner",
             "win",
-            "победа"
+            ":победа:"
           ],
           "location": "winner.png",
           "surrogates": "emoji-id-368"
@@ -18504,9 +18505,9 @@
           "name": "trade",
           "strings": [
             "trade",
-            "торговля",
-            "обмен",
-            "торг"
+            ":торговля:",
+            ":обмен:",
+            ":торг:"
           ],
           "location": "trade.png",
           "surrogates": "emoji-id-369"
@@ -18515,7 +18516,7 @@
           "name": "egg",
           "strings": [
             "egg",
-            "яйцо"
+            ":яйцо:"
           ],
           "location": "egg.png",
           "surrogates": "emoji-id-370"
@@ -18524,7 +18525,7 @@
           "name": "mega",
           "strings": [
             "mega",
-            "мега"
+            ":мега:"
           ],
           "location": "mega.png",
           "surrogates": "emoji-id-371"
@@ -18533,7 +18534,7 @@
           "name": "reward",
           "strings": [
             "reward",
-            "награда"
+            ":награда:"
           ],
           "location": "reward.png",
           "surrogates": "emoji-id-372"
@@ -18545,9 +18546,9 @@
             "rewardeat",
             "donat",
             "donate",
-            "наградаеда",
-            "пончик",
-            "донат"
+            ":наградаеда:",
+            ":пончик:",
+            ":донат:"
           ],
           "location": "reward_eat.png",
           "surrogates": "emoji-id-373"
@@ -18557,7 +18558,7 @@
           "strings": [
             "reward_money",
             "rewardmoney",
-            "наградаденьги",
+            ":наградаденьги:",
             "money"
           ],
           "location": "reward_money.png",
@@ -18567,7 +18568,7 @@
           "name": "coin",
           "strings": [
             "coin",
-            "монета"
+            ":монета:"
           ],
           "location": "coin.png",
           "surrogates": "emoji-id-375"
@@ -18576,7 +18577,7 @@
           "name": "candy",
           "strings": [
             "candy",
-            "конфета"
+            ":конфета:"
           ],
           "location": "candy.png",
           "surrogates": "emoji-id-376"
@@ -18598,7 +18599,7 @@
           "strings": [
             "coin_dollar",
             "dollar",
-            "доллар"
+            ":доллар:"
           ],
           "location": "coin_dollar.png",
           "surrogates": "emoji-id-378"
@@ -18607,7 +18608,7 @@
           "name": "lottery1",
           "strings": [
             "lottery1",
-            "лотерея1"
+            ":лотерея1:"
           ],
           "location": "lottery1.png",
           "surrogates": "emoji-id-379"
@@ -18616,7 +18617,7 @@
           "name": "lottery2",
           "strings": [
             "lottery2",
-            "лотерея2"
+            ":лотерея2:"
           ],
           "location": "lottery2.png",
           "surrogates": "emoji-id-380"
@@ -18625,7 +18626,7 @@
           "name": "lottery3",
           "strings": [
             "lottery3",
-            "лотерея3"
+            ":лотерея3:"
           ],
           "location": "lottery3.png",
           "surrogates": "emoji-id-381"
@@ -18634,7 +18635,7 @@
           "name": "lottery4",
           "strings": [
             "lottery4",
-            "лотерея4"
+            ":лотерея4:"
           ],
           "location": "lottery4.png",
           "surrogates": "emoji-id-382"
@@ -18643,8 +18644,8 @@
           "name": "clock",
           "strings": [
             "clock",
-            "часы",
-            "время"
+            ":часы:",
+            ":время:"
           ],
           "location": "clock.png",
           "surrogates": "emoji-id-383"
@@ -18653,7 +18654,7 @@
           "name": "free2",
           "strings": [
             "free2",
-            "бесплатно"
+            ":бесплатно:"
           ],
           "location": "free.png",
           "surrogates": "emoji-id-384"
@@ -18662,7 +18663,7 @@
           "name": "music",
           "strings": [
             "music",
-            "музыка"
+            ":музыка:"
           ],
           "location": "music.png",
           "surrogates": "emoji-id-385"
@@ -18671,7 +18672,7 @@
           "name": "volume",
           "strings": [
             "volume",
-            "громкость"
+            ":громкость:"
           ],
           "location": "volume.png",
           "surrogates": "emoji-id-386"
@@ -18680,7 +18681,7 @@
           "name": "weather",
           "strings": [
             "weather",
-            "погода"
+            ":погода:"
           ],
           "location": "weather.png",
           "surrogates": "emoji-id-387"
@@ -18689,7 +18690,7 @@
           "name": "kill",
           "strings": [
             "kill",
-            "убить"
+            ":убить:"
           ],
           "location": "kill.png",
           "surrogates": "emoji-id-388"
@@ -18698,7 +18699,7 @@
           "name": "sword",
           "strings": [
             "sword",
-            "меч"
+            ":меч:"
           ],
           "location": "sword.png",
           "surrogates": "emoji-id-389"
@@ -18707,7 +18708,7 @@
           "name": "shield2",
           "strings": [
             "shield2",
-            "щит"
+            ":щит:"
           ],
           "location": "shield.png",
           "surrogates": "emoji-id-389"
@@ -18716,7 +18717,7 @@
           "name": "skull2",
           "strings": [
             "skull2",
-            "череп"
+            ":череп:"
           ],
           "location": "skull.png",
           "surrogates": "emoji-id-390"
@@ -18726,8 +18727,8 @@
           "strings": [
             "magic",
             "magik",
-            "магия",
-            "эффект"
+            ":магия:",
+            ":эффект:"
           ],
           "location": "magic.png",
           "surrogates": "emoji-id-391"
@@ -18739,8 +18740,8 @@
             "[Dark]",
             "[Dark,",
             "Dark]",
-            "дарк",
-            "темный"
+            ":дарк:",
+            ":темный:"
           ],
           "location": "darktype.png",
           "surrogates": "emoji-id-392"
@@ -18752,8 +18753,8 @@
             "[Normal]",
             "[Normal,",
             "Normal]",
-            "нормал",
-            "нормальный"
+            ":нормал:",
+            ":нормальный:"
           ],
           "location": "normaltype.png",
           "surrogates": "emoji-id-393"
@@ -18765,10 +18766,10 @@
             "[Bug]",
             "[Bug,",
             "Bug]",
-            "баг",
-            "жучий",
-            "жук",
-            "насекомый"
+            ":баг:",
+            ":жучий:",
+            ":жук",
+            ":насекомый:"
           ],
           "location": "bugtype.png",
           "surrogates": "emoji-id-394"
@@ -18781,9 +18782,9 @@
             "[Flying]",
             "[Flying,",
             "Flying]",
-            "флаинг",
-            "воздушный",
-            "летающий"
+            ":флаинг:",
+            ":воздушный:",
+            ":летающий:"
           ],
           "location": "flyingtype.png",
           "surrogates": "emoji-id-395"
@@ -18795,8 +18796,8 @@
             "[Fighting]",
             "[Fighting,",
             "Fighting]",
-            "боевой",
-            "файтинг"
+            ":боевой:",
+            ":файтинг:"
           ],
           "location": "fightingtype.png",
           "surrogates": "emoji-id-396"
@@ -18808,10 +18809,10 @@
             "[Water]",
             "[Water,",
             "Water]",
-            "водный",
-            "водяной",
-            "вотер",
-            "ватер"
+            ":водный:",
+            ":водяной:",
+            ":вотер:",
+            ":ватер:"
           ],
           "location": "watertype.png",
           "surrogates": "emoji-id-397"
@@ -18823,8 +18824,8 @@
             "[Electric]",
             "[Electric,",
             "Electric]",
-            "электрический",
-            "электрик"
+            ":электрический:",
+            ":электрик:"
           ],
           "location": "electrictype.png",
           "surrogates": "emoji-id-398"
@@ -18836,9 +18837,9 @@
             "[Fairy]",
             "[Fairy,",
             "Fairy]",
-            "волшебный",
-            "фэйри",
-            "фаири"
+            ":волшебный:",
+            ":фэйри:",
+            ":фаири:"
           ],
           "location": "fairytype.png",
           "surrogates": "emoji-id-399"
@@ -18850,8 +18851,8 @@
             "[Ghost]",
             "[Ghost,",
             "Ghost]",
-            "призрачный",
-            "гост"
+            ":призрачный:",
+            ":гост:"
           ],
           "location": "ghosttype.png",
           "surrogates": "emoji-id-400"
@@ -18863,8 +18864,8 @@
             "[Grass]",
             "[Grass,",
             "Grass]",
-            "травяной",
-            "грасс"
+            ":травяной:",
+            ":грасс:"
           ],
           "location": "grasstype.png",
           "surrogates": "emoji-id-401"
@@ -18876,8 +18877,8 @@
             "[Ground]",
             "[Ground,",
             "Ground]",
-            "земляной",
-            "граунд"
+            ":земляной:",
+            ":граунд:"
           ],
           "location": "groundtype.png",
           "surrogates": "emoji-id-402"
@@ -18889,8 +18890,8 @@
             "[Ice]",
             "[Ice,",
             "Ice]",
-            "ледяной",
-            "айс"
+            ":ледяной:",
+            ":айс:"
           ],
           "location": "icetype.png",
           "surrogates": "emoji-id-403"
@@ -18903,8 +18904,8 @@
             "[Poison]",
             "[Poison,",
             "Poison]",
-            "ядовитый",
-            "поисон"
+            ":ядовитый:",
+            ":поисон:"
           ],
           "location": "poisontype.png",
           "surrogates": "emoji-id-404"
@@ -18916,8 +18917,8 @@
             "[Rock]",
             "[Rock,",
             "Rock]",
-            "каменный",
-            "рок"
+            ":каменный:",
+            ":рок:"
           ],
           "location": "rocktype.png",
           "surrogates": "emoji-id-405"
@@ -18929,8 +18930,8 @@
             "[Steel]",
             "[Steel,",
             "Steel]",
-            "стальной",
-            "стилл"
+            ":стальной:",
+            ":стилл:"
           ],
           "location": "steeltype.png",
           "surrogates": "emoji-id-406"
@@ -18942,8 +18943,8 @@
             "[Fire]",
             "[Fire,",
             "Fire]",
-            "огненный",
-            "фаир"
+            ":огненный:",
+            ":фаир:"
           ],
           "location": "firetype.png",
           "surrogates": "emoji-id-407"
@@ -18955,9 +18956,9 @@
             "[Dragon]",
             "[Dragon,",
             "Dragon]",
-            "драконий",
-            "дракон",
-            "дрэгон"
+            ":драконий:",
+            ":дракон:",
+            ":дрэгон:"
           ],
           "location": "dragontype.png",
           "surrogates": "emoji-id-408"
@@ -18970,9 +18971,9 @@
             "[Psychic]",
             "[Psychic,",
             "Psychic]",
-            "психический",
-            "псих",
-            "психик"
+            ":психический:",
+            ":псих:",
+            ":психик:"
           ],
           "location": "psychictype.png",
           "surrogates": "emoji-id-409"
@@ -18981,7 +18982,7 @@
           "name": "halloween",
           "strings": [
             "halloween",
-            "хэллоуин"
+            ":хэллоуин:"
           ],
           "location": "halloween.png",
           "surrogates": "emoji-id-410"
@@ -19009,7 +19010,7 @@
           "strings": [
             "shield1",
             "r1",
-            "рыцарь",
+            ":рыцарь:",
             "knight"
           ],
           "location": "shield1.png",
@@ -19020,7 +19021,7 @@
           "strings": [
             "shield2",
             "r2",
-            "барон",
+            ":барон:",
             "baron"
           ],
           "location": "shield2.png",
@@ -19031,7 +19032,7 @@
           "strings": [
             "shield3",
             "r3",
-            "виконт",
+            ":виконт:",
             "viscount"
           ],
           "location": "shield3.png",
@@ -19042,7 +19043,7 @@
           "strings": [
             "shield4",
             "r4",
-            "граф",
+            ":граф:",
             "earl"
           ],
           "location": "shield4.png",
@@ -19053,7 +19054,7 @@
           "strings": [
             "shield5",
             "r5",
-            "маркиз",
+            ":маркиз:",
             "marquis"
           ],
           "location": "shield5.png",
@@ -19064,7 +19065,7 @@
           "strings": [
             "shield6",
             "r6",
-            "герцог",
+            ":герцог:",
             "duke"
           ],
           "location": "shield6.png",
@@ -19075,7 +19076,7 @@
           "strings": [
             "shield7",
             "r7",
-            "великийгерцог",
+            ":великийгерцог:",
             "grandduke"
           ],
           "location": "shield7.png",
@@ -19086,7 +19087,7 @@
           "strings": [
             "pokedollar_eugene",
             "pd_1",
-            "пд_1"
+            ":пд_1:"
           ],
           "location": "pd.png",
           "surrogates": "emoji-id-420"
@@ -19099,9 +19100,10 @@
         {
           "name": "001-bulbasaur",
           "strings": [
+            "001-bulbasaur",
             "bulbasaur",
             "001",
-            "бульбазавр"
+            ":бульбазавр:"
           ],
           "location": "001-bulbasaur.png",
           "surrogates": "emoji-id-421"
@@ -19109,9 +19111,10 @@
         {
           "name": "006-charizard-x",
           "strings": [
+            "006-charizard-x",
             "charizard-x",
             "006-mega-x",
-            "чаризард-х"
+            ":чаризард-х:"
           ],
           "location": "006-charizard-mega-x.png",
           "surrogates": "emoji-id-422"
@@ -19119,9 +19122,10 @@
         {
           "name": "006-charizard-y",
           "strings": [
+            "006-charizard-y",
             "charizard-y",
             "006-mega-y",
-            "чаризард-у"
+            ":чаризард-у:"
           ],
           "location": "006-charizard-mega-y.png",
           "surrogates": "emoji-id-423"
@@ -19129,9 +19133,10 @@
         {
           "name": "115-kangaskhan-mega",
           "strings": [
+            "115-kangaskhan-mega",
             "kangaskhan-mega",
             "115-mega",
-            "кангасхан-мега"
+            ":кангасхан-мега:"
           ],
           "location": "115-kangaskhan-mega.png",
           "surrogates": "emoji-id-424"
@@ -19139,9 +19144,10 @@
         {
           "name": "130-gyarados-mega",
           "strings": [
+            "130-gyarados-mega",
             "gyarados-mega",
             "130-mega",
-            "гярадос-мега"
+            ":гярадос-мега:"
           ],
           "location": "130-gyarados-mega.png",
           "surrogates": "emoji-id-425"
@@ -19149,9 +19155,10 @@
         {
           "name": "150-mewtwo",
           "strings": [
+            "150-mewtwo",
             "mewtwo",
             "150",
-            "мьюту"
+            ":мьюту:"
           ],
           "location": "150-mewtwo.png",
           "surrogates": "emoji-id-426"
@@ -19159,9 +19166,10 @@
         {
           "name": "150-mewtwo-x",
           "strings": [
+            "150-mewtwo-x",
             "mewtwo-x",
             "150-mega-x",
-            "мьютух"
+            ":мьютух:"
           ],
           "location": "150-mewtwo-x.png",
           "surrogates": "emoji-id-427"
@@ -19169,9 +19177,10 @@
         {
           "name": "150-mewtwo-y",
           "strings": [
+            "150-mewtwo-y",
             "mewtwo-y",
             "150-mega-y",
-            "мьютуу"
+            ":мьютуу:"
           ],
           "location": "150-mewtwo-y.png",
           "surrogates": "emoji-id-428"
@@ -19179,9 +19188,10 @@
         {
           "name": "151-mew",
           "strings": [
+            "151-mew",
             "mew",
             "151",
-            "мью"
+            ":мью:"
           ],
           "location": "151-mew.png",
           "surrogates": "emoji-id-429"
@@ -19189,9 +19199,10 @@
         {
           "name": "208-steelix-mega",
           "strings": [
+            "208-steelix-mega",
             "steelix-mega",
             "208-mega",
-            "стиликс-мега"
+            ":стиликс-мега:"
           ],
           "location": "208-steelix-mega.png",
           "surrogates": "emoji-id-430"
@@ -19199,9 +19210,10 @@
         {
           "name": "212-scizor-mega",
           "strings": [
+            "212-scizor-mega",
             "scizor-mega",
             "212-mega",
-            "сизор-мега"
+            ":сизор-мега:"
           ],
           "location": "212-scizor-mega.png",
           "surrogates": "emoji-id-431"
@@ -19209,9 +19221,10 @@
         {
           "name": "229-houndoom-mega",
           "strings": [
+            "229-houndoom-mega",
             "houndoom-mega",
             "229-mega",
-            "хаундум-мега"
+            ":хаундум-мега:"
           ],
           "location": "229-houndoom-mega.png",
           "surrogates": "emoji-id-432"
@@ -19219,9 +19232,10 @@
         {
           "name": "249-lugia",
           "strings": [
+            "249-lugia",
             "lugia",
             "249",
-            "лугия"
+            ":лугия:"
           ],
           "location": "249-lugia.png",
           "surrogates": "emoji-id-433"
@@ -19229,9 +19243,10 @@
         {
           "name": "250-hooh",
           "strings": [
+            "250-hooh",
             "hooh",
             "250",
-            "хоох"
+            ":хоох:"
           ],
           "location": "250-hooh.png",
           "surrogates": "emoji-id-434"
@@ -19239,9 +19254,10 @@
         {
           "name": "251-celebi",
           "strings": [
+            "251-celebi",
             "celebi",
             "251",
-            "селеби"
+            ":селеби:"
           ],
           "location": "251-celebi.png",
           "surrogates": "emoji-id-435"
@@ -19249,9 +19265,10 @@
         {
           "name": "254-sceptile-mega",
           "strings": [
+            "254-sceptile-mega",
             "sceptile-mega",
             "254-mega",
-            "скептайл-мега"
+            ":скептайл-мега:"
           ],
           "location": "254-sceptile-mega.png",
           "surrogates": "emoji-id-436"
@@ -19259,9 +19276,10 @@
         {
           "name": "257-blaziken-mega",
           "strings": [
+            "257-blaziken-mega",
             "blaziken-mega",
             "257-mega",
-            "блейзикен-мега"
+            ":блейзикен-мега:"
           ],
           "location": "257-blaziken-mega.png",
           "surrogates": "emoji-id-437"
@@ -19269,9 +19287,10 @@
         {
           "name": "260-swampert-mega",
           "strings": [
+            "260-swampert-mega",
             "swampert-mega",
             "260-mega",
-            "свамперт-мега"
+            ":свамперт-мега:"
           ],
           "location": "260-swampert-mega.png",
           "surrogates": "emoji-id-438"
@@ -19279,9 +19298,10 @@
         {
           "name": "308-medicham-mega",
           "strings": [
+            "308-medicham-mega",
             "medicham-mega",
             "308-mega",
-            "медичам-мега"
+            ":медичам-мега:"
           ],
           "location": "308-medicham-mega.png",
           "surrogates": "emoji-id-439"
@@ -19289,9 +19309,10 @@
         {
           "name": "334-altaria-mega",
           "strings": [
+            "334-altaria-mega",
             "altaria-mega",
             "334-mega",
-            "алтария-мега"
+            ":алтария-мега:"
           ],
           "location": "334-altaria-mega.png",
           "surrogates": "emoji-id-440"
@@ -19299,9 +19320,10 @@
         {
           "name": "354-banette-mega",
           "strings": [
+            "354-banette-mega",
             "banette-mega",
             "354-mega",
-            "бэнетт-мега"
+            ":бэнетт-мега:"
           ],
           "location": "354-banette-mega.png",
           "surrogates": "emoji-id-441"
@@ -19309,13 +19331,14 @@
         {
           "name": "373-salamence-mega",
           "strings": [
+            "373-salamence-mega",
             "mega-salamence",
             "mega_salamence",
             "373-mega",
-            "мега-саламенс",
-            "мега-саломенс",
-            "мега-саламанс",
-            "мега-сало"
+            ":мега-саламенс:",
+            ":мега-саломенс:",
+            ":мега-саламанс:",
+            ":мега-сало:"
           ],
           "location": "373-salamence-mega.png",
           "surrogates": "emoji-id-442"
@@ -19323,12 +19346,13 @@
         {
           "name": "376-metagross-mega",
           "strings": [
+            "376-metagross-mega",
             "mega-metagross",
             "mega_metagross",
             "376-mega",
-            "мега-метагросс",
-            "мега-метагрос",
-            "мега-мета"
+            ":мега-метагросс:",
+            ":мега-метагрос:",
+            ":мега-мета:"
           ],
           "location": "376-metagross-mega.png",
           "surrogates": "emoji-id-443"
@@ -19336,10 +19360,11 @@
         {
           "name": "382-kyogre",
           "strings": [
+            "382-kyogre",
             "kyogre",
             "382",
-            "кайогр",
-            "кайогра"
+            ":кайогр:",
+            ":кайогра:"
           ],
           "location": "382-kyogre.png",
           "surrogates": "emoji-id-444"
@@ -19347,11 +19372,12 @@
         {
           "name": "382-primal-kyogre",
           "strings": [
+            "382-primal-kyogre",
             "primal_kyogre",
             "primal-kyogre",
             "382-kyogre-primal",
             "382-primal",
-            "праймал-кайогр"
+            ":праймал-кайогр:"
           ],
           "location": "382-kyogre-primal.png",
           "surrogates": "emoji-id-445"
@@ -19359,10 +19385,11 @@
         {
           "name": "383-groudon",
           "strings": [
+            "383-groudon",
             "groudon",
             "383",
-            "граудон",
-            "пгроудон"
+            ":граудон:",
+            ":гроудон:"
           ],
           "location": "383-groudon-primal.png",
           "surrogates": "emoji-id-446"
@@ -19370,12 +19397,13 @@
         {
           "name": "383-primal-groudon",
           "strings": [
+            "383-primal-groudon",
             "primal_groudon",
             "primal-groudon",
             "383-groudon-primal",
             "383-primal",
-            "праймал-граудон",
-            "праймал-гроудон"
+            ":праймал-граудон:",
+            ":праймал-гроудон:"
           ],
           "location": "383-groudon-primal.png",
           "surrogates": "emoji-id-447"
@@ -19383,11 +19411,12 @@
         {
           "name": "384-rayquaza",
           "strings": [
+            "384-rayquaza",
             "rayquaza",
             "384",
-            "рэйкваза",
-            "райкваза",
-            "рейкваза"
+            ":рэйкваза:",
+            ":райкваза:",
+            ":рейкваза:"
           ],
           "location": "384-rayquaza.png",
           "surrogates": "emoji-id-448"
@@ -19395,12 +19424,13 @@
         {
           "name": "384-rayquaza-mega",
           "strings": [
+            "384-rayquaza-mega",
             "mega-rayquaza",
             "mega_rayquaza",
             "384-mega-rayquaza",
             "384-mega",
-            "мега-рэйкваза",
-            "мега-райкваза"
+            ":мега-рэйкваза:",
+            ":мега-райкваза:"
           ],
           "location": "384-rayquaza-mega.png",
           "surrogates": "emoji-id-449"
@@ -19408,11 +19438,12 @@
         {
           "name": "386-deoxys-normal",
           "strings": [
+            "386-deoxys-normal",
             "deoxys",
             "386-normal",
             "386",
             "normal-deoxys",
-            "деоксис"
+            ":деоксис:"
           ],
           "location": "386-deoxys-normal.png",
           "surrogates": "emoji-id-450"
@@ -19420,11 +19451,12 @@
         {
           "name": "428-lopunny-mega",
           "strings": [
+            "428-lopunny-mega",
             "mega-lopunny",
             "mega_lopunny",
             "428-mega",
-            "мега-лопани",
-            "мега-лупуни"
+            ":мега-лопани:",
+            ":мега-лупуни:"
           ],
           "location": "428-lopunny-mega.png",
           "surrogates": "emoji-id-451"
@@ -19432,11 +19464,12 @@
         {
           "name": "445-garchomp-mega",
           "strings": [
+            "445-garchomp-mega",
             "mega-garchomp",
             "mega_garchomp",
             "445-mega",
-            "мега-гарчомп",
-            "мега-гарчумп"
+            ":мега-гарчомп:",
+            ":мега-гарчумп:"
           ],
           "location": "445-garchomp-mega.png",
           "surrogates": "emoji-id-452"
@@ -19444,11 +19477,12 @@
         {
           "name": "448-lucario-mega",
           "strings": [
+            "448-lucario-mega",
             "mega-lucario",
             "mega_lucario",
             "448-mega",
-            "мега-лукарио",
-            "мега-лука"
+            ":мега-лукарио:",
+            ":мега-лука:"
           ],
           "location": "448-lucario-mega.png",
           "surrogates": "emoji-id-453"
@@ -19456,10 +19490,11 @@
         {
           "name": "483-dialga",
           "strings": [
+            "483-dialga",
             "dialga",
             "483-dialga",
             "483",
-            "диалга"
+            ":диалга:"
           ],
           "location": "483-dialga.png",
           "surrogates": "emoji-id-454"
@@ -19467,9 +19502,10 @@
         {
           "name": "484-palkia",
           "strings": [
+            "484-palkia",
             "palkia",
             "484",
-            "палкия"
+            ":палкия:"
           ],
           "location": "484-palkia.png",
           "surrogates": "emoji-id-455"
@@ -19477,12 +19513,13 @@
         {
           "name": "487-giratina-origin",
           "strings": [
+            "487-giratina-origin",
             "giratina-origin",
             "giratina_origin",
             "487-origin",
             "487",
-            "гиратина-орижин",
-            "гиратина"
+            ":гиратина-орижин:",
+            ":гиратина:"
           ],
           "location": "487-giratina-origin.png",
           "surrogates": "emoji-id-456"
@@ -19490,10 +19527,11 @@
         {
           "name": "491-darkrai",
           "strings": [
+            "491-darkrai",
             "darkrai",
             "491",
-            "даркрай",
-            "даркраи"
+            ":даркрай:",
+            ":даркраи:"
           ],
           "location": "491-darkrai.png",
           "surrogates": "emoji-id-457"
@@ -19501,10 +19539,11 @@
         {
           "name": "493-arceus",
           "strings": [
+            "493-arceus",
             "arceus",
             "493",
-            "аркеус",
-            "арцеус"
+            ":аркеус:",
+            ":арцеус:"
           ],
           "location": "493-arceus.png",
           "surrogates": "emoji-id-458"
@@ -19512,11 +19551,12 @@
         {
           "name": "641-tornadus-incarnate",
           "strings": [
+            "641-tornadus-incarnate",
             "tornadus-incarnate",
             "641-tornadus",
             "641",
-            "торнадус",
-            "тернадус"
+            ":торнадус:",
+            ":тернадус:"
           ],
           "location": "641-tornadus-incarnate.png",
           "surrogates": "emoji-id-459"
@@ -19524,11 +19564,12 @@
         {
           "name": "642-thundurus-incarnate",
           "strings": [
+            "642-thundurus-incarnate",
             "thundurus-incarnate",
             "642-thundurus",
             "642",
-            "тандурус",
-            "тендурус"
+            ":тандурус:",
+            ":тендуру:с"
           ],
           "location": "642-thundurus-incarnate.png",
           "surrogates": "emoji-id-460"
@@ -19536,10 +19577,11 @@
         {
           "name": "643-reshiram",
           "strings": [
+            "643-reshiram",
             "reshiram",
             "643",
-            "реширам",
-            "решерам"
+            ":реширам:",
+            ":решерам:"
           ],
           "location": "643-reshiram.png",
           "surrogates": "emoji-id-461"
@@ -19547,9 +19589,10 @@
         {
           "name": "644-zekrom",
           "strings": [
+            "644-zekrom",
             "zekrom",
             "644",
-            "зекром"
+            ":зекром:"
           ],
           "location": "644-zekrom.png",
           "surrogates": "emoji-id-462"
@@ -19557,11 +19600,12 @@
         {
           "name": "645-landorus-incarnate",
           "strings": [
+            "645-landorus-incarnate",
             "landorus-incarnate",
             "645-landorus",
             ":645",
-            "ландорус",
-            "лэндорус"
+            ":ландорус:",
+            ":лэндорус:"
           ],
           "location": "645-landorus-incarnate.png",
           "surrogates": "emoji-id-463"
@@ -19569,11 +19613,12 @@
         {
           "name": "646-kyurem-normal",
           "strings": [
+            "646-kyurem-normal",
             "kyurem",
             "kyurem-normal",
             "646-kyurem",
             "646",
-            "кюрем"
+            ":кюрем:"
           ],
           "location": "646-kyurem-normal.png",
           "surrogates": "emoji-id-464"
@@ -19581,11 +19626,12 @@
         {
           "name": "649-genesect-normal",
           "strings": [
+            "649-genesect-normal",
             "genesect",
             "genesect-normal",
             "649-genesect",
             "649",
-            "генесект"
+            ":генесект:"
           ],
           "location": "649-genesect-normal.png",
           "surrogates": "emoji-id-465"
@@ -19593,12 +19639,13 @@
         {
           "name": "658-greninja-ash",
           "strings": [
+            "658-greninja-ash",
             "greninja-ash",
             "ash-greninja",
             "ash_greninja",
             "658-ash",
-            "эш-грениндзя",
-            "эш_грениндзя"
+            ":эш-грениндзя:",
+            ":эш_грениндзя:"
           ],
           "location": "658-greninja-ash.png",
           "surrogates": "emoji-id-466"
@@ -19606,14 +19653,15 @@
         {
           "name": "716-xerneas",
           "strings": [
+            "716-xerneas",
             "xerneas",
             "716",
-            "ксерниас",
-            "хернес",
-            "херниас",
-            "зерниас",
-            "зерниас",
-            "зерно"
+            ":ксерниас:",
+            ":хернес:",
+            ":херниас:",
+            ":зерниас:",
+            ":зерниас:",
+            ":зерно:"
           ],
           "location": "716-xerneas.png",
           "surrogates": "emoji-id-467"
@@ -19621,10 +19669,11 @@
         {
           "name": "717-yveltal",
           "strings": [
+            "717-yveltal",
             "yveltal",
             "717",
-            "ивелтал",
-            "йвелтал"
+            ":ивелтал:",
+            ":йвелтал:"
           ],
           "location": "717-yveltal.png",
           "surrogates": "emoji-id-468"
@@ -19632,10 +19681,11 @@
         {
           "name": "718-zygarde",
           "strings": [
+            "718-zygarde",
             "zygarde",
             "718",
-            "зайгард",
-            "зигард"
+            ":зайгард:",
+            ":зигард:"
           ],
           "location": "718-zygarde.png",
           "surrogates": "emoji-id-469"
@@ -19643,9 +19693,10 @@
         {
           "name": "719-diancie",
           "strings": [
+            "719-diancie",
             "diancie",
             "719",
-            "дианси"
+            ":дианси:"
           ],
           "location": "719-diancie.png",
           "surrogates": "emoji-id-470"
@@ -19653,9 +19704,10 @@
         {
           "name": "719-diancie-mega",
           "strings": [
+            "719-diancie-mega",
             "diancie-mega",
             "719-mga",
-            "дианси-мега"
+            ":дианси-мега:"
           ],
           "location": "719-diancie-mega.png",
           "surrogates": "emoji-id-471"
@@ -19663,12 +19715,13 @@
         {
           "name": "720-hoopa-unbound",
           "strings": [
+            "720-hoopa-unbound",
             "hoopa",
             "hoopa-unbound",
             "720-hoopa",
             "720",
-            "хупа",
-            "хуппа"
+            ":хупа:",
+            ":хуппа:"
           ],
           "location": "720-hoopa-unbound.png",
           "surrogates": "emoji-id-472"
@@ -19676,10 +19729,11 @@
         {
           "name": "791-solgaleo",
           "strings": [
+            "791-solgaleo",
             "solgaleo",
             "791",
-            "солга",
-            "солгалео"
+            ":солга:",
+            ":солгалео:"
           ],
           "location": "791-solgaleo.png",
           "surrogates": "emoji-id-473"
@@ -19687,10 +19741,11 @@
         {
           "name": "792-lunala",
           "strings": [
+            "792-lunala",
             "lunala",
             "792",
-            "лунал",
-            "лунала"
+            ":лунал:",
+            ":лунала:"
           ],
           "location": "792-lunala.png",
           "surrogates": "emoji-id-474"
@@ -19698,10 +19753,11 @@
         {
           "name": "798-kartana",
           "strings": [
+            "798-kartana",
             "kartana",
             "798",
-            "катрана",
-            "картана"
+            ":катрана:",
+            ":картана:"
           ],
           "location": "798-kartana.png",
           "surrogates": "emoji-id-475"
@@ -19709,10 +19765,11 @@
         {
           "name": "799-guzzlord",
           "strings": [
+            "799-guzzlord",
             "guzzlord",
             "799",
-            "газзлорд",
-            "газлорд"
+            ":газзлорд:",
+            ":газлорд:"
           ],
           "location": "799-guzzlord.png",
           "surrogates": "emoji-id-476"
@@ -19720,11 +19777,12 @@
         {
           "name": "800-necrozma",
           "strings": [
+            "800-necrozma",
             "necrozma",
             "800-necrozma-normal",
             "800",
-            "никрозма",
-            "некрозма"
+            ":никрозма:",
+            ":некрозма:"
           ],
           "location": "800-necrozma-normal.png",
           "surrogates": "emoji-id-477"
@@ -19732,10 +19790,11 @@
         {
           "name": "801-magearna",
           "strings": [
+            "801-magearna",
             "magearna",
             "801",
-            "магирна",
-            "магеарна"
+            ":магирна:",
+            ":магеарна:"
           ],
           "location": "801-magearna.png",
           "surrogates": "emoji-id-478"
@@ -19743,10 +19802,11 @@
         {
           "name": "802-marshadow",
           "strings": [
+            "802-marshadow",
             "marshadow",
             "802",
-            "марсшадоу",
-            "маршадоу"
+            ":марсшадоу:",
+            ":маршадоу:"
           ],
           "location": "802-marshadow.png",
           "surrogates": "emoji-id-479"
@@ -19754,10 +19814,11 @@
         {
           "name": "805-stakataka",
           "strings": [
+            "805-stakataka",
             "stakataka",
             "805",
-            "стакатака",
-            "стакака"
+            ":стакатака:",
+            ":стакака:"
           ],
           "location": "805-stakataka.png",
           "surrogates": "emoji-id-480"
@@ -19765,10 +19826,11 @@
         {
           "name": "807-zeraora",
           "strings": [
+            "807-zeraora",
             "zeraora",
             "807",
-            "зераор",
-            "зераора"
+            ":зераор:",
+            ":зераора:"
           ],
           "location": "807-zeraora.png",
           "surrogates": "emoji-id-481"
@@ -19776,10 +19838,11 @@
         {
           "name": "809-melmetal",
           "strings": [
+            "809-melmetal",
             "melmetal",
             "809",
-            "метмелтал",
-            "мелметал"
+            ":метмелтал:",
+            ":мелметал:"
           ],
           "location": "809-melmetal.png",
           "surrogates": "emoji-id-482"
@@ -19792,7 +19855,8 @@
         {
           "name": "brainduck",
           "strings": [
-            "брэйндак"
+            "brainduck",
+            ":брэйндак:"
           ],
           "location": "brainduck.gif",
           "surrogates": "emoji-id-483"
@@ -19800,7 +19864,8 @@
         {
           "name": "bulbaroll",
           "strings": [
-            "бульбарол"
+            "bulbaroll",
+            ":бульбарол:"
           ],
           "location": "bulbaroll.gif",
           "surrogates": "emoji-id-484"
@@ -19808,7 +19873,8 @@
         {
           "name": "charmander",
           "strings": [
-            "чармандер"
+            "charmander",
+            ":чармандер:"
           ],
           "location": "charmander.gif",
           "surrogates": "emoji-id-485"
@@ -19816,7 +19882,8 @@
         {
           "name": "coolitto",
           "strings": [
-            "крутойдитто"
+            "coolitto",
+            ":крутойдитто:"
           ],
           "location": "coolitto.gif",
           "surrogates": "emoji-id-486"
@@ -19824,7 +19891,8 @@
         {
           "name": "dabachu",
           "strings": [
-            "дабчу",
+            "dabachu",
+            ":дабчу:",
             "dabpikachu",
             "pikachudab"
           ],
@@ -19834,7 +19902,8 @@
         {
           "name": "gengarun",
           "strings": [
-            "генгарран",
+            "gengarun",
+            ":генгарран:",
             "gengarrun",
             "rubgengar"
           ],
@@ -19844,7 +19913,8 @@
         {
           "name": "heyyeah",
           "strings": [
-            "ода",
+            "heyyeah",
+            ":ода:",
             "yeah"
           ],
           "location": "heyyeah.gif",
@@ -19853,7 +19923,8 @@
         {
           "name": "hikachu",
           "strings": [
-            "хайкачу",
+            "hikachu",
+            ":хайкачу:",
             "hipikachu",
             "pikachuhi"
           ],
@@ -19863,7 +19934,8 @@
         {
           "name": "idkrowlet",
           "strings": [
-            "идкроулет"
+            "idkrowlet",
+            ":идкроулет:"
           ],
           "location": "idkrowlet.gif",
           "surrogates": "emoji-id-491"
@@ -19871,7 +19943,8 @@
         {
           "name": "latiaslove",
           "strings": [
-            "латиаслав",
+            "latiaslove",
+            ":латиаслав:",
             "lovelatias"
           ],
           "location": "latiaslove.gif",
@@ -19880,7 +19953,8 @@
         {
           "name": "latioslove",
           "strings": [
-            "латиослав",
+            "latioslove",
+            ":латиослав:",
             "lovelatios"
           ],
           "location": "latioslove.gif",
@@ -19889,6 +19963,7 @@
         {
           "name": "leafegle",
           "strings": [
+            "leafegle",
             "leaf_egle"
           ],
           "location": "leafegle.gif",
@@ -19897,6 +19972,7 @@
         {
           "name": "leafeney",
           "strings": [
+            "leafeney",
             "leafmoney",
             "leafeonmoney",
             "moneyleafeon"
@@ -19907,8 +19983,9 @@
         {
           "name": "likes",
           "strings": [
+            "likes",
             "like",
-            "лайк"
+            ":лайк:"
           ],
           "location": "likes.gif",
           "surrogates": "emoji-id-496"
@@ -19916,7 +19993,8 @@
         {
           "name": "loading",
           "strings": [
-            "загрузка",
+            "loading",
+            ":загрузка:",
             "load"
           ],
           "location": "loading.gif",
@@ -19925,6 +20003,7 @@
         {
           "name": "meowney",
           "strings": [
+            "meowney",
             "meowmoney",
             "moneymeow"
           ],
@@ -19934,6 +20013,7 @@
         {
           "name": "muncheat",
           "strings": [
+            "muncheat",
             "munchlaxeat",
             "eatmunch",
             "eatmunchlax"
@@ -19944,7 +20024,8 @@
         {
           "name": "no",
           "strings": [
-            "нет"
+            "no",
+            ":нет:"
           ],
           "location": "no.gif",
           "surrogates": "emoji-id-500"
@@ -19952,7 +20033,8 @@
         {
           "name": "ouf",
           "strings": [
-            "оуф"
+            "ouf",
+            ":оуф:"
           ],
           "location": "ouf.gif",
           "surrogates": "emoji-id-501"
@@ -19960,6 +20042,7 @@
         {
           "name": "pikawink",
           "strings": [
+            "pikawink",
             "pikachuwink",
             "winkpikachu"
           ],
@@ -19969,13 +20052,14 @@
         {
           "name": "pokedollar",
           "strings": [
+            "pokedollar",
             "poke-dollar",
             "dollarpoke",
             "pixelmondollar",
             "pd",
-            "пд",
-            "покедоллар",
-            "пиксельмондоллар"
+            ":пд:",
+            ":покедоллар:",
+            ":пиксельмондоллар:"
           ],
           "location": "pokedollar.gif",
           "surrogates": "emoji-id-503"
@@ -19983,6 +20067,7 @@
         {
           "name": "roundlet",
           "strings": [
+            "roundlet",
             "roundroulet",
             "rouletround"
           ],
@@ -19992,7 +20077,8 @@
         {
           "name": "ruby",
           "strings": [
-            "рубин"
+            "ruby",
+            ":рубин:"
           ],
           "location": "ruby.gif",
           "surrogates": "emoji-id-505"
@@ -20000,6 +20086,7 @@
         {
           "name": "shaydrink",
           "strings": [
+            "shaydrink",
             "shaymindrink",
             "drinkshaymin"
           ],
@@ -20009,6 +20096,7 @@
         {
           "name": "sylkiss",
           "strings": [
+            "sylkiss",
             "sylveonkiss",
             "kisssylveon"
           ],
@@ -20018,6 +20106,7 @@
         {
           "name": "sylvcry",
           "strings": [
+            "sylvcry",
             "sylveoncry",
             "crysylveon"
           ],
@@ -20027,6 +20116,7 @@
         {
           "name": "vulpresent",
           "strings": [
+            "vulpresent",
             "vulpixpresent",
             "presentvulpix"
           ],
@@ -20036,7 +20126,8 @@
         {
           "name": "yes",
           "strings": [
-            "да"
+            "yes",
+            ":да:"
           ],
           "location": "yes.gif",
           "surrogates": "emoji-id-510"

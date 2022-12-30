@@ -16959,7 +16959,7 @@
       "location": "https://raw.githubusercontent.com/TeamPixelmonPRO/Emojiful/master/assets/guides/",
       "emojis": [
         {
-          "name": "k-kanto",
+          "name": "k_kanto",
           "strings": [
             "k-kanto",
             "k_kanto"
@@ -16968,7 +16968,7 @@
           "surrogates": "emoji-id-203"
         },
         {
-          "name": "a-kanto",
+          "name": "a_kanto",
           "strings": [
             "a-kanto",
             "a_kanto"
@@ -16977,7 +16977,7 @@
           "surrogates": "emoji-id-204"
         },
         {
-          "name": "n-kanto",
+          "name": "n_kanto",
           "strings": [
             "n-kanto",
             "n_kanto"
@@ -16986,7 +16986,7 @@
           "surrogates": "emoji-id-205"
         },
         {
-          "name": "t-kanto",
+          "name": "t_kanto",
           "strings": [
             "t-kanto",
             "t_kanto"
@@ -16995,7 +16995,7 @@
           "surrogates": "emoji-id-206"
         },
         {
-          "name": "o-kanto",
+          "name": "o_kanto",
           "strings": [
             "o-kanto",
             "o_kanto"
@@ -17004,7 +17004,7 @@
           "surrogates": "emoji-id-207"
         },
         {
-          "name": "j-johto",
+          "name": "j_johto",
           "strings": [
             "j-johto",
             "j_johto"
@@ -17013,7 +17013,7 @@
           "surrogates": "emoji-id-208"
         },
         {
-          "name": "o-johto",
+          "name": "o_johto",
           "strings": [
             "o-johto",
             "o_johto"
@@ -17022,7 +17022,7 @@
           "surrogates": "emoji-id-209"
         },
         {
-          "name": "h-johto",
+          "name": "h_johto",
           "strings": [
             "h-johto",
             "h_johto"
@@ -17031,7 +17031,7 @@
           "surrogates": "emoji-id-210"
         },
         {
-          "name": "t-johto",
+          "name": "t_johto",
           "strings": [
             "t-johto",
             "t_johto"
@@ -17040,7 +17040,7 @@
           "surrogates": "emoji-id-211"
         },
         {
-          "name": "h-hoenn",
+          "name": "h_hoenn",
           "strings": [
             "h-hoenn",
             "h_hoenn"
@@ -17049,7 +17049,7 @@
           "surrogates": "emoji-id-212"
         },
         {
-          "name": "o-hoenn",
+          "name": "o_hoenn",
           "strings": [
             "o-hoenn",
             "o_hoenn"
@@ -17058,7 +17058,7 @@
           "surrogates": "emoji-id-213"
         },
         {
-          "name": "e-hoenn",
+          "name": "e_hoenn",
           "strings": [
             "e-hoenn",
             "e_hoenn"
@@ -17067,7 +17067,7 @@
           "surrogates": "emoji-id-214"
         },
         {
-          "name": "n-hoenn",
+          "name": "n_hoenn",
           "strings": [
             "n-hoenn",
             "n_hoenn"
@@ -17076,91 +17076,101 @@
           "surrogates": "emoji-id-215"
         },
         {
-          "name": "yarm-y",
+          "name": "yarm_y",
           "strings": [
             "yarm-y",
-            "yarm_y"
+            "yarm_y",
+            "я"
           ],
           "location": "yarm-y.png",
           "surrogates": "emoji-id-216"
         },
         {
-          "name": "yarm-p",
+          "name": "yarm_p",
           "strings": [
             "yarm-p",
-            "yarm_p"
+            "yarm_p",
+            "р"
           ],
           "location": "yarm-p.png",
           "surrogates": "emoji-id-217"
         },
         {
-          "name": "yarm-m",
+          "name": "yarm_m",
           "strings": [
             "yarm-m",
-            "yarm_m"
+            "yarm_m",
+            "м"
           ],
           "location": "yarm-m.png",
           "surrogates": "emoji-id-218"
         },
         {
-          "name": "yarm-a",
+          "name": "yarm_a",
           "strings": [
             "yarm-a",
-            "yarm_a"
+            "yarm_a",
+            "а"
           ],
           "location": "yarm-a.png",
           "surrogates": "emoji-id-219"
         },
         {
-          "name": "yarm-k",
+          "name": "yarm_k",
           "strings": [
             "yarm-k",
-            "yarm_k"
+            "yarm_k",
+            "к"
           ],
           "location": "yarm-k.png",
           "surrogates": "emoji-id-220"
         },
         {
-          "name": "yarm-d",
+          "name": "yarm_d",
           "strings": [
             "yarm-d",
-            "yarm_d"
+            "yarm_d",
+            "ди"
           ],
           "location": "yarm-d.png",
           "surrogates": "emoji-id-221"
         },
         {
-          "name": "yarm-i",
+          "name": "yarm_i",
           "strings": [
             "yarm-i",
-            "yarm_i"
+            "yarm_i",
+            "и"
           ],
           "location": "yarm-i.png",
           "surrogates": "emoji-id-222"
         },
         {
-          "name": "yarm-o",
+          "name": "yarm_o",
           "strings": [
             "yarm-o",
-            "yarm_o"
+            "yarm_o",
+            "о"
           ],
           "location": "yarm-o.png",
           "surrogates": "emoji-id-223"
         },
         {
-          "name": "yarm-b",
+          "name": "yarm_b",
           "strings": [
             "yarm-b",
-            "yarm_b"
+            "yarm_b",
+            "в"
           ],
           "location": "yarm-b.png",
           "surrogates": "emoji-id-224"
         },
         {
-          "name": "yarm-h",
+          "name": "yarm_h",
           "strings": [
             "yarm-h",
-            "yarm_h"
+            "yarm_h",
+            "н"
           ],
           "location": "yarm-h.png",
           "surrogates": "emoji-id-225"

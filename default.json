@@ -16961,6 +16961,7 @@
         {
           "name": "k-kanto",
           "strings": [
+            "k-kanto",
             "k_kanto"
           ],
           "location": "k_kanto.png",
@@ -16969,6 +16970,7 @@
         {
           "name": "a-kanto",
           "strings": [
+            "a-kanto",
             "a_kanto"
           ],
           "location": "a_kanto.png",
@@ -16977,6 +16979,7 @@
         {
           "name": "n-kanto",
           "strings": [
+            "n-kanto",
             "n_kanto"
           ],
           "location": "n_kanto.png",
@@ -16985,6 +16988,7 @@
         {
           "name": "t-kanto",
           "strings": [
+            "t-kanto",
             "t_kanto"
           ],
           "location": "t_kanto.png",
@@ -16993,6 +16997,7 @@
         {
           "name": "o-kanto",
           "strings": [
+            "o-kanto",
             "o_kanto"
           ],
           "location": "o_kanto.png",
@@ -17001,6 +17006,7 @@
         {
           "name": "j-johto",
           "strings": [
+            "j-johto",
             "j_johto"
           ],
           "location": "j_johto.png",
@@ -17009,6 +17015,7 @@
         {
           "name": "o-johto",
           "strings": [
+            "o-johto",
             "o_johto"
           ],
           "location": "o_johto.png",
@@ -17017,6 +17024,7 @@
         {
           "name": "h-johto",
           "strings": [
+            "h-johto",
             "h_johto"
           ],
           "location": "h_johto.png",
@@ -17025,6 +17033,7 @@
         {
           "name": "t-johto",
           "strings": [
+            "t-johto",
             "t_johto"
           ],
           "location": "t_johto.png",
@@ -17033,6 +17042,7 @@
         {
           "name": "h-hoenn",
           "strings": [
+            "h-hoenn",
             "h_hoenn"
           ],
           "location": "h_hoenn.png",
@@ -17041,6 +17051,7 @@
         {
           "name": "o-hoenn",
           "strings": [
+            "o-hoenn",
             "o_hoenn"
           ],
           "location": "o_hoenn.png",
@@ -17049,6 +17060,7 @@
         {
           "name": "e-hoenn",
           "strings": [
+            "e-hoenn",
             "e_hoenn"
           ],
           "location": "e_hoenn.png",
@@ -17057,6 +17069,7 @@
         {
           "name": "n-hoenn",
           "strings": [
+            "n-hoenn",
             "n_hoenn"
           ],
           "location": "n_hoenn.png",
@@ -17065,6 +17078,7 @@
         {
           "name": "yarm-y",
           "strings": [
+            "yarm-y",
             "я"
           ],
           "location": "yarm-y.png",
@@ -17073,6 +17087,7 @@
         {
           "name": "yarm-p",
           "strings": [
+            "yarm-p",
             "р"
           ],
           "location": "yarm-p.png",
@@ -17081,6 +17096,7 @@
         {
           "name": "yarm-m",
           "strings": [
+            "yarm-m",
             "м"
           ],
           "location": "yarm-m.png",
@@ -17089,6 +17105,7 @@
         {
           "name": "yarm-a",
           "strings": [
+            "yarm-a",
             "а"
           ],
           "location": "yarm-a.png",
@@ -17097,6 +17114,7 @@
         {
           "name": "yarm-k",
           "strings": [
+            "yarm-k",
             "к"
           ],
           "location": "yarm-k.png",
@@ -17105,6 +17123,7 @@
         {
           "name": "yarm-d",
           "strings": [
+            "yarm-d",
             "ди"
           ],
           "location": "yarm-d.png",
@@ -17113,6 +17132,7 @@
         {
           "name": "yarm-i",
           "strings": [
+            "yarm-i",
             "и"
           ],
           "location": "yarm-i.png",
@@ -17121,6 +17141,7 @@
         {
           "name": "yarm-o",
           "strings": [
+            "yarm-o",
             "о"
           ],
           "location": "yarm-o.png",
@@ -17129,6 +17150,7 @@
         {
           "name": "yarm-b",
           "strings": [
+            "yarm-b",
             "в"
           ],
           "location": "yarm-b.png",
@@ -17137,6 +17159,7 @@
         {
           "name": "yarm-h",
           "strings": [
+            "yarm-h",
             "н"
           ],
           "location": "yarm-h.png",
@@ -17145,6 +17168,7 @@
         {
           "name": "plus",
           "strings": [
+            "plus",
             "плюс"
           ],
           "location": "plus.png",
@@ -17153,6 +17177,7 @@
         {
           "name": "arrow_left",
           "strings": [
+            "arrow_left",
             "arrowleft"
           ],
           "location": "arrow_left.png",
@@ -17161,6 +17186,7 @@
         {
           "name": "x_cord",
           "strings": [
+            "x_cord",
             "x-cord"
           ],
           "location": "x.png",
@@ -17169,6 +17195,7 @@
         {
           "name": "y_cord",
           "strings": [
+            "y_cord",
             "y-cord"
           ],
           "location": "y.png",
@@ -17177,6 +17204,7 @@
         {
           "name": "z_cord",
           "strings": [
+            "z_cord",
             "z-cord"
           ],
           "location": "z.png",
@@ -17185,6 +17213,7 @@
         {
           "name": "zapad",
           "strings": [
+            "zapad",
             "запад"
           ],
           "location": "zapad.png",
@@ -17193,6 +17222,7 @@
         {
           "name": "vostoc",
           "strings": [
+            "vostoc",
             "восток"
           ],
           "location": "vostoc.png",
@@ -17201,6 +17231,7 @@
         {
           "name": "sever",
           "strings": [
+            "sever",
             "север"
           ],
           "location": "sever.png",
@@ -17209,6 +17240,7 @@
         {
           "name": "ug",
           "strings": [
+            "ug",
             "юг"
           ],
           "location": "ug.png",
@@ -17217,6 +17249,7 @@
         {
           "name": "sunrise1",
           "strings": [
+            "sunrise1",
             "sun",
             "day"
           ],
@@ -17226,6 +17259,7 @@
         {
           "name": "night",
           "strings": [
+            "night",
             "ночь"
           ],
           "location": "night.png",
@@ -17234,6 +17268,7 @@
         {
           "name": "sunrise2",
           "strings": [
+            "sunrise2",
             "санрайз"
           ],
           "location": "sunrise.png",
@@ -17242,6 +17277,7 @@
         {
           "name": "sunset",
           "strings": [
+            "sunset",
             "сансет"
           ],
           "location": "sunset.png",
@@ -17250,6 +17286,7 @@
         {
           "name": "search",
           "strings": [
+            "search",
             "поиск"
           ],
           "location": "search.png",
@@ -17258,6 +17295,7 @@
         {
           "name": "pixelmonway",
           "strings": [
+            "pixelmonway",
             "pixelmon_way"
           ],
           "location": "pixelmonway.png",
@@ -17266,6 +17304,7 @@
         {
           "name": "dvoetochie",
           "strings": [
+            "dvoetochie",
             "двоеточие"
           ],
           "location": "dvoetochie.png",
@@ -17274,6 +17313,7 @@
         {
           "name": "dev",
           "strings": [
+            "dev",
             "разработчик"
           ],
           "location": "dev.png",
@@ -17282,6 +17322,7 @@
         {
           "name": "splash",
           "strings": [
+            "splash",
             "слэш"
           ],
           "location": "splash.png",
@@ -17290,6 +17331,7 @@
         {
           "name": "black",
           "strings": [
+            "black",
             "чёрный",
             "черный"
           ],
@@ -17299,6 +17341,7 @@
         {
           "name": "dark-blue",
           "strings": [
+            "dark-blue",
             "dark_blue",
             "тёмно-синий",
             "темно-синий"
@@ -17309,6 +17352,7 @@
         {
           "name": "dark-green",
           "strings": [
+            "dark-green",
             "dark_green",
             "тёмно-зелёный",
             "тёмно-зеленый",
@@ -17321,6 +17365,7 @@
         {
           "name": "dark-aqua",
           "strings": [
+            "dark-aqua",
             "dark_aqua",
             "темно-сине-зеленый",
             "тёмно-сине-зеленый",
@@ -17333,6 +17378,7 @@
         {
           "name": "dark-red",
           "strings": [
+            "dark-red",
             "dark_red",
             "темно-красный",
             "тёмно-крвсный"
@@ -17343,6 +17389,7 @@
         {
           "name": "dark-purple",
           "strings": [
+            "dark-purple",
             "dark_purple",
             "темно-фиолетовый",
             "тёмно-фиолетовый"
@@ -17353,6 +17400,7 @@
         {
           "name": "gold",
           "strings": [
+            "gold",
             "золотой"
           ],
           "location": "gold.png",
@@ -17361,6 +17409,7 @@
         {
           "name": "gray",
           "strings": [
+            "gray",
             "серый"
           ],
           "location": "gray.png",
@@ -17369,6 +17418,7 @@
         {
           "name": "dark-gray",
           "strings": [
+            "dark-gray",
             "темно-серый",
             "dark_gray",
             "тёмно-серый"
@@ -17379,6 +17429,7 @@
         {
           "name": "blue",
           "strings": [
+            "blue",
             "синий"
           ],
           "location": "blue.png",
@@ -17387,6 +17438,7 @@
         {
           "name": "green",
           "strings": [
+            "green",
             "зелёный",
             "зеленый"
           ],
@@ -17396,6 +17448,7 @@
         {
           "name": "aqua",
           "strings": [
+            "aqua",
             "аква"
           ],
           "location": "aqua.png",
@@ -17404,6 +17457,7 @@
         {
           "name": "red",
           "strings": [
+            "red",
             "красный"
           ],
           "location": "red.png",
@@ -17412,6 +17466,7 @@
         {
           "name": "light-purple",
           "strings": [
+            "light-purple",
             "light_purple",
             "purple",
             "фиолетовый",
@@ -17423,6 +17478,7 @@
         {
           "name": "yellow",
           "strings": [
+            "yellow",
             "желтый",
             "жёлтый"
           ],
@@ -17432,6 +17488,7 @@
         {
           "name": "white",
           "strings": [
+            "white",
             "белый"
           ],
           "location": "white.png",

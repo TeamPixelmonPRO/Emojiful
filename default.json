@@ -17078,7 +17078,8 @@
         {
           "name": "yarm-y",
           "strings": [
-            "yarm-y"
+            "yarm-y",
+            "yarm_y"
           ],
           "location": "yarm-y.png",
           "surrogates": "emoji-id-216"
@@ -17086,7 +17087,8 @@
         {
           "name": "yarm-p",
           "strings": [
-            "yarm-p"
+            "yarm-p",
+            "yarm_p"
           ],
           "location": "yarm-p.png",
           "surrogates": "emoji-id-217"
@@ -17094,7 +17096,8 @@
         {
           "name": "yarm-m",
           "strings": [
-            "yarm-m"
+            "yarm-m",
+            "yarm_m"
           ],
           "location": "yarm-m.png",
           "surrogates": "emoji-id-218"
@@ -17102,7 +17105,8 @@
         {
           "name": "yarm-a",
           "strings": [
-            "yarm-a"
+            "yarm-a",
+            "yarm_a"
           ],
           "location": "yarm-a.png",
           "surrogates": "emoji-id-219"
@@ -17110,7 +17114,8 @@
         {
           "name": "yarm-k",
           "strings": [
-            "yarm-k"
+            "yarm-k",
+            "yarm_k"
           ],
           "location": "yarm-k.png",
           "surrogates": "emoji-id-220"
@@ -17118,7 +17123,8 @@
         {
           "name": "yarm-d",
           "strings": [
-            "yarm-d"
+            "yarm-d",
+            "yarm_d"
           ],
           "location": "yarm-d.png",
           "surrogates": "emoji-id-221"
@@ -17126,7 +17132,8 @@
         {
           "name": "yarm-i",
           "strings": [
-            "yarm-i"
+            "yarm-i",
+            "yarm_i"
           ],
           "location": "yarm-i.png",
           "surrogates": "emoji-id-222"
@@ -17134,7 +17141,8 @@
         {
           "name": "yarm-o",
           "strings": [
-            "yarm-o"
+            "yarm-o",
+            "yarm_o"
           ],
           "location": "yarm-o.png",
           "surrogates": "emoji-id-223"
@@ -17142,7 +17150,8 @@
         {
           "name": "yarm-b",
           "strings": [
-            "yarm-b"
+            "yarm-b",
+            "yarm_b"
           ],
           "location": "yarm-b.png",
           "surrogates": "emoji-id-224"
@@ -17150,7 +17159,8 @@
         {
           "name": "yarm-h",
           "strings": [
-            "yarm-h"
+            "yarm-h",
+            "yarm_h"
           ],
           "location": "yarm-h.png",
           "surrogates": "emoji-id-225"
@@ -17492,6 +17502,7 @@
         {
           "name": "ok_hand2",
           "strings": [
+            "ok_hand2",
             "ок",
             "окей"
           ],
@@ -17501,6 +17512,7 @@
         {
           "name": "za",
           "strings": [
+            "za",
             "za-1"
           ],
           "location": "za.png",
@@ -17509,6 +17521,7 @@
         {
           "name": "protiv",
           "strings": [
+            "protiv",
             "protiv-1"
           ],
           "location": "protiv.png",
@@ -17522,6 +17535,7 @@
         {
           "name": "arti",
           "strings": [
+            "arti",
             "articuno",
             "арти",
             "артикуно",
@@ -17533,6 +17547,7 @@
         {
           "name": "artitop",
           "strings": [
+            "artitop",
             "артитоп",
             "techbrew"
           ],
@@ -17542,6 +17557,7 @@
         {
           "name": "sonic",
           "strings": [
+            "sonic",
             "happysonic",
             "соник",
             "davkas"
@@ -17552,6 +17568,7 @@
         {
           "name": "ksensei",
           "strings": [
+            "ksensei",
             "ксенсей",
             "mysticdrew"
           ],
@@ -17561,6 +17578,7 @@
         {
           "name": "rencraw",
           "strings": [
+            "rencraw",
             "strawhat",
             "eladjenkins"
           ],
@@ -17570,6 +17588,7 @@
         {
           "name": "gwm",
           "strings": [
+            "gwm",
             "гвм",
             "TECH_GEEK10"
           ],
@@ -17579,6 +17598,7 @@
         {
           "name": "din",
           "strings": [
+            "din",
             "endless"
           ],
           "location": "din.png",
@@ -17587,6 +17607,7 @@
         {
           "name": "laykras",
           "strings": [
+            "laykras",
             "pp",
             "durrani"
           ],
@@ -17596,6 +17617,7 @@
         {
           "name": "akida",
           "strings": [
+            "akida",
             "sikandar"
           ],
           "location": "akida.png",
@@ -17604,6 +17626,7 @@
         {
           "name": "colend",
           "strings": [
+            "colend",
             "ahit"
           ],
           "location": "colend.png",
@@ -17612,6 +17635,7 @@
         {
           "name": "fviros",
           "strings": [
+            "fviros",
             "фирос"
           ],
           "location": "fviros.png",
@@ -17620,6 +17644,7 @@
         {
           "name": "apple",
           "strings": [
+            "apple",
             "яблоко"
           ],
           "location": "apple.png",
@@ -17628,6 +17653,7 @@
         {
           "name": "question2",
           "strings": [
+            "question2",
             "вопрос"
           ],
           "location": "question.png",
@@ -17636,6 +17662,7 @@
         {
           "name": "100_2",
           "strings": [
+            "100_2",
             "сто"
           ],
           "location": "100.png",
@@ -17644,6 +17671,7 @@
         {
           "name": "mute",
           "strings": [
+            "mute",
             "mt:",
             "<:muted:711818446739996775>",
             "мут"
@@ -17654,6 +17682,7 @@
         {
           "name": "kick",
           "strings": [
+            "kick",
             "кик"
           ],
           "location": "kick.png",
@@ -17662,6 +17691,7 @@
         {
           "name": "golisopod",
           "strings": [
+            "golisopod",
             "голисопод"
           ],
           "location": "golisopod.png",
@@ -17670,6 +17700,7 @@
         {
           "name": "pizza",
           "strings": [
+            "pizza",
             "пицца"
           ],
           "location": "pizza.png",
@@ -17683,6 +17714,7 @@
         {
           "name": "grimoire",
           "strings": [
+            "grimoire",
             "grimoireofgaia"
           ],
           "location": "grimoire.png",
@@ -17691,6 +17723,7 @@
         {
           "name": "ic2",
           "strings": [
+            "ic2",
             "industrialcraft2"
           ],
           "location": "ic2.png",
@@ -17704,6 +17737,7 @@
         {
           "name": "feelsbadman",
           "strings": [
+            "feelsbadman",
             "плохосебячувствует"
           ],
           "location": "feelsbadman.png",
@@ -17712,6 +17746,7 @@
         {
           "name": "monkas",
           "strings": [
+            "monkas",
             "монк",
             "манки"
           ],
@@ -17721,6 +17756,7 @@
         {
           "name": "monka_gun",
           "strings": [
+            "monka_gun",
             "манки_пистолет"
           ],
           "location": "monka_gun.png",
@@ -17734,6 +17770,7 @@
         {
           "name": "pixelmon",
           "strings": [
+            "pixelmon",
             "pix",
             "пиксельмон"
           ],
@@ -17743,6 +17780,7 @@
         {
           "name": "pixelmonpro",
           "strings": [
+            "pixelmonpro",
             "pro",
             "pixpro",
             "logo",
@@ -17756,6 +17794,7 @@
         {
           "name": "pixelmonprony",
           "strings": [
+            "pixelmonprony",
             "pixelmonpony",
             "prony",
             "pixprony",
@@ -17771,6 +17810,7 @@
         {
           "name": "pixelmonpromini",
           "strings": [
+            "pixelmonpromini",
             "promini",
             "pixpromini",
             "logomini"
@@ -17781,6 +17821,7 @@
         {
           "name": "logo_kanto",
           "strings": [
+            "logo_kanto",
             "logo-kanto"
           ],
           "location": "logo_kanto.png",
@@ -17789,6 +17830,7 @@
         {
           "name": "logo_johto",
           "strings": [
+            "logo_johto",
             "logo-johto"
           ],
           "location": "logo_johto.png",
@@ -17797,6 +17839,7 @@
         {
           "name": "logo_hoenn",
           "strings": [
+            "logo_hoenn",
             "logo-hoenn"
           ],
           "location": "logo_hoenn.png",
@@ -17805,7 +17848,7 @@
         {
           "name": "kanto",
           "strings": [
-            "k:",
+            "kanto",
             "[K]"
           ],
           "location": "kanto.png",
@@ -17814,7 +17857,7 @@
         {
           "name": "johto",
           "strings": [
-            "j:",
+            "johto",
             "[J]"
           ],
           "location": "johto.png",
@@ -17823,7 +17866,7 @@
         {
           "name": "hoenn",
           "strings": [
-            "h:",
+            "hoenn",
             "[H]"
           ],
           "location": "hoenn.png",
@@ -17832,7 +17875,7 @@
         {
           "name": "teron",
           "strings": [
-            "t:",
+            "teron",
             "[T]"
           ],
           "location": "teron.png",
@@ -17841,6 +17884,7 @@
         {
           "name": "begin-builder",
           "strings": [
+            "begin-builder",
             "begin_builder",
             "bbu",
             "начальныйстроитель"
@@ -17851,6 +17895,7 @@
         {
           "name": "builder",
           "strings": [
+            "builder",
             "bu",
             "строитель",
             "артихектор"
@@ -17861,6 +17906,7 @@
         {
           "name": "major-builder",
           "strings": [
+            "major-builder",
             "major_builder",
             "mbu",
             "старшийстроитель"
@@ -17871,6 +17917,7 @@
         {
           "name": "config",
           "strings": [
+            "config",
             "настроки"
           ],
           "location": "config.png",
@@ -17879,6 +17926,7 @@
         {
           "name": "discord",
           "strings": [
+            "discord",
             "dc",
             "дискорд"
           ],
@@ -17888,6 +17936,7 @@
         {
           "name": "discordpro",
           "strings": [
+            "discordpro",
             "dcpro",
             "дискордпро"
           ],
@@ -17897,6 +17946,7 @@
         {
           "name": "event",
           "strings": [
+            "event",
             "ивентер",
             "ивент",
             "евент",
@@ -17908,6 +17958,7 @@
         {
           "name": "gts",
           "strings": [
+            "gts",
             "торговаяплощадка",
             "торг",
             "гтс"
@@ -17918,6 +17969,7 @@
         {
           "name": "hunt",
           "strings": [
+            "hunt",
             "охота"
           ],
           "location": "hunt.png",
@@ -17926,6 +17978,7 @@
         {
           "name": "hunt_catch",
           "strings": [
+            "hunt_catch",
             "охота1"
           ],
           "location": "hunt_catch.png",
@@ -17934,6 +17987,7 @@
         {
           "name": "wormhole",
           "strings": [
+            "wormhole",
             "ultra-wormhole",
             "червоточина",
             "ультра-портал"
@@ -17944,6 +17998,7 @@
         {
           "name": "lk",
           "strings": [
+            "lk",
             "лк"
           ],
           "location": "lk.png",
@@ -17952,6 +18007,7 @@
         {
           "name": "master",
           "strings": [
+            "master",
             "мастер"
           ],
           "location": "master.png",
@@ -17960,6 +18016,7 @@
         {
           "name": "premium-1",
           "strings": [
+            "premium-1",
             "prem-1",
             "prem1",
             "pr1"
@@ -17970,6 +18027,7 @@
         {
           "name": "premium-2",
           "strings": [
+            "premium-2",
             "prem-2",
             "prem2",
             "pr2"
@@ -17980,6 +18038,7 @@
         {
           "name": "premium-3",
           "strings": [
+            "premium-3",
             "prem-3",
             "prem3",
             "pr3"
@@ -17990,6 +18049,7 @@
         {
           "name": "premium-4",
           "strings": [
+            "premium-4",
             "prem-4",
             "prem4",
             "pr4"
@@ -18000,6 +18060,7 @@
         {
           "name": "premium-5",
           "strings": [
+            "premium-5",
             "prem-5",
             "prem5",
             "pr5"
@@ -18010,6 +18071,7 @@
         {
           "name": "town-builder",
           "strings": [
+            "town-builder",
             "town_builder",
             "tbu",
             "градостроитель"
@@ -18020,6 +18082,7 @@
         {
           "name": "begin-mentor",
           "strings": [
+            "begin-mentor",
             "begin_mentor",
             "bment",
             "начальныйментор"
@@ -18030,6 +18093,7 @@
         {
           "name": "mentor",
           "strings": [
+            "mentor",
             "ment",
             "ментор",
             "мент",
@@ -18043,6 +18107,7 @@
         {
           "name": "major-mentor",
           "strings": [
+            "major-mentor",
             "major_mentor",
             "mment",
             "старшийментор"
@@ -18053,6 +18118,7 @@
         {
           "name": "begin-moderator",
           "strings": [
+            "begin-moderator",
             "begin_moderator",
             "начальныймодер",
             "begin-moder",
@@ -18065,6 +18131,7 @@
         {
           "name": "moderator",
           "strings": [
+            "moderator",
             "mod",
             "md",
             "модер",
@@ -18078,6 +18145,7 @@
         {
           "name": "major-moderator",
           "strings": [
+            "major-moderator",
             "старшиймодер",
             "major-moder",
             "mmod",
@@ -18089,6 +18157,7 @@
         {
           "name": "player",
           "strings": [
+            "player",
             "pl",
             "игрок"
           ],
@@ -18098,6 +18167,7 @@
         {
           "name": "pokepack",
           "strings": [
+            "pokepack",
             "покепак"
           ],
           "location": "pokepack.png",
@@ -18106,6 +18176,7 @@
         {
           "name": "privat",
           "strings": [
+            "privat",
             "claim",
             "приват"
           ],
@@ -18115,6 +18186,7 @@
         {
           "name": "reforged",
           "strings": [
+            "reforged",
             "ref",
             "рефоржет",
             "[Reforged]"
@@ -18125,6 +18197,7 @@
         {
           "name": "tavern",
           "strings": [
+            "tavern",
             "taven",
             "tav",
             "таверна"
@@ -18135,6 +18208,7 @@
         {
           "name": "trainer",
           "strings": [
+            "trainer",
             "тренер"
           ],
           "location": "trainer.png",
@@ -18143,6 +18217,7 @@
         {
           "name": "vk",
           "strings": [
+            "vk",
             "вк",
             "вконтакте"
           ],
@@ -18152,6 +18227,7 @@
         {
           "name": "vote",
           "strings": [
+            "vote",
             "голосование"
           ],
           "location": "vote.png",
@@ -18160,6 +18236,7 @@
         {
           "name": "yarm",
           "strings": [
+            "yarm",
             "ярмарка"
           ],
           "location": "yarm.png",
@@ -18168,6 +18245,7 @@
         {
           "name": "wt",
           "strings": [
+            "wt",
             "случайныйобмен"
           ],
           "location": "wt.png",
@@ -18176,6 +18254,7 @@
         {
           "name": "youtube",
           "strings": [
+            "youtube",
             "you-tube",
             "yt",
             "ютуб"
@@ -18186,6 +18265,7 @@
         {
           "name": "customnpc",
           "strings": [
+            "customnpc",
             "custom-npc"
           ],
           "location": "customnpc.png",
@@ -18194,6 +18274,7 @@
         {
           "name": "ironchest",
           "strings": [
+            "ironchest",
             "iron-chest"
           ],
           "location": "ironchest.png",
@@ -18202,6 +18283,7 @@
         {
           "name": "variedcommodities",
           "strings": [
+            "variedcommodities",
             "varied-commodities",
             "varied"
           ],
@@ -18211,6 +18293,7 @@
         {
           "name": "sgcraft",
           "strings": [
+            "sgcraft",
             "sg-craft",
             "hoopagates"
           ],
@@ -18220,8 +18303,8 @@
         {
           "name": "№",
           "strings": [
-            "num",
-            "#"
+            "№",
+            "num"
           ],
           "location": "number.png",
           "surrogates": "emoji-id-348"
@@ -18229,6 +18312,7 @@
         {
           "name": "oak",
           "strings": [
+            "oak",
             "profoak"
           ],
           "location": "oak.png",
@@ -18237,6 +18321,7 @@
         {
           "name": "shiny",
           "strings": [
+            "shiny",
             "шайни"
           ],
           "location": "shiny.png",
@@ -18245,6 +18330,7 @@
         {
           "name": "boss",
           "strings": [
+            "boss",
             "босс"
           ],
           "location": "boss.png",
@@ -18253,6 +18339,7 @@
         {
           "name": "schrine",
           "strings": [
+            "schrine",
             "святыня"
           ],
           "location": "schrine.png",
@@ -18261,6 +18348,7 @@
         {
           "name": "pokeloot",
           "strings": [
+            "pokeloot",
             "poke-loot",
             "покелут"
           ],
@@ -18270,6 +18358,7 @@
         {
           "name": "female",
           "strings": [
+            "female",
             "мальчик"
           ],
           "location": "female.png",
@@ -18278,6 +18367,7 @@
         {
           "name": "male",
           "strings": [
+            "male",
             "девочка"
           ],
           "location": "male.png",
@@ -18286,6 +18376,7 @@
         {
           "name": "none",
           "strings": [
+            "none",
             "отсутствует"
           ],
           "location": "none.png",
@@ -18294,6 +18385,7 @@
         {
           "name": "yes_2",
           "strings": [
+            "yes_2",
             "да2",
             "согласен"
           ],
@@ -18303,6 +18395,7 @@
         {
           "name": "no_2",
           "strings": [
+            "no_2",
             "нет2",
             "несогласен"
           ],
@@ -18312,6 +18405,7 @@
         {
           "name": "wait",
           "strings": [
+            "wait",
             "ожидание"
           ],
           "location": "wait.png",
@@ -18320,6 +18414,7 @@
         {
           "name": "warning",
           "strings": [
+            "warning",
             "предупреждение",
             "warn",
             "failed"
@@ -18340,6 +18435,7 @@
         {
           "name": "star",
           "strings": [
+            "star",
             "звезда"
           ],
           "location": "star.png",
@@ -18348,6 +18444,7 @@
         {
           "name": "shop",
           "strings": [
+            "shop",
             "магазин"
           ],
           "location": "shop.png",
@@ -18356,6 +18453,7 @@
         {
           "name": "photo",
           "strings": [
+            "photo",
             "camera",
             "screenshot"
           ],
@@ -18365,6 +18463,7 @@
         {
           "name": "mail",
           "strings": [
+            "mail",
             "message",
             "сообщение",
             "письмо"
@@ -18375,6 +18474,7 @@
         {
           "name": "coffe",
           "strings": [
+            "coffe",
             "кофе"
           ],
           "location": "coffe.png",
@@ -18383,6 +18483,7 @@
         {
           "name": "winner",
           "strings": [
+            "winner",
             "win",
             "победа"
           ],
@@ -18392,6 +18493,7 @@
         {
           "name": "trade",
           "strings": [
+            "trade",
             "торговля",
             "обмен",
             "торг"
@@ -18402,6 +18504,7 @@
         {
           "name": "egg",
           "strings": [
+            "egg",
             "яйцо"
           ],
           "location": "egg.png",
@@ -18410,6 +18513,7 @@
         {
           "name": "mega",
           "strings": [
+            "mega",
             "мега"
           ],
           "location": "mega.png",
@@ -18418,6 +18522,7 @@
         {
           "name": "reward",
           "strings": [
+            "reward",
             "награда"
           ],
           "location": "reward.png",
@@ -18426,6 +18531,7 @@
         {
           "name": "reward_eat",
           "strings": [
+            "reward_eat",
             "rewardeat",
             "donat",
             "donate",
@@ -18439,6 +18545,7 @@
         {
           "name": "reward_money",
           "strings": [
+            "reward_money",
             "rewardmoney",
             "наградаденьги",
             "money"
@@ -18449,6 +18556,7 @@
         {
           "name": "coin",
           "strings": [
+            "coin",
             "монета"
           ],
           "location": "coin.png",
@@ -18457,6 +18565,7 @@
         {
           "name": "candy",
           "strings": [
+            "candy",
             "конфета"
           ],
           "location": "candy.png",
@@ -18465,6 +18574,7 @@
         {
           "name": "rand_poke_ball",
           "strings": [
+            "rand_poke_ball",
             "rand_pokeball",
             "rand-pokeball",
             "rand-poke-ball",
@@ -18476,6 +18586,7 @@
         {
           "name": "coin_dollar",
           "strings": [
+            "coin_dollar",
             "dollar",
             "доллар"
           ],
@@ -18485,6 +18596,7 @@
         {
           "name": "lottery1",
           "strings": [
+            "lottery1",
             "лотерея1"
           ],
           "location": "lottery1.png",
@@ -18493,6 +18605,7 @@
         {
           "name": "lottery2",
           "strings": [
+            "lottery2",
             "лотерея2"
           ],
           "location": "lottery2.png",
@@ -18501,6 +18614,7 @@
         {
           "name": "lottery3",
           "strings": [
+            "lottery3",
             "лотерея3"
           ],
           "location": "lottery3.png",
@@ -18509,6 +18623,7 @@
         {
           "name": "lottery4",
           "strings": [
+            "lottery4",
             "лотерея4"
           ],
           "location": "lottery4.png",
@@ -18517,6 +18632,7 @@
         {
           "name": "clock",
           "strings": [
+            "clock",
             "часы",
             "время"
           ],
@@ -18526,6 +18642,7 @@
         {
           "name": "free2",
           "strings": [
+            "free2",
             "бесплатно"
           ],
           "location": "free.png",
@@ -18534,6 +18651,7 @@
         {
           "name": "music",
           "strings": [
+            "music",
             "музыка"
           ],
           "location": "music.png",
@@ -18542,6 +18660,7 @@
         {
           "name": "volume",
           "strings": [
+            "volume",
             "громкость"
           ],
           "location": "volume.png",
@@ -18550,6 +18669,7 @@
         {
           "name": "weather",
           "strings": [
+            "weather",
             "погода"
           ],
           "location": "weather.png",
@@ -18558,6 +18678,7 @@
         {
           "name": "kill",
           "strings": [
+            "kill",
             "убить"
           ],
           "location": "kill.png",
@@ -18566,6 +18687,7 @@
         {
           "name": "sword",
           "strings": [
+            "sword",
             "меч"
           ],
           "location": "sword.png",
@@ -18574,6 +18696,7 @@
         {
           "name": "shield2",
           "strings": [
+            "shield2",
             "щит"
           ],
           "location": "shield.png",
@@ -18582,6 +18705,7 @@
         {
           "name": "skull2",
           "strings": [
+            "skull2",
             "череп"
           ],
           "location": "skull.png",
@@ -18590,6 +18714,7 @@
         {
           "name": "magic",
           "strings": [
+            "magic",
             "magik",
             "магия",
             "эффект"
@@ -18600,6 +18725,7 @@
         {
           "name": "dark",
           "strings": [
+            "dark",
             "[Dark]",
             "[Dark,",
             "Dark]",
@@ -18612,6 +18738,7 @@
         {
           "name": "normal",
           "strings": [
+            "normal",
             "[Normal]",
             "[Normal,",
             "Normal]",
@@ -18624,6 +18751,7 @@
         {
           "name": "bug",
           "strings": [
+            "bug",
             "[Bug]",
             "[Bug,",
             "Bug]",
@@ -18638,6 +18766,7 @@
         {
           "name": "fly",
           "strings": [
+            "fly",
             "flying",
             "[Flying]",
             "[Flying,",
@@ -18665,6 +18794,7 @@
         {
           "name": "water",
           "strings": [
+            "water",
             "[Water]",
             "[Water,",
             "Water]",
@@ -18679,6 +18809,7 @@
         {
           "name": "electric",
           "strings": [
+            "electric",
             "[Electric]",
             "[Electric,",
             "Electric]",
@@ -18691,6 +18822,7 @@
         {
           "name": "fairy",
           "strings": [
+            "fairy",
             "[Fairy]",
             "[Fairy,",
             "Fairy]",
@@ -18704,6 +18836,7 @@
         {
           "name": "ghost",
           "strings": [
+            "ghost",
             "[Ghost]",
             "[Ghost,",
             "Ghost]",
@@ -18716,6 +18849,7 @@
         {
           "name": "grass",
           "strings": [
+            "grass",
             "[Grass]",
             "[Grass,",
             "Grass]",
@@ -18728,6 +18862,7 @@
         {
           "name": "ground",
           "strings": [
+            "ground",
             "[Ground]",
             "[Ground,",
             "Ground]",
@@ -18740,6 +18875,7 @@
         {
           "name": "ice",
           "strings": [
+            "ice",
             "[Ice]",
             "[Ice,",
             "Ice]",
@@ -18752,6 +18888,7 @@
         {
           "name": "poison",
           "strings": [
+            "poison",
             "poision",
             "[Poison]",
             "[Poison,",
@@ -18765,6 +18902,7 @@
         {
           "name": "rock",
           "strings": [
+            "rock",
             "[Rock]",
             "[Rock,",
             "Rock]",
@@ -18777,6 +18915,7 @@
         {
           "name": "steel",
           "strings": [
+            "steel",
             "[Steel]",
             "[Steel,",
             "Steel]",
@@ -18789,6 +18928,7 @@
         {
           "name": "fire",
           "strings": [
+            "fire",
             "[Fire]",
             "[Fire,",
             "Fire]",
@@ -18801,6 +18941,7 @@
         {
           "name": "dragon",
           "strings": [
+            "dragon",
             "[Dragon]",
             "[Dragon,",
             "Dragon]",
@@ -18814,6 +18955,7 @@
         {
           "name": "psychic",
           "strings": [
+            "psychic",
             "psyhic",
             "[Psychic]",
             "[Psychic,",
@@ -18828,6 +18970,7 @@
         {
           "name": "halloween",
           "strings": [
+            "halloween",
             "хэллоуин"
           ],
           "location": "halloween.png",
@@ -18836,6 +18979,7 @@
         {
           "name": "snowflake",
           "strings": [
+            "snowflake",
             "sf"
           ],
           "location": "snowflake.png",
@@ -18844,6 +18988,7 @@
         {
           "name": "battlepass",
           "strings": [
+            "battlepass",
             "bp"
           ],
           "location": "battlepass.png",
@@ -18852,6 +18997,7 @@
         {
           "name": "shield1",
           "strings": [
+            "shield1",
             "r1",
             "рыцарь",
             "knight"
@@ -18862,6 +19008,7 @@
         {
           "name": "shield2",
           "strings": [
+            "shield2",
             "r2",
             "барон",
             "baron"
@@ -18872,6 +19019,7 @@
         {
           "name": "shield3",
           "strings": [
+            "shield3",
             "r3",
             "виконт",
             "viscount"
@@ -18882,6 +19030,7 @@
         {
           "name": "shield4",
           "strings": [
+            "shield4",
             "r4",
             "граф",
             "earl"
@@ -18892,6 +19041,7 @@
         {
           "name": "shield5",
           "strings": [
+            "shield5",
             "r5",
             "маркиз",
             "marquis"
@@ -18902,6 +19052,7 @@
         {
           "name": "shield6",
           "strings": [
+            "shield6",
             "r6",
             "герцог",
             "duke"
@@ -18912,6 +19063,7 @@
         {
           "name": "shield7",
           "strings": [
+            "shield7",
             "r7",
             "великийгерцог",
             "grandduke"
@@ -18922,6 +19074,7 @@
         {
           "name": "pokedollar_eugene",
           "strings": [
+            "pokedollar_eugene",
             "pd_1",
             "пд_1"
           ],

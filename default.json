@@ -15064,7 +15064,7 @@
         {
           "name": "blobcatcaged",
           "location": "blobcatcaged.png",
-          "surrogates": "1",
+          "surrogates": "emoji-id-1",
           "strings": [
             ":blobcatcaged:"
           ]
@@ -15072,7 +15072,7 @@
         {
           "name": "blobcatnotlike",
           "location": "blobcatnotlike.png",
-          "surrogates": "2",
+          "surrogates": "emoji-id-2",
           "strings": [
             ":blobcatnotlike:"
           ]
@@ -15080,7 +15080,7 @@
         {
           "name": "blobcatevil",
           "location": "blobcatevil.png",
-          "surrogates": "3",
+          "surrogates": "emoji-id-3",
           "strings": [
             ":blobcatevil:"
           ]
@@ -15088,7 +15088,7 @@
         {
           "name": "blobcatpopsicle",
           "location": "blobcatpopsicle.png",
-          "surrogates": "4",
+          "surrogates": "emoji-id-4",
           "strings": [
             ":blobcatpopsicle:"
           ]
@@ -15096,7 +15096,7 @@
         {
           "name": "blobcatreeeeeee",
           "location": "blobcatreeeeeee.png",
-          "surrogates": "5",
+          "surrogates": "emoji-id-5",
           "strings": [
             ":blobcatreeeeeee:"
           ]
@@ -15104,7 +15104,7 @@
         {
           "name": "blobcatblep",
           "location": "blobcatblep.png",
-          "surrogates": "6",
+          "surrogates": "emoji-id-6",
           "strings": [
             ":blobcatblep:"
           ]
@@ -15112,7 +15112,7 @@
         {
           "name": "blobcatpinged",
           "location": "blobcatpinged.png",
-          "surrogates": "7",
+          "surrogates": "emoji-id-7",
           "strings": [
             ":blobcatpinged:"
           ]
@@ -15120,7 +15120,7 @@
         {
           "name": "blobcat",
           "location": "blobcat.png",
-          "surrogates": "8",
+          "surrogates": "emoji-id-8",
           "strings": [
             ":blobcat:"
           ]
@@ -15128,7 +15128,7 @@
         {
           "name": "blobcatangry",
           "location": "blobcatangry.png",
-          "surrogates": "9",
+          "surrogates": "emoji-id-9",
           "strings": [
             ":blobcatangry:"
           ]
@@ -15136,7 +15136,7 @@
         {
           "name": "blobcataww",
           "location": "blobcataww.png",
-          "surrogates": "10",
+          "surrogates": "emoji-id-10",
           "strings": [
             ":blobcataww:",
             ":bcw:"
@@ -15145,7 +15145,7 @@
         {
           "name": "blobcatb1nzy",
           "location": "blobcatb1nzy.png",
-          "surrogates": "11",
+          "surrogates": "emoji-id-11",
           "strings": [
             ":blobcatb1nzy:"
           ]
@@ -15153,7 +15153,7 @@
         {
           "name": "blobcatban",
           "location": "blobcatban.png",
-          "surrogates": "12",
+          "surrogates": "emoji-id-12",
           "strings": [
             ":blobcatban:"
           ]
@@ -15161,7 +15161,7 @@
         {
           "name": "blobcatbolb",
           "location": "blobcatbolb.png",
-          "surrogates": "13",
+          "surrogates": "emoji-id-13",
           "strings": [
             ":blobcatbolb:"
           ]
@@ -15169,7 +15169,7 @@
         {
           "name": "blobcatcoffee",
           "location": "blobcatcoffee.png",
-          "surrogates": "14",
+          "surrogates": "emoji-id-14",
           "strings": [
             ":blobcatcoffee:"
           ]
@@ -15177,7 +15177,7 @@
         {
           "name": "blobcatdead",
           "location": "blobcatdead.png",
-          "surrogates": "15",
+          "surrogates": "emoji-id-15",
           "strings": [
             ":blobcatdead:"
           ]
@@ -15185,7 +15185,7 @@
         {
           "name": "blobcatdizzy",
           "location": "blobcatdizzy.png",
-          "surrogates": "16",
+          "surrogates": "emoji-id-16",
           "strings": [
             ":blobcatdizzy:"
           ]
@@ -15193,7 +15193,7 @@
         {
           "name": "blobcatfrowning",
           "location": "blobcatfrowning.png",
-          "surrogates": "17",
+          "surrogates": "emoji-id-17",
           "strings": [
             ":blobcatfrowning:"
           ]
@@ -15201,7 +15201,7 @@
         {
           "name": "blobcatfunny",
           "location": "blobcatfunny.png",
-          "surrogates": "18",
+          "surrogates": "emoji-id-18",
           "strings": [
             ":blobcatfunny:"
           ]
@@ -15209,7 +15209,7 @@
         {
           "name": "blobcatglare",
           "location": "blobcatglare.png",
-          "surrogates": "19",
+          "surrogates": "emoji-id-19",
           "strings": [
             ":blobcatglare:"
           ]
@@ -15217,7 +15217,7 @@
         {
           "name": "blobcatgoogly",
           "location": "blobcatgoogly.png",
-          "surrogates": "20",
+          "surrogates": "emoji-id-20",
           "strings": [
             ":blobcatgoogly:"
           ]
@@ -15225,7 +15225,7 @@
         {
           "name": "blobcatgun",
           "location": "blobcatgun.png",
-          "surrogates": "21",
+          "surrogates": "emoji-id-21",
           "strings": [
             ":blobcatgun:"
           ]
@@ -15233,7 +15233,7 @@
         {
           "name": "blobcathappy",
           "location": "blobcathappy.png",
-          "surrogates": "22",
+          "surrogates": "emoji-id-22",
           "strings": [
             ":blobcathappy:"
           ]
@@ -15241,7 +15241,7 @@
         {
           "name": "blobcathearteyes",
           "location": "blobcathearteyes.png",
-          "surrogates": "23",
+          "surrogates": "emoji-id-23",
           "strings": [
             ":blobcathearteyes:"
           ]
@@ -15249,7 +15249,7 @@
         {
           "name": "blobcatjoy",
           "location": "blobcatjoy.png",
-          "surrogates": "24",
+          "surrogates": "emoji-id-24",
           "strings": [
             ":blobcatjoy:"
           ]
@@ -15257,7 +15257,7 @@
         {
           "name": "blobcatmelt",
           "location": "blobcatmelt.png",
-          "surrogates": "25",
+          "surrogates": "emoji-id-25",
           "strings": [
             ":blobcatmelt:"
           ]
@@ -15265,7 +15265,7 @@
         {
           "name": "blobcatmlem",
           "location": "blobcatmlem.png",
-          "surrogates": "26",
+          "surrogates": "emoji-id-26",
           "strings": [
             ":blobcatmlem:"
           ]
@@ -15273,7 +15273,7 @@
         {
           "name": "blobcatmorning",
           "location": "blobcatmorning.png",
-          "surrogates": "27",
+          "surrogates": "emoji-id-27",
           "strings": [
             ":blobcatmorning:"
           ]
@@ -15281,7 +15281,7 @@
         {
           "name": "blobcatnauseated",
           "location": "blobcatnauseated.png",
-          "surrogates": "28",
+          "surrogates": "emoji-id-28",
           "strings": [
             ":blobcatnauseated:"
           ]
@@ -15289,7 +15289,7 @@
         {
           "name": "blobcatnerd",
           "location": "blobcatnerd.png",
-          "surrogates": "29",
+          "surrogates": "emoji-id-29",
           "strings": [
             ":blobcatnerd:"
           ]
@@ -15297,7 +15297,7 @@
         {
           "name": "blobcatneutral",
           "location": "blobcatneutral.png",
-          "surrogates": "30",
+          "surrogates": "emoji-id-30",
           "strings": [
             ":blobcatneutral:"
           ]
@@ -15305,7 +15305,7 @@
         {
           "name": "blobcatnight",
           "location": "blobcatnight.png",
-          "surrogates": "31",
+          "surrogates": "emoji-id-31",
           "strings": [
             ":blobcatnight:"
           ]
@@ -15313,7 +15313,7 @@
         {
           "name": "blobcatninja",
           "location": "blobcatninja.png",
-          "surrogates": "32",
+          "surrogates": "emoji-id-32",
           "strings": [
             ":blobcatninja:",
             ":bcn:"
@@ -15322,7 +15322,7 @@
         {
           "name": "blobcatnomcookie",
           "location": "blobcatnomcookie.png",
-          "surrogates": "33",
+          "surrogates": "emoji-id-33",
           "strings": [
             ":blobcatnomcookie:"
           ]
@@ -15330,7 +15330,7 @@
         {
           "name": "blobcatnomfish",
           "location": "blobcatnomfish.png",
-          "surrogates": "34",
+          "surrogates": "emoji-id-34",
           "strings": [
             ":blobcatnomfish:"
           ]
@@ -15338,7 +15338,7 @@
         {
           "name": "blobcatnomouth",
           "location": "blobcatnomouth.png",
-          "surrogates": "35",
+          "surrogates": "emoji-id-35",
           "strings": [
             ":blobcatnomouth:"
           ]
@@ -15346,7 +15346,7 @@
         {
           "name": "blobcatpats",
           "location": "blobcatpats.png",
-          "surrogates": "36",
+          "surrogates": "emoji-id-36",
           "strings": [
             ":blobcatpats:"
           ]
@@ -15354,7 +15354,7 @@
         {
           "name": "blobcatsad",
           "location": "blobcatsad.png",
-          "surrogates": "37",
+          "surrogates": "emoji-id-37",
           "strings": [
             ":blobcatsad:"
           ]
@@ -15362,7 +15362,7 @@
         {
           "name": "blobcatscream",
           "location": "blobcatscream.png",
-          "surrogates": "38",
+          "surrogates": "emoji-id-38",
           "strings": [
             ":blobcatscream:"
           ]
@@ -15370,7 +15370,7 @@
         {
           "name": "blobcatsick",
           "location": "blobcatsick.png",
-          "surrogates": "39",
+          "surrogates": "emoji-id-39",
           "strings": [
             ":blobcatsick:"
           ]
@@ -15378,15 +15378,15 @@
         {
           "name": "blobcatthinkOwO",
           "location": "blobcatthinkOwO.png",
-          "surrogates": "40",
+          "surrogates": "emoji-id-40",
           "strings": [
-            ":blobcatthinkOwO:"
+            ":blobcatthinkowo:"
           ]
         },
         {
           "name": "blobcatthinkingeyes",
           "location": "blobcatthinkingeyes.png",
-          "surrogates": "41",
+          "surrogates": "emoji-id-41",
           "strings": [
             ":blobcatthinkingeyes:"
           ]
@@ -15394,7 +15394,7 @@
         {
           "name": "blobcatthinkingsmirk",
           "location": "blobcatthinkingsmirk.png",
-          "surrogates": "42",
+          "surrogates": "emoji-id-42",
           "strings": [
             ":blobcatthinkingsmirk:"
           ]
@@ -15402,7 +15402,7 @@
         {
           "name": "blobcatuwu",
           "location": "blobcatuwu.png",
-          "surrogates": "43",
+          "surrogates": "emoji-id-43",
           "strings": [
             ":blobcatuwu:"
           ]
@@ -15410,7 +15410,7 @@
         {
           "name": "blobcatwhatsthis",
           "location": "blobcatwhatsthis.png",
-          "surrogates": "44",
+          "surrogates": "emoji-id-44",
           "strings": [
             ":blobcatwhatsthis:"
           ]
@@ -15418,7 +15418,7 @@
         {
           "name": "blobcatwhistle",
           "location": "blobcatwhistle.png",
-          "surrogates": "45",
+          "surrogates": "emoji-id-45",
           "strings": [
             ":blobcatwhistle:"
           ]
@@ -15426,7 +15426,7 @@
         {
           "name": "blobcatwink",
           "location": "blobcatwink.png",
-          "surrogates": "46",
+          "surrogates": "emoji-id-46",
           "strings": [
             ":blobcatwink:"
           ]
@@ -15434,7 +15434,7 @@
         {
           "name": "blobcatwinktongue",
           "location": "blobcatwinktongue.png",
-          "surrogates": "47",
+          "surrogates": "emoji-id-47",
           "strings": [
             ":blobcatwinktongue:"
           ]
@@ -15442,7 +15442,7 @@
         {
           "name": "blobcatwolfiri",
           "location": "blobcatwolfiri.png",
-          "surrogates": "48",
+          "surrogates": "emoji-id-48",
           "strings": [
             ":blobcatwolfiri:"
           ]
@@ -15450,7 +15450,7 @@
         {
           "name": "blobcoolcat",
           "location": "blobcoolcat.png",
-          "surrogates": "49",
+          "surrogates": "emoji-id-49",
           "strings": [
             ":blobcoolcat:"
           ]
@@ -15467,7 +15467,7 @@
             ":хммм:"
           ],
           "location": "thonk.png",
-          "surrogates": "50"
+          "surrogates": "emoji-id-50"
         },
         {
           "name": "thonkbutcool",
@@ -15476,7 +15476,7 @@
             ":хмммм:"
           ],
           "location": "thonkbutcool.png",
-          "surrogates": "51"
+          "surrogates": "emoji-id-51"
         },
         {
           "name": "balance",
@@ -15488,7 +15488,7 @@
             ":валюта:"
           ],
           "location": "balance.png",
-          "surrogates": "52"
+          "surrogates": "emoji-id-52"
         },
         {
           "name": "lul",
@@ -15500,7 +15500,7 @@
             ":лоль:"
           ],
           "location": "lul.png",
-          "surrogates": "53"
+          "surrogates": "emoji-id-53"
         },
         {
           "name": "oof",
@@ -15508,7 +15508,7 @@
             ":oof:"
           ],
           "location": "oof.png",
-          "surrogates": "54"
+          "surrogates": "emoji-id-54"
         },
         {
           "name": "pogchamp",
@@ -15516,7 +15516,7 @@
             ":pogchamp:"
           ],
           "location": "pogchamp.png",
-          "surrogates": "55"
+          "surrogates": "emoji-id-55"
         },
         {
           "name": "ruined",
@@ -15524,7 +15524,7 @@
             ":ruined:"
           ],
           "location": "ruined.png",
-          "surrogates": "56"
+          "surrogates": "emoji-id-56"
         },
         {
           "name": "okfa",
@@ -15533,7 +15533,7 @@
             ":ok_face:"
           ],
           "location": "okfa.png",
-          "surrogates": "57"
+          "surrogates": "emoji-id-57"
         },
         {
           "name": "pikachu",
@@ -15542,7 +15542,7 @@
             ":пикачу:"
           ],
           "location": "pikachu.png",
-          "surrogates": "58"
+          "surrogates": "emoji-id-58"
         },
         {
           "name": "pika",
@@ -15551,7 +15551,7 @@
             ":пика:"
           ],
           "location": "pika.png",
-          "surrogates": "59"
+          "surrogates": "emoji-id-59"
         },
         {
           "name": "scroll",
@@ -15559,7 +15559,7 @@
             ":scroll:"
           ],
           "location": "scroll.png",
-          "surrogates": "60"
+          "surrogates": "emoji-id-60"
         },
         {
           "name": "shrug",
@@ -15568,7 +15568,7 @@
             ":разводитруками:"
           ],
           "location": "shrug.png",
-          "surrogates": "61"
+          "surrogates": "emoji-id-61"
         },
         {
           "name": "shrug1",
@@ -15577,7 +15577,7 @@
             ":разводитруками1:"
           ],
           "location": "shrug1.png",
-          "surrogates": "62"
+          "surrogates": "emoji-id-62"
         },
         {
           "name": "rip",
@@ -15587,7 +15587,7 @@
             ":rip:"
           ],
           "location": "rip.png",
-          "surrogates": "63"
+          "surrogates": "emoji-id-63"
         },
         {
           "name": "hs_brilliance",
@@ -15595,7 +15595,7 @@
             ":hs_brilliance:"
           ],
           "location": "hsbrilliance.png",
-          "surrogates": "64"
+          "surrogates": "emoji-id-64"
         },
         {
           "name": "hs_balance",
@@ -15603,7 +15603,7 @@
             ":hs_balance:"
           ],
           "location": "hsbalance.png",
-          "surrogates": "65"
+          "surrogates": "emoji-id-65"
         },
         {
           "name": "hs_bravery",
@@ -15611,7 +15611,7 @@
             ":hs_bravery:"
           ],
           "location": "hsbravery.png",
-          "surrogates": "66"
+          "surrogates": "emoji-id-66"
         },
         {
           "name": "fedora",
@@ -15619,7 +15619,7 @@
             ":fedora:"
           ],
           "location": "fedora.png",
-          "surrogates": "67"
+          "surrogates": "emoji-id-67"
         },
         {
           "name": "whip",
@@ -15627,7 +15627,7 @@
             ":whip:"
           ],
           "location": "whip.png",
-          "surrogates": "68"
+          "surrogates": "emoji-id-68"
         },
         {
           "name": "heart_2",
@@ -15635,7 +15635,7 @@
             ":heart_2:"
           ],
           "location": "heart1.png",
-          "surrogates": "69"
+          "surrogates": "emoji-id-69"
         },
         {
           "name": "calc",
@@ -15643,7 +15643,7 @@
             ":calc:"
           ],
           "location": "calc.png",
-          "surrogates": "70"
+          "surrogates": "emoji-id-70"
         },
         {
           "name": "coolthink",
@@ -15651,7 +15651,7 @@
             ":coolthink:"
           ],
           "location": "coolthink.png",
-          "surrogates": "71"
+          "surrogates": "emoji-id-71"
         },
         {
           "name": "fishcowboy",
@@ -15659,7 +15659,7 @@
             ":fishcowboy:"
           ],
           "location": "fishcowboy.png",
-          "surrogates": "72"
+          "surrogates": "emoji-id-72"
         },
         {
           "name": "dollar_2",
@@ -15668,7 +15668,7 @@
             ":dollar_2:"
           ],
           "location": "dollar_2.png",
-          "surrogates": "73"
+          "surrogates": "emoji-id-73"
         },
         {
           "name": "ban_hummer",
@@ -15679,7 +15679,7 @@
             ":банхаммер:"
           ],
           "location": "ban_hummer.png",
-          "surrogates": "74"
+          "surrogates": "emoji-id-74"
         },
         {
           "name": "pixeltop",
@@ -15687,7 +15687,7 @@
             ":pixeltop:"
           ],
           "location": "pixeltop.png",
-          "surrogates": "75"
+          "surrogates": "emoji-id-75"
         },
         {
           "name": "squirrel",
@@ -15695,7 +15695,7 @@
             ":squirrel:"
           ],
           "location": "squirrel.png",
-          "surrogates": "76"
+          "surrogates": "emoji-id-76"
         },
         {
           "name": "smirk",
@@ -15703,7 +15703,7 @@
             ":smirk:"
           ],
           "location": "smirk.png",
-          "surrogates": "77"
+          "surrogates": "emoji-id-77"
         },
         {
           "name": "pizza",
@@ -15713,7 +15713,7 @@
             ":пицца:"
           ],
           "location": "pizza.png",
-          "surrogates": "78"
+          "surrogates": "emoji-id-78"
         },
         {
           "name": "hee",
@@ -15722,7 +15722,7 @@
             ":хее:"
           ],
           "location": "hee.png",
-          "surrogates": "79"
+          "surrogates": "emoji-id-79"
         },
         {
           "name": "nooo",
@@ -15731,7 +15731,7 @@
             ":нееет:"
           ],
           "location": "nooo.png",
-          "surrogates": "80"
+          "surrogates": "emoji-id-80"
         },
         {
           "name": "owner",
@@ -15739,7 +15739,7 @@
             ":owner:"
           ],
           "location": "owner.png",
-          "surrogates": "81"
+          "surrogates": "emoji-id-81"
         },
         {
           "name": "truedat",
@@ -15747,7 +15747,7 @@
             ":truedat:"
           ],
           "location": "truedat.png",
-          "surrogates": "82"
+          "surrogates": "emoji-id-82"
         },
         {
           "name": "sweatsmile",
@@ -15755,7 +15755,7 @@
             ":sweat_smile:"
           ],
           "location": "sweat_smile.png",
-          "surrogates": "83"
+          "surrogates": "emoji-id-83"
         },
         {
           "name": "cross",
@@ -15763,7 +15763,7 @@
             ":cross:"
           ],
           "location": "cross.png",
-          "surrogates": "84"
+          "surrogates": "emoji-id-84"
         },
         {
           "name": "coolpoop",
@@ -15772,7 +15772,7 @@
             ":крутаяговняшка:"
           ],
           "location": "coolpoop.png",
-          "surrogates": "85"
+          "surrogates": "emoji-id-85"
         },
         {
           "name": "umbreonrealy",
@@ -15783,7 +15783,7 @@
             ":umbwhat:"
           ],
           "location": "umbreonrealy.png",
-          "surrogates": "86"
+          "surrogates": "emoji-id-86"
         },
         {
           "name": "twitch",
@@ -15794,7 +15794,7 @@
             ":твич:"
           ],
           "location": "twitch.png",
-          "surrogates": "87"
+          "surrogates": "emoji-id-87"
         },
         {
           "name": "neron",
@@ -15806,7 +15806,7 @@
             ":нерон:"
           ],
           "location": "neron.png",
-          "surrogates": "88"
+          "surrogates": "emoji-id-88"
         },
         {
           "name": "default",
@@ -15815,7 +15815,7 @@
             ":d0:"
           ],
           "location": "default.png",
-          "surrogates": "89"
+          "surrogates": "emoji-id-89"
         },
         {
           "name": "pokedex1",
@@ -15824,7 +15824,7 @@
             ":p0:"
           ],
           "location": "pokedex1.png",
-          "surrogates": "90"
+          "surrogates": "emoji-id-90"
         },
         {
           "name": "pokedex10",
@@ -15833,7 +15833,7 @@
             ":p1:"
           ],
           "location": "pokedex10.png",
-          "surrogates": "91"
+          "surrogates": "emoji-id-91"
         },
         {
           "name": "pokedex20",
@@ -15842,7 +15842,7 @@
             ":p2:"
           ],
           "location": "pokedex20.png",
-          "surrogates": "92"
+          "surrogates": "emoji-id-92"
         },
         {
           "name": "pokedex30",
@@ -15851,7 +15851,7 @@
             ":p3:"
           ],
           "location": "pokedex30.png",
-          "surrogates": "93"
+          "surrogates": "emoji-id-93"
         },
         {
           "name": "pokedex40",
@@ -15860,7 +15860,7 @@
             ":p4:"
           ],
           "location": "pokedex40.png",
-          "surrogates": "94"
+          "surrogates": "emoji-id-94"
         },
         {
           "name": "pokedex50",
@@ -15869,7 +15869,7 @@
             ":p5:"
           ],
           "location": "pokedex50.png",
-          "surrogates": "95"
+          "surrogates": "emoji-id-95"
         },
         {
           "name": "pokedex60",
@@ -15878,7 +15878,7 @@
             ":p6:"
           ],
           "location": "pokedex60.png",
-          "surrogates": "96"
+          "surrogates": "emoji-id-96"
         },
         {
           "name": "pokedex70",
@@ -15887,7 +15887,7 @@
             ":p7:"
           ],
           "location": "pokedex70.png",
-          "surrogates": "97"
+          "surrogates": "emoji-id-97"
         },
         {
           "name": "pokedex80",
@@ -15896,7 +15896,7 @@
             ":p8:"
           ],
           "location": "pokedex80.png",
-          "surrogates": "98"
+          "surrogates": "emoji-id-98"
         },
         {
           "name": "pokedex90",
@@ -15905,7 +15905,7 @@
             ":p9:"
           ],
           "location": "pokedex90.png",
-          "surrogates": "99"
+          "surrogates": "emoji-id-99"
         },
         {
           "name": "pokedex100",
@@ -15914,7 +15914,7 @@
             ":pm:"
           ],
           "location": "pokedex100.png",
-          "surrogates": "100"
+          "surrogates": "emoji-id-100"
         },
         {
           "name": "premium1",
@@ -15923,7 +15923,7 @@
             ":b1:"
           ],
           "location": "premium1.png",
-          "surrogates": "101"
+          "surrogates": "emoji-id-101"
         },
         {
           "name": "premium2",
@@ -15932,7 +15932,7 @@
             ":b2:"
           ],
           "location": "premium2.png",
-          "surrogates": "102"
+          "surrogates": "emoji-id-102"
         },
         {
           "name": "premium3",
@@ -15941,7 +15941,7 @@
             ":b3:"
           ],
           "location": "premium3.png",
-          "surrogates": "103"
+          "surrogates": "emoji-id-103"
         },
         {
           "name": "premium4",
@@ -15950,7 +15950,7 @@
             ":b4:"
           ],
           "location": "premium4.png",
-          "surrogates": "104"
+          "surrogates": "emoji-id-104"
         },
         {
           "name": "premium5",
@@ -15959,7 +15959,7 @@
             ":b5:"
           ],
           "location": "premium5.png",
-          "surrogates": "105"
+          "surrogates": "emoji-id-105"
         },
         {
           "name": "sd1500",
@@ -15968,7 +15968,7 @@
             ":s1:"
           ],
           "location": "sd1500.png",
-          "surrogates": "106"
+          "surrogates": "emoji-id-106"
         },
         {
           "name": "sd1750",
@@ -15977,7 +15977,7 @@
             ":s2:"
           ],
           "location": "sd1750.png",
-          "surrogates": "107"
+          "surrogates": "emoji-id-107"
         },
         {
           "name": "sd2000",
@@ -15986,7 +15986,7 @@
             ":s3:"
           ],
           "location": "sd2000.png",
-          "surrogates": "108"
+          "surrogates": "emoji-id-108"
         },
         {
           "name": "sd2250",
@@ -15995,7 +15995,7 @@
             ":s4:"
           ],
           "location": "sd2250.png",
-          "surrogates": "109"
+          "surrogates": "emoji-id-109"
         },
         {
           "name": "sd2500",
@@ -16004,7 +16004,7 @@
             ":s5:"
           ],
           "location": "sd2500.png",
-          "surrogates": "110"
+          "surrogates": "emoji-id-110"
         },
         {
           "name": "beginbuilder",
@@ -16013,7 +16013,7 @@
             ":m9:"
           ],
           "location": "beginbuilder.png",
-          "surrogates": "111"
+          "surrogates": "emoji-id-111"
         },
         {
           "name": "buildernew",
@@ -16022,7 +16022,7 @@
             ":m8:"
           ],
           "location": "builder.png",
-          "surrogates": "112"
+          "surrogates": "emoji-id-112"
         },
         {
           "name": "headbuilder",
@@ -16031,7 +16031,7 @@
             ":m7:"
           ],
           "location": "headbuilder.png",
-          "surrogates": "113"
+          "surrogates": "emoji-id-113"
         },
         {
           "name": "beginmentor",
@@ -16040,7 +16040,7 @@
             ":m6:"
           ],
           "location": "beginmentor.png",
-          "surrogates": "114"
+          "surrogates": "emoji-id-114"
         },
         {
           "name": "mentornew",
@@ -16049,7 +16049,7 @@
             ":m5:"
           ],
           "location": "mentor.png",
-          "surrogates": "115"
+          "surrogates": "emoji-id-115"
         },
         {
           "name": "headmentor",
@@ -16058,7 +16058,7 @@
             ":m4:"
           ],
           "location": "headmentor.png",
-          "surrogates": "116"
+          "surrogates": "emoji-id-116"
         },
         {
           "name": "beginmoder",
@@ -16067,7 +16067,7 @@
             ":m3:"
           ],
           "location": "beginmoder.png",
-          "surrogates": "117"
+          "surrogates": "emoji-id-117"
         },
         {
           "name": "modernew",
@@ -16076,7 +16076,7 @@
             ":m2:"
           ],
           "location": "moder.png",
-          "surrogates": "118"
+          "surrogates": "emoji-id-118"
         },
         {
           "name": "headmoder",
@@ -16085,7 +16085,7 @@
             ":m1:"
           ],
           "location": "headmoder.png",
-          "surrogates": "119"
+          "surrogates": "emoji-id-119"
         },
         {
           "name": "adminowner",
@@ -16094,7 +16094,7 @@
             ":m0:"
           ],
           "location": "admin.png",
-          "surrogates": "120"
+          "surrogates": "emoji-id-120"
         },
         {
           "name": "helldim",
@@ -16103,7 +16103,7 @@
             ":d1:"
           ],
           "location": "hell.png",
-          "surrogates": "121"
+          "surrogates": "emoji-id-121"
         },
         {
           "name": "enddim",
@@ -16112,7 +16112,7 @@
             ":d2:"
           ],
           "location": "end.png",
-          "surrogates": "122"
+          "surrogates": "emoji-id-122"
         },
         {
           "name": "ultradim",
@@ -16121,7 +16121,7 @@
             ":d3:"
           ],
           "location": "wormhole.png",
-          "surrogates": "123"
+          "surrogates": "emoji-id-123"
         },
         {
           "name": "jailed",
@@ -16130,7 +16130,7 @@
             ":jd:"
           ],
           "location": "jailed.png",
-          "surrogates": "124"
+          "surrogates": "emoji-id-124"
         },
         {
           "name": "angengar",
@@ -16138,7 +16138,7 @@
             ":angengar:"
           ],
           "location": "angengar.png",
-          "surrogates": "125"
+          "surrogates": "emoji-id-125"
         },
         {
           "name": "angrypuff",
@@ -16146,7 +16146,7 @@
             ":angrypuff:"
           ],
           "location": "angrypuff.png",
-          "surrogates": "126"
+          "surrogates": "emoji-id-126"
         },
         {
           "name": "buizelaugh",
@@ -16154,7 +16154,7 @@
             ":buizelaugh:"
           ],
           "location": "buizelaugh.png",
-          "surrogates": "127"
+          "surrogates": "emoji-id-127"
         },
         {
           "name": "charmanderfacepalm",
@@ -16162,7 +16162,7 @@
             ":charmanderfacepalm:"
           ],
           "location": "charmanderfacepalm.png",
-          "surrogates": "128"
+          "surrogates": "emoji-id-128"
         },
         {
           "name": "charmanderidk",
@@ -16171,7 +16171,7 @@
             ":cdk:"
           ],
           "location": "charmanderidk.png",
-          "surrogates": "129"
+          "surrogates": "emoji-id-129"
         },
         {
           "name": "charping",
@@ -16179,7 +16179,7 @@
             ":charping:"
           ],
           "location": "charping.png",
-          "surrogates": "130"
+          "surrogates": "emoji-id-130"
         },
         {
           "name": "cryowth",
@@ -16187,7 +16187,7 @@
             ":cryowth:"
           ],
           "location": "cryowth.png",
-          "surrogates": "131"
+          "surrogates": "emoji-id-131"
         },
         {
           "name": "cryreon",
@@ -16195,7 +16195,7 @@
             ":cryreon:"
           ],
           "location": "cryreon.png",
-          "surrogates": "132"
+          "surrogates": "emoji-id-132"
         },
         {
           "name": "cupeevee",
@@ -16203,7 +16203,7 @@
             ":cupeevee:"
           ],
           "location": "cupeevee.png",
-          "surrogates": "133"
+          "surrogates": "emoji-id-133"
         },
         {
           "name": "cuteleon",
@@ -16211,7 +16211,7 @@
             ":cuteleon:"
           ],
           "location": "cuteleon.png",
-          "surrogates": "134"
+          "surrogates": "emoji-id-134"
         },
         {
           "name": "eeveepalm",
@@ -16219,7 +16219,7 @@
             ":eeveepalm:"
           ],
           "location": "eeveepalm.png",
-          "surrogates": "135"
+          "surrogates": "emoji-id-135"
         },
         {
           "name": "gastlaugh",
@@ -16227,7 +16227,7 @@
             ":gastlaugh:"
           ],
           "location": "gastlaugh.png",
-          "surrogates": "136"
+          "surrogates": "emoji-id-136"
         },
         {
           "name": "genglaugh",
@@ -16235,7 +16235,7 @@
             ":genglaugh:"
           ],
           "location": "genglaugh.png",
-          "surrogates": "137"
+          "surrogates": "emoji-id-137"
         },
         {
           "name": "happevee",
@@ -16245,7 +16245,7 @@
             ":hev:"
           ],
           "location": "happevee.png",
-          "surrogates": "138"
+          "surrogates": "emoji-id-138"
         },
         {
           "name": "himew",
@@ -16253,7 +16253,7 @@
             ":himew:"
           ],
           "location": "himew.png",
-          "surrogates": "139"
+          "surrogates": "emoji-id-139"
         },
         {
           "name": "hisire",
@@ -16261,7 +16261,7 @@
             ":hisire:"
           ],
           "location": "hisire.png",
-          "surrogates": "140"
+          "surrogates": "emoji-id-140"
         },
         {
           "name": "lovechu",
@@ -16269,7 +16269,7 @@
             ":lovechu:"
           ],
           "location": "lovechu.png",
-          "surrogates": "141"
+          "surrogates": "emoji-id-141"
         },
         {
           "name": "oshacool",
@@ -16277,7 +16277,7 @@
             ":oshacool:"
           ],
           "location": "oshacool.png",
-          "surrogates": "142"
+          "surrogates": "emoji-id-142"
         },
         {
           "name": "pikachuuu",
@@ -16285,7 +16285,7 @@
             ":pikachuuu:"
           ],
           "location": "pikachuuu.png",
-          "surrogates": "143"
+          "surrogates": "emoji-id-143"
         },
         {
           "name": "psyduckwow",
@@ -16293,7 +16293,7 @@
             ":psyduckwow:"
           ],
           "location": "psyduckwow.png",
-          "surrogates": "144"
+          "surrogates": "emoji-id-144"
         },
         {
           "name": "raichyeah",
@@ -16301,7 +16301,7 @@
             ":raichyeah:"
           ],
           "location": "raichyeah.png",
-          "surrogates": "145"
+          "surrogates": "emoji-id-145"
         },
         {
           "name": "slowlagging",
@@ -16309,7 +16309,7 @@
             ":slowlagging:"
           ],
           "location": "slowlagging.png",
-          "surrogates": "146"
+          "surrogates": "emoji-id-146"
         },
         {
           "name": "snorlaxeat",
@@ -16317,7 +16317,7 @@
             ":snorlaxeat:"
           ],
           "location": "snorlaxeat.png",
-          "surrogates": "147"
+          "surrogates": "emoji-id-147"
         },
         {
           "name": "squirwow",
@@ -16325,7 +16325,7 @@
             ":squirwow:"
           ],
           "location": "squirwow.png",
-          "surrogates": "148"
+          "surrogates": "emoji-id-148"
         },
         {
           "name": "thinkle",
@@ -16333,7 +16333,7 @@
             ":thinkle:"
           ],
           "location": "thinkle.png",
-          "surrogates": "149"
+          "surrogates": "emoji-id-149"
         },
         {
           "name": "wowduck",
@@ -16341,7 +16341,7 @@
             ":wowduck:"
           ],
           "location": "wowduck.png",
-          "surrogates": "150"
+          "surrogates": "emoji-id-150"
         },
         {
           "name": "zzznorlax",
@@ -16349,7 +16349,7 @@
             ":zzznorlax:"
           ],
           "location": "zzznorlax.png",
-          "surrogates": "151"
+          "surrogates": "emoji-id-151"
         }
       ]
     },
@@ -16362,45 +16362,45 @@
             ":sad:"
           ],
           "location": "sad.png",
-          "surrogates": "152"
+          "surrogates": "emoji-id-152"
         },
         {
           "name": "sadcat",
           "strings": [
-            ":GWfroggySadCat:",
+            ":gwfroggydadcat:",
             ":sadcat:"
           ],
           "location": "sadcat.png",
-          "surrogates": "153"
+          "surrogates": "emoji-id-153"
         },
         {
           "name": "oil",
           "strings": [
-            ":GWqlabsOilUp:",
+            ":gwqlabsoilup:",
             ":gwoil:"
           ],
           "location": "oil.png",
-          "surrogates": "154"
+          "surrogates": "emoji-id-154"
         },
         {
           "name": "kek",
           "strings": [
-            ":GWqlabsKek:",
+            ":gwqlabskek:",
             ":kek:",
             ":кек:"
           ],
           "location": "kek.png",
-          "surrogates": "155"
+          "surrogates": "emoji-id-155"
         },
         {
           "name": "ban",
           "strings": [
-            ":GWqlabsBan1",
+            ":gwqlabsban1",
             ":ban:",
             ":бан:"
           ],
           "location": "ban.png",
-          "surrogates": "156"
+          "surrogates": "emoji-id-156"
         },
         {
           "name": "thinking",
@@ -16410,7 +16410,7 @@
             ":хмм:"
           ],
           "location": "thinking.png",
-          "surrogates": "157"
+          "surrogates": "emoji-id-157"
         },
         {
           "name": "angry",
@@ -16419,7 +16419,7 @@
             ":злость:"
           ],
           "location": "angry.png",
-          "surrogates": "158"
+          "surrogates": "emoji-id-158"
         },
         {
           "name": "rage",
@@ -16428,7 +16428,7 @@
             ":гнев:"
           ],
           "location": "rage.png",
-          "surrogates": "159"
+          "surrogates": "emoji-id-159"
         },
         {
           "name": "neutral",
@@ -16439,7 +16439,7 @@
             ":пофиг:"
           ],
           "location": "neutral.png",
-          "surrogates": "160"
+          "surrogates": "emoji-id-160"
         },
         {
           "name": "joy",
@@ -16467,7 +16467,7 @@
             ":смешно:"
           ],
           "location": "joy.png",
-          "surrogates": "161"
+          "surrogates": "emoji-id-161"
         },
         {
           "name": "Oo",
@@ -16477,7 +16477,7 @@
             "D:"
           ],
           "location": "oo.png",
-          "surrogates": "162"
+          "surrogates": "emoji-id-162"
         },
         {
           "name": "shocked",
@@ -16492,7 +16492,7 @@
             "О:"
           ],
           "location": "shocked.png",
-          "surrogates": "163"
+          "surrogates": "emoji-id-163"
         },
         {
           "name": "dunno",
@@ -16502,7 +16502,7 @@
             ":незнаю:"
           ],
           "location": "dunno.png",
-          "surrogates": "164"
+          "surrogates": "emoji-id-164"
         },
         {
           "name": "eyy",
@@ -16510,7 +16510,7 @@
             ":eyy:"
           ],
           "location": "eyy.png",
-          "surrogates": "165"
+          "surrogates": "emoji-id-165"
         },
         {
           "name": "smarts",
@@ -16518,7 +16518,7 @@
             ":smarts:"
           ],
           "location": "smarts.png",
-          "surrogates": "166"
+          "surrogates": "emoji-id-166"
         },
         {
           "name": "thraw",
@@ -16526,7 +16526,7 @@
             ":thraw:"
           ],
           "location": "thraw.png",
-          "surrogates": "167"
+          "surrogates": "emoji-id-167"
         },
         {
           "name": "please",
@@ -16541,7 +16541,7 @@
             "пжжж"
           ],
           "location": "please.png",
-          "surrogates": "168"
+          "surrogates": "emoji-id-168"
         },
         {
           "name": "coolstory",
@@ -16551,7 +16551,7 @@
             ":coolstory:"
           ],
           "location": "coolstory.png",
-          "surrogates": "169"
+          "surrogates": "emoji-id-169"
         },
         {
           "name": "ukdikold",
@@ -16559,7 +16559,7 @@
             ":ukdikold:"
           ],
           "location": "ukdikold.png",
-          "surrogates": "170"
+          "surrogates": "emoji-id-170"
         },
         {
           "name": "spravedlivo",
@@ -16567,7 +16567,7 @@
             ":spravedlivo:"
           ],
           "location": "spravedlivo.png",
-          "surrogates": "171"
+          "surrogates": "emoji-id-171"
         },
         {
           "name": "maidereasy",
@@ -16575,7 +16575,7 @@
             ":maidereasy:"
           ],
           "location": "maidereasy.png",
-          "surrogates": "172"
+          "surrogates": "emoji-id-172"
         },
         {
           "name": "sunglasses",
@@ -16584,7 +16584,7 @@
             ":круто:"
           ],
           "location": "sunglasses.png",
-          "surrogates": "173"
+          "surrogates": "emoji-id-173"
         },
         {
           "name": "nespravedlivo",
@@ -16592,7 +16592,7 @@
             ":nespravedlivo:"
           ],
           "location": "nespravedlivo.png",
-          "surrogates": "174"
+          "surrogates": "emoji-id-174"
         },
         {
           "name": "magician",
@@ -16600,7 +16600,7 @@
             ":magician:"
           ],
           "location": "magician.png",
-          "surrogates": "175"
+          "surrogates": "emoji-id-175"
         },
         {
           "name": "facepalm",
@@ -16609,7 +16609,7 @@
             ":фейспалм:"
           ],
           "location": "facepalm.png",
-          "surrogates": "176"
+          "surrogates": "emoji-id-176"
         },
         {
           "name": "pandaren",
@@ -16617,7 +16617,7 @@
             ":pandaren:"
           ],
           "location": "pandaren.png",
-          "surrogates": "177"
+          "surrogates": "emoji-id-177"
         },
         {
           "name": "roflaneska",
@@ -16626,7 +16626,7 @@
             ":rfs:"
           ],
           "location": "roflaneska.png",
-          "surrogates": "178"
+          "surrogates": "emoji-id-178"
         },
         {
           "name": "gfffl",
@@ -16634,7 +16634,7 @@
             ":chika:"
           ],
           "location": "gfffl.png",
-          "surrogates": "179"
+          "surrogates": "emoji-id-179"
         },
         {
           "name": "gfffl2",
@@ -16642,7 +16642,7 @@
             ":animelike:"
           ],
           "location": "gfffl2.png",
-          "surrogates": "180"
+          "surrogates": "emoji-id-180"
         },
         {
           "name": "manioknazabiv",
@@ -16652,7 +16652,7 @@
             ":ricardo"
           ],
           "location": "manioknazabiv.png",
-          "surrogates": "181"
+          "surrogates": "emoji-id-181"
         },
         {
           "name": "mmm",
@@ -16660,7 +16660,7 @@
             ":mmm:"
           ],
           "location": "mmm.png",
-          "surrogates": "182"
+          "surrogates": "emoji-id-182"
         },
         {
           "name": "hokage",
@@ -16668,7 +16668,7 @@
             ":hokage:"
           ],
           "location": "hokage.png",
-          "surrogates": "183"
+          "surrogates": "emoji-id-183"
         },
         {
           "name": "plovegold",
@@ -16676,7 +16676,7 @@
             ":plovegold:"
           ],
           "location": "plovegold.png",
-          "surrogates": "184"
+          "surrogates": "emoji-id-184"
         },
         {
           "name": "triumph",
@@ -16684,7 +16684,7 @@
             ":triumph:"
           ],
           "location": "triumph.png",
-          "surrogates": "185"
+          "surrogates": "emoji-id-185"
         },
         {
           "name": "roflanpominki",
@@ -16692,7 +16692,7 @@
             ":roflanpominki:"
           ],
           "location": "roflanpominki.png",
-          "surrogates": "186"
+          "surrogates": "emoji-id-186"
         },
         {
           "name": "pomolchi",
@@ -16700,7 +16700,7 @@
             ":pomolchi:"
           ],
           "location": "pomolchi.png",
-          "surrogates": "187"
+          "surrogates": "emoji-id-187"
         },
         {
           "name": "ytrechka",
@@ -16708,7 +16708,7 @@
             ":ytrechka:"
           ],
           "location": "ytrechka.png",
-          "surrogates": "188"
+          "surrogates": "emoji-id-188"
         },
         {
           "name": "pravdacho",
@@ -16716,7 +16716,7 @@
             ":pravdacho:"
           ],
           "location": "pravdacho.png",
-          "surrogates": "189"
+          "surrogates": "emoji-id-189"
         },
         {
           "name": "noanimepenguin",
@@ -16724,7 +16724,7 @@
             ":noanimepenguin:"
           ],
           "location": "NoAnimePenguin.png",
-          "surrogates": "190"
+          "surrogates": "emoji-id-190"
         },
         {
           "name": "moyai",
@@ -16732,7 +16732,7 @@
             ":moyai:"
           ],
           "location": "moyai.png",
-          "surrogates": "191"
+          "surrogates": "emoji-id-191"
         },
         {
           "name": "dintrigg",
@@ -16740,7 +16740,7 @@
             ":dintrigg:"
           ],
           "location": "DinTrigg.png",
-          "surrogates": "192"
+          "surrogates": "emoji-id-192"
         },
         {
           "name": "smilingimp",
@@ -16748,7 +16748,7 @@
             ":smiling_imp:"
           ],
           "location": "smilingimp.png",
-          "surrogates": "193"
+          "surrogates": "emoji-id-193"
         },
         {
           "name": "rollingeyes",
@@ -16756,7 +16756,7 @@
             ":rolling_eyes2:"
           ],
           "location": "rollingeyes.png",
-          "surrogates": "194"
+          "surrogates": "emoji-id-194"
         },
         {
           "name": "czheri",
@@ -16765,7 +16765,7 @@
             ":джерри:"
           ],
           "location": "czheri.png",
-          "surrogates": "195"
+          "surrogates": "emoji-id-195"
         },
         {
           "name": "itlico",
@@ -16773,7 +16773,7 @@
             ":itlico:"
           ],
           "location": "Itlico.png",
-          "surrogates": "196"
+          "surrogates": "emoji-id-196"
         },
         {
           "name": "SideSwipeYT",
@@ -16786,7 +16786,7 @@
             ":сайдсвайпют:"
           ],
           "location": "side.png",
-          "surrogates": "197"
+          "surrogates": "emoji-id-197"
         },
         {
           "name": "adir",
@@ -16796,7 +16796,7 @@
             ":adir951:"
           ],
           "location": "adir.png",
-          "surrogates": "198"
+          "surrogates": "emoji-id-198"
         },
         {
           "name": "skifplay",
@@ -16806,7 +16806,7 @@
             ":doobriy:"
           ],
           "location": "skif.png",
-          "surrogates": "199"
+          "surrogates": "emoji-id-199"
         },
         {
           "name": "MarshallMetters",
@@ -16820,7 +16820,7 @@
             ":марс:"
           ],
           "location": "mars.png",
-          "surrogates": "200"
+          "surrogates": "emoji-id-200"
         },
         {
           "name": "littleduck",
@@ -16832,7 +16832,7 @@
             ":утка:"
           ],
           "location": "duck.png",
-          "surrogates": "201"
+          "surrogates": "emoji-id-201"
         },
         {
           "name": "bekzat",
@@ -16843,7 +16843,7 @@
             ":bekzat:"
           ],
           "location": "bekzat.png",
-          "surrogates": "202"
+          "surrogates": "emoji-id-202"
         }
       ]
     },
@@ -16856,7 +16856,7 @@
             ":k-kanto:"
           ],
           "location": "k_kanto.png",
-          "surrogates": "203"
+          "surrogates": "emoji-id-203"
         },
         {
           "name": "a-kanto",
@@ -16864,7 +16864,7 @@
             ":a-kanto:"
           ],
           "location": "a_kanto.png",
-          "surrogates": "204"
+          "surrogates": "emoji-id-204"
         },
         {
           "name": "n-kanto",
@@ -16872,7 +16872,7 @@
             ":n-kanto:"
           ],
           "location": "n_kanto.png",
-          "surrogates": "205"
+          "surrogates": "emoji-id-205"
         },
         {
           "name": "t-kanto",
@@ -16880,7 +16880,7 @@
             ":t-kanto:"
           ],
           "location": "t_kanto.png",
-          "surrogates": "206"
+          "surrogates": "emoji-id-206"
         },
         {
           "name": "o-kanto",
@@ -16888,7 +16888,7 @@
             ":o-kanto:"
           ],
           "location": "o_kanto.png",
-          "surrogates": "207"
+          "surrogates": "emoji-id-207"
         },
         {
           "name": "j-johto",
@@ -16896,7 +16896,7 @@
             ":j-johto:"
           ],
           "location": "j_johto.png",
-          "surrogates": "208"
+          "surrogates": "emoji-id-208"
         },
         {
           "name": "o-johto",
@@ -16904,7 +16904,7 @@
             ":o-johto:"
           ],
           "location": "o_johto.png",
-          "surrogates": "209"
+          "surrogates": "emoji-id-209"
         },
         {
           "name": "h-johto",
@@ -16912,7 +16912,7 @@
             ":h-johto:"
           ],
           "location": "h_johto.png",
-          "surrogates": "210"
+          "surrogates": "emoji-id-210"
         },
         {
           "name": "t-johto",
@@ -16920,7 +16920,7 @@
             ":t-johto:"
           ],
           "location": "t_johto.png",
-          "surrogates": "211"
+          "surrogates": "emoji-id-211"
         },
         {
           "name": "h-hoenn",
@@ -16928,7 +16928,7 @@
             ":h-hoenn:"
           ],
           "location": "h_hoenn.png",
-          "surrogates": "212"
+          "surrogates": "emoji-id-212"
         },
         {
           "name": "o-hoenn",
@@ -16936,7 +16936,7 @@
             ":o-hoenn:"
           ],
           "location": "o_hoenn.png",
-          "surrogates": "213"
+          "surrogates": "emoji-id-213"
         },
         {
           "name": "e-hoenn",
@@ -16944,7 +16944,7 @@
             ":e-hoenn:"
           ],
           "location": "e_hoenn.png",
-          "surrogates": "214"
+          "surrogates": "emoji-id-214"
         },
         {
           "name": "n-hoenn",
@@ -16952,7 +16952,7 @@
             ":n-hoenn:"
           ],
           "location": "n_hoenn.png",
-          "surrogates": "215"
+          "surrogates": "emoji-id-215"
         },
         {
           "name": "я",
@@ -16960,7 +16960,7 @@
             ":я:"
           ],
           "location": "yarm-y.png",
-          "surrogates": "216"
+          "surrogates": "emoji-id-216"
         },
         {
           "name": "р",
@@ -16968,7 +16968,7 @@
             ":р:"
           ],
           "location": "yarm-p.png",
-          "surrogates": "217"
+          "surrogates": "emoji-id-217"
         },
         {
           "name": "м",
@@ -16976,7 +16976,7 @@
             ":м:"
           ],
           "location": "yarm-m.png",
-          "surrogates": "218"
+          "surrogates": "emoji-id-218"
         },
         {
           "name": "а",
@@ -16984,7 +16984,7 @@
             ":а:"
           ],
           "location": "yarm-a.png",
-          "surrogates": "219"
+          "surrogates": "emoji-id-219"
         },
         {
           "name": "к",
@@ -16992,7 +16992,7 @@
             ":к:"
           ],
           "location": "yarm-k.png",
-          "surrogates": "220"
+          "surrogates": "emoji-id-220"
         },
         {
           "name": "д",
@@ -17000,7 +17000,7 @@
             ":ди:"
           ],
           "location": "yarm-d.png",
-          "surrogates": "221"
+          "surrogates": "emoji-id-221"
         },
         {
           "name": "и",
@@ -17008,7 +17008,7 @@
             ":и:"
           ],
           "location": "yarm-i.png",
-          "surrogates": "222"
+          "surrogates": "emoji-id-222"
         },
         {
           "name": "о",
@@ -17016,7 +17016,7 @@
             ":о:"
           ],
           "location": "yarm-o.png",
-          "surrogates": "223"
+          "surrogates": "emoji-id-223"
         },
         {
           "name": "в",
@@ -17024,7 +17024,7 @@
             ":в:"
           ],
           "location": "yarm-b.png",
-          "surrogates": "224"
+          "surrogates": "emoji-id-224"
         },
         {
           "name": "н",
@@ -17032,7 +17032,7 @@
             ":н:"
           ],
           "location": "yarm-h.png",
-          "surrogates": "225"
+          "surrogates": "emoji-id-225"
         },
         {
           "name": "plus",
@@ -17040,7 +17040,7 @@
             ":plus:"
           ],
           "location": "plus.png",
-          "surrogates": "226"
+          "surrogates": "emoji-id-226"
         },
         {
           "name": "arrow_left",
@@ -17048,7 +17048,7 @@
             ":arrow_left:"
           ],
           "location": "arrow_left.png",
-          "surrogates": "227"
+          "surrogates": "emoji-id-227"
         },
         {
           "name": "x_cord",
@@ -17056,7 +17056,7 @@
             ":x_cord:"
           ],
           "location": "x.png",
-          "surrogates": "228"
+          "surrogates": "emoji-id-228"
         },
         {
           "name": "y_cord",
@@ -17064,7 +17064,7 @@
             ":y_cord:"
           ],
           "location": "y.png",
-          "surrogates": "229"
+          "surrogates": "emoji-id-229"
         },
         {
           "name": "z_cord",
@@ -17072,7 +17072,7 @@
             ":z_cord:"
           ],
           "location": "z.png",
-          "surrogates": "230"
+          "surrogates": "emoji-id-230"
         },
         {
           "name": "zapad",
@@ -17080,7 +17080,7 @@
             ":zapad:"
           ],
           "location": "zapad.png",
-          "surrogates": "231"
+          "surrogates": "emoji-id-231"
         },
         {
           "name": "vostoc",
@@ -17089,7 +17089,7 @@
             ":vostoc:"
           ],
           "location": "vostoc.png",
-          "surrogates": "232"
+          "surrogates": "emoji-id-232"
         },
         {
           "name": "sever",
@@ -17097,7 +17097,7 @@
             ":sever:"
           ],
           "location": "sever.png",
-          "surrogates": "233"
+          "surrogates": "emoji-id-233"
         },
         {
           "name": "ug",
@@ -17105,7 +17105,7 @@
             ":ug:"
           ],
           "location": "ug.png",
-          "surrogates": "234"
+          "surrogates": "emoji-id-234"
         },
         {
           "name": "misc1",
@@ -17117,7 +17117,7 @@
             "о["
           ],
           "location": "misc1.png",
-          "surrogates": "235"
+          "surrogates": "emoji-id-235"
         },
         {
           "name": "misc2",
@@ -17133,7 +17133,7 @@
             "]п"
           ],
           "location": "misc2.png",
-          "surrogates": "236"
+          "surrogates": "emoji-id-236"
         },
         {
           "name": "sunrise1",
@@ -17142,7 +17142,7 @@
             ":day:"
           ],
           "location": "sun.png",
-          "surrogates": "237"
+          "surrogates": "emoji-id-237"
         },
         {
           "name": "night",
@@ -17150,7 +17150,7 @@
             ":night:"
           ],
           "location": "night.png",
-          "surrogates": "238"
+          "surrogates": "emoji-id-238"
         },
         {
           "name": "sunrise2",
@@ -17158,7 +17158,7 @@
             ":sunrise:"
           ],
           "location": "sunrise.png",
-          "surrogates": "239"
+          "surrogates": "emoji-id-239"
         },
         {
           "name": "sunset",
@@ -17166,7 +17166,7 @@
             ":sunset:"
           ],
           "location": "sunset.png",
-          "surrogates": "240"
+          "surrogates": "emoji-id-240"
         },
         {
           "name": "search",
@@ -17174,7 +17174,7 @@
             ":search:"
           ],
           "location": "search.png",
-          "surrogates": "241"
+          "surrogates": "emoji-id-241"
         },
         {
           "name": "pixelmonway",
@@ -17182,7 +17182,7 @@
             ":pixelmonway:"
           ],
           "location": "pixelmonway.png",
-          "surrogates": "242"
+          "surrogates": "emoji-id-242"
         },
         {
           "name": "dvoetochie",
@@ -17190,7 +17190,7 @@
             ":dvoetochie:"
           ],
           "location": "dvoetochie.png",
-          "surrogates": "243"
+          "surrogates": "emoji-id-243"
         },
         {
           "name": "dev",
@@ -17198,7 +17198,7 @@
             ":dev:"
           ],
           "location": "dev.png",
-          "surrogates": "244"
+          "surrogates": "emoji-id-244"
         },
         {
           "name": "splash",
@@ -17206,7 +17206,7 @@
             ":splash:"
           ],
           "location": "splash.png",
-          "surrogates": "245"
+          "surrogates": "emoji-id-245"
         },
         {
           "name": "nole",
@@ -17216,7 +17216,7 @@
             ":ноль:"
           ],
           "location": "0.png",
-          "surrogates": "246"
+          "surrogates": "emoji-id-246"
         },
         {
           "name": "one",
@@ -17225,7 +17225,7 @@
             ":один:"
           ],
           "location": "1.png",
-          "surrogates": "247"
+          "surrogates": "emoji-id-247"
         },
         {
           "name": "two",
@@ -17234,7 +17234,7 @@
             ":два:"
           ],
           "location": "2.png",
-          "surrogates": "248"
+          "surrogates": "emoji-id-248"
         },
         {
           "name": "three",
@@ -17243,7 +17243,7 @@
             ":три:"
           ],
           "location": "3.png",
-          "surrogates": "249"
+          "surrogates": "emoji-id-249"
         },
         {
           "name": "four",
@@ -17252,7 +17252,7 @@
             ":четыре:"
           ],
           "location": "4.png",
-          "surrogates": "250"
+          "surrogates": "emoji-id-250"
         },
         {
           "name": "five",
@@ -17261,7 +17261,7 @@
             ":пять:"
           ],
           "location": "5.png",
-          "surrogates": "251"
+          "surrogates": "emoji-id-251"
         },
         {
           "name": "six",
@@ -17270,7 +17270,7 @@
             ":шесть:"
           ],
           "location": "6.png",
-          "surrogates": "252"
+          "surrogates": "emoji-id-252"
         },
         {
           "name": "seven",
@@ -17279,7 +17279,7 @@
             ":семь:"
           ],
           "location": "7.png",
-          "surrogates": "253"
+          "surrogates": "emoji-id-253"
         },
         {
           "name": "eight",
@@ -17288,7 +17288,7 @@
             ":восемь:"
           ],
           "location": "8.png",
-          "surrogates": "254"
+          "surrogates": "emoji-id-254"
         },
         {
           "name": "nine",
@@ -17297,7 +17297,7 @@
             ":девять:"
           ],
           "location": "9.png",
-          "surrogates": "255"
+          "surrogates": "emoji-id-255"
         },
         {
           "name": "black",
@@ -17308,7 +17308,7 @@
             ":&0:"
           ],
           "location": "black.png",
-          "surrogates": "256"
+          "surrogates": "emoji-id-256"
         },
         {
           "name": "dark-blue",
@@ -17320,7 +17320,7 @@
             ":&1:"
           ],
           "location": "dark_blue.png",
-          "surrogates": "257"
+          "surrogates": "emoji-id-257"
         },
         {
           "name": "dark-green",
@@ -17334,7 +17334,7 @@
             ":&2:"
           ],
           "location": "dark_green.png",
-          "surrogates": "258"
+          "surrogates": "emoji-id-258"
         },
         {
           "name": "dark-aqua",
@@ -17348,7 +17348,7 @@
             ":&3:"
           ],
           "location": "dark_aqua.png",
-          "surrogates": "259"
+          "surrogates": "emoji-id-259"
         },
         {
           "name": "dark-red",
@@ -17360,7 +17360,7 @@
             ":&4:"
           ],
           "location": "dark_red.png",
-          "surrogates": "260"
+          "surrogates": "emoji-id-260"
         },
         {
           "name": "dark-purple",
@@ -17372,7 +17372,7 @@
             ":&5:"
           ],
           "location": "dark_purple.png",
-          "surrogates": "261"
+          "surrogates": "emoji-id-261"
         },
         {
           "name": "gold",
@@ -17382,7 +17382,7 @@
             ":&6:"
           ],
           "location": "gold.png",
-          "surrogates": "262"
+          "surrogates": "emoji-id-262"
         },
         {
           "name": "gray",
@@ -17392,7 +17392,7 @@
             ":&7:"
           ],
           "location": "gray.png",
-          "surrogates": "263"
+          "surrogates": "emoji-id-263"
         },
         {
           "name": "dark-gray",
@@ -17404,7 +17404,7 @@
             ":&8:"
           ],
           "location": "dark_gray.png",
-          "surrogates": "264"
+          "surrogates": "emoji-id-264"
         },
         {
           "name": "blue",
@@ -17414,7 +17414,7 @@
             ":&9:"
           ],
           "location": "blue.png",
-          "surrogates": "265"
+          "surrogates": "emoji-id-265"
         },
         {
           "name": "green",
@@ -17425,7 +17425,7 @@
             ":&a:"
           ],
           "location": "green.png",
-          "surrogates": "266"
+          "surrogates": "emoji-id-266"
         },
         {
           "name": "aqua",
@@ -17435,7 +17435,7 @@
             ":&b:"
           ],
           "location": "aqua.png",
-          "surrogates": "267"
+          "surrogates": "emoji-id-267"
         },
         {
           "name": "red",
@@ -17445,7 +17445,7 @@
             ":&c:"
           ],
           "location": "red.png",
-          "surrogates": "268"
+          "surrogates": "emoji-id-268"
         },
         {
           "name": "light-purple",
@@ -17457,7 +17457,7 @@
             ":&d:"
           ],
           "location": "purple.png",
-          "surrogates": "269"
+          "surrogates": "emoji-id-269"
         },
         {
           "name": "yellow",
@@ -17468,7 +17468,7 @@
             ":&e:"
           ],
           "location": "yellow.png",
-          "surrogates": "270"
+          "surrogates": "emoji-id-270"
         },
         {
           "name": "white",
@@ -17478,7 +17478,7 @@
             ":&f:"
           ],
           "location": "white.png",
-          "surrogates": "271"
+          "surrogates": "emoji-id-271"
         }
       ]
     },
@@ -17493,7 +17493,7 @@
             ":окей:"
           ],
           "location": "ok_hand.png",
-          "surrogates": "272"
+          "surrogates": "emoji-id-272"
         },
         {
           "name": "za",
@@ -17502,7 +17502,7 @@
             ":za-1:"
           ],
           "location": "za.png",
-          "surrogates": "273"
+          "surrogates": "emoji-id-273"
         },
         {
           "name": "protiv",
@@ -17511,7 +17511,7 @@
             ":protiv-1:"
           ],
           "location": "protiv.png",
-          "surrogates": "274"
+          "surrogates": "emoji-id-274"
         }
       ]
     },
@@ -17528,7 +17528,7 @@
             ":птиц:"
           ],
           "location": "arti.png",
-          "surrogates": "275"
+          "surrogates": "emoji-id-275"
         },
         {
           "name": "artitop",
@@ -17538,7 +17538,7 @@
             "techbrew"
           ],
           "location": "artitop.png",
-          "surrogates": "276"
+          "surrogates": "emoji-id-276"
         },
         {
           "name": "sonic",
@@ -17549,7 +17549,7 @@
             "davkas"
           ],
           "location": "sonic.png",
-          "surrogates": "277"
+          "surrogates": "emoji-id-277"
         },
         {
           "name": "ksensei",
@@ -17559,7 +17559,7 @@
             "mysticdrew"
           ],
           "location": "ksensei.png",
-          "surrogates": "278"
+          "surrogates": "emoji-id-278"
         },
         {
           "name": "rencraw",
@@ -17569,7 +17569,7 @@
             "eladjenkins"
           ],
           "location": "rencraw.png",
-          "surrogates": "279"
+          "surrogates": "emoji-id-279"
         },
         {
           "name": "gwm",
@@ -17579,7 +17579,7 @@
             "TECH_GEEK10"
           ],
           "location": "gwm.png",
-          "surrogates": "280"
+          "surrogates": "emoji-id-280"
         },
         {
           "name": "din",
@@ -17588,7 +17588,7 @@
             "endless"
           ],
           "location": "din.png",
-          "surrogates": "281"
+          "surrogates": "emoji-id-281"
         },
         {
           "name": "laykras",
@@ -17598,7 +17598,7 @@
             "durrani"
           ],
           "location": "laykras.png",
-          "surrogates": "282"
+          "surrogates": "emoji-id-282"
         },
         {
           "name": "akida",
@@ -17607,7 +17607,7 @@
             "sikandar"
           ],
           "location": "akida.png",
-          "surrogates": "283"
+          "surrogates": "emoji-id-283"
         },
         {
           "name": "colend",
@@ -17615,7 +17615,7 @@
             ":ahit:"
           ],
           "location": "colend.png",
-          "surrogates": "284"
+          "surrogates": "emoji-id-284"
         },
         {
           "name": "fviros",
@@ -17623,7 +17623,7 @@
             ":fviros:"
           ],
           "location": "fviros.png",
-          "surrogates": "285"
+          "surrogates": "emoji-id-285"
         },
         {
           "name": "apple",
@@ -17631,7 +17631,7 @@
             ":apple:"
           ],
           "location": "apple.png",
-          "surrogates": "286"
+          "surrogates": "emoji-id-286"
         },
         {
           "name": "question",
@@ -17640,15 +17640,15 @@
             ":вопрос:"
           ],
           "location": "question.png",
-          "surrogates": "287"
+          "surrogates": "emoji-id-287"
         },
         {
           "name": 100,
           "strings": [
-            ":100:"
+            ":100_2:"
           ],
           "location": "100.png",
-          "surrogates": "288"
+          "surrogates": "emoji-id-288"
         },
         {
           "name": "mute",
@@ -17659,7 +17659,7 @@
             ":мут:"
           ],
           "location": "mute.png",
-          "surrogates": "289"
+          "surrogates": "emoji-id-289"
         },
         {
           "name": "kick",
@@ -17668,7 +17668,7 @@
             ":кик:"
           ],
           "location": "kick.png",
-          "surrogates": "290"
+          "surrogates": "emoji-id-290"
         },
         {
           "name": "golisopod",
@@ -17676,7 +17676,7 @@
             ":golisopod:"
           ],
           "location": "golisopod.png",
-          "surrogates": "291"
+          "surrogates": "emoji-id-291"
         },
         {
           "name": "pizza",
@@ -17685,7 +17685,7 @@
             ":пицца:"
           ],
           "location": "pizza.png",
-          "surrogates": "292"
+          "surrogates": "emoji-id-292"
         }
       ]
     },
@@ -17699,7 +17699,7 @@
             ":grimoireofgaia:"
           ],
           "location": "assets/nero/grimoire.png",
-          "surrogates": "293"
+          "surrogates": "emoji-id-293"
         },
         {
           "name": "ic2",
@@ -17708,7 +17708,7 @@
             ":industrialcraft2:"
           ],
           "location": "assets/nero/ic2.png",
-          "surrogates": "294"
+          "surrogates": "emoji-id-294"
         }
       ]
     },
@@ -17721,7 +17721,7 @@
             ":feelsbadman:"
           ],
           "location": "feelsbadman.png",
-          "surrogates": "295"
+          "surrogates": "emoji-id-295"
         },
         {
           "name": "monkas",
@@ -17730,7 +17730,7 @@
             ":monka:"
           ],
           "location": "monkas.png",
-          "surrogates": "296"
+          "surrogates": "emoji-id-296"
         },
         {
           "name": "monka_gun",
@@ -17738,7 +17738,7 @@
             ":monka_gun:"
           ],
           "location": "monka_gun.png",
-          "surrogates": "297"
+          "surrogates": "emoji-id-297"
         }
       ]
     },
@@ -17750,17 +17750,15 @@
           "strings": [
             ":pixelmon:",
             ":pix:",
-            "pixelmon",
             ":пиксельмон:"
           ],
           "location": "pixelmon.png",
-          "surrogates": "298"
+          "surrogates": "emoji-id-298"
         },
         {
           "name": "pixelmonpro",
           "strings": [
             ":pixelmonpro:",
-            ":pixelmonpo:",
             ":pro:",
             ":pixpro:",
             ":logo:",
@@ -17769,7 +17767,7 @@
             ":про:"
           ],
           "location": "pixelmonpro.png",
-          "surrogates": "299"
+          "surrogates": "emoji-id-299"
         },
         {
           "name": "pixelmonprony",
@@ -17785,7 +17783,7 @@
             ":пронг:"
           ],
           "location": "pixelmonprony.png",
-          "surrogates": "300"
+          "surrogates": "emoji-id-300"
         },
         {
           "name": "pixelmonpromini",
@@ -17796,7 +17794,7 @@
             ":logomini:"
           ],
           "location": "pixelmonpromini.png",
-          "surrogates": "301"
+          "surrogates": "emoji-id-301"
         },
         {
           "name": "logo_kanto",
@@ -17804,7 +17802,7 @@
             ":logokanto:"
           ],
           "location": "logo_kanto.png",
-          "surrogates": "302"
+          "surrogates": "emoji-id-302"
         },
         {
           "name": "logo_johto",
@@ -17812,7 +17810,7 @@
             ":logojohto:"
           ],
           "location": "logo_johto.png",
-          "surrogates": "303"
+          "surrogates": "emoji-id-303"
         },
         {
           "name": "logo_hoenn",
@@ -17820,7 +17818,7 @@
             ":logohoenn:"
           ],
           "location": "logo_hoenn.png",
-          "surrogates": "304"
+          "surrogates": "emoji-id-304"
         },
         {
           "name": "kanto",
@@ -17829,7 +17827,7 @@
             "[K]"
           ],
           "location": "kanto.png",
-          "surrogates": "305"
+          "surrogates": "emoji-id-305"
         },
         {
           "name": "johto",
@@ -17838,7 +17836,7 @@
             "[J]"
           ],
           "location": "johto.png",
-          "surrogates": "306"
+          "surrogates": "emoji-id-306"
         },
         {
           "name": "hoenn",
@@ -17847,7 +17845,7 @@
             "[H]"
           ],
           "location": "hoenn.png",
-          "surrogates": "307"
+          "surrogates": "emoji-id-307"
         },
         {
           "name": "teron",
@@ -17856,7 +17854,7 @@
             "[T]"
           ],
           "location": "teron.png",
-          "surrogates": "308"
+          "surrogates": "emoji-id-308"
         },
         {
           "name": "begin-builder",
@@ -17866,7 +17864,7 @@
             ":начальныйстроитель:"
           ],
           "location": "begin-builder.png",
-          "surrogates": "309"
+          "surrogates": "emoji-id-309"
         },
         {
           "name": "builder",
@@ -17877,7 +17875,7 @@
             ":артихектор:"
           ],
           "location": "builder.png",
-          "surrogates": "310"
+          "surrogates": "emoji-id-310"
         },
         {
           "name": "major-builder",
@@ -17887,7 +17885,7 @@
             ":старшийстроитель:"
           ],
           "location": "major-builder.png",
-          "surrogates": "311"
+          "surrogates": "emoji-id-311"
         },
         {
           "name": "config",
@@ -17896,7 +17894,7 @@
             ":настроки:"
           ],
           "location": "config.png",
-          "surrogates": "312"
+          "surrogates": "emoji-id-312"
         },
         {
           "name": "discord",
@@ -17906,7 +17904,7 @@
             ":дискорд:"
           ],
           "location": "discord.png",
-          "surrogates": "313"
+          "surrogates": "emoji-id-313"
         },
         {
           "name": "discordpro",
@@ -17916,7 +17914,7 @@
             ":дискордпро:"
           ],
           "location": "discordpro.png",
-          "surrogates": "314"
+          "surrogates": "emoji-id-314"
         },
         {
           "name": "event",
@@ -17928,7 +17926,7 @@
             ":балагур:"
           ],
           "location": "event.png",
-          "surrogates": "315"
+          "surrogates": "emoji-id-315"
         },
         {
           "name": "gts",
@@ -17939,7 +17937,7 @@
             ":гтс:"
           ],
           "location": "gts.png",
-          "surrogates": "316"
+          "surrogates": "emoji-id-316"
         },
         {
           "name": "hunt",
@@ -17948,7 +17946,7 @@
             ":охота:"
           ],
           "location": "hunt.png",
-          "surrogates": "317"
+          "surrogates": "emoji-id-317"
         },
         {
           "name": "hunt_catch",
@@ -17957,7 +17955,7 @@
             ":охота1:"
           ],
           "location": "hunt_catch.png",
-          "surrogates": "318"
+          "surrogates": "emoji-id-318"
         },
         {
           "name": "wormhole",
@@ -17968,7 +17966,7 @@
             ":ультра-портал:"
           ],
           "location": "wormhole.png",
-          "surrogates": "319"
+          "surrogates": "emoji-id-319"
         },
         {
           "name": "lk",
@@ -17977,7 +17975,7 @@
             ":лк:"
           ],
           "location": "lk.png",
-          "surrogates": "319"
+          "surrogates": "emoji-id-319"
         },
         {
           "name": "master",
@@ -17986,7 +17984,7 @@
             ":мастер:"
           ],
           "location": "master.png",
-          "surrogates": "320"
+          "surrogates": "emoji-id-320"
         },
         {
           "name": "premium-1",
@@ -17997,7 +17995,7 @@
             ":pr1:"
           ],
           "location": "premium-1.png",
-          "surrogates": "321"
+          "surrogates": "emoji-id-321"
         },
         {
           "name": "premium-2",
@@ -18008,7 +18006,7 @@
             ":pr2:"
           ],
           "location": "premium-2.png",
-          "surrogates": "322"
+          "surrogates": "emoji-id-322"
         },
         {
           "name": "premium-3",
@@ -18019,7 +18017,7 @@
             ":pr3:"
           ],
           "location": "premium-3.png",
-          "surrogates": "323"
+          "surrogates": "emoji-id-323"
         },
         {
           "name": "premium-4",
@@ -18030,7 +18028,7 @@
             ":pr4:"
           ],
           "location": "premium-4.png",
-          "surrogates": "324"
+          "surrogates": "emoji-id-324"
         },
         {
           "name": "premium-5",
@@ -18041,7 +18039,7 @@
             ":pr5:"
           ],
           "location": "premium-5.png",
-          "surrogates": "325"
+          "surrogates": "emoji-id-325"
         },
         {
           "name": "town-builder",
@@ -18051,7 +18049,7 @@
             ":градостроитель:"
           ],
           "location": "town-builder.png",
-          "surrogates": "326"
+          "surrogates": "emoji-id-326"
         },
         {
           "name": "begin-mentor",
@@ -18061,7 +18059,7 @@
             ":начальныйментор:"
           ],
           "location": "begin-mentor.png",
-          "surrogates": "327"
+          "surrogates": "emoji-id-327"
         },
         {
           "name": "mentor",
@@ -18075,7 +18073,7 @@
             ":хелпер:"
           ],
           "location": "mentor.png",
-          "surrogates": "328"
+          "surrogates": "emoji-id-328"
         },
         {
           "name": "major-mentor",
@@ -18085,7 +18083,7 @@
             ":старшийментор:"
           ],
           "location": "major-mentor.png",
-          "surrogates": "329"
+          "surrogates": "emoji-id-329"
         },
         {
           "name": "begin-moderator",
@@ -18097,7 +18095,7 @@
             ":начальныймодератор:"
           ],
           "location": "begin-moderator.png",
-          "surrogates": "330"
+          "surrogates": "emoji-id-330"
         },
         {
           "name": "moderator",
@@ -18111,7 +18109,7 @@
             ":модератор:"
           ],
           "location": "moderator.png",
-          "surrogates": "331"
+          "surrogates": "emoji-id-331"
         },
         {
           "name": "major-moderator",
@@ -18123,7 +18121,7 @@
             ":старшиймодератор:"
           ],
           "location": "major-moderator.png",
-          "surrogates": "332"
+          "surrogates": "emoji-id-332"
         },
         {
           "name": "player",
@@ -18133,7 +18131,7 @@
             ":игрок:"
           ],
           "location": "player.png",
-          "surrogates": "333"
+          "surrogates": "emoji-id-333"
         },
         {
           "name": "pokepack",
@@ -18142,7 +18140,7 @@
             ":покепак:"
           ],
           "location": "pokepack.png",
-          "surrogates": "334"
+          "surrogates": "emoji-id-334"
         },
         {
           "name": "privat",
@@ -18152,7 +18150,7 @@
             ":приват:"
           ],
           "location": "privat.png",
-          "surrogates": "335"
+          "surrogates": "emoji-id-335"
         },
         {
           "name": "reforged",
@@ -18163,7 +18161,7 @@
             "[Reforged]"
           ],
           "location": "reforged.png",
-          "surrogates": "336"
+          "surrogates": "emoji-id-336"
         },
         {
           "name": "tavern",
@@ -18174,7 +18172,7 @@
             ":таверна:"
           ],
           "location": "tavern.png",
-          "surrogates": "337"
+          "surrogates": "emoji-id-337"
         },
         {
           "name": "trainer",
@@ -18183,7 +18181,7 @@
             ":тренер:"
           ],
           "location": "trainer.png",
-          "surrogates": "338"
+          "surrogates": "emoji-id-338"
         },
         {
           "name": "vk",
@@ -18193,7 +18191,7 @@
             ":вконтакте:"
           ],
           "location": "vk.png",
-          "surrogates": "339"
+          "surrogates": "emoji-id-339"
         },
         {
           "name": "vote",
@@ -18202,7 +18200,7 @@
             ":голосование:"
           ],
           "location": "vote.png",
-          "surrogates": "340"
+          "surrogates": "emoji-id-340"
         },
         {
           "name": "yarm",
@@ -18211,7 +18209,7 @@
             ":ярмарка:"
           ],
           "location": "yarm.png",
-          "surrogates": "341"
+          "surrogates": "emoji-id-341"
         },
         {
           "name": "wt",
@@ -18220,7 +18218,7 @@
             ":случайныйобмен:"
           ],
           "location": "wt.png",
-          "surrogates": "342"
+          "surrogates": "emoji-id-342"
         },
         {
           "name": "youtube",
@@ -18230,7 +18228,7 @@
             ":ютуб:"
           ],
           "location": "youtube.png",
-          "surrogates": "343"
+          "surrogates": "emoji-id-343"
         },
         {
           "name": "customnpc",
@@ -18238,7 +18236,7 @@
             ":customnpc:"
           ],
           "location": "customnpc.png",
-          "surrogates": "344"
+          "surrogates": "emoji-id-344"
         },
         {
           "name": "ironchest",
@@ -18246,7 +18244,7 @@
             ":ironchest:"
           ],
           "location": "ironchest.png",
-          "surrogates": "345"
+          "surrogates": "emoji-id-345"
         },
         {
           "name": "variedcommodities",
@@ -18255,7 +18253,7 @@
             ":varied:"
           ],
           "location": "variedcommodities.png",
-          "surrogates": "346"
+          "surrogates": "emoji-id-346"
         },
         {
           "name": "sgcraft",
@@ -18264,7 +18262,7 @@
             ":hoopagates"
           ],
           "location": "sgcraft.png",
-          "surrogates": "347"
+          "surrogates": "emoji-id-347"
         },
         {
           "name": "№",
@@ -18276,7 +18274,7 @@
             "#:"
           ],
           "location": "number.png",
-          "surrogates": "348"
+          "surrogates": "emoji-id-348"
         },
         {
           "name": "oak",
@@ -18286,7 +18284,7 @@
             ":profoak:"
           ],
           "location": "oak.png",
-          "surrogates": "349"
+          "surrogates": "emoji-id-349"
         },
         {
           "name": "shiny",
@@ -18295,7 +18293,7 @@
             ":шайни:"
           ],
           "location": "shiny.png",
-          "surrogates": "350"
+          "surrogates": "emoji-id-350"
         },
         {
           "name": "boss",
@@ -18304,7 +18302,7 @@
             ":босс:"
           ],
           "location": "boss.png",
-          "surrogates": "351"
+          "surrogates": "emoji-id-351"
         },
         {
           "name": "schrine",
@@ -18312,7 +18310,7 @@
             ":schrine:"
           ],
           "location": "schrine.png",
-          "surrogates": "352"
+          "surrogates": "emoji-id-352"
         },
         {
           "name": "pokeloot",
@@ -18321,7 +18319,7 @@
             ":покелут:"
           ],
           "location": "pokeloot.png",
-          "surrogates": "353"
+          "surrogates": "emoji-id-353"
         },
         {
           "name": "female",
@@ -18331,7 +18329,7 @@
             ":мальчик:"
           ],
           "location": "female.png",
-          "surrogates": "354"
+          "surrogates": "emoji-id-354"
         },
         {
           "name": "male",
@@ -18341,7 +18339,7 @@
             ":девочка:"
           ],
           "location": "male.png",
-          "surrogates": "355"
+          "surrogates": "emoji-id-355"
         },
         {
           "name": "none",
@@ -18351,7 +18349,7 @@
             ":нету:"
           ],
           "location": "none.png",
-          "surrogates": "356"
+          "surrogates": "emoji-id-356"
         },
         {
           "name": "yes",
@@ -18361,7 +18359,7 @@
             ":согласен:"
           ],
           "location": "yes.png",
-          "surrogates": "357"
+          "surrogates": "emoji-id-357"
         },
         {
           "name": "no",
@@ -18371,7 +18369,7 @@
             ":не согласен:"
           ],
           "location": "no.png",
-          "surrogates": "358"
+          "surrogates": "emoji-id-358"
         },
         {
           "name": "wait",
@@ -18380,7 +18378,7 @@
             ":ожидание:"
           ],
           "location": "wait.png",
-          "surrogates": "359"
+          "surrogates": "emoji-id-359"
         },
         {
           "name": "warning",
@@ -18391,7 +18389,7 @@
             ":failed:"
           ],
           "location": "warning.png",
-          "surrogates": "360"
+          "surrogates": "emoji-id-360"
         },
         {
           "name": "info",
@@ -18401,7 +18399,7 @@
             ":инфо:"
           ],
           "location": "info.png",
-          "surrogates": "361"
+          "surrogates": "emoji-id-361"
         },
         {
           "name": "star",
@@ -18410,7 +18408,7 @@
             ":звезда:"
           ],
           "location": "star.png",
-          "surrogates": "362"
+          "surrogates": "emoji-id-362"
         },
         {
           "name": "shop",
@@ -18419,7 +18417,7 @@
             ":магазин:"
           ],
           "location": "shop.png",
-          "surrogates": "363"
+          "surrogates": "emoji-id-363"
         },
         {
           "name": "photo",
@@ -18429,7 +18427,7 @@
             ":screenshot:"
           ],
           "location": "photo.png",
-          "surrogates": "364"
+          "surrogates": "emoji-id-364"
         },
         {
           "name": "mail",
@@ -18440,7 +18438,7 @@
             ":письмо:"
           ],
           "location": "mail.png",
-          "surrogates": "365"
+          "surrogates": "emoji-id-365"
         },
         {
           "name": "coffe",
@@ -18449,7 +18447,7 @@
             ":кофе:"
           ],
           "location": "coffe.png",
-          "surrogates": "366"
+          "surrogates": "emoji-id-366"
         },
         {
           "name": "winner",
@@ -18459,7 +18457,7 @@
             ":победа:"
           ],
           "location": "winner.png",
-          "surrogates": "368"
+          "surrogates": "emoji-id-368"
         },
         {
           "name": "trade",
@@ -18470,7 +18468,7 @@
             ":торг:"
           ],
           "location": "trade.png",
-          "surrogates": "369"
+          "surrogates": "emoji-id-369"
         },
         {
           "name": "egg",
@@ -18479,7 +18477,7 @@
             ":яйцо:"
           ],
           "location": "egg.png",
-          "surrogates": "370"
+          "surrogates": "emoji-id-370"
         },
         {
           "name": "mega",
@@ -18488,7 +18486,7 @@
             ":мега:"
           ],
           "location": "mega.png",
-          "surrogates": "371"
+          "surrogates": "emoji-id-371"
         },
         {
           "name": "reward",
@@ -18497,7 +18495,7 @@
             ":награда:"
           ],
           "location": "reward.png",
-          "surrogates": "372"
+          "surrogates": "emoji-id-372"
         },
         {
           "name": "reward_eat",
@@ -18511,7 +18509,7 @@
             ":донат:"
           ],
           "location": "reward_eat.png",
-          "surrogates": "373"
+          "surrogates": "emoji-id-373"
         },
         {
           "name": "reward_money",
@@ -18522,7 +18520,7 @@
             ":money:"
           ],
           "location": "reward_money.png",
-          "surrogates": "374"
+          "surrogates": "emoji-id-374"
         },
         {
           "name": "coin",
@@ -18531,7 +18529,7 @@
             ":монета:"
           ],
           "location": "coin.png",
-          "surrogates": "375"
+          "surrogates": "emoji-id-375"
         },
         {
           "name": "candy",
@@ -18540,7 +18538,7 @@
             ":конфета:"
           ],
           "location": "candy.png",
-          "surrogates": "376"
+          "surrogates": "emoji-id-376"
         },
         {
           "name": "rand_poke_ball",
@@ -18549,7 +18547,7 @@
             ":randpokeball:"
           ],
           "location": "rand_poke_ball.png",
-          "surrogates": "377"
+          "surrogates": "emoji-id-377"
         },
         {
           "name": "coin_dollar",
@@ -18559,7 +18557,7 @@
             ":доллар:"
           ],
           "location": "coin_dollar.png",
-          "surrogates": "378"
+          "surrogates": "emoji-id-378"
         },
         {
           "name": "lottery1",
@@ -18568,7 +18566,7 @@
             ":лотерея1:"
           ],
           "location": "lottery1.png",
-          "surrogates": "379"
+          "surrogates": "emoji-id-379"
         },
         {
           "name": "lottery2",
@@ -18577,7 +18575,7 @@
             ":лотерея2:"
           ],
           "location": "lottery2.png",
-          "surrogates": "380"
+          "surrogates": "emoji-id-380"
         },
         {
           "name": "lottery3",
@@ -18586,7 +18584,7 @@
             ":лотерея3:"
           ],
           "location": "lottery3.png",
-          "surrogates": "381"
+          "surrogates": "emoji-id-381"
         },
         {
           "name": "lottery4",
@@ -18595,7 +18593,7 @@
             ":лотерея4:"
           ],
           "location": "lottery4.png",
-          "surrogates": "382"
+          "surrogates": "emoji-id-382"
         },
         {
           "name": "clock",
@@ -18605,7 +18603,7 @@
             ":время:"
           ],
           "location": "clock.png",
-          "surrogates": "383"
+          "surrogates": "emoji-id-383"
         },
         {
           "name": "free",
@@ -18614,7 +18612,7 @@
             ":бесплатно:"
           ],
           "location": "free.png",
-          "surrogates": "384"
+          "surrogates": "emoji-id-384"
         },
         {
           "name": "music",
@@ -18623,7 +18621,7 @@
             ":музыка:"
           ],
           "location": "music.png",
-          "surrogates": "385"
+          "surrogates": "emoji-id-385"
         },
         {
           "name": "volume",
@@ -18632,7 +18630,7 @@
             ":громкость:"
           ],
           "location": "volume.png",
-          "surrogates": "386"
+          "surrogates": "emoji-id-386"
         },
         {
           "name": "weather",
@@ -18641,7 +18639,7 @@
             ":погода:"
           ],
           "location": "weather.png",
-          "surrogates": "387"
+          "surrogates": "emoji-id-387"
         },
         {
           "name": "kill",
@@ -18650,7 +18648,7 @@
             ":убить:"
           ],
           "location": "kill.png",
-          "surrogates": "388"
+          "surrogates": "emoji-id-388"
         },
         {
           "name": "sword",
@@ -18659,7 +18657,7 @@
             ":меч:"
           ],
           "location": "sword.png",
-          "surrogates": "389"
+          "surrogates": "emoji-id-389"
         },
         {
           "name": "shield",
@@ -18668,7 +18666,7 @@
             ":щит:"
           ],
           "location": "shield.png",
-          "surrogates": "389"
+          "surrogates": "emoji-id-389"
         },
         {
           "name": "skull",
@@ -18677,7 +18675,7 @@
             ":череп:"
           ],
           "location": "skull.png",
-          "surrogates": "390"
+          "surrogates": "emoji-id-390"
         },
         {
           "name": "magic",
@@ -18688,7 +18686,7 @@
             ":эффект:"
           ],
           "location": "magic.png",
-          "surrogates": "391"
+          "surrogates": "emoji-id-391"
         },
         {
           "name": "dark",
@@ -18702,7 +18700,7 @@
             ":темный:"
           ],
           "location": "darktype.png",
-          "surrogates": "392"
+          "surrogates": "emoji-id-392"
         },
         {
           "name": "normal",
@@ -18716,7 +18714,7 @@
             ":нормальный:"
           ],
           "location": "normaltype.png",
-          "surrogates": "393"
+          "surrogates": "emoji-id-393"
         },
         {
           "name": "bug",
@@ -18732,7 +18730,7 @@
             ":насекомый:"
           ],
           "location": "bugtype.png",
-          "surrogates": "394"
+          "surrogates": "emoji-id-394"
         },
         {
           "name": "fly",
@@ -18748,7 +18746,7 @@
             ":летающий:"
           ],
           "location": "flyingtype.png",
-          "surrogates": "395"
+          "surrogates": "emoji-id-395"
         },
         {
           "name": "fighting",
@@ -18763,7 +18761,7 @@
             ":файтинг:"
           ],
           "location": "fightingtype.png",
-          "surrogates": "396"
+          "surrogates": "emoji-id-396"
         },
         {
           "name": "water",
@@ -18779,7 +18777,7 @@
             ":ватер:"
           ],
           "location": "watertype.png",
-          "surrogates": "397"
+          "surrogates": "emoji-id-397"
         },
         {
           "name": "electric",
@@ -18793,7 +18791,7 @@
             ":электрик:"
           ],
           "location": "electrictype.png",
-          "surrogates": "398"
+          "surrogates": "emoji-id-398"
         },
         {
           "name": "fairy",
@@ -18808,7 +18806,7 @@
             ":фаири:"
           ],
           "location": "fairytype.png",
-          "surrogates": "399"
+          "surrogates": "emoji-id-399"
         },
         {
           "name": "ghost",
@@ -18822,7 +18820,7 @@
             ":гост:"
           ],
           "location": "ghosttype.png",
-          "surrogates": "400"
+          "surrogates": "emoji-id-400"
         },
         {
           "name": "grass",
@@ -18836,7 +18834,7 @@
             ":грасс:"
           ],
           "location": "grasstype.png",
-          "surrogates": "401"
+          "surrogates": "emoji-id-401"
         },
         {
           "name": "ground",
@@ -18850,7 +18848,7 @@
             ":граунд:"
           ],
           "location": "groundtype.png",
-          "surrogates": "402"
+          "surrogates": "emoji-id-402"
         },
         {
           "name": "ice",
@@ -18864,7 +18862,7 @@
             ":айс:"
           ],
           "location": "icetype.png",
-          "surrogates": "403"
+          "surrogates": "emoji-id-403"
         },
         {
           "name": "poison",
@@ -18879,7 +18877,7 @@
             ":поисон:"
           ],
           "location": "poisontype.png",
-          "surrogates": "404"
+          "surrogates": "emoji-id-404"
         },
         {
           "name": "rock",
@@ -18893,7 +18891,7 @@
             ":рок:"
           ],
           "location": "rocktype.png",
-          "surrogates": "405"
+          "surrogates": "emoji-id-405"
         },
         {
           "name": "steel",
@@ -18907,7 +18905,7 @@
             ":стилл:"
           ],
           "location": "steeltype.png",
-          "surrogates": "406"
+          "surrogates": "emoji-id-406"
         },
         {
           "name": "fire",
@@ -18921,7 +18919,7 @@
             ":фаир:"
           ],
           "location": "firetype.png",
-          "surrogates": "407"
+          "surrogates": "emoji-id-407"
         },
         {
           "name": "dragon",
@@ -18936,7 +18934,7 @@
             ":дрэгон:"
           ],
           "location": "dragontype.png",
-          "surrogates": "408"
+          "surrogates": "emoji-id-408"
         },
         {
           "name": "psychic",
@@ -18952,7 +18950,7 @@
             ":психик:"
           ],
           "location": "psychictype.png",
-          "surrogates": "409"
+          "surrogates": "emoji-id-409"
         },
         {
           "name": "halloween",
@@ -18961,7 +18959,7 @@
             ":хэллоуин:"
           ],
           "location": "halloween.png",
-          "surrogates": "410"
+          "surrogates": "emoji-id-410"
         },
         {
           "name": "snowflake",
@@ -18970,7 +18968,7 @@
             ":sf:"
           ],
           "location": "snowflake.png",
-          "surrogates": "411"
+          "surrogates": "emoji-id-411"
         },
         {
           "name": "battlepass",
@@ -18979,7 +18977,7 @@
             ":bp:"
           ],
           "location": "battlepass.png",
-          "surrogates": "412"
+          "surrogates": "emoji-id-412"
         },
         {
           "name": "shield1",
@@ -18990,7 +18988,7 @@
             ":knight:"
           ],
           "location": "shield1.png",
-          "surrogates": "413"
+          "surrogates": "emoji-id-413"
         },
         {
           "name": "shield2",
@@ -19001,7 +18999,7 @@
             ":baron:"
           ],
           "location": "shield2.png",
-          "surrogates": "414"
+          "surrogates": "emoji-id-414"
         },
         {
           "name": "shield3",
@@ -19012,7 +19010,7 @@
             ":viscount:"
           ],
           "location": "shield3.png",
-          "surrogates": "415"
+          "surrogates": "emoji-id-415"
         },
         {
           "name": "shield4",
@@ -19023,7 +19021,7 @@
             ":earl:"
           ],
           "location": "shield4.png",
-          "surrogates": "416"
+          "surrogates": "emoji-id-416"
         },
         {
           "name": "shield5",
@@ -19034,7 +19032,7 @@
             ":marquis:"
           ],
           "location": "shield5.png",
-          "surrogates": "417"
+          "surrogates": "emoji-id-417"
         },
         {
           "name": "shield6",
@@ -19045,7 +19043,7 @@
             ":duke:"
           ],
           "location": "shield6.png",
-          "surrogates": "418"
+          "surrogates": "emoji-id-418"
         },
         {
           "name": "shield7",
@@ -19056,7 +19054,7 @@
             ":grandduke:"
           ],
           "location": "shield7.png",
-          "surrogates": "419"
+          "surrogates": "emoji-id-419"
         },
         {
           "name": "pokedollar_eugene",
@@ -19065,7 +19063,7 @@
             ":пд:"
           ],
           "location": "pd.png",
-          "surrogates": "420"
+          "surrogates": "emoji-id-420"
         }
       ]
     },
@@ -19080,7 +19078,7 @@
             ":бульбазавр:"
           ],
           "location": "001-bulbasaur.png",
-          "surrogates": "421"
+          "surrogates": "emoji-id-421"
         },
         {
           "name": "006-charizard-x",
@@ -19091,7 +19089,7 @@
             ":чаризард-х:"
           ],
           "location": "006-charizard-mega-x.png",
-          "surrogates": "422"
+          "surrogates": "emoji-id-422"
         },
         {
           "name": "006-charizard-y",
@@ -19102,7 +19100,7 @@
             ":чаризард-у:"
           ],
           "location": "006-charizard-mega-y.png",
-          "surrogates": "423"
+          "surrogates": "emoji-id-423"
         },
         {
           "name": "115-kangaskhan-mega",
@@ -19113,7 +19111,7 @@
             ":кангасхан-мега:"
           ],
           "location": "115-kangaskhan-mega.png",
-          "surrogates": "424"
+          "surrogates": "emoji-id-424"
         },
         {
           "name": "130-gyarados-mega",
@@ -19124,7 +19122,7 @@
             ":гярадос-мега:"
           ],
           "location": "130-gyarados-mega.png",
-          "surrogates": "425"
+          "surrogates": "emoji-id-425"
         },
         {
           "name": "150-mewtwo",
@@ -19135,7 +19133,7 @@
             ":мьюту:"
           ],
           "location": "150-mewtwo.png",
-          "surrogates": "426"
+          "surrogates": "emoji-id-426"
         },
         {
           "name": "150-mewtwo-x",
@@ -19146,7 +19144,7 @@
             ":мьютух:"
           ],
           "location": "150-mewtwo-x.png",
-          "surrogates": "427"
+          "surrogates": "emoji-id-427"
         },
         {
           "name": "150-mewtwo-y",
@@ -19157,7 +19155,7 @@
             ":мьютуу:"
           ],
           "location": "150-mewtwo-y.png",
-          "surrogates": "428"
+          "surrogates": "emoji-id-428"
         },
         {
           "name": "151-mew",
@@ -19168,7 +19166,7 @@
             ":мью:"
           ],
           "location": "151-mew.png",
-          "surrogates": "429"
+          "surrogates": "emoji-id-429"
         },
         {
           "name": "208-steelix-mega",
@@ -19179,7 +19177,7 @@
             ":стиликс-мега:"
           ],
           "location": "208-steelix-mega.png",
-          "surrogates": "430"
+          "surrogates": "emoji-id-430"
         },
         {
           "name": "212-scizor-mega",
@@ -19190,7 +19188,7 @@
             ":сизор-мега:"
           ],
           "location": "212-scizor-mega.png",
-          "surrogates": "431"
+          "surrogates": "emoji-id-431"
         },
         {
           "name": "229-houndoom-mega",
@@ -19201,7 +19199,7 @@
             ":хаундум-мега:"
           ],
           "location": "229-houndoom-mega.png",
-          "surrogates": "432"
+          "surrogates": "emoji-id-432"
         },
         {
           "name": "249-lugia",
@@ -19212,7 +19210,7 @@
             ":лугия:"
           ],
           "location": "249-lugia.png",
-          "surrogates": "433"
+          "surrogates": "emoji-id-433"
         },
         {
           "name": "250-hooh",
@@ -19223,7 +19221,7 @@
             ":хоох:"
           ],
           "location": "250-hooh.png",
-          "surrogates": "434"
+          "surrogates": "emoji-id-434"
         },
         {
           "name": "251-celebi",
@@ -19234,7 +19232,7 @@
             ":селеби:"
           ],
           "location": "251-celebi.png",
-          "surrogates": "435"
+          "surrogates": "emoji-id-435"
         },
         {
           "name": "254-sceptile-mega",
@@ -19245,7 +19243,7 @@
             ":скептайл-мега:"
           ],
           "location": "254-sceptile-mega.png",
-          "surrogates": "436"
+          "surrogates": "emoji-id-436"
         },
         {
           "name": "257-blaziken-mega",
@@ -19256,7 +19254,7 @@
             ":блейзикен-мега:"
           ],
           "location": "257-blaziken-mega.png",
-          "surrogates": "437"
+          "surrogates": "emoji-id-437"
         },
         {
           "name": "260-swampert-mega",
@@ -19267,7 +19265,7 @@
             ":свамперт-мега:"
           ],
           "location": "260-swampert-mega.png",
-          "surrogates": "438"
+          "surrogates": "emoji-id-438"
         },
         {
           "name": "308-medicham-mega",
@@ -19278,7 +19276,7 @@
             ":медичам-мега:"
           ],
           "location": "308-medicham-mega.png",
-          "surrogates": "439"
+          "surrogates": "emoji-id-439"
         },
         {
           "name": "334-altaria-mega",
@@ -19289,7 +19287,7 @@
             ":алтария-мега:"
           ],
           "location": "334-altaria-mega.png",
-          "surrogates": "440"
+          "surrogates": "emoji-id-440"
         },
         {
           "name": "354-banette-mega",
@@ -19300,7 +19298,7 @@
             ":бэнетт-мега:"
           ],
           "location": "354-banette-mega.png",
-          "surrogates": "441"
+          "surrogates": "emoji-id-441"
         },
         {
           "name": "373-salamence-mega",
@@ -19315,7 +19313,7 @@
             ":мега-сало:"
           ],
           "location": "373-salamence-mega.png",
-          "surrogates": "442"
+          "surrogates": "emoji-id-442"
         },
         {
           "name": "376-metagross-mega",
@@ -19329,7 +19327,7 @@
             ":мега-мета:"
           ],
           "location": "376-metagross-mega.png",
-          "surrogates": "443"
+          "surrogates": "emoji-id-443"
         },
         {
           "name": "382-kyogre",
@@ -19341,7 +19339,7 @@
             ":кайогра:"
           ],
           "location": "382-kyogre.png",
-          "surrogates": "444"
+          "surrogates": "emoji-id-444"
         },
         {
           "name": "382-primal-kyogre",
@@ -19353,7 +19351,7 @@
             ":праймал-кайогр:"
           ],
           "location": "382-kyogre-primal.png",
-          "surrogates": "445"
+          "surrogates": "emoji-id-445"
         },
         {
           "name": "383-groudon",
@@ -19365,7 +19363,7 @@
             ":пгроудон:"
           ],
           "location": "383-groudon-primal.png",
-          "surrogates": "446"
+          "surrogates": "emoji-id-446"
         },
         {
           "name": "383-primal-groudon",
@@ -19378,7 +19376,7 @@
             ":праймал-гроудон:"
           ],
           "location": "383-groudon-primal.png",
-          "surrogates": "447"
+          "surrogates": "emoji-id-447"
         },
         {
           "name": "384-rayquaza",
@@ -19391,7 +19389,7 @@
             ":рейкваза:"
           ],
           "location": "384-rayquaza.png",
-          "surrogates": "448"
+          "surrogates": "emoji-id-448"
         },
         {
           "name": "384-rayquaza-mega",
@@ -19404,7 +19402,7 @@
             ":мега-райкваза:"
           ],
           "location": "384-rayquaza-mega.png",
-          "surrogates": "449"
+          "surrogates": "emoji-id-449"
         },
         {
           "name": "386-deoxys-normal",
@@ -19417,7 +19415,7 @@
             ":деоксис:"
           ],
           "location": "386-deoxys-normal.png",
-          "surrogates": "450"
+          "surrogates": "emoji-id-450"
         },
         {
           "name": "428-lopunny-mega",
@@ -19430,7 +19428,7 @@
             ":мега-лупуни:"
           ],
           "location": "428-lopunny-mega.png",
-          "surrogates": "451"
+          "surrogates": "emoji-id-451"
         },
         {
           "name": "445-garchomp-mega",
@@ -19443,7 +19441,7 @@
             ":мега-гарчумп:"
           ],
           "location": "445-garchomp-mega.png",
-          "surrogates": "452"
+          "surrogates": "emoji-id-452"
         },
         {
           "name": "448-lucario-mega",
@@ -19456,7 +19454,7 @@
             ":мега-лука:"
           ],
           "location": "448-lucario-mega.png",
-          "surrogates": "453"
+          "surrogates": "emoji-id-453"
         },
         {
           "name": "483-dialga",
@@ -19467,7 +19465,7 @@
             ":диалга:"
           ],
           "location": "483-dialga.png",
-          "surrogates": "454"
+          "surrogates": "emoji-id-454"
         },
         {
           "name": "484-palkia",
@@ -19478,7 +19476,7 @@
             ":палкия:"
           ],
           "location": "484-palkia.png",
-          "surrogates": "455"
+          "surrogates": "emoji-id-455"
         },
         {
           "name": "487-giratina-origin",
@@ -19492,7 +19490,7 @@
             ":гиратина:"
           ],
           "location": "487-giratina-origin.png",
-          "surrogates": "456"
+          "surrogates": "emoji-id-456"
         },
         {
           "name": "491-darkrai",
@@ -19504,7 +19502,7 @@
             ":даркраи:"
           ],
           "location": "491-darkrai.png",
-          "surrogates": "457"
+          "surrogates": "emoji-id-457"
         },
         {
           "name": "493-arceus",
@@ -19516,7 +19514,7 @@
             ":арцеус:"
           ],
           "location": "493-arceus.png",
-          "surrogates": "458"
+          "surrogates": "emoji-id-458"
         },
         {
           "name": "641-tornadus-incarnate",
@@ -19529,7 +19527,7 @@
             ":тернадус:"
           ],
           "location": "641-tornadus-incarnate.png",
-          "surrogates": "459"
+          "surrogates": "emoji-id-459"
         },
         {
           "name": "642-thundurus-incarnate",
@@ -19542,7 +19540,7 @@
             ":тендурус:"
           ],
           "location": "642-thundurus-incarnate.png",
-          "surrogates": "460"
+          "surrogates": "emoji-id-460"
         },
         {
           "name": "643-reshiram",
@@ -19554,7 +19552,7 @@
             ":решерам:"
           ],
           "location": "643-reshiram.png",
-          "surrogates": "461"
+          "surrogates": "emoji-id-461"
         },
         {
           "name": "644-zekrom",
@@ -19565,7 +19563,7 @@
             ":зекром:"
           ],
           "location": "644-zekrom.png",
-          "surrogates": "462"
+          "surrogates": "emoji-id-462"
         },
         {
           "name": "645-landorus-incarnate",
@@ -19578,7 +19576,7 @@
             ":лэндорус:"
           ],
           "location": "645-landorus-incarnate.png",
-          "surrogates": "463"
+          "surrogates": "emoji-id-463"
         },
         {
           "name": "646-kyurem-normal",
@@ -19590,7 +19588,7 @@
             ":кюрем:"
           ],
           "location": "646-kyurem-normal.png",
-          "surrogates": "464"
+          "surrogates": "emoji-id-464"
         },
         {
           "name": "649-genesect-normal",
@@ -19602,7 +19600,7 @@
             ":генесект:"
           ],
           "location": "649-genesect-normal.png",
-          "surrogates": "465"
+          "surrogates": "emoji-id-465"
         },
         {
           "name": "658-greninja-ash",
@@ -19616,7 +19614,7 @@
             ":эш_грениндзя:"
           ],
           "location": "658-greninja-ash.png",
-          "surrogates": "466"
+          "surrogates": "emoji-id-466"
         },
         {
           "name": "716-xerneas",
@@ -19632,7 +19630,7 @@
             ":зерно:"
           ],
           "location": "716-xerneas.png",
-          "surrogates": "467"
+          "surrogates": "emoji-id-467"
         },
         {
           "name": "717-yveltal",
@@ -19644,7 +19642,7 @@
             ":йвелтал:"
           ],
           "location": "717-yveltal.png",
-          "surrogates": "468"
+          "surrogates": "emoji-id-468"
         },
         {
           "name": "718-zygarde",
@@ -19656,7 +19654,7 @@
             ":зигард:"
           ],
           "location": "718-zygarde.png",
-          "surrogates": "469"
+          "surrogates": "emoji-id-469"
         },
         {
           "name": "719-diancie",
@@ -19667,7 +19665,7 @@
             ":дианси:"
           ],
           "location": "719-diancie.png",
-          "surrogates": "470"
+          "surrogates": "emoji-id-470"
         },
         {
           "name": "719-diancie-mega",
@@ -19678,7 +19676,7 @@
             ":дианси-мега:"
           ],
           "location": "719-diancie-mega.png",
-          "surrogates": "471"
+          "surrogates": "emoji-id-471"
         },
         {
           "name": "720-hoopa-unbound",
@@ -19691,7 +19689,7 @@
             ":хуппа:"
           ],
           "location": "720-hoopa-unbound.png",
-          "surrogates": "472"
+          "surrogates": "emoji-id-472"
         },
         {
           "name": "791-solgaleo",
@@ -19703,7 +19701,7 @@
             ":солгалео:"
           ],
           "location": "791-solgaleo.png",
-          "surrogates": "473"
+          "surrogates": "emoji-id-473"
         },
         {
           "name": "792-lunala",
@@ -19715,7 +19713,7 @@
             ":лунала:"
           ],
           "location": "792-lunala.png",
-          "surrogates": "474"
+          "surrogates": "emoji-id-474"
         },
         {
           "name": "798-kartana",
@@ -19727,7 +19725,7 @@
             ":картана:"
           ],
           "location": "798-kartana.png",
-          "surrogates": "475"
+          "surrogates": "emoji-id-475"
         },
         {
           "name": "799-guzzlord",
@@ -19739,7 +19737,7 @@
             ":газлорд:"
           ],
           "location": "799-guzzlord.png",
-          "surrogates": "476"
+          "surrogates": "emoji-id-476"
         },
         {
           "name": "800-necrozma",
@@ -19752,7 +19750,7 @@
             ":некрозма:"
           ],
           "location": "800-necrozma-normal.png",
-          "surrogates": "477"
+          "surrogates": "emoji-id-477"
         },
         {
           "name": "801-magearna",
@@ -19764,7 +19762,7 @@
             ":магеарна:"
           ],
           "location": "801-magearna.png",
-          "surrogates": "478"
+          "surrogates": "emoji-id-478"
         },
         {
           "name": "802-marshadow",
@@ -19776,7 +19774,7 @@
             ":маршадоу:"
           ],
           "location": "802-marshadow.png",
-          "surrogates": "479"
+          "surrogates": "emoji-id-479"
         },
         {
           "name": "805-stakataka",
@@ -19788,7 +19786,7 @@
             ":стакака:"
           ],
           "location": "805-stakataka.png",
-          "surrogates": "480"
+          "surrogates": "emoji-id-480"
         },
         {
           "name": "807-zeraora",
@@ -19800,7 +19798,7 @@
             ":зераора:"
           ],
           "location": "807-zeraora.png",
-          "surrogates": "481"
+          "surrogates": "emoji-id-481"
         },
         {
           "name": "809-melmetal",
@@ -19812,7 +19810,7 @@
             ":мелметал:"
           ],
           "location": "809-melmetal.png",
-          "surrogates": "482"
+          "surrogates": "emoji-id-482"
         }
       ]
     }

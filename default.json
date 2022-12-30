@@ -17019,24 +17019,6 @@
           "surrogates": "emoji-id-234"
         },
         {
-          "name": "misc1",
-          "strings": [
-            "«",
-            "«["
-          ],
-          "location": "misc1.png",
-          "surrogates": "emoji-id-235"
-        },
-        {
-          "name": "misc2",
-          "strings": [
-            "»",
-            "]»"
-          ],
-          "location": "misc2.png",
-          "surrogates": "emoji-id-236"
-        },
-        {
           "name": "sunrise1",
           "strings": [
             ":sun:",

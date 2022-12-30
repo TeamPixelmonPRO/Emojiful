@@ -6366,7 +6366,7 @@
           "surrogates": "🌭"
         },
         {
-          "name": "pizza",
+          "name": "pizza_orig",
           "strings": [
             "pizza_orig"
           ],
@@ -15698,18 +15698,18 @@
           "surrogates": "emoji-id-76"
         },
         {
-          "name": "smirk",
+          "name": "smirk_2",
           "strings": [
-            ":smirk:"
+            ":smirk_2:"
           ],
           "location": "smirk.png",
           "surrogates": "emoji-id-77"
         },
         {
-          "name": "pizza",
+          "name": "pizza_2",
           "strings": [
             ":pizzaz:",
-            ":pizza:",
+            ":pizza2:",
             ":пицца:"
           ],
           "location": "pizza.png",
@@ -15758,9 +15758,9 @@
           "surrogates": "emoji-id-83"
         },
         {
-          "name": "cross",
+          "name": "cross_2",
           "strings": [
-            ":cross:"
+            ":cross_2:"
           ],
           "location": "cross.png",
           "surrogates": "emoji-id-84"
@@ -15799,7 +15799,7 @@
         {
           "name": "neron",
           "strings": [
-            ":[N]:",
+            "[N]",
             ":nero:",
             ":neron:",
             ":неро:",
@@ -15811,7 +15811,7 @@
         {
           "name": "default",
           "strings": [
-            ":<:defailt:711752304327393310>:",
+            "<:defailt:711752304327393310>",
             ":d0:"
           ],
           "location": "default.png",
@@ -15820,7 +15820,7 @@
         {
           "name": "pokedex1",
           "strings": [
-            ":<:pokedex1:711404425637527563>:",
+            "<:pokedex1:711404425637527563>",
             ":p0:"
           ],
           "location": "pokedex1.png",
@@ -15829,7 +15829,7 @@
         {
           "name": "pokedex10",
           "strings": [
-            ":<:pokedex10:711410224401088564>:",
+            "<:pokedex10:711410224401088564>",
             ":p1:"
           ],
           "location": "pokedex10.png",
@@ -15838,7 +15838,7 @@
         {
           "name": "pokedex20",
           "strings": [
-            ":<:pokedex20:711410225252532344>:",
+            "<:pokedex20:711410225252532344>",
             ":p2:"
           ],
           "location": "pokedex20.png",
@@ -15847,7 +15847,7 @@
         {
           "name": "pokedex30",
           "strings": [
-            ":<:pokedex30:711404424752398357>:",
+            "<:pokedex30:711404424752398357>",
             ":p3:"
           ],
           "location": "pokedex30.png",
@@ -15856,7 +15856,7 @@
         {
           "name": "pokedex40",
           "strings": [
-            ":<:pokedex40:711410226217222174>:",
+            "<:pokedex40:711410226217222174>",
             ":p4:"
           ],
           "location": "pokedex40.png",
@@ -15865,7 +15865,7 @@
         {
           "name": "pokedex50",
           "strings": [
-            ":<:pokedex50:711410226057707524>:",
+            "<:pokedex50:711410226057707524>",
             ":p5:"
           ],
           "location": "pokedex50.png",
@@ -15874,7 +15874,7 @@
         {
           "name": "pokedex60",
           "strings": [
-            ":<:pokedex60:711404424148418672>:",
+            "<:pokedex60:711404424148418672>",
             ":p6:"
           ],
           "location": "pokedex60.png",
@@ -15883,7 +15883,7 @@
         {
           "name": "pokedex70",
           "strings": [
-            ":<:pokedex70:711410225839603743>:",
+            "<:pokedex70:711410225839603743>",
             ":p7:"
           ],
           "location": "pokedex70.png",
@@ -15892,7 +15892,7 @@
         {
           "name": "pokedex80",
           "strings": [
-            ":<:pokedex80:711410225697128498>:",
+            "<:pokedex80:711410225697128498>",
             ":p8:"
           ],
           "location": "pokedex80.png",
@@ -15901,7 +15901,7 @@
         {
           "name": "pokedex90",
           "strings": [
-            ":<:pokedex90:711404425192931359>:",
+            "<:pokedex90:711404425192931359>",
             ":p9:"
           ],
           "location": "pokedex90.png",
@@ -15910,7 +15910,7 @@
         {
           "name": "pokedex100",
           "strings": [
-            ":<:pokedex100:711404425008382023>:",
+            "<:pokedex100:711404425008382023>",
             ":pm:"
           ],
           "location": "pokedex100.png",
@@ -15919,7 +15919,7 @@
         {
           "name": "premium1",
           "strings": [
-            ":<:premium1:711404425171959950>:",
+            "<:premium1:711404425171959950>",
             ":b1:"
           ],
           "location": "premium1.png",
@@ -15928,7 +15928,7 @@
         {
           "name": "premium2",
           "strings": [
-            ":<:premium2:711404423867269180>:",
+            "<:premium2:711404423867269180>",
             ":b2:"
           ],
           "location": "premium2.png",
@@ -15937,7 +15937,7 @@
         {
           "name": "premium3",
           "strings": [
-            ":<:premium3:711404423259095041>:",
+            "<:premium3:711404423259095041>",
             ":b3:"
           ],
           "location": "premium3.png",
@@ -15946,7 +15946,7 @@
         {
           "name": "premium4",
           "strings": [
-            ":<:premium4:711404424874164295>:",
+            "<:premium4:711404424874164295>",
             ":b4:"
           ],
           "location": "premium4.png",
@@ -15955,7 +15955,7 @@
         {
           "name": "premium5",
           "strings": [
-            ":<:premium5:711404425188606013>:",
+            "<:premium5:711404425188606013>",
             ":b5:"
           ],
           "location": "premium5.png",
@@ -15964,7 +15964,7 @@
         {
           "name": "sd1500",
           "strings": [
-            ":<:sd1500:711808504146559038>:",
+            "<:sd1500:711808504146559038>",
             ":s1:"
           ],
           "location": "sd1500.png",
@@ -15973,7 +15973,7 @@
         {
           "name": "sd1750",
           "strings": [
-            ":<:sd1750:711808504842813511>:",
+            "<:sd1750:711808504842813511>",
             ":s2:"
           ],
           "location": "sd1750.png",
@@ -15982,7 +15982,7 @@
         {
           "name": "sd2000",
           "strings": [
-            ":<:sd2000:711808504951996509>:",
+            "<:sd2000:711808504951996509>",
             ":s3:"
           ],
           "location": "sd2000.png",
@@ -15991,7 +15991,7 @@
         {
           "name": "sd2250",
           "strings": [
-            ":<:sd2250:711808503991500891>:",
+            "<:sd2250:711808503991500891>",
             ":s4:"
           ],
           "location": "sd2250.png",
@@ -16000,7 +16000,7 @@
         {
           "name": "sd2500",
           "strings": [
-            ":<:sd2500:711808504293359647>:",
+            "<:sd2500:711808504293359647>",
             ":s5:"
           ],
           "location": "sd2500.png",
@@ -16009,7 +16009,7 @@
         {
           "name": "beginbuilder",
           "strings": [
-            ":<:beginbuilder:711430277758451804>:",
+            "<:beginbuilder:711430277758451804>",
             ":m9:"
           ],
           "location": "beginbuilder.png",
@@ -16018,7 +16018,7 @@
         {
           "name": "buildernew",
           "strings": [
-            ":<:builder:711430277750194246>:",
+            "<:builder:711430277750194246>",
             ":m8:"
           ],
           "location": "builder.png",
@@ -16027,7 +16027,7 @@
         {
           "name": "headbuilder",
           "strings": [
-            ":<:headbuilder:711430277087494194>:",
+            "<:headbuilder:711430277087494194>",
             ":m7:"
           ],
           "location": "headbuilder.png",
@@ -16036,7 +16036,7 @@
         {
           "name": "beginmentor",
           "strings": [
-            ":<:beginmentor:711430277603393557>:",
+            "<:beginmentor:711430277603393557>",
             ":m6:"
           ],
           "location": "beginmentor.png",
@@ -16045,7 +16045,7 @@
         {
           "name": "mentornew",
           "strings": [
-            ":<:mentor:711430278916210710>:",
+            "<:mentor:711430278916210710>",
             ":m5:"
           ],
           "location": "mentor.png",
@@ -16054,7 +16054,7 @@
         {
           "name": "headmentor",
           "strings": [
-            ":<:headmentor:711430278299516988>:",
+            "<:headmentor:711430278299516988>",
             ":m4:"
           ],
           "location": "headmentor.png",
@@ -16063,7 +16063,7 @@
         {
           "name": "beginmoder",
           "strings": [
-            ":<:beginmoder:711430276378656789>:",
+            "<:beginmoder:711430276378656789>",
             ":m3:"
           ],
           "location": "beginmoder.png",
@@ -16072,7 +16072,7 @@
         {
           "name": "modernew",
           "strings": [
-            ":<:moder:711430278840582185>:",
+            "<:moder:711430278840582185>",
             ":m2:"
           ],
           "location": "moder.png",
@@ -16081,7 +16081,7 @@
         {
           "name": "headmoder",
           "strings": [
-            ":<:headmoder:711430278551437333>:",
+            "<:headmoder:711430278551437333>",
             ":m1:"
           ],
           "location": "headmoder.png",
@@ -16090,7 +16090,7 @@
         {
           "name": "adminowner",
           "strings": [
-            ":<:admin:711404425037611058>:",
+            "<:admin:711404425037611058>",
             ":m0:"
           ],
           "location": "admin.png",
@@ -16099,7 +16099,7 @@
         {
           "name": "helldim",
           "strings": [
-            ":<:the_hell:711759095526588497>:",
+            "<:the_hell:711759095526588497>",
             ":d1:"
           ],
           "location": "hell.png",
@@ -16108,7 +16108,7 @@
         {
           "name": "enddim",
           "strings": [
-            ":<:the_end:711759096566513745>:",
+            "<:the_end:711759096566513745>",
             ":d2:"
           ],
           "location": "end.png",
@@ -16117,7 +16117,7 @@
         {
           "name": "ultradim",
           "strings": [
-            ":<:ultra:711759097908953150>:",
+            "<:ultra:711759097908953150>",
             ":d3:"
           ],
           "location": "wormhole.png",
@@ -16126,7 +16126,7 @@
         {
           "name": "jailed",
           "strings": [
-            ":<:jailed:711819504702849097>:",
+            "<:jailed:711819504702849097>",
             ":jd:"
           ],
           "location": "jailed.png",
@@ -16434,65 +16434,10 @@
           "name": "neutral",
           "strings": [
             ":neutral:",
-            ":|:",
-            ":|:",
             ":пофиг:"
           ],
           "location": "neutral.png",
           "surrogates": "emoji-id-160"
-        },
-        {
-          "name": "joy",
-          "strings": [
-            ":D:",
-            ":Д:",
-            ":аха:",
-            ":ахах:",
-            ":ахаха:",
-            ":ахахах:",
-            ":хах:",
-            ":хаха:",
-            ":хахах:",
-            ":хахаха:",
-            ":хех:",
-            ":хехе:",
-            ":хехех:",
-            ":хехехе:",
-            ":хых:",
-            ":аза:",
-            ":азаз:",
-            ":азаза:",
-            ":азазаз:",
-            ":смех:",
-            ":смешно:"
-          ],
-          "location": "joy.png",
-          "surrogates": "emoji-id-161"
-        },
-        {
-          "name": "Oo",
-          "strings": [
-            ":Oo:",
-            ":Oo:",
-            ":D:"
-          ],
-          "location": "oo.png",
-          "surrogates": "emoji-id-162"
-        },
-        {
-          "name": "shocked",
-          "strings": [
-            ":shocked:",
-            ":O:",
-            ":O:",
-            ":ого:",
-            ":огоо:",
-            ":огооо:",
-            ":О:",
-            ":О:"
-          ],
-          "location": "shocked.png",
-          "surrogates": "emoji-id-163"
         },
         {
           "name": "dunno",
@@ -16578,7 +16523,7 @@
           "surrogates": "emoji-id-172"
         },
         {
-          "name": "sunglasses",
+          "name": "sunglasses2",
           "strings": [
             ":sunglasses2:",
             ":круто:"
@@ -16603,7 +16548,7 @@
           "surrogates": "emoji-id-175"
         },
         {
-          "name": "facepalm",
+          "name": "facepalm2",
           "strings": [
             ":facepalm2:",
             ":фейспалм:"
@@ -17110,11 +17055,8 @@
         {
           "name": "misc1",
           "strings": [
-            ":«:",
-            ":«[:",
-            ":«&a[:",
-            ":«§a[:",
-            ":о[:"
+            "«",
+            "«["
           ],
           "location": "misc1.png",
           "surrogates": "emoji-id-235"
@@ -17122,15 +17064,8 @@
         {
           "name": "misc2",
           "strings": [
-            ":»:",
-            ":]»:",
-            ":&a]»:",
-            ":&a]&r»:",
-            ":&a]&f»:",
-            ":§a]»:",
-            ":§a]§r»:",
-            ":§a]§f»:",
-            ":]п:"
+            "»",
+            "]»"
           ],
           "location": "misc2.png",
           "surrogates": "emoji-id-236"
@@ -17395,9 +17330,9 @@
       "location": "https://raw.githubusercontent.com/TeamPixelmonPRO/Emojiful/master/assets/hands/",
       "emojis": [
         {
-          "name": "ok_hand",
+          "name": "ok_hand2",
           "strings": [
-            ":ok_hand:",
+            ":ok_hand2:",
             ":ок:",
             ":окей:"
           ],
@@ -17543,7 +17478,7 @@
           "surrogates": "emoji-id-286"
         },
         {
-          "name": "question",
+          "name": "question2",
           "strings": [
             ":question2:",
             ":вопрос:"
@@ -17552,7 +17487,7 @@
           "surrogates": "emoji-id-287"
         },
         {
-          "name": 100,
+          "name": "100_2",
           "strings": [
             ":100_2:"
           ],
@@ -17564,7 +17499,7 @@
           "strings": [
             ":mute:",
             ":mt:",
-            ":<:muted:711818446739996775>:",
+            "<:muted:711818446739996775>",
             ":мут:"
           ],
           "location": "mute.png",
@@ -17607,7 +17542,7 @@
             ":grimoire:",
             ":grimoireofgaia:"
           ],
-          "location": "assets/nero/grimoire.png",
+          "location": "grimoire.png",
           "surrogates": "emoji-id-293"
         },
         {
@@ -17616,7 +17551,7 @@
             ":ic2:",
             ":industrialcraft2:"
           ],
-          "location": "assets/nero/ic2.png",
+          "location": "ic2.png",
           "surrogates": "emoji-id-294"
         }
       ]

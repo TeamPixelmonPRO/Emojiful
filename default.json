@@ -17833,7 +17833,8 @@
           "name": "logo_kanto",
           "strings": [
             "logo_kanto",
-            "logo-kanto"
+            "logo-kanto",
+            "logokanto"
           ],
           "location": "logo_kanto.png",
           "surrogates": "emoji-id-302"
@@ -17842,7 +17843,8 @@
           "name": "logo_johto",
           "strings": [
             "logo_johto",
-            "logo-johto"
+            "logo-johto",
+            "logojohto"
           ],
           "location": "logo_johto.png",
           "surrogates": "emoji-id-303"
@@ -17851,7 +17853,8 @@
           "name": "logo_hoenn",
           "strings": [
             "logo_hoenn",
-            "logo-hoenn"
+            "logo-hoenn",
+            "logohoenn"
           ],
           "location": "logo_hoenn.png",
           "surrogates": "emoji-id-304"

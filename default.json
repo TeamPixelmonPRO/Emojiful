@@ -17148,8 +17148,7 @@
           "strings": [
             ":black:",
             ":чёрный:",
-            ":черный:",
-            ":&0:"
+            ":черный:"
           ],
           "location": "black.png",
           "surrogates": "emoji-id-256"
@@ -17160,8 +17159,7 @@
             ":dark-blue:",
             ":dark_blue:",
             ":тёмно-синий:",
-            ":темно-синий:",
-            ":&1:"
+            ":темно-синий:"
           ],
           "location": "dark_blue.png",
           "surrogates": "emoji-id-257"
@@ -17174,8 +17172,7 @@
             ":тёмно-зелёный:",
             ":тёмно-зеленый:",
             ":темно-зелёный:",
-            ":темно-зеленый:",
-            ":&2:"
+            ":темно-зеленый:"
           ],
           "location": "dark_green.png",
           "surrogates": "emoji-id-258"
@@ -17188,8 +17185,7 @@
             ":темно-сине-зеленый:",
             ":тёмно-сине-зеленый:",
             ":темно-сине-зелёный:",
-            ":тёмно-сине-зелёный:",
-            ":&3:"
+            ":тёмно-сине-зелёный:"
           ],
           "location": "dark_aqua.png",
           "surrogates": "emoji-id-259"
@@ -17200,8 +17196,7 @@
             ":dark-red:",
             ":dark_red:",
             ":темно-красный:",
-            ":тёмно-крвсный:",
-            ":&4:"
+            ":тёмно-крвсный:"
           ],
           "location": "dark_red.png",
           "surrogates": "emoji-id-260"
@@ -17212,8 +17207,7 @@
             ":dark-purple:",
             ":dark_purple:",
             ":темно-фиолетовый:",
-            ":тёмно-фиолетовый:",
-            ":&5:"
+            ":тёмно-фиолетовый:"
           ],
           "location": "dark_purple.png",
           "surrogates": "emoji-id-261"
@@ -17222,8 +17216,7 @@
           "name": "gold",
           "strings": [
             ":gold:",
-            ":золотой:",
-            ":&6:"
+            ":золотой:"
           ],
           "location": "gold.png",
           "surrogates": "emoji-id-262"
@@ -17232,8 +17225,7 @@
           "name": "gray",
           "strings": [
             ":gray:",
-            ":серый:",
-            ":&7:"
+            ":серый:"
           ],
           "location": "gray.png",
           "surrogates": "emoji-id-263"
@@ -17244,8 +17236,7 @@
             ":dark-gray:",
             ":темно-серый:",
             ":dark_gray:",
-            ":тёмно-серый:",
-            ":&8:"
+            ":тёмно-серый:"
           ],
           "location": "dark_gray.png",
           "surrogates": "emoji-id-264"
@@ -17254,8 +17245,7 @@
           "name": "blue",
           "strings": [
             ":blue:",
-            ":синий:",
-            ":&9:"
+            ":синий:"
           ],
           "location": "blue.png",
           "surrogates": "emoji-id-265"
@@ -17265,8 +17255,7 @@
           "strings": [
             ":green:",
             ":зелёный:",
-            ":зеленый:",
-            ":&a:"
+            ":зеленый:"
           ],
           "location": "green.png",
           "surrogates": "emoji-id-266"
@@ -17275,8 +17264,7 @@
           "name": "aqua",
           "strings": [
             ":aqua:",
-            ":аква:",
-            ":&b:"
+            ":аква:"
           ],
           "location": "aqua.png",
           "surrogates": "emoji-id-267"
@@ -17285,8 +17273,7 @@
           "name": "red",
           "strings": [
             ":red:",
-            ":красный:",
-            ":&c:"
+            ":красный:"
           ],
           "location": "red.png",
           "surrogates": "emoji-id-268"
@@ -17297,8 +17284,7 @@
             ":light_purple:",
             ":purple:",
             ":фиолетовый:",
-            ":светло-фиолетовый:",
-            ":&d:"
+            ":светло-фиолетовый:"
           ],
           "location": "purple.png",
           "surrogates": "emoji-id-269"
@@ -17308,8 +17294,7 @@
           "strings": [
             ":yellow:",
             ":желтый:",
-            ":жёлтый:",
-            ":&e:"
+            ":жёлтый:"
           ],
           "location": "yellow.png",
           "surrogates": "emoji-id-270"
@@ -17318,8 +17303,7 @@
           "name": "white",
           "strings": [
             ":white:",
-            ":белый:",
-            ":&f:"
+            ":белый:"
           ],
           "location": "white.png",
           "surrogates": "emoji-id-271"

@@ -17078,8 +17078,7 @@
         {
           "name": "yarm-y",
           "strings": [
-            "yarm-y",
-            "я"
+            "yarm-y"
           ],
           "location": "yarm-y.png",
           "surrogates": "emoji-id-216"
@@ -17087,8 +17086,7 @@
         {
           "name": "yarm-p",
           "strings": [
-            "yarm-p",
-            "р"
+            "yarm-p"
           ],
           "location": "yarm-p.png",
           "surrogates": "emoji-id-217"
@@ -17096,8 +17094,7 @@
         {
           "name": "yarm-m",
           "strings": [
-            "yarm-m",
-            "м"
+            "yarm-m"
           ],
           "location": "yarm-m.png",
           "surrogates": "emoji-id-218"
@@ -17105,8 +17102,7 @@
         {
           "name": "yarm-a",
           "strings": [
-            "yarm-a",
-            "а"
+            "yarm-a"
           ],
           "location": "yarm-a.png",
           "surrogates": "emoji-id-219"
@@ -17114,8 +17110,7 @@
         {
           "name": "yarm-k",
           "strings": [
-            "yarm-k",
-            "к"
+            "yarm-k"
           ],
           "location": "yarm-k.png",
           "surrogates": "emoji-id-220"
@@ -17123,8 +17118,7 @@
         {
           "name": "yarm-d",
           "strings": [
-            "yarm-d",
-            "ди"
+            "yarm-d"
           ],
           "location": "yarm-d.png",
           "surrogates": "emoji-id-221"
@@ -17132,8 +17126,7 @@
         {
           "name": "yarm-i",
           "strings": [
-            "yarm-i",
-            "и"
+            "yarm-i"
           ],
           "location": "yarm-i.png",
           "surrogates": "emoji-id-222"
@@ -17141,8 +17134,7 @@
         {
           "name": "yarm-o",
           "strings": [
-            "yarm-o",
-            "о"
+            "yarm-o"
           ],
           "location": "yarm-o.png",
           "surrogates": "emoji-id-223"
@@ -17150,8 +17142,7 @@
         {
           "name": "yarm-b",
           "strings": [
-            "yarm-b",
-            "в"
+            "yarm-b"
           ],
           "location": "yarm-b.png",
           "surrogates": "emoji-id-224"
@@ -17159,8 +17150,7 @@
         {
           "name": "yarm-h",
           "strings": [
-            "yarm-h",
-            "н"
+            "yarm-h"
           ],
           "location": "yarm-h.png",
           "surrogates": "emoji-id-225"

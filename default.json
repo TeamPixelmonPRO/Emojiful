@@ -18354,7 +18354,7 @@
         {
           "name": "yes",
           "strings": [
-            "yes",
+            "yes_2",
             "да",
             "согласен"
           ],
@@ -18364,7 +18364,7 @@
         {
           "name": "no",
           "strings": [
-            "no",
+            "no_2",
             "нет",
             "не согласен"
           ],
@@ -19059,8 +19059,8 @@
         {
           "name": "pokedollar_eugene",
           "strings": [
-            "pd",
-            "пд"
+            "pd_1",
+            "пд_1"
           ],
           "location": "pd.png",
           "surrogates": "emoji-id-420"
@@ -19811,6 +19811,283 @@
           ],
           "location": "809-melmetal.png",
           "surrogates": "emoji-id-482"
+        }
+      ]
+    },
+    {
+      "location": "https://raw.githubusercontent.com/TeamPixelmonPRO/emotions/main/discord/",
+      "emojis": [
+        {
+          "name": "brainduck",
+          "strings": [
+            "brainduck"
+          ],
+          "location": "brainduck.gif",
+          "surrogates": "emoji-id-483"
+        },
+        {
+          "name": "bulbaroll",
+          "strings": [
+            "bulbaroll"
+          ],
+          "location": "bulbaroll.gif",
+          "surrogates": "emoji-id-484"
+        },
+        {
+          "name": "charmander",
+          "strings": [
+            "charmander"
+          ],
+          "location": "charmander.gif",
+          "surrogates": "emoji-id-485"
+        },
+        {
+          "name": "coolitto",
+          "strings": [
+            "coolitto",
+            "coolditto"
+          ],
+          "location": "coolitto.gif",
+          "surrogates": "emoji-id-486"
+        },
+        {
+          "name": "dabachu",
+          "strings": [
+            "dabachu",
+            "dabpikachu",
+            "pikachudab"
+          ],
+          "location": "dabachu.gif",
+          "surrogates": "emoji-id-487"
+        },
+        {
+          "name": "gengarun",
+          "strings": [
+            "gengarun",
+            "gengarrun",
+            "rubgengar"
+          ],
+          "location": "gengarun.gif",
+          "surrogates": "emoji-id-488"
+        },
+        {
+          "name": "heyyeah",
+          "strings": [
+            "heyyeah",
+            "yeah"
+          ],
+          "location": "heyyeah.gif",
+          "surrogates": "emoji-id-489"
+        },
+        {
+          "name": "hikachu",
+          "strings": [
+            "hikachu",
+            "hipikachu",
+            "pikachuhi"
+          ],
+          "location": "hikachu.gif",
+          "surrogates": "emoji-id-490"
+        },
+        {
+          "name": "idkrowlet",
+          "strings": [
+            "idkrowlet"
+          ],
+          "location": "idkrowlet.gif",
+          "surrogates": "emoji-id-491"
+        },
+        {
+          "name": "latiaslove",
+          "strings": [
+            "latiaslove",
+            "lovelatias"
+          ],
+          "location": "latiaslove.gif",
+          "surrogates": "emoji-id-492"
+        },
+        {
+          "name": "latioslove",
+          "strings": [
+            "latioslove",
+            "lovelatios"
+          ],
+          "location": "latioslove.gif",
+          "surrogates": "emoji-id-493"
+        },
+        {
+          "name": "leafegle",
+          "strings": [
+            "leafegle"
+          ],
+          "location": "leafegle.gif",
+          "surrogates": "emoji-id-494"
+        },
+        {
+          "name": "leafeney",
+          "strings": [
+            "leafeney",
+            "leafmoney",
+            "leafeonmoney",
+            "moneyleafeon"
+          ],
+          "location": "leafeney.gif",
+          "surrogates": "emoji-id-495"
+        },
+        {
+          "name": "likes",
+          "strings": [
+            "likes",
+            "like"
+          ],
+          "location": "likes.gif",
+          "surrogates": "emoji-id-496"
+        },
+        {
+          "name": "loading",
+          "strings": [
+            "loading",
+            "load"
+          ],
+          "location": "loading.gif",
+          "surrogates": "emoji-id-497"
+        },
+        {
+          "name": "meowney",
+          "strings": [
+            "meowney",
+            "meowmoney",
+            "moneymeow"
+          ],
+          "location": "meowney.gif",
+          "surrogates": "emoji-id-498"
+        },
+        {
+          "name": "muncheat",
+          "strings": [
+            "muncheat",
+            "munchlaxeat",
+            "eatmunch",
+            "eatmunchlax"
+          ],
+          "location": "muncheat.gif",
+          "surrogates": "emoji-id-499"
+        },
+        {
+          "name": "no",
+          "strings": [
+            "no"
+          ],
+          "location": "no.gif",
+          "surrogates": "emoji-id-500"
+        },
+        {
+          "name": "yes",
+          "strings": [
+            "yes"
+          ],
+          "location": "yes.gif",
+          "surrogates": "emoji-id-501"
+        },
+        {
+          "name": "ouf",
+          "strings": [
+            "ouf"
+          ],
+          "location": "ouf.gif",
+          "surrogates": "emoji-id-501"
+        },
+        {
+          "name": "pikawink",
+          "strings": [
+            "pikawink",
+            "pikachuwink",
+            "winkpikachu"
+          ],
+          "location": "pikawink.gif",
+          "surrogates": "emoji-id-502"
+        },
+        {
+          "name": "pokedollar",
+          "strings": [
+            "pokedollar",
+            "poke-dollar",
+            "dollarpoke",
+            "pixelmondollar",
+            "pd",
+            "пд",
+            "покедоллар",
+            "пиксельмондоллар"
+          ],
+          "location": "pokedollar.gif",
+          "surrogates": "emoji-id-503"
+        },
+        {
+          "name": "roundlet",
+          "strings": [
+            "roundlet",
+            "roundroulet",
+            "rouletround"
+          ],
+          "location": "roundlet.gif",
+          "surrogates": "emoji-id-504"
+        },
+        {
+          "name": "ruby",
+          "strings": [
+            "ruby",
+            "рубин"
+          ],
+          "location": "ruby.gif",
+          "surrogates": "emoji-id-505"
+        },
+        {
+          "name": "shaydrink",
+          "strings": [
+            "shaydrink",
+            "shaymindrink",
+            "drinkshaymin"
+          ],
+          "location": "shaydrink.gif",
+          "surrogates": "emoji-id-506"
+        },
+        {
+          "name": "sylkiss",
+          "strings": [
+            "sylkiss",
+            "sylveonkiss",
+            "kisssylveon"
+          ],
+          "location": "sylkiss.gif",
+          "surrogates": "emoji-id-507"
+        },
+        {
+          "name": "sylvcry",
+          "strings": [
+            "sylvcry",
+            "sylveoncry",
+            "crysylveon"
+          ],
+          "location": "sylvcry.gif",
+          "surrogates": "emoji-id-508"
+        },
+        {
+          "name": "vulpresent",
+          "strings": [
+            "vulpresent",
+            "vulpixpresent",
+            "presentvulpix"
+          ],
+          "location": "vulpresent.gif",
+          "surrogates": "emoji-id-509"
+        },
+        {
+          "name": "yes",
+          "strings": [
+            "yes"
+          ],
+          "location": "yes.gif",
+          "surrogates": "emoji-id-510"
         }
       ]
     }

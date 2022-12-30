@@ -16491,6 +16491,7 @@
         {
           "name": "sad",
           "strings": [
+            "sad",
             "sadd"
           ],
           "location": "sad.png",
@@ -16499,6 +16500,7 @@
         {
           "name": "sadcat",
           "strings": [
+            "sadcat",
             "gwfroggydadcat",
             "sad_cat"
           ],
@@ -16508,6 +16510,7 @@
         {
           "name": "oil",
           "strings": [
+            "oil",
             "gwqlabsoilup",
             "gwoil"
           ],
@@ -16517,6 +16520,7 @@
         {
           "name": "kek",
           "strings": [
+            "kek",
             "gwqlabskek",
             "кек"
           ],
@@ -16526,6 +16530,7 @@
         {
           "name": "ban",
           "strings": [
+            "ban",
             "gwqlabsban1",
             "бан"
           ],
@@ -16535,6 +16540,7 @@
         {
           "name": "thinking",
           "strings": [
+            "thinking",
             "задумался",
             "хм",
             "хмм"
@@ -16545,6 +16551,7 @@
         {
           "name": "angry",
           "strings": [
+            "angry",
             "злой",
             "злость"
           ],
@@ -16554,6 +16561,7 @@
         {
           "name": "rage",
           "strings": [
+            "rage",
             "ярость",
             "гнев"
           ],
@@ -16563,6 +16571,7 @@
         {
           "name": "neutral",
           "strings": [
+            "neutral",
             "нейтрально",
             "пофиг"
           ],
@@ -16572,6 +16581,7 @@
         {
           "name": "dunno",
           "strings": [
+            "dunno",
             "разводитруками",
             "незнаю"
           ],
@@ -16581,6 +16591,7 @@
         {
           "name": "eyy",
           "strings": [
+            "eyy",
             "еуу"
           ],
           "location": "eyy.png",
@@ -16589,6 +16600,7 @@
         {
           "name": "smarts",
           "strings": [
+            "smarts",
             "ум"
           ],
           "location": "smarts.png",
@@ -16597,6 +16609,7 @@
         {
           "name": "thraw",
           "strings": [
+            "thraw",
             "бросать"
           ],
           "location": "thraw.png",
@@ -16605,10 +16618,10 @@
         {
           "name": "please",
           "strings": [
+            "please",
             "нупожалуйста",
             "нупж",
             "нупжж",
-            "пж",
             "пж",
             "пжж",
             "пжжж"
@@ -16619,6 +16632,7 @@
         {
           "name": "coolstory",
           "strings": [
+            "coolstory",
             "coolstorykonoplia",
             "konoplia"
           ],
@@ -16628,6 +16642,7 @@
         {
           "name": "ukdikold",
           "strings": [
+            "ukdikold",
             "ukdik"
           ],
           "location": "ukdikold.png",
@@ -16636,6 +16651,7 @@
         {
           "name": "spravedlivo",
           "strings": [
+            "spravedlivo",
             "справедливо"
           ],
           "location": "spravedlivo.png",
@@ -16644,6 +16660,7 @@
         {
           "name": "maidereasy",
           "strings": [
+            "maidereasy",
             "maider"
           ],
           "location": "maidereasy.png",
@@ -16652,6 +16669,7 @@
         {
           "name": "sunglasses2",
           "strings": [
+            "sunglasses2",
             "круто"
           ],
           "location": "sunglasses.png",
@@ -16660,6 +16678,7 @@
         {
           "name": "nespravedlivo",
           "strings": [
+            "nespravedlivo",
             "несправедливо"
           ],
           "location": "nespravedlivo.png",
@@ -16668,6 +16687,7 @@
         {
           "name": "magician",
           "strings": [
+            "magician",
             "magic_ian"
           ],
           "location": "magician.png",
@@ -16676,6 +16696,7 @@
         {
           "name": "facepalm2",
           "strings": [
+            "facepalm2",
             "фейспалм"
           ],
           "location": "facepalm.png",
@@ -16684,6 +16705,7 @@
         {
           "name": "pandaren",
           "strings": [
+            "pandaren",
             "pandex"
           ],
           "location": "pandaren.png",
@@ -16692,6 +16714,7 @@
         {
           "name": "roflaneska",
           "strings": [
+            "roflaneska",
             "rfs"
           ],
           "location": "roflaneska.png",
@@ -16700,6 +16723,7 @@
         {
           "name": "gfffl",
           "strings": [
+            "gfffl",
             "chika"
           ],
           "location": "gfffl.png",
@@ -16708,6 +16732,7 @@
         {
           "name": "gfffl2",
           "strings": [
+            "gfffl2",
             "animelike"
           ],
           "location": "gfffl2.png",
@@ -16716,6 +16741,7 @@
         {
           "name": "manioknazabiv",
           "strings": [
+            "manioknazabiv",
             "maniok",
             "ricardo"
           ],
@@ -16725,6 +16751,7 @@
         {
           "name": "mmm",
           "strings": [
+            "mmm",
             "ммм"
           ],
           "location": "mmm.png",
@@ -16733,6 +16760,7 @@
         {
           "name": "hokage",
           "strings": [
+            "hokage",
             "хокаге"
           ],
           "location": "hokage.png",
@@ -16741,6 +16769,7 @@
         {
           "name": "plovegold",
           "strings": [
+            "plovegold",
             "plove_gold"
           ],
           "location": "plovegold.png",
@@ -16749,6 +16778,7 @@
         {
           "name": "triumph",
           "strings": [
+            "triumph",
             "триумф"
           ],
           "location": "triumph.png",
@@ -16757,6 +16787,7 @@
         {
           "name": "roflanpominki",
           "strings": [
+            "roflanpominki",
             "roflan_pominki"
           ],
           "location": "roflanpominki.png",
@@ -16765,6 +16796,7 @@
         {
           "name": "pomolchi",
           "strings": [
+            "pomolchi",
             "помолчи"
           ],
           "location": "pomolchi.png",
@@ -16773,6 +16805,7 @@
         {
           "name": "ytrechka",
           "strings": [
+            "ytrechka",
             "утречка"
           ],
           "location": "ytrechka.png",
@@ -16781,6 +16814,7 @@
         {
           "name": "pravdacho",
           "strings": [
+            "pravdacho",
             "правдачо"
           ],
           "location": "pravdacho.png",
@@ -16789,6 +16823,7 @@
         {
           "name": "noanimepenguin",
           "strings": [
+            "noanimepenguin",
             "нетанимепингвин"
           ],
           "location": "NoAnimePenguin.png",
@@ -16797,6 +16832,7 @@
         {
           "name": "moyai",
           "strings": [
+            "moyai",
             "moy_ai"
           ],
           "location": "moyai.png",
@@ -16805,6 +16841,7 @@
         {
           "name": "dintrigg",
           "strings": [
+            "dintrigg",
             "din_trigg"
           ],
           "location": "DinTrigg.png",
@@ -16813,6 +16850,7 @@
         {
           "name": "smilingimp",
           "strings": [
+            "smilingimp",
             "smiling_imp"
           ],
           "location": "smilingimp.png",
@@ -16821,6 +16859,7 @@
         {
           "name": "rollingeyes",
           "strings": [
+            "rollingeyes",
             "rolling_eyes2"
           ],
           "location": "rollingeyes.png",
@@ -16829,6 +16868,7 @@
         {
           "name": "czheri",
           "strings": [
+            "czheri",
             "джерри"
           ],
           "location": "czheri.png",
@@ -16837,6 +16877,7 @@
         {
           "name": "itlico",
           "strings": [
+            "itlico",
             "илитко"
           ],
           "location": "Itlico.png",
@@ -16845,6 +16886,7 @@
         {
           "name": "SideSwipeYT",
           "strings": [
+            "SideSwipeYT",
             "side",
             "sideswipe",
             "сайд",
@@ -16857,6 +16899,7 @@
         {
           "name": "adir",
           "strings": [
+            "adir",
             "kekw",
             "adir951"
           ],
@@ -16866,6 +16909,7 @@
         {
           "name": "skifplay",
           "strings": [
+            "skifplay",
             "skif",
             "doobriy"
           ],
@@ -16875,6 +16919,7 @@
         {
           "name": "MarshallMetters",
           "strings": [
+            "MarshallMetters",
             "ml",
             "mars",
             "marshall",
@@ -16888,6 +16933,7 @@
         {
           "name": "littleduck",
           "strings": [
+            "littleduck",
             "little_duck",
             "duck2",
             "ld",
@@ -16899,6 +16945,7 @@
         {
           "name": "bekzat",
           "strings": [
+            "bekzat",
             "gull",
             "gl",
             "kanna"

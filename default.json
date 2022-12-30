@@ -15066,6 +15066,7 @@
           "location": "blobcatcaged.png",
           "surrogates": "emoji-id-1",
           "strings": [
+            "blobcatcaged",
             "blobcat1"
           ]
         },
@@ -15074,6 +15075,7 @@
           "location": "blobcatnotlike.png",
           "surrogates": "emoji-id-2",
           "strings": [
+            "blobcatnotlike",
             "blobcat2"
           ]
         },
@@ -15082,6 +15084,7 @@
           "location": "blobcatevil.png",
           "surrogates": "emoji-id-3",
           "strings": [
+            "blobcatevil",
             "blobcat3"
           ]
         },
@@ -15090,6 +15093,7 @@
           "location": "blobcatpopsicle.png",
           "surrogates": "emoji-id-4",
           "strings": [
+            "blobcatpopsicle",
             "blobcat4"
           ]
         },
@@ -15098,6 +15102,7 @@
           "location": "blobcatreeeeeee.png",
           "surrogates": "emoji-id-5",
           "strings": [
+            "blobcatreeeeeee",
             "blobcat5"
           ]
         },
@@ -15106,6 +15111,7 @@
           "location": "blobcatblep.png",
           "surrogates": "emoji-id-6",
           "strings": [
+            "blobcatblep",
             "blobcat6"
           ]
         },
@@ -15114,6 +15120,7 @@
           "location": "blobcatpinged.png",
           "surrogates": "emoji-id-7",
           "strings": [
+            "blobcatpinged",
             "blobcat7"
           ]
         },
@@ -15122,6 +15129,7 @@
           "location": "blobcat.png",
           "surrogates": "emoji-id-8",
           "strings": [
+            "blobcat",
             "blobcat8"
           ]
         },
@@ -15130,6 +15138,7 @@
           "location": "blobcatangry.png",
           "surrogates": "emoji-id-9",
           "strings": [
+            "blobcatangry",
             "blobcat9"
           ]
         },
@@ -15138,6 +15147,7 @@
           "location": "blobcataww.png",
           "surrogates": "emoji-id-10",
           "strings": [
+            "blobcataww",
             "blobcat10",
             "bcw"
           ]
@@ -15147,6 +15157,7 @@
           "location": "blobcatb1nzy.png",
           "surrogates": "emoji-id-11",
           "strings": [
+            "blobcatb1nzy",
             "blobcat11"
           ]
         },
@@ -15155,6 +15166,7 @@
           "location": "blobcatban.png",
           "surrogates": "emoji-id-12",
           "strings": [
+            "blobcatban",
             "blobcat12"
           ]
         },
@@ -15163,6 +15175,7 @@
           "location": "blobcatbolb.png",
           "surrogates": "emoji-id-13",
           "strings": [
+            "blobcatbolb",
             "blobcat13"
           ]
         },
@@ -15171,6 +15184,7 @@
           "location": "blobcatcoffee.png",
           "surrogates": "emoji-id-14",
           "strings": [
+            "blobcatcoffee",
             "blobcat14"
           ]
         },
@@ -15179,6 +15193,7 @@
           "location": "blobcatdead.png",
           "surrogates": "emoji-id-15",
           "strings": [
+            "blobcatdead",
             "blobcat15"
           ]
         },
@@ -15187,6 +15202,7 @@
           "location": "blobcatdizzy.png",
           "surrogates": "emoji-id-16",
           "strings": [
+            "blobcatdizzy",
             "blobcat16"
           ]
         },
@@ -15195,6 +15211,7 @@
           "location": "blobcatfrowning.png",
           "surrogates": "emoji-id-17",
           "strings": [
+            "blobcatfrowning",
             "blobcat17"
           ]
         },
@@ -15203,6 +15220,7 @@
           "location": "blobcatfunny.png",
           "surrogates": "emoji-id-18",
           "strings": [
+            "blobcatfunny",
             "blobcat18"
           ]
         },
@@ -15211,6 +15229,7 @@
           "location": "blobcatglare.png",
           "surrogates": "emoji-id-19",
           "strings": [
+            "blobcatglare",
             "blobcat19"
           ]
         },
@@ -15219,6 +15238,7 @@
           "location": "blobcatgoogly.png",
           "surrogates": "emoji-id-20",
           "strings": [
+            "blobcatgoogly",
             "blobcat20"
           ]
         },
@@ -15227,6 +15247,7 @@
           "location": "blobcatgun.png",
           "surrogates": "emoji-id-21",
           "strings": [
+            "blobcatgun",
             "blobcat21"
           ]
         },
@@ -15235,6 +15256,7 @@
           "location": "blobcathappy.png",
           "surrogates": "emoji-id-22",
           "strings": [
+            "blobcathappy",
             "blobcat22"
           ]
         },
@@ -15243,6 +15265,7 @@
           "location": "blobcathearteyes.png",
           "surrogates": "emoji-id-23",
           "strings": [
+            "blobcathearteyes",
             "blobcath23"
           ]
         },
@@ -15251,6 +15274,7 @@
           "location": "blobcatjoy.png",
           "surrogates": "emoji-id-24",
           "strings": [
+            "blobcatjoy",
             "blobcat24"
           ]
         },
@@ -15259,6 +15283,7 @@
           "location": "blobcatmelt.png",
           "surrogates": "emoji-id-25",
           "strings": [
+            "blobcatmelt",
             "blobcat25"
           ]
         },
@@ -15267,6 +15292,7 @@
           "location": "blobcatmlem.png",
           "surrogates": "emoji-id-26",
           "strings": [
+            "blobcatmlem",
             "blobcat26"
           ]
         },
@@ -15275,6 +15301,7 @@
           "location": "blobcatmorning.png",
           "surrogates": "emoji-id-27",
           "strings": [
+            "blobcatmorning",
             "blobcat27"
           ]
         },
@@ -15283,6 +15310,7 @@
           "location": "blobcatnauseated.png",
           "surrogates": "emoji-id-28",
           "strings": [
+            "blobcatnauseated",
             "blobcat28"
           ]
         },
@@ -15291,6 +15319,7 @@
           "location": "blobcatnerd.png",
           "surrogates": "emoji-id-29",
           "strings": [
+            "blobcatnerd",
             "blobcat29"
           ]
         },
@@ -15299,6 +15328,7 @@
           "location": "blobcatneutral.png",
           "surrogates": "emoji-id-30",
           "strings": [
+            "blobcatneutral",
             "blobcat30"
           ]
         },
@@ -15307,6 +15337,7 @@
           "location": "blobcatnight.png",
           "surrogates": "emoji-id-31",
           "strings": [
+            "blobcatnight",
             "blobcat31"
           ]
         },
@@ -15315,6 +15346,7 @@
           "location": "blobcatninja.png",
           "surrogates": "emoji-id-32",
           "strings": [
+            "blobcatninja",
             "blobcat32",
             "bcn"
           ]
@@ -15324,6 +15356,7 @@
           "location": "blobcatnomcookie.png",
           "surrogates": "emoji-id-33",
           "strings": [
+            "blobcatnomcookie",
             "blobcat33"
           ]
         },
@@ -15332,6 +15365,7 @@
           "location": "blobcatnomfish.png",
           "surrogates": "emoji-id-34",
           "strings": [
+            "blobcatnomfish",
             "blobcatn34"
           ]
         },
@@ -15340,6 +15374,7 @@
           "location": "blobcatnomouth.png",
           "surrogates": "emoji-id-35",
           "strings": [
+            "blobcatnomouth",
             "blobcat35"
           ]
         },
@@ -15348,6 +15383,7 @@
           "location": "blobcatpats.png",
           "surrogates": "emoji-id-36",
           "strings": [
+            "blobcatpats",
             "blobcat36"
           ]
         },
@@ -15356,6 +15392,7 @@
           "location": "blobcatsad.png",
           "surrogates": "emoji-id-37",
           "strings": [
+            "blobcatsad",
             "blobcat37"
           ]
         },
@@ -15364,6 +15401,7 @@
           "location": "blobcatscream.png",
           "surrogates": "emoji-id-38",
           "strings": [
+            "blobcatscream",
             "blobcat38"
           ]
         },
@@ -15372,14 +15410,16 @@
           "location": "blobcatsick.png",
           "surrogates": "emoji-id-39",
           "strings": [
+            "blobcatsick",
             "blobcat39"
           ]
         },
         {
-          "name": "blobcatthinkOwO",
+          "name": "blobcatthinkowo",
           "location": "blobcatthinkOwO.png",
           "surrogates": "emoji-id-40",
           "strings": [
+            "blobcatthinkowo",
             "blobcat40"
           ]
         },
@@ -15388,6 +15428,7 @@
           "location": "blobcatthinkingeyes.png",
           "surrogates": "emoji-id-41",
           "strings": [
+            "blobcatthinkingeyes",
             "blobcat41"
           ]
         },
@@ -15396,6 +15437,7 @@
           "location": "blobcatthinkingsmirk.png",
           "surrogates": "emoji-id-42",
           "strings": [
+            "blobcatthinkingsmirk",
             "blobcat42"
           ]
         },
@@ -15404,6 +15446,7 @@
           "location": "blobcatuwu.png",
           "surrogates": "emoji-id-43",
           "strings": [
+            "blobcatuwu",
             "blobcat43"
           ]
         },
@@ -15412,6 +15455,7 @@
           "location": "blobcatwhatsthis.png",
           "surrogates": "emoji-id-44",
           "strings": [
+            "blobcatwhatsthis",
             "blobcat44"
           ]
         },
@@ -15420,6 +15464,7 @@
           "location": "blobcatwhistle.png",
           "surrogates": "emoji-id-45",
           "strings": [
+            "blobcatwhistle",
             "blobcat45"
           ]
         },
@@ -15428,6 +15473,7 @@
           "location": "blobcatwink.png",
           "surrogates": "emoji-id-46",
           "strings": [
+            "blobcatwink",
             "blobcat46"
           ]
         },
@@ -15436,6 +15482,7 @@
           "location": "blobcatwinktongue.png",
           "surrogates": "emoji-id-47",
           "strings": [
+            "blobcatwinktongue",
             "blobcat47"
           ]
         },
@@ -15444,6 +15491,7 @@
           "location": "blobcatwolfiri.png",
           "surrogates": "emoji-id-48",
           "strings": [
+            "blobcatwolfiri",
             "blobcat48"
           ]
         },
@@ -15452,6 +15500,7 @@
           "location": "blobcoolcat.png",
           "surrogates": "emoji-id-49",
           "strings": [
+            "blobcoolcat",
             "blobcool49:"
           ]
         }
@@ -15463,6 +15512,7 @@
         {
           "name": "thonk",
           "strings": [
+            "thonk",
             "хммм"
           ],
           "location": "thonk.png",
@@ -15471,6 +15521,7 @@
         {
           "name": "thonkbutcool",
           "strings": [
+            "thonkbutcool",
             "хмммм"
           ],
           "location": "thonkbutcool.png",
@@ -15479,6 +15530,7 @@
         {
           "name": "balance",
           "strings": [
+            "balance",
             "bal",
             "деньги",
             "баланс",

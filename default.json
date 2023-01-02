@@ -6150,7 +6150,7 @@
         {
           "name": "apple",
           "strings": [
-            "apple_orig"
+            "apple"
           ],
           "location": "1f34e.png",
           "surrogates": "🍎"
@@ -17653,9 +17653,9 @@
           "surrogates": "emoji-id-285"
         },
         {
-          "name": "apple",
+          "name": "applepl",
           "strings": [
-            "apple",
+            "applepl",
             ":яблоко:"
           ],
           "location": "apple.png",

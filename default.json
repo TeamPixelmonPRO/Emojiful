@@ -6649,7 +6649,7 @@
           "surrogates": "🍵"
         },
         {
-          "name": "coffee",
+          "name": "coffee_orig",
           "strings": [
             "coffee_orig"
           ],
@@ -12428,7 +12428,7 @@
           "surrogates": "🔊"
         },
         {
-          "name": "mute",
+          "name": "mute_orig",
           "strings": [
             "mute_orig"
           ],
@@ -12436,9 +12436,9 @@
           "surrogates": "🔇"
         },
         {
-          "name": "mega",
+          "name": "mega_orig",
           "strings": [
-            "mega"
+            "mega_orig"
           ],
           "location": "1f4e3.png",
           "surrogates": "📣"

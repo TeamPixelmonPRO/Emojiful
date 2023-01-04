@@ -11891,7 +11891,7 @@
           "surrogates": "⏬"
         },
         {
-          "name": "arrow_right",
+          "name": "arrow_right_orig",
           "strings": [
             "arrow_right_orig"
           ],
@@ -11899,7 +11899,7 @@
           "surrogates": "➡"
         },
         {
-          "name": "arrow_left",
+          "name": "arrow_left_orig",
           "strings": [
             "arrow_left_orig"
           ],
@@ -16644,6 +16644,7 @@
           "name": "ukdikold",
           "strings": [
             "ukdikold",
+            "ukdik1337",
             "ukdik"
           ],
           "location": "ukdikold.png",
@@ -16662,6 +16663,7 @@
           "name": "maidereasy",
           "strings": [
             "maidereasy",
+            "maidernott",
             "maider"
           ],
           "location": "maidereasy.png",
@@ -16762,6 +16764,7 @@
           "name": "hokage",
           "strings": [
             "hokage",
+            "razy",
             ":хокаге:"
           ],
           "location": "hokage.png",
@@ -16825,6 +16828,7 @@
           "name": "noanimepenguin",
           "strings": [
             "noanimepenguin",
+            "yukilayle",
             ":нетанимепингвин:"
           ],
           "location": "NoAnimePenguin.png",
@@ -17656,6 +17660,7 @@
           "name": "applepl",
           "strings": [
             "applepl",
+            "applelore",
             ":яблоко:"
           ],
           "location": "apple.png",
@@ -17703,7 +17708,8 @@
           "name": "golisopod",
           "strings": [
             "golisopod",
-            ":голисопод:"
+            ":голисопод:",
+            "kaneic1101"
           ],
           "location": "golisopod.png",
           "surrogates": "emoji-id-291"
@@ -17863,7 +17869,8 @@
           "name": "kanto",
           "strings": [
             "kanto",
-            "[K]"
+            "[K]",
+            ":k:"
           ],
           "location": "kanto.png",
           "surrogates": "emoji-id-305"
@@ -17872,7 +17879,8 @@
           "name": "johto",
           "strings": [
             "johto",
-            "[J]"
+            "[J]",
+            ":j:"
           ],
           "location": "johto.png",
           "surrogates": "emoji-id-306"
@@ -17881,7 +17889,8 @@
           "name": "hoenn",
           "strings": [
             "hoenn",
-            "[H]"
+            "[H]",
+            ":h:"
           ],
           "location": "hoenn.png",
           "surrogates": "emoji-id-307"
@@ -17890,7 +17899,8 @@
           "name": "teron",
           "strings": [
             "teron",
-            "[T]"
+            "[T]",
+            ":t:"
           ],
           "location": "teron.png",
           "surrogates": "emoji-id-308"

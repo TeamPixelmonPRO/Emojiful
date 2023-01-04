@@ -11666,7 +11666,8 @@
         {
           "name": "zero",
           "strings": [
-            "zero"
+            "zero",
+            ":0:"
           ],
           "location": "30-20e3.png",
           "surrogates": "0⃣"
@@ -11674,7 +11675,8 @@
         {
           "name": "one",
           "strings": [
-            "one"
+            "one",
+            ":1:"
           ],
           "location": "31-20e3.png",
           "surrogates": "1⃣"
@@ -11682,7 +11684,8 @@
         {
           "name": "two",
           "strings": [
-            "two"
+            "two",
+            ":2:"
           ],
           "location": "32-20e3.png",
           "surrogates": "2⃣"
@@ -11690,7 +11693,8 @@
         {
           "name": "three",
           "strings": [
-            "three"
+            "three",
+            ":3:"
           ],
           "location": "33-20e3.png",
           "surrogates": "3⃣"
@@ -11698,7 +11702,8 @@
         {
           "name": "four",
           "strings": [
-            "four"
+            "four",
+            ":4:"
           ],
           "location": "34-20e3.png",
           "surrogates": "4⃣"
@@ -11706,7 +11711,8 @@
         {
           "name": "five",
           "strings": [
-            "five"
+            "five",
+            ":5:"
           ],
           "location": "35-20e3.png",
           "surrogates": "5⃣"
@@ -11714,7 +11720,8 @@
         {
           "name": "six",
           "strings": [
-            "six"
+            "six",
+            ":6:"
           ],
           "location": "36-20e3.png",
           "surrogates": "6⃣"
@@ -11722,7 +11729,8 @@
         {
           "name": "seven",
           "strings": [
-            "seven"
+            "seven",
+            ":7:"
           ],
           "location": "37-20e3.png",
           "surrogates": "7⃣"
@@ -11730,7 +11738,8 @@
         {
           "name": "eight",
           "strings": [
-            "eight"
+            "eight",
+            ":8:"
           ],
           "location": "38-20e3.png",
           "surrogates": "8⃣"
@@ -11738,7 +11747,8 @@
         {
           "name": "nine",
           "strings": [
-            "nine"
+            "nine",
+            ":9:"
           ],
           "location": "39-20e3.png",
           "surrogates": "9⃣"
@@ -15902,7 +15912,7 @@
         {
           "name": "pokedex10",
           "strings": [
-            "pokedex1.png",
+            "pokedex10",
             "<:pokedex10:711410224401088564>",
             "p1"
           ],

@@ -15511,7 +15511,7 @@
           "surrogates": "emoji-id-49",
           "strings": [
             "blobcoolcat",
-            "blobcool49:"
+            "blobcat49"
           ]
         }
       ]
@@ -15626,19 +15626,10 @@
           "surrogates": "emoji-id-60"
         },
         {
-          "name": "shrug",
+          "name": "shrugged",
           "strings": [
-            "shrug",
+            "shrugged",
             ":разводитруками:"
-          ],
-          "location": "shrug.png",
-          "surrogates": "emoji-id-61"
-        },
-        {
-          "name": "shrug1",
-          "strings": [
-            "shrug1",
-            ":разводитруками1:"
           ],
           "location": "shrug1.png",
           "surrogates": "emoji-id-62"
@@ -15776,7 +15767,7 @@
           "name": "smirk_2",
           "strings": [
             "smirk_2",
-            ":подмигивает_2:"
+            ":подмигивает:"
           ],
           "location": "smirk.png",
           "surrogates": "emoji-id-77"
@@ -15809,10 +15800,15 @@
           "surrogates": "emoji-id-80"
         },
         {
-          "name": "owner",
+          "name": "owner-old",
           "strings": [
+            "owner-old",
+            "owner_old",
             "owner",
-            ":создатель:"
+            "founder",
+            ":основатель:",
+            ":создатель:",
+            "a0"
           ],
           "location": "owner.png",
           "surrogates": "emoji-id-81"
@@ -15825,24 +15821,6 @@
           ],
           "location": "truedat.png",
           "surrogates": "emoji-id-82"
-        },
-        {
-          "name": "sweatsmile",
-          "strings": [
-            "sweatsmile",
-            "sweat_smile"
-          ],
-          "location": "sweat_smile.png",
-          "surrogates": "emoji-id-83"
-        },
-        {
-          "name": "cross_2",
-          "strings": [
-            "cross_2",
-            "cross2"
-          ],
-          "location": "cross.png",
-          "surrogates": "emoji-id-84"
         },
         {
           "name": "coolpoop",
@@ -15861,7 +15839,9 @@
             "umbreon_realy",
             "umbreonreally",
             "umbreonwhat",
-            "umbwhat"
+            "umbwhat",
+            ":умбра:",
+            ":умбрачто:"
           ],
           "location": "umbreonrealy.png",
           "surrogates": "emoji-id-86"
@@ -16010,51 +15990,41 @@
           "surrogates": "emoji-id-100"
         },
         {
-          "name": "premium1",
+          "name": "premium1-old",
           "strings": [
-            "premium1",
-            "<:premium1:711404425171959950>",
-            "b1"
+            "premium1-old"
           ],
           "location": "premium1.png",
           "surrogates": "emoji-id-101"
         },
         {
-          "name": "premium2",
+          "name": "premium2-old",
           "strings": [
-            "premium2",
-            "<:premium2:711404423867269180>",
-            "b2"
+            "premium2-old"
           ],
           "location": "premium2.png",
           "surrogates": "emoji-id-102"
         },
         {
-          "name": "premium3",
+          "name": "premium3-old",
           "strings": [
-            "premium3",
-            "<:premium3:711404423259095041>",
-            "b3"
+            "premium3-old"
           ],
           "location": "premium3.png",
           "surrogates": "emoji-id-103"
         },
         {
-          "name": "premium4",
+          "name": "premium4-old",
           "strings": [
-            "premium4",
-            "<:premium4:711404424874164295>",
-            "b4"
+            "premium4-old"
           ],
           "location": "premium4.png",
           "surrogates": "emoji-id-104"
         },
         {
-          "name": "premium5",
+          "name": "premium5-old",
           "strings": [
-            "premium5",
-            "<:premium5:711404425188606013>",
-            "b5"
+            "premium5-old"
           ],
           "location": "premium5.png",
           "surrogates": "emoji-id-105"
@@ -16114,6 +16084,19 @@
           "strings": [
             "beginbuilder",
             "<:beginbuilder:711430277758451804>",
+            "begin-builder",
+            "bbuilder",
+            "begin_builder",
+            "beginb",
+            "bbu",
+            ":начальныйстроитель:",
+            ":начинающийстроитель:",
+            ":младшийстроитель:",
+            ":подсобныйстроитель:",
+            ":подсобныйс:",
+            ":подсобный:",
+            ":пстроитель:",
+            ":пс:",
             "m9"
           ],
           "location": "beginbuilder.png",
@@ -16124,6 +16107,13 @@
           "strings": [
             "buildernew",
             "<:builder:711430277750194246>",
+            "builder",
+            "build",
+            "bu",
+            ":строитель:",
+            ":строи:",
+            ":строй:",
+            ":стр:",
             "m8"
           ],
           "location": "builder.png",
@@ -16133,7 +16123,25 @@
           "name": "headbuilder",
           "strings": [
             "headbuilder",
+            "head-builder",
+            "head_builder",
             "<:headbuilder:711430277087494194>",
+            "headbu",
+            "hbu",
+            "hbuilder",
+            "major-builder",
+            "major_builder",
+            "m-builder",
+            "m_builder",
+            "major-b",
+            "major_b",
+            "mbu",
+            ":старшийстроитель:",
+            ":главныйстроитель:",
+            ":гстроитель:",
+            ":главныйс:",
+            ":артихектор:",
+            ":градостроитель:",
             "m7"
           ],
           "location": "headbuilder.png",
@@ -16144,6 +16152,13 @@
           "strings": [
             "beginmentor",
             "<:beginmentor:711430277603393557>",
+            "begin-mentor",
+            "begin_mentor",
+            "menti",
+            "bment",
+            "beginm",
+            ":начальныйментор:",
+            ":менти:",
             "m6"
           ],
           "location": "beginmentor.png",
@@ -16154,6 +16169,14 @@
           "strings": [
             "mentornew",
             "<:mentor:711430278916210710>",
+            "mentor",
+            "ment",
+            ":ментор:",
+            ":ментер:",
+            ":мент:",
+            ":ментр:",
+            ":хэлпер:",
+            ":хелпер:",
             "m5"
           ],
           "location": "mentor.png",
@@ -16163,7 +16186,14 @@
           "name": "headmentor",
           "strings": [
             "headmentor",
+            "headm",
+            "hmentor",
             "<:headmentor:711430278299516988>",
+            "major-mentor",
+            "major_mentor",
+            "majorm",
+            "mment",
+            ":старшийментор:",
             "m4"
           ],
           "location": "headmentor.png",
@@ -16173,7 +16203,19 @@
           "name": "beginmoder",
           "strings": [
             "beginmoder",
+            "begin-moderator",
+            "begin_moderator",
+            "begin-moder",
+            "bmod",
+            "bmoder",
+            "beginmo",
             "<:beginmoder:711430276378656789>",
+            ":начальныймодератор:",
+            ":начальныймодер:",
+            ":младшиймодератор:",
+            ":младшиймод",
+            ":ммод",
+            ":мм:",
             "m3"
           ],
           "location": "beginmoder.png",
@@ -16184,6 +16226,13 @@
           "strings": [
             "modernew",
             "<:moder:711430278840582185>",
+            "moderator",
+            "moder",
+            "mod",
+            "md",
+            ":модератор:",
+            ":модер:",
+            ":мод:",
             "m2"
           ],
           "location": "moder.png",
@@ -16194,16 +16243,37 @@
           "strings": [
             "headmoder",
             "<:headmoder:711430278551437333>",
+            "headmoderator",
+            "head-moder",
+            "head-moderator",
+            "head_moder",
+            "head_moderator",
+            "major-moderator",
+            "major-moder",
+            "major_moderator",
+            "major_moder",
+            "mmoder",
+            "mmod",
+            "hmoder",
+            "hmod",
+            ":стмодер:",
+            ":старшиймодер:",
+            ":старшиймодератор:",
             "m1"
           ],
           "location": "headmoder.png",
           "surrogates": "emoji-id-119"
         },
         {
-          "name": "adminowner",
+          "name": "admin",
           "strings": [
             "adminowner",
             "<:admin:711404425037611058>",
+            "administrator",
+            "admin",
+            "adm",
+            ":администратор:",
+            ":админ:",
             "m0"
           ],
           "location": "admin.png",
@@ -16503,7 +16573,21 @@
           "name": "sad",
           "strings": [
             "sad",
-            "sadd"
+            "sadd",
+            ":печаль:"
+          ],
+          "location": "sad.png",
+          "surrogates": "emoji-id-152"
+        },
+        {
+          "name": "sobbed",
+          "strings": [
+            "sobbed",
+            "sob-bed",
+            "sob_bed",
+            "sobcat",
+            "sob-cat",
+            ":грусть:"
           ],
           "location": "sad.png",
           "surrogates": "emoji-id-152"
@@ -16513,7 +16597,11 @@
           "strings": [
             "sadcat",
             "gwfroggydadcat",
-            "sad_cat"
+            "sad_cat",
+            "sad-cat",
+            ":плакац:",
+            ":плачу:",
+            ":плакать:"
           ],
           "location": "sadcat.png",
           "surrogates": "emoji-id-153"
@@ -16523,7 +16611,10 @@
           "strings": [
             "oil",
             "gwqlabsoilup",
-            "gwoil"
+            "gwoil",
+            "oill",
+            ":афроамериканец:",
+            ":афро:"
           ],
           "location": "oil.png",
           "surrogates": "emoji-id-154"
@@ -16549,20 +16640,23 @@
           "surrogates": "emoji-id-156"
         },
         {
-          "name": "thinking",
+          "name": "dedthinking",
           "strings": [
-            "thinking",
+            "dedthinking",
             ":задумался:",
             ":хм:",
-            ":хмм:"
+            ":хмм:",
+            ":дед:",
+            ":дединсайд:",
+            ":дедпейтаблетки:"
           ],
           "location": "thinking.png",
           "surrogates": "emoji-id-157"
         },
         {
-          "name": "angry",
+          "name": "angrrry",
           "strings": [
-            "angry",
+            "angrrry",
             ":злой:",
             ":злость:"
           ],
@@ -16570,9 +16664,9 @@
           "surrogates": "emoji-id-158"
         },
         {
-          "name": "rage",
+          "name": "rrrage",
           "strings": [
-            "rage",
+            "rrrage",
             ":ярость:",
             ":гнев:"
           ],
@@ -16621,7 +16715,8 @@
           "name": "thraw",
           "strings": [
             "thraw",
-            ":бросать:"
+            ":ротназамок:",
+            ":ротзакрыл:"
           ],
           "location": "thraw.png",
           "surrogates": "emoji-id-167"
@@ -16635,7 +16730,10 @@
             ":нупжж:",
             ":пж:",
             ":пжж:",
-            ":пжжж:"
+            ":пжжж:",
+            ":пжпж:",
+            ":пжпжж:",
+            ":пжпжпж:"
           ],
           "location": "please.png",
           "surrogates": "emoji-id-168"
@@ -16664,7 +16762,8 @@
           "name": "spravedlivo",
           "strings": [
             "spravedlivo",
-            ":справедливо:"
+            ":справедливо:",
+            ":спр:"
           ],
           "location": "spravedlivo.png",
           "surrogates": "emoji-id-171"
@@ -16683,7 +16782,11 @@
           "name": "sunglasses2",
           "strings": [
             "sunglasses2",
-            ":круто:"
+            ":круто:",
+            ":клева:",
+            ":клёва:",
+            ":клево:",
+            ":клёво:"
           ],
           "location": "sunglasses.png",
           "surrogates": "emoji-id-173"
@@ -16692,7 +16795,9 @@
           "name": "nespravedlivo",
           "strings": [
             "nespravedlivo",
-            ":несправедливо:"
+            ":несправедливо:",
+            ":нeспр:",
+            ":нспр:"
           ],
           "location": "nespravedlivo.png",
           "surrogates": "emoji-id-174"
@@ -16701,7 +16806,9 @@
           "name": "magician",
           "strings": [
             "magician",
-            "magic_ian"
+            "magic_ian",
+            ":фокусник:",
+            ":фокус:"
           ],
           "location": "magician.png",
           "surrogates": "emoji-id-175"
@@ -16710,7 +16817,9 @@
           "name": "facepalm2",
           "strings": [
             "facepalm2",
-            ":фейспалм:"
+            "capitanfacepalm",
+            ":фейспалм:",
+            ":фс:"
           ],
           "location": "facepalm.png",
           "surrogates": "emoji-id-176"
@@ -16784,7 +16893,9 @@
           "name": "plovegold",
           "strings": [
             "plovegold",
-            "plove_gold"
+            "plove_gold",
+            "plove-gold",
+            "pg"
           ],
           "location": "plovegold.png",
           "surrogates": "emoji-id-184"
@@ -16802,7 +16913,11 @@
           "name": "roflanpominki",
           "strings": [
             "roflanpominki",
-            "roflan_pominki"
+            "roflan_pominki",
+            "rfp",
+            ":рофлан:",
+            ":поминки:",
+            ":рофланпоминки:"
           ],
           "location": "roflanpominki.png",
           "surrogates": "emoji-id-186"
@@ -16845,10 +16960,12 @@
           "surrogates": "emoji-id-190"
         },
         {
-          "name": "moyai",
+          "name": "moyyai",
           "strings": [
-            "moyai",
-            "moy_ai"
+            "moyyai",
+            "moyyaidoge",
+            "moy_ai",
+            ":каменноелицо:"
           ],
           "location": "moyai.png",
           "surrogates": "emoji-id-191"
@@ -16866,7 +16983,8 @@
           "name": "smilingimp",
           "strings": [
             "smilingimp",
-            "smiling_imp"
+            "smiling_imp",
+            ":бес:"
           ],
           "location": "smilingimp.png",
           "surrogates": "emoji-id-193"
@@ -16875,7 +16993,11 @@
           "name": "rollingeyes",
           "strings": [
             "rollingeyes",
-            "rolling_eyes2"
+            "rolling-eyes2",
+            "rolling_eyes2",
+            "reyes",
+            ":закатываетглаза:",
+            ":глаза:"
           ],
           "location": "rollingeyes.png",
           "surrogates": "emoji-id-194"
@@ -17406,7 +17528,7 @@
             "dark-red",
             "dark_red",
             ":темно-красный:",
-            ":тёмно-крвсный:"
+            ":тёмно-красный:"
           ],
           "location": "dark_red.png",
           "surrogates": "emoji-id-260"
@@ -17525,9 +17647,9 @@
       "location": "https://raw.githubusercontent.com/TeamPixelmonPRO/Emojiful/master/assets/hands/",
       "emojis": [
         {
-          "name": "ok_hand2",
+          "name": "oks_hand",
           "strings": [
-            "ok_hand2",
+            "oks_hand",
             ":ок:",
             ":окей:"
           ],
@@ -17538,7 +17660,8 @@
           "name": "za",
           "strings": [
             "za",
-            "za-1"
+            "za-1",
+            ":согласен:"
           ],
           "location": "za.png",
           "surrogates": "emoji-id-273"
@@ -17547,7 +17670,8 @@
           "name": "protiv",
           "strings": [
             "protiv",
-            "protiv-1"
+            "protiv-1",
+            ":несогласен:"
           ],
           "location": "protiv.png",
           "surrogates": "emoji-id-274"
@@ -17649,15 +17773,6 @@
           "surrogates": "emoji-id-283"
         },
         {
-          "name": "colend",
-          "strings": [
-            "colend",
-            "ahit"
-          ],
-          "location": "colend.png",
-          "surrogates": "emoji-id-284"
-        },
-        {
           "name": "fviros",
           "strings": [
             "fviros",
@@ -17667,16 +17782,6 @@
           "surrogates": "emoji-id-285"
         },
         {
-          "name": "applepl",
-          "strings": [
-            "applepl",
-            "applelore",
-            ":яблоко:"
-          ],
-          "location": "apple.png",
-          "surrogates": "emoji-id-286"
-        },
-        {
           "name": "question2",
           "strings": [
             "question2",
@@ -17684,15 +17789,6 @@
           ],
           "location": "question.png",
           "surrogates": "emoji-id-287"
-        },
-        {
-          "name": "100_2",
-          "strings": [
-            "100_2",
-            ":сто:"
-          ],
-          "location": "100.png",
-          "surrogates": "emoji-id-288"
         },
         {
           "name": "mute",
@@ -17799,7 +17895,9 @@
           "strings": [
             "pixelmon",
             "pix",
-            ":пиксельмон:"
+            ":пиксельмон:",
+            ":пиксель:",
+            ":пикс:"
           ],
           "location": "pixelmon.png",
           "surrogates": "emoji-id-298"
@@ -17916,34 +18014,25 @@
           "surrogates": "emoji-id-308"
         },
         {
-          "name": "begin-builder",
+          "name": "begin-builder-old",
           "strings": [
-            "begin-builder",
-            "begin_builder",
-            "bbu",
-            ":начальныйстроитель:"
+            "begin-builder-old"
           ],
           "location": "begin-builder.png",
           "surrogates": "emoji-id-309"
         },
         {
-          "name": "builder",
+          "name": "builder-old",
           "strings": [
-            "builder",
-            "bu",
-            ":строитель:",
-            ":артихектор:"
+            "builder-old"
           ],
           "location": "builder.png",
           "surrogates": "emoji-id-310"
         },
         {
-          "name": "major-builder",
+          "name": "major-builder-old",
           "strings": [
-            "major-builder",
-            "major_builder",
-            "mbu",
-            ":старшийстроитель:"
+            "major-builder-old"
           ],
           "location": "major-builder.png",
           "surrogates": "emoji-id-311"
@@ -17962,7 +18051,8 @@
           "strings": [
             "discord",
             "dc",
-            ":дискорд:"
+            ":дискорд:",
+            ":дс:"
           ],
           "location": "discord.png",
           "surrogates": "emoji-id-313"
@@ -18033,6 +18123,7 @@
           "name": "lk",
           "strings": [
             "lk",
+            ":личныйкабинет:",
             ":лк:"
           ],
           "location": "lk.png",
@@ -18051,9 +18142,16 @@
           "name": "premium-1",
           "strings": [
             "premium-1",
+            "premium_1",
+            "premium1",
             "prem-1",
+            "prem_1",
             "prem1",
-            "pr1"
+            "pr1",
+            "b1",
+            ":премиум1:",
+            ":пропуск1:",
+            ":пп1:"
           ],
           "location": "premium-1.png",
           "surrogates": "emoji-id-321"
@@ -18062,9 +18160,14 @@
           "name": "premium-2",
           "strings": [
             "premium-2",
+            "premium2",
+            "b2",
             "prem-2",
             "prem2",
-            "pr2"
+            "pr2",
+            ":премиум2:",
+            ":пропуск2:",
+            ":пп2:"
           ],
           "location": "premium-2.png",
           "surrogates": "emoji-id-322"
@@ -18073,9 +18176,14 @@
           "name": "premium-3",
           "strings": [
             "premium-3",
+            "premium3",
+            "b3",
             "prem-3",
             "prem3",
-            "pr3"
+            "pr3",
+            ":премиум3:",
+            ":пропуск3:",
+            ":пп3:"
           ],
           "location": "premium-3.png",
           "surrogates": "emoji-id-323"
@@ -18084,9 +18192,14 @@
           "name": "premium-4",
           "strings": [
             "premium-4",
+            "premium4",
+            "b4",
             "prem-4",
             "prem4",
-            "pr4"
+            "pr4",
+            ":премиум4:",
+            ":пропуск4:",
+            ":пп4:"
           ],
           "location": "premium-4.png",
           "surrogates": "emoji-id-324"
@@ -18095,9 +18208,14 @@
           "name": "premium-5",
           "strings": [
             "premium-5",
+            "premium5",
+            "b5",
             "prem-5",
             "prem5",
-            "pr5"
+            "pr5",
+            ":премиум5:",
+            ":пропуск5:",
+            ":пп5:"
           ],
           "location": "premium-5.png",
           "surrogates": "emoji-id-325"
@@ -18114,76 +18232,49 @@
           "surrogates": "emoji-id-326"
         },
         {
-          "name": "begin-mentor",
+          "name": "begin-mentor-old",
           "strings": [
-            "begin-mentor",
-            "begin_mentor",
-            "bment",
-            ":начальныйментор:"
+            "begin-mentor-old"
           ],
           "location": "begin-mentor.png",
           "surrogates": "emoji-id-327"
         },
         {
-          "name": "mentor",
+          "name": "mentor-old",
           "strings": [
-            "mentor",
-            "ment",
-            ":ментор:",
-            ":мент:",
-            ":ментр:",
-            ":хэлпер:",
-            ":хелпер:"
+            "mentor-old"
           ],
           "location": "mentor.png",
           "surrogates": "emoji-id-328"
         },
         {
-          "name": "major-mentor",
+          "name": "major-mentor-old",
           "strings": [
-            "major-mentor",
-            "major_mentor",
-            "mment",
-            ":старшийментор:"
+            "major-mentor-old"
           ],
           "location": "major-mentor.png",
           "surrogates": "emoji-id-329"
         },
         {
-          "name": "begin-moderator",
+          "name": "begin-moderator-old",
           "strings": [
-            "begin-moderator",
-            "begin_moderator",
-            ":начальныймодер:",
-            "begin-moder",
-            "bmod",
-            ":начальныймодератор:"
+            "begin-moderator-old"
           ],
           "location": "begin-moderator.png",
           "surrogates": "emoji-id-330"
         },
         {
-          "name": "moderator",
+          "name": "moderator-old",
           "strings": [
-            "moderator",
-            "mod",
-            "md",
-            ":модер:",
-            "moder",
-            ":мод:",
-            ":модератор:"
+            "moderator-old"
           ],
           "location": "moderator.png",
           "surrogates": "emoji-id-331"
         },
         {
-          "name": "major-moderator",
+          "name": "major-moderator-old",
           "strings": [
-            "major-moderator",
-            ":старшиймодер:",
-            "major-moder",
-            "mmod",
-            ":старшиймодератор:"
+            "major-moderator-old"
           ],
           "location": "major-moderator.png",
           "surrogates": "emoji-id-332"
@@ -18420,8 +18511,7 @@
           "name": "yes_2",
           "strings": [
             "yes_2",
-            ":да2:",
-            ":согласен:"
+            ":да2:"
           ],
           "location": "yes.png",
           "surrogates": "emoji-id-357"
@@ -18430,8 +18520,7 @@
           "name": "no_2",
           "strings": [
             "no_2",
-            ":нет2:",
-            ":несогласен:"
+            ":нет2:"
           ],
           "location": "no.png",
           "surrogates": "emoji-id-358"
@@ -18449,6 +18538,7 @@
           "name": "warning",
           "strings": [
             "warning",
+            "warnings",
             ":предупреждение:",
             "warn",
             "failed"

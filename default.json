@@ -16901,9 +16901,9 @@
           "surrogates": "emoji-id-184"
         },
         {
-          "name": "triumph",
+          "name": "triumph-mask",
           "strings": [
-            "triumph",
+            "triumph-mask",
             ":триумф:"
           ],
           "location": "triumph.png",

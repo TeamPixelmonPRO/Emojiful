@@ -16589,7 +16589,7 @@
             "sob-cat",
             ":грусть:"
           ],
-          "location": "sad.png",
+          "location": "sob.png",
           "surrogates": "emoji-id-152"
         },
         {
@@ -16624,7 +16624,7 @@
           "strings": [
             "kek",
             "gwqlabskek",
-            "кек"
+            ":кек:"
           ],
           "location": "kek.png",
           "surrogates": "emoji-id-155"

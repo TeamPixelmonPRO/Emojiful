@@ -406,6 +406,7 @@
 - name: cupeevee
   strings:
     - ":cupeevee:"
+    - ":cpv:"
   location: "assets/discord/cupeevee.png"
 - name: cuteleon
   strings:

@@ -425,3 +425,9 @@
     - ":kanna:"
     - ":bekzat:"
   location: "assets/faces/bekzat.png"
+- name: travel
+  strings:
+    - ":travel:"
+    - ":shadowraze:"
+    - ":swr:"
+  location: "assets/faces/travel.png"

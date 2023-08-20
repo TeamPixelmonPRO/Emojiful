@@ -16396,6 +16396,7 @@
           "name": "cupeevee",
           "strings": [
             "cupeevee",
+            "cpv",
             "cup_eevee"
           ],
           "location": "cupeevee.png",
@@ -17089,6 +17090,16 @@
           ],
           "location": "bekzat.png",
           "surrogates": "emoji-id-202"
+        },
+        {
+          "name": "travel",
+          "strings": [
+            "travel",
+            "shadowraze",
+            "swr"
+          ],
+          "location": "travel.png",
+          "surrogates": "emoji-id-511"
         }
       ]
     },

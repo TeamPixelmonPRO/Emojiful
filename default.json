@@ -17069,6 +17069,16 @@
           "surrogates": "emoji-id-200"
         },
         {
+          "name": "_Marshall_",
+          "strings": [
+            "ma",
+            "_marshall_",
+            ":марш:"
+          ],
+          "location": "mars.gif",
+          "surrogates": "emoji-id-200-new"
+        },
+        {
           "name": "littleduck",
           "strings": [
             "littleduck",

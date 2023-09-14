@@ -403,6 +403,7 @@
 - name: MarshallMetters
   strings:
     - ":ml:"
+    - ":ma:"
     - ":mars:"
     - ":marshall:"
     - ":marshallmetters:"

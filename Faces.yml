@@ -432,3 +432,10 @@
     - ":shadowraze:"
     - ":swr:"
   location: "assets/faces/travel.png"
+- name: kodmortal
+  strings:
+    - ":regidance:"
+    - ":kodmortal:"
+    - ":kod:"
+    - ":kd:"
+  location: "assets/faces/kodmortal.png"

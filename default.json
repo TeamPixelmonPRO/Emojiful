@@ -17110,6 +17110,17 @@
           ],
           "location": "travel.png",
           "surrogates": "emoji-id-511"
+        },
+        {
+          "name": "kodmortal",
+          "strings": [
+            "regidance",
+            "kod",
+            "kodmortal",
+            "kd"
+          ],
+          "location": "kodmortal.gif",
+          "surrogates": "emoji-id-512"
         }
       ]
     },

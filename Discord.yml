@@ -433,6 +433,7 @@
 - name: himew
   strings:
     - ":himew:"
+    - ":hm:"
   location: "assets/discord/himew.png"
 - name: hisire
   strings:

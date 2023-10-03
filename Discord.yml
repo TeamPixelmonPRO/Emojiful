@@ -482,4 +482,5 @@
 - name: zzznorlax
   strings:
     - ":zzznorlax:"
+    - ":sz:"
   location: "assets/discord/zzznorlax.png"

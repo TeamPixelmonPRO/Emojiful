@@ -17123,6 +17123,17 @@
           ],
           "location": "kodmortal.gif",
           "surrogates": "emoji-id-512"
+        },
+        {
+          "name": "aligarh228",
+          "strings": [
+            "aligarh228",
+            "ali",
+            "alig",
+            "garh"
+          ],
+          "location": "aligarh228.png",
+          "surrogates": "emoji-id-513"
         }
       ]
     },

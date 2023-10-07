@@ -439,3 +439,10 @@
     - ":kod:"
     - ":kd:"
   location: "assets/faces/kodmortal.png"
+- name: aligarh228
+  strings:
+    - ":aligarh228:"
+    - ":ali:"
+    - ":alig:"
+    - ":garh:"
+  location: "assets/faces/aligarh228.png"

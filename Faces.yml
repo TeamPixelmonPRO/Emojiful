@@ -446,3 +446,9 @@
     - ":alig:"
     - ":garh:"
   location: "assets/faces/aligarh228.png"
+- name: adios2019
+  strings:
+    - ":adios:"
+    - ":gj:"
+    - ":adios2019:"
+  location: "assets/faces/adios.png"

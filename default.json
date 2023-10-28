@@ -17134,6 +17134,16 @@
           ],
           "location": "aligarh228.png",
           "surrogates": "emoji-id-513"
+        },
+        {
+          "name": "adios2019",
+          "strings": [
+            "adios2019",
+            "adios",
+            "gj"
+          ],
+          "location": "adios.png",
+          "surrogates": "emoji-id-514"
         }
       ]
     },

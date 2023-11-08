@@ -441,11 +441,11 @@
   location: "assets/discord/hisire.png"
 - name: leafeney
   strings:
-    - "lf"
-    - "leafeney"
-    - "leafmoney"
-    - "leafeonmoney"
-    - "moneyleafeon"
+    - ":lf:"
+    - ":leafeney:"
+    - ":leafmoney:"
+    - ":leafeonmoney:"
+    - ":moneyleafeon:"
   location: "assets/discord/leafeney.png"
 - name: lovechu
   strings:

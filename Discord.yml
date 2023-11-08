@@ -484,3 +484,8 @@
     - ":zzznorlax:"
     - ":sz:"
   location: "assets/discord/zzznorlax.png"
+- name: leafeney
+  strings:
+    - ":leafeney:"
+    - ":lf:"
+  location: "assets/discord/leafeney.png"

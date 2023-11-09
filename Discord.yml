@@ -424,6 +424,11 @@
   strings:
     - ":genglaugh:"
   location: "assets/discord/genglaugh.png"
+- name: gengarun
+  strings:
+    = ":gr:"
+    - ":gengarun:"
+  location: "assets/discord/gengarun.png"
 - name: happevee
   strings:
     - ":happevee:"

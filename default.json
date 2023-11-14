@@ -17144,6 +17144,18 @@
           ],
           "location": "adios.png",
           "surrogates": "emoji-id-514"
+        },
+        {
+          "name": "fillory",
+          "strings": [
+            "fillory",
+            "fl",
+            "lovecat",
+            "heartcat",
+            "cutie"
+          ],
+          "location": "fillory.gif",
+          "surrogates": "emoji-id-515"
         }
       ]
     },

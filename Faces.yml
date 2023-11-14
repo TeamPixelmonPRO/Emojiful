@@ -452,3 +452,11 @@
     - ":gj:"
     - ":adios2019:"
   location: "assets/faces/adios.png"
+- name: fillory
+  strings:
+    - ":fillory:"
+    - ":fl:"
+    - ":lovecat:"
+    - ":heartcat:"
+    - ":cutie:"
+  location: "assets/faces/fillory.png"

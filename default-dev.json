@@ -15074,7 +15074,7 @@
         {
           "name": "blobcatcaged",
           "location": "blobcatcaged.png",
-          "surrogates": "น",
+          "surrogates": "1",
           "strings": [
             "blobcatcaged",
             "blobcat1"
@@ -15083,7 +15083,7 @@
         {
           "name": "blobcatnotlike",
           "location": "blobcatnotlike.png",
-          "surrogates": "a",
+          "surrogates": "2",
           "strings": [
             "blobcatnotlike",
             "blobcat2"
@@ -15092,7 +15092,7 @@
         {
           "name": "blobcatevil",
           "location": "blobcatevil.png",
-          "surrogates": "ง",
+          "surrogates": "3",
           "strings": [
             "blobcatevil",
             "blobcat3"
@@ -15101,7 +15101,7 @@
         {
           "name": "blobcatpopsicle",
           "location": "blobcatpopsicle.png",
-          "surrogates": "บ",
+          "surrogates": "4",
           "strings": [
             "blobcatpopsicle",
             "blobcat4"
@@ -15110,7 +15110,7 @@
         {
           "name": "blobcatreeeeeee",
           "location": "blobcatreeeeeee.png",
-          "surrogates": "ค",
+          "surrogates": "5",
           "strings": [
             "blobcatreeeeeee",
             "blobcat5"
@@ -15119,7 +15119,7 @@
         {
           "name": "blobcatblep",
           "location": "blobcatblep.png",
-          "surrogates": "เ",
+          "surrogates": "6",
           "strings": [
             "blobcatblep",
             "blobcat6"
@@ -15128,7 +15128,7 @@
         {
           "name": "blobcatpinged",
           "location": "blobcatpinged.png",
-          "surrogates": "r",
+          "surrogates": "7",
           "strings": [
             "blobcatpinged",
             "blobcat7"
@@ -15137,7 +15137,7 @@
         {
           "name": "blobcat",
           "location": "blobcat.png",
-          "surrogates": "ป",
+          "surrogates": "8",
           "strings": [
             "blobcat",
             "blobcat8"
@@ -15146,7 +15146,7 @@
         {
           "name": "blobcatangry",
           "location": "blobcatangry.png",
-          "surrogates": "า",
+          "surrogates": "9",
           "strings": [
             "blobcatangry",
             "blobcat9"
@@ -15155,7 +15155,7 @@
         {
           "name": "blobcataww",
           "location": "blobcataww.png",
-          "surrogates": "ม",
+          "surrogates": "10",
           "strings": [
             "blobcataww",
             "blobcat10",
@@ -15165,7 +15165,7 @@
         {
           "name": "blobcatb1nzy",
           "location": "blobcatb1nzy.png",
-          "surrogates": "e",
+          "surrogates": "11",
           "strings": [
             "blobcatb1nzy",
             "blobcat11"
@@ -15174,7 +15174,7 @@
         {
           "name": "blobcatban",
           "location": "blobcatban.png",
-          "surrogates": "อ",
+          "surrogates": "12",
           "strings": [
             "blobcatban",
             "blobcat12"
@@ -15183,7 +15183,7 @@
         {
           "name": "blobcatbolb",
           "location": "blobcatbolb.png",
-          "surrogates": "s",
+          "surrogates": "13",
           "strings": [
             "blobcatbolb",
             "blobcat13"
@@ -15192,7 +15192,7 @@
         {
           "name": "blobcatcoffee",
           "location": "blobcatcoffee.png",
-          "surrogates": "h",
+          "surrogates": "14",
           "strings": [
             "blobcatcoffee",
             "blobcat14"
@@ -15201,7 +15201,7 @@
         {
           "name": "blobcatdead",
           "location": "blobcatdead.png",
-          "surrogates": "ก",
+          "surrogates": "15",
           "strings": [
             "blobcatdead",
             "blobcat15"
@@ -15210,7 +15210,7 @@
         {
           "name": "blobcatdizzy",
           "location": "blobcatdizzy.png",
-          "surrogates": "ว",
+          "surrogates": "16",
           "strings": [
             "blobcatdizzy",
             "blobcat16"
@@ -15219,7 +15219,7 @@
         {
           "name": "blobcatfrowning",
           "location": "blobcatfrowning.png",
-          "surrogates": "t",
+          "surrogates": "17",
           "strings": [
             "blobcatfrowning",
             "blobcat17"
@@ -15228,7 +15228,7 @@
         {
           "name": "blobcatfunny",
           "location": "blobcatfunny.png",
-          "surrogates": "ต",
+          "surrogates": "18",
           "strings": [
             "blobcatfunny",
             "blobcat18"
@@ -15237,7 +15237,7 @@
         {
           "name": "blobcatglare",
           "location": "blobcatglare.png",
-          "surrogates": "ย",
+          "surrogates": "19",
           "strings": [
             "blobcatglare",
             "blobcat19"
@@ -15246,7 +15246,7 @@
         {
           "name": "blobcatgoogly",
           "location": "blobcatgoogly.png",
-          "surrogates": "แ",
+          "surrogates": "20",
           "strings": [
             "blobcatgoogly",
             "blobcat20"
@@ -15255,7 +15255,7 @@
         {
           "name": "blobcatgun",
           "location": "blobcatgun.png",
-          "surrogates": "ส",
+          "surrogates": "21",
           "strings": [
             "blobcatgun",
             "blobcat21"
@@ -15264,7 +15264,7 @@
         {
           "name": "blobcathappy",
           "location": "blobcathappy.png",
-          "surrogates": "โ",
+          "surrogates": "22",
           "strings": [
             "blobcathappy",
             "blobcat22"
@@ -15273,7 +15273,7 @@
         {
           "name": "blobcathearteyes",
           "location": "blobcathearteyes.png",
-          "surrogates": "n",
+          "surrogates": "23",
           "strings": [
             "blobcathearteyes",
             "blobcath23"
@@ -15282,7 +15282,7 @@
         {
           "name": "blobcatjoy",
           "location": "blobcatjoy.png",
-          "surrogates": "ร",
+          "surrogates": "24",
           "strings": [
             "blobcatjoy",
             "blobcat24"
@@ -15291,7 +15291,7 @@
         {
           "name": "blobcatmelt",
           "location": "blobcatmelt.png",
-          "surrogates": "ล",
+          "surrogates": "25",
           "strings": [
             "blobcatmelt",
             "blobcat25"
@@ -15300,7 +15300,7 @@
         {
           "name": "blobcatmlem",
           "location": "blobcatmlem.png",
-          "surrogates": "ไ",
+          "surrogates": "26",
           "strings": [
             "blobcatmlem",
             "blobcat26"
@@ -15309,7 +15309,7 @@
         {
           "name": "blobcatmorning",
           "location": "blobcatmorning.png",
-          "surrogates": "ท",
+          "surrogates": "27",
           "strings": [
             "blobcatmorning",
             "blobcat27"
@@ -15318,7 +15318,7 @@
         {
           "name": "blobcatnauseated",
           "location": "blobcatnauseated.png",
-          "surrogates": "-",
+          "surrogates": "28",
           "strings": [
             "blobcatnauseated",
             "blobcat28"
@@ -15327,7 +15327,7 @@
         {
           "name": "blobcatnerd",
           "location": "blobcatnerd.png",
-          "surrogates": "จ",
+          "surrogates": "29",
           "strings": [
             "blobcatnerd",
             "blobcat29"
@@ -15336,7 +15336,7 @@
         {
           "name": "blobcatneutral",
           "location": "blobcatneutral.png",
-          "surrogates": "ะ",
+          "surrogates": "30",
           "strings": [
             "blobcatneutral",
             "blobcat30"
@@ -15345,7 +15345,7 @@
         {
           "name": "blobcatnight",
           "location": "blobcatnight.png",
-          "surrogates": "ห",
+          "surrogates": "31",
           "strings": [
             "blobcatnight",
             "blobcat31"
@@ -15354,7 +15354,7 @@
         {
           "name": "blobcatninja",
           "location": "blobcatninja.png",
-          "surrogates": "ด",
+          "surrogates": "32",
           "strings": [
             "blobcatninja",
             "blobcat32",
@@ -15364,7 +15364,7 @@
         {
           "name": "blobcatnomcookie",
           "location": "blobcatnomcookie.png",
-          "surrogates": "ข",
+          "surrogates": "33",
           "strings": [
             "blobcatnomcookie",
             "blobcat33"
@@ -15373,7 +15373,7 @@
         {
           "name": "blobcatnomfish",
           "location": "blobcatnomfish.png",
-          "surrogates": "พ",
+          "surrogates": "34",
           "strings": [
             "blobcatnomfish",
             "blobcatn34"
@@ -15382,7 +15382,7 @@
         {
           "name": "blobcatnomouth",
           "location": "blobcatnomouth.png",
-          "surrogates": "o",
+          "surrogates": "35",
           "strings": [
             "blobcatnomouth",
             "blobcat35"
@@ -15391,7 +15391,7 @@
         {
           "name": "blobcatpats",
           "location": "blobcatpats.png",
-          "surrogates": "ฮ",
+          "surrogates": "36",
           "strings": [
             "blobcatpats",
             "blobcat36"
@@ -15400,7 +15400,7 @@
         {
           "name": "blobcatsad",
           "location": "blobcatsad.png",
-          "surrogates": "ณ",
+          "surrogates": "37",
           "strings": [
             "blobcatsad",
             "blobcat37"
@@ -15409,7 +15409,7 @@
         {
           "name": "blobcatscream",
           "location": "blobcatscream.png",
-          "surrogates": "l",
+          "surrogates": "38",
           "strings": [
             "blobcatscream",
             "blobcat38"
@@ -15418,7 +15418,7 @@
         {
           "name": "blobcatsick",
           "location": "blobcatsick.png",
-          "surrogates": "ใ",
+          "surrogates": "39",
           "strings": [
             "blobcatsick",
             "blobcat39"
@@ -15427,7 +15427,7 @@
         {
           "name": "blobcatthinkowo",
           "location": "blobcatthinkOwO.png",
-          "surrogates": "ๆ",
+          "surrogates": "40",
           "strings": [
             "blobcatthinkowo",
             "blobcat40"
@@ -15436,7 +15436,7 @@
         {
           "name": "blobcatthinkingeyes",
           "location": "blobcatthinkingeyes.png",
-          "surrogates": "i",
+          "surrogates": "41",
           "strings": [
             "blobcatthinkingeyes",
             "blobcat41"
@@ -15445,7 +15445,7 @@
         {
           "name": "blobcatthinkingsmirk",
           "location": "blobcatthinkingsmirk.png",
-          "surrogates": "u",
+          "surrogates": "42",
           "strings": [
             "blobcatthinkingsmirk",
             "blobcat42"
@@ -15454,7 +15454,7 @@
         {
           "name": "blobcatuwu",
           "location": "blobcatuwu.png",
-          "surrogates": "ซ",
+          "surrogates": "43",
           "strings": [
             "blobcatuwu",
             "blobcat43"
@@ -15463,7 +15463,7 @@
         {
           "name": "blobcatwhatsthis",
           "location": "blobcatwhatsthis.png",
-          "surrogates": "c",
+          "surrogates": "44",
           "strings": [
             "blobcatwhatsthis",
             "blobcat44"
@@ -15472,7 +15472,7 @@
         {
           "name": "blobcatwhistle",
           "location": "blobcatwhistle.png",
-          "surrogates": "m",
+          "surrogates": "45",
           "strings": [
             "blobcatwhistle",
             "blobcat45"
@@ -15481,7 +15481,7 @@
         {
           "name": "blobcatwink",
           "location": "blobcatwink.png",
-          "surrogates": "b",
+          "surrogates": "46",
           "strings": [
             "blobcatwink",
             "blobcat46"
@@ -15490,7 +15490,7 @@
         {
           "name": "blobcatwinktongue",
           "location": "blobcatwinktongue.png",
-          "surrogates": "d",
+          "surrogates": "47",
           "strings": [
             "blobcatwinktongue",
             "blobcat47"
@@ -15499,7 +15499,7 @@
         {
           "name": "blobcatwolfiri",
           "location": "blobcatwolfiri.png",
-          "surrogates": "p",
+          "surrogates": "48",
           "strings": [
             "blobcatwolfiri",
             "blobcat48"
@@ -15508,7 +15508,7 @@
         {
           "name": "blobcoolcat",
           "location": "blobcoolcat.png",
-          "surrogates": "!",
+          "surrogates": "49",
           "strings": [
             "blobcoolcat",
             "blobcat49"
@@ -15526,7 +15526,7 @@
             ":хммм:"
           ],
           "location": "thonk.png",
-          "surrogates": "ช"
+          "surrogates": "50"
         },
         {
           "name": "thonkbutcool",
@@ -15535,7 +15535,7 @@
             ":хмммм:"
           ],
           "location": "thonkbutcool.png",
-          "surrogates": "_"
+          "surrogates": "51"
         },
         {
           "name": "balance",
@@ -15547,7 +15547,7 @@
             ":валюта:"
           ],
           "location": "balance.png",
-          "surrogates": "ถ"
+          "surrogates": "52"
         },
         {
           "name": "lul",
@@ -15559,7 +15559,7 @@
             ":лоль:"
           ],
           "location": "lul.png",
-          "surrogates": "ธ"
+          "surrogates": "53"
         },
         {
           "name": "oof",
@@ -15568,7 +15568,7 @@
             ":уф:"
           ],
           "location": "oof.png",
-          "surrogates": "x"
+          "surrogates": "54"
         },
         {
           "name": "pogchamp",
@@ -15577,7 +15577,7 @@
             ":погчамп:"
           ],
           "location": "pogchamp.png",
-          "surrogates": "v"
+          "surrogates": "55"
         },
         {
           "name": "ruined",
@@ -15586,7 +15586,7 @@
             ":руинед:"
           ],
           "location": "ruined.png",
-          "surrogates": "ผ"
+          "surrogates": "56"
         },
         {
           "name": "okfa",
@@ -15596,7 +15596,7 @@
             ":окда:"
           ],
           "location": "okfa.png",
-          "surrogates": "ฟ"
+          "surrogates": "57"
         },
         {
           "name": "pikachu",
@@ -15605,7 +15605,7 @@
             ":пикачу:"
           ],
           "location": "pikachu.png",
-          "surrogates": "ำ"
+          "surrogates": "58"
         },
         {
           "name": "pika",
@@ -15614,7 +15614,7 @@
             ":пика:"
           ],
           "location": "pika.png",
-          "surrogates": "'"
+          "surrogates": "59"
         },
         {
           "name": "scroll",
@@ -15623,7 +15623,7 @@
             ":свиток:"
           ],
           "location": "scroll.png",
-          "surrogates": "g"
+          "surrogates": "60"
         },
         {
           "name": "shrugged",
@@ -15632,7 +15632,7 @@
             ":разводитруками:"
           ],
           "location": "shrug1.png",
-          "surrogates": "ภ"
+          "surrogates": "62"
         },
         {
           "name": "rip",
@@ -15642,7 +15642,7 @@
             ":могила:"
           ],
           "location": "rip.png",
-          "surrogates": "ไป"
+          "surrogates": "63"
         },
         {
           "name": "hs_brilliance",
@@ -15651,7 +15651,7 @@
             "hs_bri"
           ],
           "location": "hsbrilliance.png",
-          "surrogates": "มี"
+          "surrogates": "64"
         },
         {
           "name": "hs_balance",
@@ -15660,7 +15660,7 @@
             "hs_bal"
           ],
           "location": "hsbalance.png",
-          "surrogates": "ปี"
+          "surrogates": "65"
         },
         {
           "name": "hs_bravery",
@@ -15669,7 +15669,7 @@
             "hs_bra"
           ],
           "location": "hsbravery.png",
-          "surrogates": "บา"
+          "surrogates": "66"
         },
         {
           "name": "fedora",
@@ -15678,7 +15678,7 @@
             ":федора:"
           ],
           "location": "fedora.png",
-          "surrogates": "y"
+          "surrogates": "67"
         },
         {
           "name": "whip",
@@ -15687,7 +15687,7 @@
             ":кнут:"
           ],
           "location": "whip.png",
-          "surrogates": "’"
+          "surrogates": "68"
         },
         {
           "name": "heart_2",
@@ -15696,7 +15696,7 @@
             ":сердце_2:"
           ],
           "location": "heart1.png",
-          "surrogates": "j"
+          "surrogates": "69"
         },
         {
           "name": "calc",
@@ -15705,7 +15705,7 @@
             ":калк:"
           ],
           "location": "calc.png",
-          "surrogates": "ญ"
+          "surrogates": "70"
         },
         {
           "name": "coolthink",
@@ -15714,7 +15714,7 @@
             ":крутодумает:"
           ],
           "location": "coolthink.png",
-          "surrogates": "f"
+          "surrogates": "71"
         },
         {
           "name": "fishcowboy",
@@ -15723,7 +15723,7 @@
             ":фишковбой:"
           ],
           "location": "fishcowboy.png",
-          "surrogates": "w"
+          "surrogates": "72"
         },
         {
           "name": "dollar_2",
@@ -15732,7 +15732,7 @@
             "pokedollars"
           ],
           "location": "dollar_2.png",
-          "surrogates": "อง"
+          "surrogates": "73"
         },
         {
           "name": "ban_hummer",
@@ -15743,7 +15743,7 @@
             ":банхаммер:"
           ],
           "location": "ban_hummer.png",
-          "surrogates": "้า"
+          "surrogates": "74"
         },
         {
           "name": "pixeltop",
@@ -15752,7 +15752,7 @@
             ":пиксельтоп:"
           ],
           "location": "pixeltop.png",
-          "surrogates": "ือ"
+          "surrogates": "75"
         },
         {
           "name": "squirrel",
@@ -15761,7 +15761,7 @@
             ":белка:"
           ],
           "location": "squirrel.png",
-          "surrogates": "รถ"
+          "surrogates": "76"
         },
         {
           "name": "smirk_2",
@@ -15770,7 +15770,7 @@
             ":подмигивает:"
           ],
           "location": "smirk.png",
-          "surrogates": "วย"
+          "surrogates": "77"
         },
         {
           "name": "pizza_2",
@@ -15779,7 +15779,7 @@
             "pizzaz"
           ],
           "location": "pizza.png",
-          "surrogates": "มา"
+          "surrogates": "78"
         },
         {
           "name": "hee",
@@ -15788,7 +15788,7 @@
             ":хее:"
           ],
           "location": "hee.png",
-          "surrogates": "รอ"
+          "surrogates": "79"
         },
         {
           "name": "nooo",
@@ -15797,7 +15797,7 @@
             ":нееет:"
           ],
           "location": "nooo.png",
-          "surrogates": "อย"
+          "surrogates": "80"
         },
         {
           "name": "owner-old",
@@ -15811,7 +15811,7 @@
             "a0"
           ],
           "location": "owner.png",
-          "surrogates": "อก"
+          "surrogates": "81"
         },
         {
           "name": "truedat",
@@ -15820,7 +15820,7 @@
             ":труедат:"
           ],
           "location": "truedat.png",
-          "surrogates": "ตร"
+          "surrogates": "82"
         },
         {
           "name": "coolpoop",
@@ -15830,7 +15830,7 @@
             ":крутаяговняшка:"
           ],
           "location": "coolpoop.png",
-          "surrogates": "าม"
+          "surrogates": "85"
         },
         {
           "name": "umbreonrealy",
@@ -15844,7 +15844,7 @@
             ":умбрачто:"
           ],
           "location": "umbreonrealy.png",
-          "surrogates": "ทำ"
+          "surrogates": "86"
         },
         {
           "name": "twitch",
@@ -15855,7 +15855,7 @@
             ":твич:"
           ],
           "location": "twitch.png",
-          "surrogates": "พอ"
+          "surrogates": "87"
         },
         {
           "name": "neron",
@@ -15867,7 +15867,7 @@
             ":нерон:"
           ],
           "location": "neron.png",
-          "surrogates": "าง"
+          "surrogates": "88"
         },
         {
           "name": "default",
@@ -15877,7 +15877,7 @@
             "d0"
           ],
           "location": "default.png",
-          "surrogates": "มะ"
+          "surrogates": "89"
         },
         {
           "name": "pokedex1",
@@ -15887,7 +15887,7 @@
             "p0"
           ],
           "location": "pokedex1.png",
-          "surrogates": "อบ"
+          "surrogates": "90"
         },
         {
           "name": "pokedex10",
@@ -15897,7 +15897,7 @@
             "p1"
           ],
           "location": "pokedex10.png",
-          "surrogates": "นน"
+          "surrogates": "91"
         },
         {
           "name": "pokedex20",
@@ -15907,7 +15907,7 @@
             "p2"
           ],
           "location": "pokedex20.png",
-          "surrogates": "อน"
+          "surrogates": "92"
         },
         {
           "name": "pokedex30",
@@ -15917,7 +15917,7 @@
             "p3"
           ],
           "location": "pokedex30.png",
-          "surrogates": "วี"
+          "surrogates": "93"
         },
         {
           "name": "pokedex40",
@@ -15927,7 +15927,7 @@
             "p4"
           ],
           "location": "pokedex40.png",
-          "surrogates": "ห้"
+          "surrogates": "94"
         },
         {
           "name": "pokedex50",
@@ -15937,7 +15937,7 @@
             "p5"
           ],
           "location": "pokedex50.png",
-          "surrogates": "งง"
+          "surrogates": "95"
         },
         {
           "name": "pokedex60",
@@ -15947,7 +15947,7 @@
             "p6"
           ],
           "location": "pokedex60.png",
-          "surrogates": "ีน"
+          "surrogates": "96"
         },
         {
           "name": "pokedex70",
@@ -15957,7 +15957,7 @@
             "p7"
           ],
           "location": "pokedex70.png",
-          "surrogates": "he"
+          "surrogates": "97"
         },
         {
           "name": "pokedex80",
@@ -15967,7 +15967,7 @@
             "p8"
           ],
           "location": "pokedex80.png",
-          "surrogates": "พร"
+          "surrogates": "98"
         },
         {
           "name": "pokedex90",
@@ -15977,7 +15977,7 @@
             "p9"
           ],
           "location": "pokedex90.png",
-          "surrogates": "ho"
+          "surrogates": "99"
         },
         {
           "name": "pokedex100",
@@ -15987,7 +15987,7 @@
             "pm"
           ],
           "location": "pokedex100.png",
-          "surrogates": "ลง"
+          "surrogates": "100"
         },
         {
           "name": "premium1-old",
@@ -15995,7 +15995,7 @@
             "premium1-old"
           ],
           "location": "premium1.png",
-          "surrogates": "กด"
+          "surrogates": "101"
         },
         {
           "name": "premium2-old",
@@ -16003,7 +16003,7 @@
             "premium2-old"
           ],
           "location": "premium2.png",
-          "surrogates": "เอ"
+          "surrogates": "102"
         },
         {
           "name": "premium3-old",
@@ -16011,7 +16011,7 @@
             "premium3-old"
           ],
           "location": "premium3.png",
-          "surrogates": "พา"
+          "surrogates": "103"
         },
         {
           "name": "premium4-old",
@@ -16019,7 +16019,7 @@
             "premium4-old"
           ],
           "location": "premium4.png",
-          "surrogates": "บ้"
+          "surrogates": "104"
         },
         {
           "name": "premium5-old",
@@ -16027,7 +16027,7 @@
             "premium5-old"
           ],
           "location": "premium5.png",
-          "surrogates": "วอ"
+          "surrogates": "105"
         },
         {
           "name": "sd1500",
@@ -16037,7 +16037,7 @@
             "s1"
           ],
           "location": "sd1500.png",
-          "surrogates": "สน"
+          "surrogates": "106"
         },
         {
           "name": "sd1750",
@@ -16047,7 +16047,7 @@
             "s2"
           ],
           "location": "sd1750.png",
-          "surrogates": "ปล"
+          "surrogates": "107"
         },
         {
           "name": "sd2000",
@@ -16057,7 +16057,7 @@
             "s3"
           ],
           "location": "sd2000.png",
-          "surrogates": "การ"
+          "surrogates": "108"
         },
         {
           "name": "sd2250",
@@ -16067,7 +16067,7 @@
             "s4"
           ],
           "location": "sd2250.png",
-          "surrogates": "อีก"
+          "surrogates": "109"
         },
         {
           "name": "sd2500",
@@ -16077,7 +16077,7 @@
             "s5"
           ],
           "location": "sd2500.png",
-          "surrogates": "บอก"
+          "surrogates": "110"
         },
         {
           "name": "beginbuilder",
@@ -16100,7 +16100,7 @@
             "m9"
           ],
           "location": "beginbuilder.png",
-          "surrogates": "กระ"
+          "surrogates": "111"
         },
         {
           "name": "buildernew",
@@ -16117,7 +16117,7 @@
             "m8"
           ],
           "location": "builder.png",
-          "surrogates": "ㅠ"
+          "surrogates": "112"
         },
         {
           "name": "headbuilder",
@@ -16145,7 +16145,7 @@
             "m7"
           ],
           "location": "headbuilder.png",
-          "surrogates": "╱"
+          "surrogates": "113"
         },
         {
           "name": "beginmentor",
@@ -16162,7 +16162,7 @@
             "m6"
           ],
           "location": "beginmentor.png",
-          "surrogates": "k"
+          "surrogates": "114"
         },
         {
           "name": "mentornew",
@@ -16180,7 +16180,7 @@
             "m5"
           ],
           "location": "mentor.png",
-          "surrogates": "ฉ"
+          "surrogates": "115"
         },
         {
           "name": "headmentor",
@@ -16197,7 +16197,7 @@
             "m4"
           ],
           "location": "headmentor.png",
-          "surrogates": "z"
+          "surrogates": "116"
         },
         {
           "name": "beginmoder",
@@ -16219,7 +16219,7 @@
             "m3"
           ],
           "location": "beginmoder.png",
-          "surrogates": "ฏ"
+          "surrogates": "117"
         },
         {
           "name": "modernew",
@@ -16236,7 +16236,7 @@
             "m2"
           ],
           "location": "moder.png",
-          "surrogates": "ระ"
+          "surrogates": "118"
         },
         {
           "name": "headmoder",
@@ -16262,7 +16262,7 @@
             "m1"
           ],
           "location": "headmoder.png",
-          "surrogates": "ก็"
+          "surrogates": "119"
         },
         {
           "name": "admin",
@@ -16277,7 +16277,7 @@
             "m0"
           ],
           "location": "admin.png",
-          "surrogates": "ม่"
+          "surrogates": "120"
         },
         {
           "name": "helldim",
@@ -16287,7 +16287,7 @@
             "d1"
           ],
           "location": "hell.png",
-          "surrogates": "าก"
+          "surrogates": "121"
         },
         {
           "name": "enddim",
@@ -16297,7 +16297,7 @@
             "d2"
           ],
           "location": "end.png",
-          "surrogates": "จะ"
+          "surrogates": "122"
         },
         {
           "name": "ultradim",
@@ -16307,7 +16307,7 @@
             "d3"
           ],
           "location": "wormhole.png",
-          "surrogates": "ีย"
+          "surrogates": "123"
         },
         {
           "name": "jailed",
@@ -16317,7 +16317,7 @@
             "jd"
           ],
           "location": "jailed.png",
-          "surrogates": "สี"
+          "surrogates": "124"
         },
         {
           "name": "angengar",
@@ -16326,7 +16326,7 @@
             ":злойгенгар:"
           ],
           "location": "angengar.png",
-          "surrogates": "สา"
+          "surrogates": "125"
         },
         {
           "name": "angrypuff",
@@ -16335,7 +16335,7 @@
             ":злойпуфф:"
           ],
           "location": "angrypuff.png",
-          "surrogates": "่ะ"
+          "surrogates": "126"
         },
         {
           "name": "buizelaugh",
@@ -16344,7 +16344,7 @@
             "buize_laugh"
           ],
           "location": "buizelaugh.png",
-          "surrogates": "ติ"
+          "surrogates": "127"
         },
         {
           "name": "charmanderfacepalm",
@@ -16353,7 +16353,7 @@
             "charmander_facepalm"
           ],
           "location": "charmanderfacepalm.png",
-          "surrogates": "ิด"
+          "surrogates": "128"
         },
         {
           "name": "charmanderidk",
@@ -16363,7 +16363,7 @@
             "cdk"
           ],
           "location": "charmanderidk.png",
-          "surrogates": "ใน"
+          "surrogates": "129"
         },
         {
           "name": "charping",
@@ -16372,7 +16372,7 @@
             "char_ping"
           ],
           "location": "charping.png",
-          "surrogates": "ละ"
+          "surrogates": "130"
         },
         {
           "name": "cryowth",
@@ -16381,7 +16381,7 @@
             "cry_owth"
           ],
           "location": "cryowth.png",
-          "surrogates": "ไร"
+          "surrogates": "131"
         },
         {
           "name": "cryreon",
@@ -16390,7 +16390,7 @@
             "cry_reon"
           ],
           "location": "cryreon.png",
-          "surrogates": "คะ"
+          "surrogates": "132"
         },
         {
           "name": "cupeevee",
@@ -16400,7 +16400,7 @@
             "cup_eevee"
           ],
           "location": "cupeevee.png",
-          "surrogates": "ุก"
+          "surrogates": "133"
         },
         {
           "name": "cuteleon",
@@ -16409,7 +16409,7 @@
             "cut_eleon"
           ],
           "location": "cuteleon.png",
-          "surrogates": "ยว"
+          "surrogates": "134"
         },
         {
           "name": "eeveepalm",
@@ -16418,7 +16418,7 @@
             "eevee_palm"
           ],
           "location": "eeveepalm.png",
-          "surrogates": "ดู"
+          "surrogates": "135"
         },
         {
           "name": "gastlaugh",
@@ -16427,7 +16427,7 @@
             "gast_laugh"
           ],
           "location": "gastlaugh.png",
-          "surrogates": "ขอ"
+          "surrogates": "136"
         },
         {
           "name": "genglaugh",
@@ -16436,7 +16436,7 @@
             "geng_laugh"
           ],
           "location": "genglaugh.png",
-          "surrogates": "นะ"
+          "surrogates": "137"
         },
         {
           "name": "happevee",
@@ -16446,7 +16446,7 @@
             "hev"
           ],
           "location": "happevee.png",
-          "surrogates": "ผม"
+          "surrogates": "138"
         },
         {
           "name": "himew",
@@ -16456,7 +16456,7 @@
             "hi_mew"
           ],
           "location": "himew.png",
-          "surrogates": "ใจ"
+          "surrogates": "139"
         },
         {
           "name": "hisire",
@@ -16465,7 +16465,7 @@
             "hi_sire"
           ],
           "location": "hisire.png",
-          "surrogates": "ัน"
+          "surrogates": "140"
         },
         {
           "name": "lovechu",
@@ -16474,7 +16474,7 @@
             "love_chu"
           ],
           "location": "lovechu.png",
-          "surrogates": "าร"
+          "surrogates": "141"
         },
         {
           "name": "oshacool",
@@ -16483,7 +16483,7 @@
             "osha_cool"
           ],
           "location": "oshacool.png",
-          "surrogates": "ิว"
+          "surrogates": "142"
         },
         {
           "name": "pikachuuu",
@@ -16492,7 +16492,7 @@
             "pika_chuuu"
           ],
           "location": "pikachuuu.png",
-          "surrogates": "เล"
+          "surrogates": "143"
         },
         {
           "name": "psyduckwow",
@@ -16501,7 +16501,7 @@
             "psyduc_kwow"
           ],
           "location": "psyduckwow.png",
-          "surrogates": "วง"
+          "surrogates": "144"
         },
         {
           "name": "raichyeah",
@@ -16510,7 +16510,7 @@
             "raichy_eah"
           ],
           "location": "raichyeah.png",
-          "surrogates": "ึก"
+          "surrogates": "145"
         },
         {
           "name": "slowlagging",
@@ -16519,7 +16519,7 @@
             "slow_lagging"
           ],
           "location": "slowlagging.png",
-          "surrogates": "าย"
+          "surrogates": "146"
         },
         {
           "name": "snorlaxeat",
@@ -16528,7 +16528,7 @@
             "snorlax_eat"
           ],
           "location": "snorlaxeat.png",
-          "surrogates": "สิ"
+          "surrogates": "147"
         },
         {
           "name": "squirwow",
@@ -16537,7 +16537,7 @@
             "squir_wow"
           ],
           "location": "squirwow.png",
-          "surrogates": "โย"
+          "surrogates": "148"
         },
         {
           "name": "thinkle",
@@ -16546,7 +16546,7 @@
             "think_le"
           ],
           "location": "thinkle.png",
-          "surrogates": "ภา"
+          "surrogates": "149"
         },
         {
           "name": "wowduck",
@@ -16555,7 +16555,7 @@
             "wow_duck"
           ],
           "location": "wowduck.png",
-          "surrogates": "ยา"
+          "surrogates": "150"
         },
         {
           "name": "zzznorlax",
@@ -16565,7 +16565,7 @@
             "sz"
           ],
           "location": "zzznorlax.png",
-          "surrogates": "กา"
+          "surrogates": "151"
         }
       ]
     },
@@ -16580,7 +16580,7 @@
             ":печаль:"
           ],
           "location": "sad.png",
-          "surrogates": "ตะ"
+          "surrogates": "152"
         },
         {
           "name": "sobbed",
@@ -16593,7 +16593,7 @@
             ":грусть:"
           ],
           "location": "sob.png",
-          "surrogates": "็ม"
+          "surrogates": "152"
         },
         {
           "name": "sadcat",
@@ -16607,7 +16607,7 @@
             ":плакать:"
           ],
           "location": "sadcat.png",
-          "surrogates": "แบ"
+          "surrogates": "153"
         },
         {
           "name": "oil",
@@ -16620,7 +16620,7 @@
             ":афро:"
           ],
           "location": "oil.png",
-          "surrogates": "คน"
+          "surrogates": "154"
         },
         {
           "name": "kek",
@@ -16630,7 +16630,7 @@
             ":кек:"
           ],
           "location": "kek.png",
-          "surrogates": "กู"
+          "surrogates": "155"
         },
         {
           "name": "ban",
@@ -16640,7 +16640,7 @@
             ":бан:"
           ],
           "location": "ban.png",
-          "surrogates": "อิ"
+          "surrogates": "156"
         },
         {
           "name": "dedthinking",
@@ -16654,7 +16654,7 @@
             ":дедпейтаблетки:"
           ],
           "location": "thinking.png",
-          "surrogates": "อา"
+          "surrogates": "157"
         },
         {
           "name": "angrrry",
@@ -16664,7 +16664,7 @@
             ":злость:"
           ],
           "location": "angry.png",
-          "surrogates": "กก"
+          "surrogates": "158"
         },
         {
           "name": "rrrage",
@@ -16674,7 +16674,7 @@
             ":гнев:"
           ],
           "location": "rage.png",
-          "surrogates": "่อ"
+          "surrogates": "159"
         },
         {
           "name": "neutral",
@@ -16684,7 +16684,7 @@
             ":пофиг:"
           ],
           "location": "neutral.png",
-          "surrogates": "่ว"
+          "surrogates": "160"
         },
         {
           "name": "dunno",
@@ -16694,7 +16694,7 @@
             ":незнаю:"
           ],
           "location": "dunno.png",
-          "surrogates": "วก"
+          "surrogates": "164"
         },
         {
           "name": "eyy",
@@ -16703,7 +16703,7 @@
             ":еуу:"
           ],
           "location": "eyy.png",
-          "surrogates": "รึ"
+          "surrogates": "165"
         },
         {
           "name": "smarts",
@@ -16712,7 +16712,7 @@
             ":ум:"
           ],
           "location": "smarts.png",
-          "surrogates": "กุ"
+          "surrogates": "166"
         },
         {
           "name": "thraw",
@@ -16722,7 +16722,7 @@
             ":ротзакрыл:"
           ],
           "location": "thraw.png",
-          "surrogates": "ิก"
+          "surrogates": "167"
         },
         {
           "name": "please",
@@ -16739,7 +16739,7 @@
             ":пжпжпж:"
           ],
           "location": "please.png",
-          "surrogates": "ซี"
+          "surrogates": "168"
         },
         {
           "name": "coolstory",
@@ -16749,7 +16749,7 @@
             "konoplia"
           ],
           "location": "coolstory.png",
-          "surrogates": "นก"
+          "surrogates": "169"
         },
         {
           "name": "ukdikold",
@@ -16759,7 +16759,7 @@
             "ukdik"
           ],
           "location": "ukdikold.png",
-          "surrogates": "มก"
+          "surrogates": "170"
         },
         {
           "name": "spravedlivo",
@@ -16769,7 +16769,7 @@
             ":спр:"
           ],
           "location": "spravedlivo.png",
-          "surrogates": "จน"
+          "surrogates": "171"
         },
         {
           "name": "maidereasy",
@@ -16779,7 +16779,7 @@
             "maider"
           ],
           "location": "maidereasy.png",
-          "surrogates": "เย"
+          "surrogates": "172"
         },
         {
           "name": "sunglasses2",
@@ -16792,7 +16792,7 @@
             ":клёво:"
           ],
           "location": "sunglasses.png",
-          "surrogates": "ก้"
+          "surrogates": "173"
         },
         {
           "name": "nespravedlivo",
@@ -16803,7 +16803,7 @@
             ":нспр:"
           ],
           "location": "nespravedlivo.png",
-          "surrogates": "โน"
+          "surrogates": "174"
         },
         {
           "name": "magician",
@@ -16814,7 +16814,7 @@
             ":фокус:"
           ],
           "location": "magician.png",
-          "surrogates": "่น"
+          "surrogates": "175"
         },
         {
           "name": "facepalm2",
@@ -16825,7 +16825,7 @@
             ":фс:"
           ],
           "location": "facepalm.png",
-          "surrogates": "ช้"
+          "surrogates": "176"
         },
         {
           "name": "pandaren",
@@ -16834,7 +16834,7 @@
             "pandex"
           ],
           "location": "pandaren.png",
-          "surrogates": "an"
+          "surrogates": "177"
         },
         {
           "name": "roflaneska",
@@ -16843,7 +16843,7 @@
             "rfs"
           ],
           "location": "roflaneska.png",
-          "surrogates": "ยน"
+          "surrogates": "178"
         },
         {
           "name": "gfffl",
@@ -16852,7 +16852,7 @@
             "chika"
           ],
           "location": "gfffl.png",
-          "surrogates": "หา"
+          "surrogates": "179"
         },
         {
           "name": "gfffl2",
@@ -16861,7 +16861,7 @@
             "animelike"
           ],
           "location": "gfffl2.png",
-          "surrogates": "ดี"
+          "surrogates": "180"
         },
         {
           "name": "manioknazabiv",
@@ -16871,7 +16871,7 @@
             "ricardo"
           ],
           "location": "manioknazabiv.png",
-          "surrogates": "แจ"
+          "surrogates": "181"
         },
         {
           "name": "mmm",
@@ -16880,7 +16880,7 @@
             ":ммм:"
           ],
           "location": "mmm.png",
-          "surrogates": "nd"
+          "surrogates": "182"
         },
         {
           "name": "hokage",
@@ -16890,7 +16890,7 @@
             ":хокаге:"
           ],
           "location": "hokage.png",
-          "surrogates": "ยู"
+          "surrogates": "183"
         },
         {
           "name": "plovegold",
@@ -16901,7 +16901,7 @@
             "pg"
           ],
           "location": "plovegold.png",
-          "surrogates": "าท"
+          "surrogates": "184"
         },
         {
           "name": "triumph-mask",
@@ -16910,7 +16910,7 @@
             ":триумф:"
           ],
           "location": "triumph.png",
-          "surrogates": "ออ"
+          "surrogates": "185"
         },
         {
           "name": "roflanpominki",
@@ -16923,7 +16923,7 @@
             ":рофланпоминки:"
           ],
           "location": "roflanpominki.png",
-          "surrogates": "้อ"
+          "surrogates": "186"
         },
         {
           "name": "pomolchi",
@@ -16932,7 +16932,7 @@
             ":помолчи:"
           ],
           "location": "pomolchi.png",
-          "surrogates": "าอ"
+          "surrogates": "187"
         },
         {
           "name": "ytrechka",
@@ -16941,7 +16941,7 @@
             ":утречка:"
           ],
           "location": "ytrechka.png",
-          "surrogates": "ปก"
+          "surrogates": "188"
         },
         {
           "name": "pravdacho",
@@ -16950,7 +16950,7 @@
             ":правдачо:"
           ],
           "location": "pravdacho.png",
-          "surrogates": "นู"
+          "surrogates": "189"
         },
         {
           "name": "noanimepenguin",
@@ -16960,7 +16960,7 @@
             ":нетанимепингвин:"
           ],
           "location": "NoAnimePenguin.png",
-          "surrogates": "รค"
+          "surrogates": "190"
         },
         {
           "name": "moyyai",
@@ -16971,7 +16971,7 @@
             ":каменноелицо:"
           ],
           "location": "moyai.png",
-          "surrogates": "ทา"
+          "surrogates": "191"
         },
         {
           "name": "dintrigg",
@@ -16980,7 +16980,7 @@
             "din_trigg"
           ],
           "location": "DinTrigg.png",
-          "surrogates": "พล"
+          "surrogates": "192"
         },
         {
           "name": "smilingimp",
@@ -16990,7 +16990,7 @@
             ":бес:"
           ],
           "location": "smilingimp.png",
-          "surrogates": "แด"
+          "surrogates": "193"
         },
         {
           "name": "rollingeyes",
@@ -17003,7 +17003,7 @@
             ":глаза:"
           ],
           "location": "rollingeyes.png",
-          "surrogates": "รี"
+          "surrogates": "194"
         },
         {
           "name": "czheri",
@@ -17012,7 +17012,7 @@
             ":джерри:"
           ],
           "location": "czheri.png",
-          "surrogates": "วิ"
+          "surrogates": "195"
         },
         {
           "name": "itlico",
@@ -17021,7 +17021,7 @@
             ":илитко:"
           ],
           "location": "Itlico.png",
-          "surrogates": "คง"
+          "surrogates": "196"
         },
         {
           "name": "SideSwipeYT",
@@ -17034,7 +17034,7 @@
             ":сайдсвайпют:"
           ],
           "location": "side.png",
-          "surrogates": "้ว"
+          "surrogates": "197"
         },
         {
           "name": "adir",
@@ -17044,7 +17044,7 @@
             "adir951"
           ],
           "location": "adir.png",
-          "surrogates": "ีป"
+          "surrogates": "198"
         },
         {
           "name": "skifplay",
@@ -17054,7 +17054,7 @@
             "doobriy"
           ],
           "location": "skif.png",
-          "surrogates": "มค"
+          "surrogates": "199"
         },
         {
           "name": "MarshallMetters",
@@ -17068,7 +17068,7 @@
             ":марс:"
           ],
           "location": "mars.png",
-          "surrogates": "ิช"
+          "surrogates": "200"
         },
         {
           "name": "_Marshall_",
@@ -17078,7 +17078,7 @@
             ":марш:"
           ],
           "location": "mars.gif",
-          "surrogates": "emoji-id-200-new"
+          "surrogates": "200-new"
         },
         {
           "name": "littleduck",
@@ -17090,7 +17090,7 @@
             ":утка:"
           ],
           "location": "duck.png",
-          "surrogates": "ผล"
+          "surrogates": "201"
         },
         {
           "name": "bekzat",
@@ -17101,7 +17101,7 @@
             "kanna"
           ],
           "location": "bekzat.png",
-          "surrogates": "ยุ"
+          "surrogates": "202"
         },
         {
           "name": "travel",
@@ -17111,7 +17111,7 @@
             "swr"
           ],
           "location": "travel.png",
-          "surrogates": "ถา"
+          "surrogates": "511"
         },
         {
           "name": "kodmortal",
@@ -17122,7 +17122,7 @@
             "kd"
           ],
           "location": "kodmortal.gif",
-          "surrogates": "ขา"
+          "surrogates": "512"
         },
         {
           "name": "aligarh228",
@@ -17133,7 +17133,7 @@
             "garh"
           ],
           "location": "aligarh228.png",
-          "surrogates": "กิ"
+          "surrogates": "513"
         },
         {
           "name": "adios2019",
@@ -17143,7 +17143,7 @@
             "gj"
           ],
           "location": "adios.png",
-          "surrogates": "กำ"
+          "surrogates": "514"
         }
       ]
     },
@@ -17157,7 +17157,7 @@
             "k_kanto"
           ],
           "location": "k_kanto.png",
-          "surrogates": "จด"
+          "surrogates": "203"
         },
         {
           "name": "a_kanto",
@@ -17166,7 +17166,7 @@
             "a_kanto"
           ],
           "location": "a_kanto.png",
-          "surrogates": "คา"
+          "surrogates": "204"
         },
         {
           "name": "n_kanto",
@@ -17175,7 +17175,7 @@
             "n_kanto"
           ],
           "location": "n_kanto.png",
-          "surrogates": "นี"
+          "surrogates": "205"
         },
         {
           "name": "t_kanto",
@@ -17184,7 +17184,7 @@
             "t_kanto"
           ],
           "location": "t_kanto.png",
-          "surrogates": "ูด"
+          "surrogates": "206"
         },
         {
           "name": "o_kanto",
@@ -17193,7 +17193,7 @@
             "o_kanto"
           ],
           "location": "o_kanto.png",
-          "surrogates": "ดา"
+          "surrogates": "207"
         },
         {
           "name": "j_johto",
@@ -17202,7 +17202,7 @@
             "j_johto"
           ],
           "location": "j_johto.png",
-          "surrogates": "าบ"
+          "surrogates": "208"
         },
         {
           "name": "o_johto",
@@ -17211,7 +17211,7 @@
             "o_johto"
           ],
           "location": "o_johto.png",
-          "surrogates": "มส"
+          "surrogates": "209"
         },
         {
           "name": "h_johto",
@@ -17220,7 +17220,7 @@
             "h_johto"
           ],
           "location": "h_johto.png",
-          "surrogates": "มม"
+          "surrogates": "210"
         },
         {
           "name": "t_johto",
@@ -17229,7 +17229,7 @@
             "t_johto"
           ],
           "location": "t_johto.png",
-          "surrogates": "ัล"
+          "surrogates": "211"
         },
         {
           "name": "h_hoenn",
@@ -17238,7 +17238,7 @@
             "h_hoenn"
           ],
           "location": "h_hoenn.png",
-          "surrogates": "กั"
+          "surrogates": "212"
         },
         {
           "name": "o_hoenn",
@@ -17247,7 +17247,7 @@
             "o_hoenn"
           ],
           "location": "o_hoenn.png",
-          "surrogates": "หน"
+          "surrogates": "213"
         },
         {
           "name": "e_hoenn",
@@ -17256,7 +17256,7 @@
             "e_hoenn"
           ],
           "location": "e_hoenn.png",
-          "surrogates": "กล"
+          "surrogates": "214"
         },
         {
           "name": "n_hoenn",
@@ -17265,7 +17265,7 @@
             "n_hoenn"
           ],
           "location": "n_hoenn.png",
-          "surrogates": "กอ"
+          "surrogates": "215"
         },
         {
           "name": "yarm_y",
@@ -17275,7 +17275,7 @@
             ":я:"
           ],
           "location": "yarm-y.png",
-          "surrogates": "พน"
+          "surrogates": "216"
         },
         {
           "name": "yarm_p",
@@ -17285,7 +17285,7 @@
             ":р:"
           ],
           "location": "yarm-p.png",
-          "surrogates": "ยอ"
+          "surrogates": "217"
         },
         {
           "name": "yarm_m",
@@ -17295,7 +17295,7 @@
             ":м:"
           ],
           "location": "yarm-m.png",
-          "surrogates": "เพ"
+          "surrogates": "218"
         },
         {
           "name": "yarm_a",
@@ -17305,7 +17305,7 @@
             ":а:"
           ],
           "location": "yarm-a.png",
-          "surrogates": "ตล"
+          "surrogates": "219"
         },
         {
           "name": "yarm_k",
@@ -17315,7 +17315,7 @@
             ":к:"
           ],
           "location": "yarm-k.png",
-          "surrogates": "ชา"
+          "surrogates": "220"
         },
         {
           "name": "yarm_d",
@@ -17325,7 +17325,7 @@
             ":ди:"
           ],
           "location": "yarm-d.png",
-          "surrogates": "นเ"
+          "surrogates": "221"
         },
         {
           "name": "yarm_i",
@@ -17335,7 +17335,7 @@
             ":и:"
           ],
           "location": "yarm-i.png",
-          "surrogates": "กว"
+          "surrogates": "222"
         },
         {
           "name": "yarm_o",
@@ -17345,7 +17345,7 @@
             ":о:"
           ],
           "location": "yarm-o.png",
-          "surrogates": "รส"
+          "surrogates": "223"
         },
         {
           "name": "yarm_b",
@@ -17355,7 +17355,7 @@
             ":в:"
           ],
           "location": "yarm-b.png",
-          "surrogates": "คว"
+          "surrogates": "224"
         },
         {
           "name": "yarm_h",
@@ -17365,7 +17365,7 @@
             ":н:"
           ],
           "location": "yarm-h.png",
-          "surrogates": "ดด"
+          "surrogates": "225"
         },
         {
           "name": "plus",
@@ -17374,7 +17374,7 @@
             ":плюс:"
           ],
           "location": "plus.png",
-          "surrogates": "ถน"
+          "surrogates": "226"
         },
         {
           "name": "arrow_left",
@@ -17383,7 +17383,7 @@
             "arrowleft"
           ],
           "location": "arrow_left.png",
-          "surrogates": "ra"
+          "surrogates": "227"
         },
         {
           "name": "x_cord",
@@ -17392,7 +17392,7 @@
             "x-cord"
           ],
           "location": "x.png",
-          "surrogates": "ปป"
+          "surrogates": "228"
         },
         {
           "name": "y_cord",
@@ -17401,7 +17401,7 @@
             "y-cord"
           ],
           "location": "y.png",
-          "surrogates": "pr"
+          "surrogates": "229"
         },
         {
           "name": "z_cord",
@@ -17410,7 +17410,7 @@
             "z-cord"
           ],
           "location": "z.png",
-          "surrogates": "ตบ"
+          "surrogates": "230"
         },
         {
           "name": "zapad",
@@ -17419,7 +17419,7 @@
             ":запад:"
           ],
           "location": "zapad.png",
-          "surrogates": "งอ"
+          "surrogates": "231"
         },
         {
           "name": "vostoc",
@@ -17428,7 +17428,7 @@
             ":восток:"
           ],
           "location": "vostoc.png",
-          "surrogates": "ชน"
+          "surrogates": "232"
         },
         {
           "name": "sever",
@@ -17437,7 +17437,7 @@
             ":север:"
           ],
           "location": "sever.png",
-          "surrogates": "ปร"
+          "surrogates": "233"
         },
         {
           "name": "ug",
@@ -17446,7 +17446,7 @@
             ":юг:"
           ],
           "location": "ug.png",
-          "surrogates": "นี้"
+          "surrogates": "234"
         },
         {
           "name": "sunrise1",
@@ -17456,7 +17456,7 @@
             "day"
           ],
           "location": "sun.png",
-          "surrogates": "ว่า"
+          "surrogates": "237"
         },
         {
           "name": "night",
@@ -17465,7 +17465,7 @@
             ":ночь:"
           ],
           "location": "night.png",
-          "surrogates": "ที่"
+          "surrogates": "238"
         },
         {
           "name": "sunrise2",
@@ -17474,7 +17474,7 @@
             ":санрайз:"
           ],
           "location": "sunrise.png",
-          "surrogates": "ล้ว"
+          "surrogates": "239"
         },
         {
           "name": "sunset",
@@ -17483,7 +17483,7 @@
             ":сансет:"
           ],
           "location": "sunset.png",
-          "surrogates": "เลย"
+          "surrogates": "240"
         },
         {
           "name": "search",
@@ -17492,7 +17492,7 @@
             ":поиск:"
           ],
           "location": "search.png",
-          "surrogates": "เรา"
+          "surrogates": "241"
         },
         {
           "name": "pixelmonway",
@@ -17501,7 +17501,7 @@
             "pixelmon_way"
           ],
           "location": "pixelmonway.png",
-          "surrogates": "ราย"
+          "surrogates": "242"
         },
         {
           "name": "dvoetochie",
@@ -17510,7 +17510,7 @@
             ":двоеточие:"
           ],
           "location": "dvoetochie.png",
-          "surrogates": "ไม่"
+          "surrogates": "243"
         },
         {
           "name": "dev",
@@ -17519,7 +17519,7 @@
             ":разработчик:"
           ],
           "location": "dev.png",
-          "surrogates": "่อย"
+          "surrogates": "244"
         },
         {
           "name": "splash",
@@ -17528,7 +17528,7 @@
             ":слэш:"
           ],
           "location": "splash.png",
-          "surrogates": "กิน"
+          "surrogates": "245"
         },
         {
           "name": "black",
@@ -17538,7 +17538,7 @@
             ":черный:"
           ],
           "location": "black.png",
-          "surrogates": "เอา"
+          "surrogates": "256"
         },
         {
           "name": "dark-blue",
@@ -17549,7 +17549,7 @@
             ":темно-синий:"
           ],
           "location": "dark_blue.png",
-          "surrogates": "คือ"
+          "surrogates": "257"
         },
         {
           "name": "dark-green",
@@ -17562,7 +17562,7 @@
             ":темно-зеленый:"
           ],
           "location": "dark_green.png",
-          "surrogates": "มัน"
+          "surrogates": "258"
         },
         {
           "name": "dark-aqua",
@@ -17575,7 +17575,7 @@
             ":тёмно-сине-зелёный:"
           ],
           "location": "dark_aqua.png",
-          "surrogates": "คุณ"
+          "surrogates": "259"
         },
         {
           "name": "dark-red",
@@ -17586,7 +17586,7 @@
             ":тёмно-красный:"
           ],
           "location": "dark_red.png",
-          "surrogates": "ขอบ"
+          "surrogates": "260"
         },
         {
           "name": "dark-purple",
@@ -17597,7 +17597,7 @@
             ":тёмно-фиолетовый:"
           ],
           "location": "dark_purple.png",
-          "surrogates": "าคา"
+          "surrogates": "261"
         },
         {
           "name": "gold",
@@ -17606,7 +17606,7 @@
             ":золотой:"
           ],
           "location": "gold.png",
-          "surrogates": "มเค"
+          "surrogates": "262"
         },
         {
           "name": "gray",
@@ -17615,7 +17615,7 @@
             ":серый:"
           ],
           "location": "gray.png",
-          "surrogates": "สัน"
+          "surrogates": "263"
         },
         {
           "name": "dark-gray",
@@ -17626,7 +17626,7 @@
             ":тёмно-серый:"
           ],
           "location": "dark_gray.png",
-          "surrogates": "ประ"
+          "surrogates": "264"
         },
         {
           "name": "blue",
@@ -17635,7 +17635,7 @@
             ":синий:"
           ],
           "location": "blue.png",
-          "surrogates": "วัน"
+          "surrogates": "265"
         },
         {
           "name": "green",
@@ -17645,7 +17645,7 @@
             ":зеленый:"
           ],
           "location": "green.png",
-          "surrogates": "ค่า"
+          "surrogates": "266"
         },
         {
           "name": "aqua",
@@ -17654,7 +17654,7 @@
             ":аква:"
           ],
           "location": "aqua.png",
-          "surrogates": "da"
+          "surrogates": "267"
         },
         {
           "name": "red",
@@ -17663,7 +17663,7 @@
             ":красный:"
           ],
           "location": "red.png",
-          "surrogates": "แม่"
+          "surrogates": "268"
         },
         {
           "name": "light-purple",
@@ -17675,7 +17675,7 @@
             ":светло-фиолетовый:"
           ],
           "location": "purple.png",
-          "surrogates": "และ"
+          "surrogates": "269"
         },
         {
           "name": "yellow",
@@ -17685,7 +17685,7 @@
             ":жёлтый:"
           ],
           "location": "yellow.png",
-          "surrogates": "ึงเ"
+          "surrogates": "270"
         },
         {
           "name": "white",
@@ -17694,7 +17694,7 @@
             ":белый:"
           ],
           "location": "white.png",
-          "surrogates": "ยี่"
+          "surrogates": "271"
         }
       ]
     },
@@ -17709,7 +17709,7 @@
             ":окей:"
           ],
           "location": "ok_hand.png",
-          "surrogates": "้วย"
+          "surrogates": "272"
         },
         {
           "name": "za",
@@ -17719,7 +17719,7 @@
             ":согласен:"
           ],
           "location": "za.png",
-          "surrogates": "กับ"
+          "surrogates": "273"
         },
         {
           "name": "protiv",
@@ -17729,7 +17729,7 @@
             ":несогласен:"
           ],
           "location": "protiv.png",
-          "surrogates": "ด้า"
+          "surrogates": "274"
         }
       ]
     },
@@ -17746,7 +17746,7 @@
             ":птиц:"
           ],
           "location": "arti.png",
-          "surrogates": "บาท"
+          "surrogates": "275"
         },
         {
           "name": "artitop",
@@ -17756,7 +17756,7 @@
             "techbrew"
           ],
           "location": "artitop.png",
-          "surrogates": "อิน"
+          "surrogates": "276"
         },
         {
           "name": "sonic",
@@ -17767,7 +17767,7 @@
             "davkas"
           ],
           "location": "sonic.png",
-          "surrogates": "้าง"
+          "surrogates": "277"
         },
         {
           "name": "ksensei",
@@ -17777,7 +17777,7 @@
             "mysticdrew"
           ],
           "location": "ksensei.png",
-          "surrogates": "ตัว"
+          "surrogates": "278"
         },
         {
           "name": "rencraw",
@@ -17787,7 +17787,7 @@
             "eladjenkins"
           ],
           "location": "rencraw.png",
-          "surrogates": "ค่ะ"
+          "surrogates": "279"
         },
         {
           "name": "gwm",
@@ -17797,7 +17797,7 @@
             "TECH_GEEK10"
           ],
           "location": "gwm.png",
-          "surrogates": "ต์"
+          "surrogates": "280"
         },
         {
           "name": "din",
@@ -17806,7 +17806,7 @@
             "endless"
           ],
           "location": "din.png",
-          "surrogates": "ยละ"
+          "surrogates": "281"
         },
         {
           "name": "laykras",
@@ -17816,7 +17816,7 @@
             "durrani"
           ],
           "location": "laykras.png",
-          "surrogates": "ลิป"
+          "surrogates": "282"
         },
         {
           "name": "akida",
@@ -17825,7 +17825,7 @@
             "sikandar"
           ],
           "location": "akida.png",
-          "surrogates": "จัด"
+          "surrogates": "283"
         },
         {
           "name": "fviros",
@@ -17834,7 +17834,7 @@
             ":фирос:"
           ],
           "location": "fviros.png",
-          "surrogates": "ปิด"
+          "surrogates": "285"
         },
         {
           "name": "question2",
@@ -17843,7 +17843,7 @@
             ":вопрос:"
           ],
           "location": "question.png",
-          "surrogates": "ไหม"
+          "surrogates": "287"
         },
         {
           "name": "mute",
@@ -17854,7 +17854,7 @@
             ":мут:"
           ],
           "location": "mute.png",
-          "surrogates": "จาก"
+          "surrogates": "289"
         },
         {
           "name": "kick",
@@ -17863,7 +17863,7 @@
             ":кик:"
           ],
           "location": "kick.png",
-          "surrogates": "ิกา"
+          "surrogates": "290"
         },
         {
           "name": "golisopod",
@@ -17873,7 +17873,7 @@
             "kaneic1101"
           ],
           "location": "golisopod.png",
-          "surrogates": "ผิว"
+          "surrogates": "291"
         },
         {
           "name": "pizza",
@@ -17882,7 +17882,7 @@
             ":пицца:"
           ],
           "location": "pizza.png",
-          "surrogates": "ออก"
+          "surrogates": "292"
         }
       ]
     },
@@ -17896,7 +17896,7 @@
             "grimoireofgaia"
           ],
           "location": "grimoire.png",
-          "surrogates": "่าง"
+          "surrogates": "293"
         },
         {
           "name": "ic2",
@@ -17905,7 +17905,7 @@
             "industrialcraft2"
           ],
           "location": "ic2.png",
-          "surrogates": "ไหน"
+          "surrogates": "294"
         }
       ]
     },
@@ -17919,7 +17919,7 @@
             ":плохосебячувствует:"
           ],
           "location": "feelsbadman.png",
-          "surrogates": "ะนำ"
+          "surrogates": "295"
         },
         {
           "name": "monkas",
@@ -17929,7 +17929,7 @@
             ":манки:"
           ],
           "location": "monkas.png",
-          "surrogates": "สัก"
+          "surrogates": "296"
         },
         {
           "name": "monka_gun",
@@ -17938,7 +17938,7 @@
             ":манки_пистолет:"
           ],
           "location": "monka_gun.png",
-          "surrogates": "ทรู"
+          "surrogates": "297"
         }
       ]
     },
@@ -17955,7 +17955,7 @@
             ":пикс:"
           ],
           "location": "pixelmon.png",
-          "surrogates": "ค้า"
+          "surrogates": "298"
         },
         {
           "name": "pixelmonpro",
@@ -17969,7 +17969,7 @@
             ":про:"
           ],
           "location": "pixelmonpro.png",
-          "surrogates": "่าน"
+          "surrogates": "299"
         },
         {
           "name": "pixelmonprony",
@@ -17985,7 +17985,7 @@
             ":пронг:"
           ],
           "location": "pixelmonprony.png",
-          "surrogates": "มัย"
+          "surrogates": "300"
         },
         {
           "name": "pixelmonpromini",
@@ -17996,7 +17996,7 @@
             "logomini"
           ],
           "location": "pixelmonpromini.png",
-          "surrogates": "อะ"
+          "surrogates": "301"
         },
         {
           "name": "logo_kanto",
@@ -18006,7 +18006,7 @@
             "logokanto"
           ],
           "location": "logo_kanto.png",
-          "surrogates": "กัน"
+          "surrogates": "302"
         },
         {
           "name": "logo_johto",
@@ -18016,7 +18016,7 @@
             "logojohto"
           ],
           "location": "logo_johto.png",
-          "surrogates": "ty"
+          "surrogates": "303"
         },
         {
           "name": "logo_hoenn",
@@ -18026,7 +18026,7 @@
             "logohoenn"
           ],
           "location": "logo_hoenn.png",
-          "surrogates": "ปาก"
+          "surrogates": "304"
         },
         {
           "name": "kanto",
@@ -18036,7 +18036,7 @@
             ":k:"
           ],
           "location": "kanto.png",
-          "surrogates": "ตาม"
+          "surrogates": "305"
         },
         {
           "name": "johto",
@@ -18046,7 +18046,7 @@
             ":j:"
           ],
           "location": "johto.png",
-          "surrogates": "นมา"
+          "surrogates": "306"
         },
         {
           "name": "hoenn",
@@ -18056,7 +18056,7 @@
             ":h:"
           ],
           "location": "hoenn.png",
-          "surrogates": "ตรง"
+          "surrogates": "307"
         },
         {
           "name": "teron",
@@ -18066,7 +18066,7 @@
             ":t:"
           ],
           "location": "teron.png",
-          "surrogates": "ตี้"
+          "surrogates": "308"
         },
         {
           "name": "begin-builder-old",
@@ -18074,7 +18074,7 @@
             "begin-builder-old"
           ],
           "location": "begin-builder.png",
-          "surrogates": "าน"
+          "surrogates": "309"
         },
         {
           "name": "builder-old",
@@ -18082,7 +18082,7 @@
             "builder-old"
           ],
           "location": "builder.png",
-          "surrogates": "ภาย"
+          "surrogates": "310"
         },
         {
           "name": "major-builder-old",
@@ -18090,7 +18090,7 @@
             "major-builder-old"
           ],
           "location": "major-builder.png",
-          "surrogates": "กัด"
+          "surrogates": "311"
         },
         {
           "name": "config",
@@ -18099,7 +18099,7 @@
             ":настроки:"
           ],
           "location": "config.png",
-          "surrogates": "สาร"
+          "surrogates": "312"
         },
         {
           "name": "discord",
@@ -18110,7 +18110,7 @@
             ":дс:"
           ],
           "location": "discord.png",
-          "surrogates": "ถไฟ"
+          "surrogates": "313"
         },
         {
           "name": "discordpro",
@@ -18120,7 +18120,7 @@
             ":дискордпро:"
           ],
           "location": "discordpro.png",
-          "surrogates": "นนน"
+          "surrogates": "314"
         },
         {
           "name": "event",
@@ -18132,7 +18132,7 @@
             ":балагур:"
           ],
           "location": "event.png",
-          "surrogates": "ยัง"
+          "surrogates": "315"
         },
         {
           "name": "gts",
@@ -18143,7 +18143,7 @@
             ":гтс:"
           ],
           "location": "gts.png",
-          "surrogates": "าตร"
+          "surrogates": "316"
         },
         {
           "name": "hunt",
@@ -18152,7 +18152,7 @@
             ":охота:"
           ],
           "location": "hunt.png",
-          "surrogates": "ภาพ"
+          "surrogates": "317"
         },
         {
           "name": "hunt_catch",
@@ -18161,7 +18161,7 @@
             ":охота1:"
           ],
           "location": "hunt_catch.png",
-          "surrogates": "ฟรี"
+          "surrogates": "318"
         },
         {
           "name": "wormhole",
@@ -18172,7 +18172,7 @@
             ":ультра-портал:"
           ],
           "location": "wormhole.png",
-          "surrogates": "สวย"
+          "surrogates": "319"
         },
         {
           "name": "lk",
@@ -18182,7 +18182,7 @@
             ":лк:"
           ],
           "location": "lk.png",
-          "surrogates": "ด้ว"
+          "surrogates": "319"
         },
         {
           "name": "master",
@@ -18191,7 +18191,7 @@
             ":мастер:"
           ],
           "location": "master.png",
-          "surrogates": "the"
+          "surrogates": "320"
         },
         {
           "name": "premium-1",
@@ -18209,7 +18209,7 @@
             ":пп1:"
           ],
           "location": "premium-1.png",
-          "surrogates": "ร์"
+          "surrogates": "321"
         },
         {
           "name": "premium-2",
@@ -18225,7 +18225,7 @@
             ":пп2:"
           ],
           "location": "premium-2.png",
-          "surrogates": "ดาว"
+          "surrogates": "322"
         },
         {
           "name": "premium-3",
@@ -18241,7 +18241,7 @@
             ":пп3:"
           ],
           "location": "premium-3.png",
-          "surrogates": "มอง"
+          "surrogates": "323"
         },
         {
           "name": "premium-4",
@@ -18257,7 +18257,7 @@
             ":пп4:"
           ],
           "location": "premium-4.png",
-          "surrogates": "กติ"
+          "surrogates": "324"
         },
         {
           "name": "premium-5",
@@ -18273,7 +18273,7 @@
             ":пп5:"
           ],
           "location": "premium-5.png",
-          "surrogates": "ติด"
+          "surrogates": "325"
         },
         {
           "name": "town-builder",
@@ -18284,7 +18284,7 @@
             ":градостроитель:"
           ],
           "location": "town-builder.png",
-          "surrogates": "มวย"
+          "surrogates": "326"
         },
         {
           "name": "begin-mentor-old",
@@ -18292,7 +18292,7 @@
             "begin-mentor-old"
           ],
           "location": "begin-mentor.png",
-          "surrogates": "ลอง"
+          "surrogates": "327"
         },
         {
           "name": "mentor-old",
@@ -18300,7 +18300,7 @@
             "mentor-old"
           ],
           "location": "mentor.png",
-          "surrogates": "อัน"
+          "surrogates": "328"
         },
         {
           "name": "major-mentor-old",
@@ -18308,7 +18308,7 @@
             "major-mentor-old"
           ],
           "location": "major-mentor.png",
-          "surrogates": "ูแล"
+          "surrogates": "329"
         },
         {
           "name": "begin-moderator-old",
@@ -18316,7 +18316,7 @@
             "begin-moderator-old"
           ],
           "location": "begin-moderator.png",
-          "surrogates": "ทร"
+          "surrogates": "330"
         },
         {
           "name": "moderator-old",
@@ -18324,7 +18324,7 @@
             "moderator-old"
           ],
           "location": "moderator.png",
-          "surrogates": "ดี้"
+          "surrogates": "331"
         },
         {
           "name": "major-moderator-old",
@@ -18332,7 +18332,7 @@
             "major-moderator-old"
           ],
           "location": "major-moderator.png",
-          "surrogates": "ี่ย"
+          "surrogates": "332"
         },
         {
           "name": "player",
@@ -18342,7 +18342,7 @@
             ":игрок:"
           ],
           "location": "player.png",
-          "surrogates": "หาด"
+          "surrogates": "333"
         },
         {
           "name": "pokepack",
@@ -18351,7 +18351,7 @@
             ":покепак:"
           ],
           "location": "pokepack.png",
-          "surrogates": "ๆๆ"
+          "surrogates": "334"
         },
         {
           "name": "privat",
@@ -18361,7 +18361,7 @@
             ":приват:"
           ],
           "location": "privat.png",
-          "surrogates": "อว"
+          "surrogates": "335"
         },
         {
           "name": "reforged",
@@ -18372,7 +18372,7 @@
             "[Reforged]"
           ],
           "location": "reforged.png",
-          "surrogates": "!!"
+          "surrogates": "336"
         },
         {
           "name": "tavern",
@@ -18383,7 +18383,7 @@
             ":таверна:"
           ],
           "location": "tavern.png",
-          "surrogates": "สว"
+          "surrogates": "337"
         },
         {
           "name": "trainer",
@@ -18392,7 +18392,7 @@
             ":тренер:"
           ],
           "location": "trainer.png",
-          "surrogates": "ครั"
+          "surrogates": "338"
         },
         {
           "name": "vk",
@@ -18402,7 +18402,7 @@
             ":вконтакте:"
           ],
           "location": "vk.png",
-          "surrogates": "กว่"
+          "surrogates": "339"
         },
         {
           "name": "vote",
@@ -18411,7 +18411,7 @@
             ":голосование:"
           ],
           "location": "vote.png",
-          "surrogates": "อยา"
+          "surrogates": "340"
         },
         {
           "name": "yarm",
@@ -18420,7 +18420,7 @@
             ":ярмарка:"
           ],
           "location": "yarm.png",
-          "surrogates": "ราค"
+          "surrogates": "341"
         },
         {
           "name": "wt",
@@ -18429,7 +18429,7 @@
             ":случайныйобмен:"
           ],
           "location": "wt.png",
-          "surrogates": "มาก"
+          "surrogates": "342"
         },
         {
           "name": "youtube",
@@ -18440,7 +18440,7 @@
             ":ютуб:"
           ],
           "location": "youtube.png",
-          "surrogates": "จริ"
+          "surrogates": "343"
         },
         {
           "name": "customnpc",
@@ -18449,7 +18449,7 @@
             "custom-npc"
           ],
           "location": "customnpc.png",
-          "surrogates": "นคร"
+          "surrogates": "344"
         },
         {
           "name": "ironchest",
@@ -18458,7 +18458,7 @@
             "iron-chest"
           ],
           "location": "ironchest.png",
-          "surrogates": "อะไ"
+          "surrogates": "345"
         },
         {
           "name": "variedcommodities",
@@ -18468,7 +18468,7 @@
             "varied"
           ],
           "location": "variedcommodities.png",
-          "surrogates": "ปา"
+          "surrogates": "346"
         },
         {
           "name": "sgcraft",
@@ -18478,7 +18478,7 @@
             "hoopagates"
           ],
           "location": "sgcraft.png",
-          "surrogates": "ทะเ"
+          "surrogates": "347"
         },
         {
           "name": "№",
@@ -18487,7 +18487,7 @@
             "num"
           ],
           "location": "number.png",
-          "surrogates": "บริ"
+          "surrogates": "348"
         },
         {
           "name": "oak",
@@ -18496,7 +18496,7 @@
             "profoak"
           ],
           "location": "oak.png",
-          "surrogates": "โตโ"
+          "surrogates": "349"
         },
         {
           "name": "shiny",
@@ -18505,7 +18505,7 @@
             ":шайни:"
           ],
           "location": "shiny.png",
-          "surrogates": "อร่"
+          "surrogates": "350"
         },
         {
           "name": "boss",
@@ -18514,7 +18514,7 @@
             ":босс:"
           ],
           "location": "boss.png",
-          "surrogates": "มาร"
+          "surrogates": "351"
         },
         {
           "name": "schrine",
@@ -18523,7 +18523,7 @@
             ":святыня:"
           ],
           "location": "schrine.png",
-          "surrogates": "ไว"
+          "surrogates": "352"
         },
         {
           "name": "pokeloot",
@@ -18533,7 +18533,7 @@
             ":покелут:"
           ],
           "location": "pokeloot.png",
-          "surrogates": "อสั"
+          "surrogates": "353"
         },
         {
           "name": "female",
@@ -18542,7 +18542,7 @@
             ":мальчик:"
           ],
           "location": "female.png",
-          "surrogates": "หนอ"
+          "surrogates": "354"
         },
         {
           "name": "male",
@@ -18551,7 +18551,7 @@
             ":девочка:"
           ],
           "location": "male.png",
-          "surrogates": "กลิ"
+          "surrogates": "355"
         },
         {
           "name": "none",
@@ -18560,7 +18560,7 @@
             ":отсутствует:"
           ],
           "location": "none.png",
-          "surrogates": "จร"
+          "surrogates": "356"
         },
         {
           "name": "yes_2",
@@ -18569,7 +18569,7 @@
             ":да2:"
           ],
           "location": "yes.png",
-          "surrogates": "“"
+          "surrogates": "357"
         },
         {
           "name": "no_2",
@@ -18578,7 +18578,7 @@
             ":нет2:"
           ],
           "location": "no.png",
-          "surrogates": "…"
+          "surrogates": "358"
         },
         {
           "name": "wait",
@@ -18587,7 +18587,7 @@
             ":ожидание:"
           ],
           "location": "wait.png",
-          "surrogates": "‘"
+          "surrogates": "359"
         },
         {
           "name": "warning",
@@ -18599,7 +18599,7 @@
             "failed"
           ],
           "location": "warning.png",
-          "surrogates": "["
+          "surrogates": "360"
         },
         {
           "name": "info",
@@ -18609,7 +18609,7 @@
             ":инфо:"
           ],
           "location": "info.png",
-          "surrogates": "฿"
+          "surrogates": "361"
         },
         {
           "name": "star",
@@ -18618,7 +18618,7 @@
             ":звезда:"
           ],
           "location": "star.png",
-          "surrogates": "”"
+          "surrogates": "362"
         },
         {
           "name": "shop",
@@ -18627,7 +18627,7 @@
             ":магазин:"
           ],
           "location": "shop.png",
-          "surrogates": "ษ"
+          "surrogates": "363"
         },
         {
           "name": "photo",
@@ -18637,7 +18637,7 @@
             "screenshot"
           ],
           "location": "photo.png",
-          "surrogates": "]"
+          "surrogates": "364"
         },
         {
           "name": "mail",
@@ -18648,7 +18648,7 @@
             ":письмо:"
           ],
           "location": "mail.png",
-          "surrogates": "*"
+          "surrogates": "365"
         },
         {
           "name": "coffe",
@@ -18657,7 +18657,7 @@
             ":кофе:"
           ],
           "location": "coffe.png",
-          "surrogates": "&"
+          "surrogates": "366"
         },
         {
           "name": "winner",
@@ -18667,7 +18667,7 @@
             ":победа:"
           ],
           "location": "winner.png",
-          "surrogates": "^"
+          "surrogates": "368"
         },
         {
           "name": "trade",
@@ -18678,7 +18678,7 @@
             ":торг:"
           ],
           "location": "trade.png",
-          "surrogates": "ศ"
+          "surrogates": "369"
         },
         {
           "name": "egg",
@@ -18687,7 +18687,7 @@
             ":яйцо:"
           ],
           "location": "egg.png",
-          "surrogates": "ฑ"
+          "surrogates": "370"
         },
         {
           "name": "mega",
@@ -18696,7 +18696,7 @@
             ":мега:"
           ],
           "location": "mega.png",
-          "surrogates": "ฐ"
+          "surrogates": "371"
         },
         {
           "name": "reward",
@@ -18705,7 +18705,7 @@
             ":награда:"
           ],
           "location": "reward.png",
-          "surrogates": "่า"
+          "surrogates": "372"
         },
         {
           "name": "reward_eat",
@@ -18719,7 +18719,7 @@
             ":донат:"
           ],
           "location": "reward_eat.png",
-          "surrogates": "ับ"
+          "surrogates": "373"
         },
         {
           "name": "reward_money",
@@ -18730,7 +18730,7 @@
             "money"
           ],
           "location": "reward_money.png",
-          "surrogates": "เค"
+          "surrogates": "374"
         },
         {
           "name": "coin",
@@ -18739,7 +18739,7 @@
             ":монета:"
           ],
           "location": "coin.png",
-          "surrogates": "็น"
+          "surrogates": "375"
         },
         {
           "name": "candy",
@@ -18748,7 +18748,7 @@
             ":конфета:"
           ],
           "location": "candy.png",
-          "surrogates": "วม"
+          "surrogates": "376"
         },
         {
           "name": "rand_poke_ball",
@@ -18760,7 +18760,7 @@
             "randpokeball"
           ],
           "location": "rand_poke_ball.png",
-          "surrogates": "โห"
+          "surrogates": "377"
         },
         {
           "name": "coin_dollar",
@@ -18770,7 +18770,7 @@
             ":доллар:"
           ],
           "location": "coin_dollar.png",
-          "surrogates": "บบ"
+          "surrogates": "378"
         },
         {
           "name": "lottery1",
@@ -18779,7 +18779,7 @@
             ":лотерея1:"
           ],
           "location": "lottery1.png",
-          "surrogates": "้น"
+          "surrogates": "379"
         },
         {
           "name": "lottery2",
@@ -18788,7 +18788,7 @@
             ":лотерея2:"
           ],
           "location": "lottery2.png",
-          "surrogates": "ทะ"
+          "surrogates": "380"
         },
         {
           "name": "lottery3",
@@ -18797,7 +18797,7 @@
             ":лотерея3:"
           ],
           "location": "lottery3.png",
-          "surrogates": "วา"
+          "surrogates": "381"
         },
         {
           "name": "lottery4",
@@ -18806,7 +18806,7 @@
             ":лотерея4:"
           ],
           "location": "lottery4.png",
-          "surrogates": "นำ"
+          "surrogates": "382"
         },
         {
           "name": "clock",
@@ -18816,7 +18816,7 @@
             ":время:"
           ],
           "location": "clock.png",
-          "surrogates": "าส"
+          "surrogates": "383"
         },
         {
           "name": "free2",
@@ -18825,7 +18825,7 @@
             ":бесплатно:"
           ],
           "location": "free.png",
-          "surrogates": "สง"
+          "surrogates": "384"
         },
         {
           "name": "music",
@@ -18834,7 +18834,7 @@
             ":музыка:"
           ],
           "location": "music.png",
-          "surrogates": "จอ"
+          "surrogates": "385"
         },
         {
           "name": "volume",
@@ -18843,7 +18843,7 @@
             ":громкость:"
           ],
           "location": "volume.png",
-          "surrogates": "าด"
+          "surrogates": "386"
         },
         {
           "name": "weather",
@@ -18852,7 +18852,7 @@
             ":погода:"
           ],
           "location": "weather.png",
-          "surrogates": "สะ"
+          "surrogates": "387"
         },
         {
           "name": "kill",
@@ -18861,7 +18861,7 @@
             ":убить:"
           ],
           "location": "kill.png",
-          "surrogates": "้ย"
+          "surrogates": "388"
         },
         {
           "name": "sword",
@@ -18870,7 +18870,7 @@
             ":меч:"
           ],
           "location": "sword.png",
-          "surrogates": "ิป"
+          "surrogates": "389"
         },
         {
           "name": "shield2",
@@ -18879,7 +18879,7 @@
             ":щит:"
           ],
           "location": "shield.png",
-          "surrogates": "สำ"
+          "surrogates": "389"
         },
         {
           "name": "skull2",
@@ -18888,7 +18888,7 @@
             ":череп:"
           ],
           "location": "skull.png",
-          "surrogates": "าว"
+          "surrogates": "390"
         },
         {
           "name": "magic",
@@ -18899,7 +18899,7 @@
             ":эффект:"
           ],
           "location": "magic.png",
-          "surrogates": "ิต"
+          "surrogates": "391"
         },
         {
           "name": "dark",
@@ -18912,7 +18912,7 @@
             ":темный:"
           ],
           "location": "darktype.png",
-          "surrogates": "จำ"
+          "surrogates": "392"
         },
         {
           "name": "normal",
@@ -18925,7 +18925,7 @@
             ":нормальный:"
           ],
           "location": "normaltype.png",
-          "surrogates": "ที"
+          "surrogates": "393"
         },
         {
           "name": "bug",
@@ -18940,7 +18940,7 @@
             ":насекомый:"
           ],
           "location": "bugtype.png",
-          "surrogates": "ัญ"
+          "surrogates": "394"
         },
         {
           "name": "fly",
@@ -18955,7 +18955,7 @@
             ":летающий:"
           ],
           "location": "flyingtype.png",
-          "surrogates": "กะ"
+          "surrogates": "395"
         },
         {
           "name": "fighting",
@@ -18968,7 +18968,7 @@
             ":файтинг:"
           ],
           "location": "fightingtype.png",
-          "surrogates": "โต"
+          "surrogates": "396"
         },
         {
           "name": "water",
@@ -18983,7 +18983,7 @@
             ":ватер:"
           ],
           "location": "watertype.png",
-          "surrogates": "ัพ"
+          "surrogates": "397"
         },
         {
           "name": "electric",
@@ -18996,7 +18996,7 @@
             ":электрик:"
           ],
           "location": "electrictype.png",
-          "surrogates": "ยง"
+          "surrogates": "398"
         },
         {
           "name": "fairy",
@@ -19010,7 +19010,7 @@
             ":фаири:"
           ],
           "location": "fairytype.png",
-          "surrogates": "ญ่"
+          "surrogates": "399"
         },
         {
           "name": "ghost",
@@ -19023,7 +19023,7 @@
             ":гост:"
           ],
           "location": "ghosttype.png",
-          "surrogates": "บอ"
+          "surrogates": "400"
         },
         {
           "name": "grass",
@@ -19036,7 +19036,7 @@
             ":грасс:"
           ],
           "location": "grasstype.png",
-          "surrogates": "อป"
+          "surrogates": "401"
         },
         {
           "name": "ground",
@@ -19049,7 +19049,7 @@
             ":граунд:"
           ],
           "location": "groundtype.png",
-          "surrogates": "อค"
+          "surrogates": "402"
         },
         {
           "name": "ice",
@@ -19062,7 +19062,7 @@
             ":айс:"
           ],
           "location": "icetype.png",
-          "surrogates": "^^"
+          "surrogates": "403"
         },
         {
           "name": "poison",
@@ -19076,7 +19076,7 @@
             ":поисон:"
           ],
           "location": "poisontype.png",
-          "surrogates": "ส์"
+          "surrogates": "404"
         },
         {
           "name": "rock",
@@ -19089,7 +19089,7 @@
             ":рок:"
           ],
           "location": "rocktype.png",
-          "surrogates": "อล"
+          "surrogates": "405"
         },
         {
           "name": "steel",
@@ -19102,7 +19102,7 @@
             ":стилл:"
           ],
           "location": "steeltype.png",
-          "surrogates": "ัส"
+          "surrogates": "406"
         },
         {
           "name": "fire",
@@ -19115,7 +19115,7 @@
             ":фаир:"
           ],
           "location": "firetype.png",
-          "surrogates": "ัก"
+          "surrogates": "407"
         },
         {
           "name": "dragon",
@@ -19129,7 +19129,7 @@
             ":дрэгон:"
           ],
           "location": "dragontype.png",
-          "surrogates": "บี"
+          "surrogates": "408"
         },
         {
           "name": "psychic",
@@ -19144,7 +19144,7 @@
             ":психик:"
           ],
           "location": "psychictype.png",
-          "surrogates": "ทน"
+          "surrogates": "409"
         },
         {
           "name": "halloween",
@@ -19153,7 +19153,7 @@
             ":хэллоуин:"
           ],
           "location": "halloween.png",
-          "surrogates": "ใบ"
+          "surrogates": "410"
         },
         {
           "name": "snowflake",
@@ -19162,7 +19162,7 @@
             "sf"
           ],
           "location": "snowflake.png",
-          "surrogates": "ลน"
+          "surrogates": "411"
         },
         {
           "name": "battlepass",
@@ -19171,7 +19171,7 @@
             "bp"
           ],
           "location": "battlepass.png",
-          "surrogates": "ัย"
+          "surrogates": "412"
         },
         {
           "name": "shield1",
@@ -19182,7 +19182,7 @@
             "knight"
           ],
           "location": "shield1.png",
-          "surrogates": "ท์"
+          "surrogates": "413"
         },
         {
           "name": "shield2",
@@ -19193,7 +19193,7 @@
             "baron"
           ],
           "location": "shield2.png",
-          "surrogates": "าะ"
+          "surrogates": "414"
         },
         {
           "name": "shield3",
@@ -19204,7 +19204,7 @@
             "viscount"
           ],
           "location": "shield3.png",
-          "surrogates": "โล"
+          "surrogates": "415"
         },
         {
           "name": "shield4",
@@ -19215,7 +19215,7 @@
             "earl"
           ],
           "location": "shield4.png",
-          "surrogates": "ูล"
+          "surrogates": "416"
         },
         {
           "name": "shield5",
@@ -19226,7 +19226,7 @@
             "marquis"
           ],
           "location": "shield5.png",
-          "surrogates": "ทด"
+          "surrogates": "417"
         },
         {
           "name": "shield6",
@@ -19237,7 +19237,7 @@
             "duke"
           ],
           "location": "shield6.png",
-          "surrogates": "ัด"
+          "surrogates": "418"
         },
         {
           "name": "shield7",
@@ -19248,7 +19248,7 @@
             "grandduke"
           ],
           "location": "shield7.png",
-          "surrogates": "็ต"
+          "surrogates": "419"
         },
         {
           "name": "pokedollar_eugene",
@@ -19258,7 +19258,7 @@
             ":пд_1:"
           ],
           "location": "pd.png",
-          "surrogates": "คย"
+          "surrogates": "420"
         }
       ]
     },
@@ -19274,7 +19274,7 @@
             ":бульбазавр:"
           ],
           "location": "001-bulbasaur.png",
-          "surrogates": "คม"
+          "surrogates": "421"
         },
         {
           "name": "006-charizard-x",
@@ -19285,7 +19285,7 @@
             ":чаризард-х:"
           ],
           "location": "006-charizard-mega-x.png",
-          "surrogates": "ย์"
+          "surrogates": "422"
         },
         {
           "name": "006-charizard-y",
@@ -19296,7 +19296,7 @@
             ":чаризард-у:"
           ],
           "location": "006-charizard-mega-y.png",
-          "surrogates": "ัง"
+          "surrogates": "423"
         },
         {
           "name": "115-kangaskhan-mega",
@@ -19307,7 +19307,7 @@
             ":кангасхан-мега:"
           ],
           "location": "115-kangaskhan-mega.png",
-          "surrogates": "ัม"
+          "surrogates": "424"
         },
         {
           "name": "130-gyarados-mega",
@@ -19318,7 +19318,7 @@
             ":гярадос-мега:"
           ],
           "location": "130-gyarados-mega.png",
-          "surrogates": "ัจ"
+          "surrogates": "425"
         },
         {
           "name": "150-mewtwo",
@@ -19329,7 +19329,7 @@
             ":мьюту:"
           ],
           "location": "150-mewtwo.png",
-          "surrogates": "็จ"
+          "surrogates": "426"
         },
         {
           "name": "150-mewtwo-x",
@@ -19340,7 +19340,7 @@
             ":мьютух:"
           ],
           "location": "150-mewtwo-x.png",
-          "surrogates": "ุส"
+          "surrogates": "427"
         },
         {
           "name": "150-mewtwo-y",
@@ -19351,7 +19351,7 @@
             ":мьютуу:"
           ],
           "location": "150-mewtwo-y.png",
-          "surrogates": "็ป"
+          "surrogates": "428"
         },
         {
           "name": "151-mew",
@@ -19362,7 +19362,7 @@
             ":мью:"
           ],
           "location": "151-mew.png",
-          "surrogates": "ัท"
+          "surrogates": "429"
         },
         {
           "name": "208-steelix-mega",
@@ -19373,7 +19373,7 @@
             ":стиликс-мега:"
           ],
           "location": "208-steelix-mega.png",
-          "surrogates": "อต"
+          "surrogates": "430"
         },
         {
           "name": "212-scizor-mega",
@@ -19384,7 +19384,7 @@
             ":сизор-мега:"
           ],
           "location": "212-scizor-mega.png",
-          "surrogates": "าา"
+          "surrogates": "431"
         },
         {
           "name": "229-houndoom-mega",
@@ -19395,7 +19395,7 @@
             ":хаундум-мега:"
           ],
           "location": "229-houndoom-mega.png",
-          "surrogates": "rt"
+          "surrogates": "432"
         },
         {
           "name": "249-lugia",
@@ -19406,7 +19406,7 @@
             ":лугия:"
           ],
           "location": "249-lugia.png",
-          "surrogates": "ay"
+          "surrogates": "433"
         },
         {
           "name": "250-hooh",
@@ -19417,7 +19417,7 @@
             ":хоох:"
           ],
           "location": "250-hooh.png",
-          "surrogates": "mp"
+          "surrogates": "434"
         },
         {
           "name": "251-celebi",
@@ -19428,7 +19428,7 @@
             ":селеби:"
           ],
           "location": "251-celebi.png",
-          "surrogates": "็ค"
+          "surrogates": "435"
         },
         {
           "name": "254-sceptile-mega",
@@ -19439,7 +19439,7 @@
             ":скептайл-мега:"
           ],
           "location": "254-sceptile-mega.png",
-          "surrogates": "ใส"
+          "surrogates": "436"
         },
         {
           "name": "257-blaziken-mega",
@@ -19450,7 +19450,7 @@
             ":блейзикен-мега:"
           ],
           "location": "257-blaziken-mega.png",
-          "surrogates": "งู"
+          "surrogates": "437"
         },
         {
           "name": "260-swampert-mega",
@@ -19461,7 +19461,7 @@
             ":свамперт-мега:"
           ],
           "location": "260-swampert-mega.png",
-          "surrogates": "มง"
+          "surrogates": "438"
         },
         {
           "name": "308-medicham-mega",
@@ -19472,7 +19472,7 @@
             ":медичам-мега:"
           ],
           "location": "308-medicham-mega.png",
-          "surrogates": "-v"
+          "surrogates": "439"
         },
         {
           "name": "334-altaria-mega",
@@ -19483,7 +19483,7 @@
             ":алтария-мега:"
           ],
           "location": "334-altaria-mega.png",
-          "surrogates": "ซน"
+          "surrogates": "440"
         },
         {
           "name": "354-banette-mega",
@@ -19494,7 +19494,7 @@
             ":бэнетт-мега:"
           ],
           "location": "354-banette-mega.png",
-          "surrogates": "สด"
+          "surrogates": "441"
         },
         {
           "name": "373-salamence-mega",
@@ -19509,7 +19509,7 @@
             ":мега-сало:"
           ],
           "location": "373-salamence-mega.png",
-          "surrogates": "าณ"
+          "surrogates": "442"
         },
         {
           "name": "376-metagross-mega",
@@ -19523,7 +19523,7 @@
             ":мега-мета:"
           ],
           "location": "376-metagross-mega.png",
-          "surrogates": "ปน"
+          "surrogates": "443"
         },
         {
           "name": "382-kyogre",
@@ -19535,7 +19535,7 @@
             ":кайогра:"
           ],
           "location": "382-kyogre.png",
-          "surrogates": "ทุ"
+          "surrogates": "444"
         },
         {
           "name": "382-primal-kyogre",
@@ -19548,7 +19548,7 @@
             ":праймал-кайогр:"
           ],
           "location": "382-kyogre-primal.png",
-          "surrogates": "ชะ"
+          "surrogates": "445"
         },
         {
           "name": "383-groudon",
@@ -19560,7 +19560,7 @@
             ":гроудон:"
           ],
           "location": "383-groudon-primal.png",
-          "surrogates": "็ท"
+          "surrogates": "446"
         },
         {
           "name": "383-primal-groudon",
@@ -19574,7 +19574,7 @@
             ":праймал-гроудон:"
           ],
           "location": "383-groudon-primal.png",
-          "surrogates": "ีด"
+          "surrogates": "447"
         },
         {
           "name": "384-rayquaza",
@@ -19587,7 +19587,7 @@
             ":рейкваза:"
           ],
           "location": "384-rayquaza.png",
-          "surrogates": "ัว"
+          "surrogates": "448"
         },
         {
           "name": "384-rayquaza-mega",
@@ -19601,7 +19601,7 @@
             ":мега-райкваза:"
           ],
           "location": "384-rayquaza-mega.png",
-          "surrogates": "ษี"
+          "surrogates": "449"
         },
         {
           "name": "386-deoxys-normal",
@@ -19614,7 +19614,7 @@
             ":деоксис:"
           ],
           "location": "386-deoxys-normal.png",
-          "surrogates": "by"
+          "surrogates": "450"
         },
         {
           "name": "428-lopunny-mega",
@@ -19627,7 +19627,7 @@
             ":мега-лупуни:"
           ],
           "location": "428-lopunny-mega.png",
-          "surrogates": "าศ"
+          "surrogates": "451"
         },
         {
           "name": "445-garchomp-mega",
@@ -19640,7 +19640,7 @@
             ":мега-гарчумп:"
           ],
           "location": "445-garchomp-mega.png",
-          "surrogates": "าช"
+          "surrogates": "452"
         },
         {
           "name": "448-lucario-mega",
@@ -19653,7 +19653,7 @@
             ":мега-лука:"
           ],
           "location": "448-lucario-mega.png",
-          "surrogates": "ซู"
+          "surrogates": "453"
         },
         {
           "name": "483-dialga",
@@ -19665,7 +19665,7 @@
             ":диалга:"
           ],
           "location": "483-dialga.png",
-          "surrogates": "ai"
+          "surrogates": "454"
         },
         {
           "name": "484-palkia",
@@ -19676,7 +19676,7 @@
             ":палкия:"
           ],
           "location": "484-palkia.png",
-          "surrogates": "โร"
+          "surrogates": "455"
         },
         {
           "name": "487-giratina-origin",
@@ -19690,7 +19690,7 @@
             ":гиратина:"
           ],
           "location": "487-giratina-origin.png",
-          "surrogates": "ม้"
+          "surrogates": "456"
         },
         {
           "name": "491-darkrai",
@@ -19702,7 +19702,7 @@
             ":даркраи:"
           ],
           "location": "491-darkrai.png",
-          "surrogates": "แก"
+          "surrogates": "457"
         },
         {
           "name": "493-arceus",
@@ -19714,7 +19714,7 @@
             ":арцеус:"
           ],
           "location": "493-arceus.png",
-          "surrogates": "ไพ"
+          "surrogates": "458"
         },
         {
           "name": "641-tornadus-incarnate",
@@ -19727,7 +19727,7 @@
             ":тернадус:"
           ],
           "location": "641-tornadus-incarnate.png",
-          "surrogates": "ชง"
+          "surrogates": "459"
         },
         {
           "name": "642-thundurus-incarnate",
@@ -19740,7 +19740,7 @@
             ":тендуру:с"
           ],
           "location": "642-thundurus-incarnate.png",
-          "surrogates": "ัต"
+          "surrogates": "460"
         },
         {
           "name": "643-reshiram",
@@ -19752,7 +19752,7 @@
             ":решерам:"
           ],
           "location": "643-reshiram.png",
-          "surrogates": "พก"
+          "surrogates": "461"
         },
         {
           "name": "644-zekrom",
@@ -19763,7 +19763,7 @@
             ":зекром:"
           ],
           "location": "644-zekrom.png",
-          "surrogates": "งๆ"
+          "surrogates": "462"
         },
         {
           "name": "645-landorus-incarnate",
@@ -19776,7 +19776,7 @@
             ":лэндорус:"
           ],
           "location": "645-landorus-incarnate.png",
-          "surrogates": "ภู"
+          "surrogates": "463"
         },
         {
           "name": "646-kyurem-normal",
@@ -19789,7 +19789,7 @@
             ":кюрем:"
           ],
           "location": "646-kyurem-normal.png",
-          "surrogates": "ry"
+          "surrogates": "464"
         },
         {
           "name": "649-genesect-normal",
@@ -19802,7 +19802,7 @@
             ":генесект:"
           ],
           "location": "649-genesect-normal.png",
-          "surrogates": "ไข"
+          "surrogates": "465"
         },
         {
           "name": "658-greninja-ash",
@@ -19816,7 +19816,7 @@
             ":эш_грениндзя:"
           ],
           "location": "658-greninja-ash.png",
-          "surrogates": "ูง"
+          "surrogates": "466"
         },
         {
           "name": "716-xerneas",
@@ -19832,7 +19832,7 @@
             ":зерно:"
           ],
           "location": "716-xerneas.png",
-          "surrogates": "น้"
+          "surrogates": "467"
         },
         {
           "name": "717-yveltal",
@@ -19844,7 +19844,7 @@
             ":йвелтал:"
           ],
           "location": "717-yveltal.png",
-          "surrogates": "ลั"
+          "surrogates": "468"
         },
         {
           "name": "718-zygarde",
@@ -19856,7 +19856,7 @@
             ":зигард:"
           ],
           "location": "718-zygarde.png",
-          "surrogates": "ยั"
+          "surrogates": "469"
         },
         {
           "name": "719-diancie",
@@ -19867,7 +19867,7 @@
             ":дианси:"
           ],
           "location": "719-diancie.png",
-          "surrogates": "ริ"
+          "surrogates": "470"
         },
         {
           "name": "719-diancie-mega",
@@ -19878,7 +19878,7 @@
             ":дианси-мега:"
           ],
           "location": "719-diancie-mega.png",
-          "surrogates": "ว่"
+          "surrogates": "471"
         },
         {
           "name": "720-hoopa-unbound",
@@ -19892,7 +19892,7 @@
             ":хуппа:"
           ],
           "location": "720-hoopa-unbound.png",
-          "surrogates": "นิ"
+          "surrogates": "472"
         },
         {
           "name": "791-solgaleo",
@@ -19904,7 +19904,7 @@
             ":солгалео:"
           ],
           "location": "791-solgaleo.png",
-          "surrogates": "งา"
+          "surrogates": "473"
         },
         {
           "name": "792-lunala",
@@ -19916,7 +19916,7 @@
             ":лунала:"
           ],
           "location": "792-lunala.png",
-          "surrogates": "เห"
+          "surrogates": "474"
         },
         {
           "name": "798-kartana",
@@ -19928,7 +19928,7 @@
             ":картана:"
           ],
           "location": "798-kartana.png",
-          "surrogates": "เป"
+          "surrogates": "475"
         },
         {
           "name": "799-guzzlord",
@@ -19940,7 +19940,7 @@
             ":газлорд:"
           ],
           "location": "799-guzzlord.png",
-          "surrogates": "มั"
+          "surrogates": "476"
         },
         {
           "name": "800-necrozma",
@@ -19953,7 +19953,7 @@
             ":некрозма:"
           ],
           "location": "800-necrozma-normal.png",
-          "surrogates": "ได"
+          "surrogates": "477"
         },
         {
           "name": "801-magearna",
@@ -19965,7 +19965,7 @@
             ":магеарна:"
           ],
           "location": "801-magearna.png",
-          "surrogates": "อี"
+          "surrogates": "478"
         },
         {
           "name": "802-marshadow",
@@ -19977,7 +19977,7 @@
             ":маршадоу:"
           ],
           "location": "802-marshadow.png",
-          "surrogates": "ชม"
+          "surrogates": "479"
         },
         {
           "name": "805-stakataka",
@@ -19989,7 +19989,7 @@
             ":стакака:"
           ],
           "location": "805-stakataka.png",
-          "surrogates": "ยก"
+          "surrogates": "480"
         },
         {
           "name": "807-zeraora",
@@ -20001,7 +20001,7 @@
             ":зераора:"
           ],
           "location": "807-zeraora.png",
-          "surrogates": "ตอ"
+          "surrogates": "481"
         },
         {
           "name": "809-melmetal",
@@ -20013,7 +20013,7 @@
             ":мелметал:"
           ],
           "location": "809-melmetal.png",
-          "surrogates": "ไห"
+          "surrogates": "482"
         }
       ]
     },
@@ -20027,7 +20027,7 @@
             ":брэйндак:"
           ],
           "location": "brainduck.gif",
-          "surrogates": "นา"
+          "surrogates": "483"
         },
         {
           "name": "bulbaroll",
@@ -20036,7 +20036,7 @@
             ":бульбарол:"
           ],
           "location": "bulbaroll.gif",
-          "surrogates": "อั"
+          "surrogates": "484"
         },
         {
           "name": "charmander",
@@ -20045,7 +20045,7 @@
             ":чармандер:"
           ],
           "location": "charmander.gif",
-          "surrogates": "ง่"
+          "surrogates": "485"
         },
         {
           "name": "coolitto",
@@ -20054,7 +20054,7 @@
             ":крутойдитто:"
           ],
           "location": "coolitto.gif",
-          "surrogates": "ลา"
+          "surrogates": "486"
         },
         {
           "name": "dabachu",
@@ -20065,7 +20065,7 @@
             "pikachudab"
           ],
           "location": "dabachu.gif",
-          "surrogates": "เว"
+          "surrogates": "487"
         },
         {
           "name": "gengarun",
@@ -20077,7 +20077,7 @@
             "rubgengar"
           ],
           "location": "gengarun.gif",
-          "surrogates": "ลด"
+          "surrogates": "488"
         },
         {
           "name": "heyyeah",
@@ -20087,7 +20087,7 @@
             "yeah"
           ],
           "location": "heyyeah.gif",
-          "surrogates": "หม"
+          "surrogates": "489"
         },
         {
           "name": "hikachu",
@@ -20098,7 +20098,7 @@
             "pikachuhi"
           ],
           "location": "hikachu.gif",
-          "surrogates": "กค"
+          "surrogates": "490"
         },
         {
           "name": "idkrowlet",
@@ -20107,7 +20107,7 @@
             ":идкроулет:"
           ],
           "location": "idkrowlet.gif",
-          "surrogates": "เด"
+          "surrogates": "491"
         },
         {
           "name": "latiaslove",
@@ -20117,7 +20117,7 @@
             "lovelatias"
           ],
           "location": "latiaslove.gif",
-          "surrogates": "อด"
+          "surrogates": "492"
         },
         {
           "name": "latioslove",
@@ -20127,7 +20127,7 @@
             "lovelatios"
           ],
           "location": "latioslove.gif",
-          "surrogates": "จั"
+          "surrogates": "493"
         },
         {
           "name": "leafegle",
@@ -20136,7 +20136,7 @@
             "leaf_egle"
           ],
           "location": "leafegle.gif",
-          "surrogates": "ภั"
+          "surrogates": "494"
         },
         {
           "name": "leafeney",
@@ -20148,7 +20148,7 @@
             "moneyleafeon"
           ],
           "location": "leafeney.gif",
-          "surrogates": "เน"
+          "surrogates": "495"
         },
         {
           "name": "likes",
@@ -20158,7 +20158,7 @@
             ":лайк:"
           ],
           "location": "likes.gif",
-          "surrogates": "สม"
+          "surrogates": "496"
         },
         {
           "name": "loading",
@@ -20168,7 +20168,7 @@
             "load"
           ],
           "location": "loading.gif",
-          "surrogates": "ผั"
+          "surrogates": "497"
         },
         {
           "name": "meowney",
@@ -20178,7 +20178,7 @@
             "moneymeow"
           ],
           "location": "meowney.gif",
-          "surrogates": "สุ"
+          "surrogates": "498"
         },
         {
           "name": "muncheat",
@@ -20189,7 +20189,7 @@
             "eatmunchlax"
           ],
           "location": "muncheat.gif",
-          "surrogates": "เต"
+          "surrogates": "499"
         },
         {
           "name": "no",
@@ -20198,7 +20198,7 @@
             ":нет:"
           ],
           "location": "no.gif",
-          "surrogates": "จู"
+          "surrogates": "500"
         },
         {
           "name": "ouf",
@@ -20207,7 +20207,7 @@
             ":оуф:"
           ],
           "location": "ouf.gif",
-          "surrogates": "ถ้"
+          "surrogates": "501"
         },
         {
           "name": "pikawink",
@@ -20217,7 +20217,7 @@
             "winkpikachu"
           ],
           "location": "pikawink.gif",
-          "surrogates": "รั"
+          "surrogates": "502"
         },
         {
           "name": "pokedollar",
@@ -20232,7 +20232,7 @@
             ":пиксельмондоллар:"
           ],
           "location": "pokedollar.gif",
-          "surrogates": "พื"
+          "surrogates": "503"
         },
         {
           "name": "roundlet",
@@ -20242,7 +20242,7 @@
             "rouletround"
           ],
           "location": "roundlet.gif",
-          "surrogates": "ร้"
+          "surrogates": "504"
         },
         {
           "name": "ruby",
@@ -20251,7 +20251,7 @@
             ":рубин:"
           ],
           "location": "ruby.gif",
-          "surrogates": "ขน"
+          "surrogates": "505"
         },
         {
           "name": "shaydrink",
@@ -20261,7 +20261,7 @@
             "drinkshaymin"
           ],
           "location": "shaydrink.gif",
-          "surrogates": "ตี"
+          "surrogates": "506"
         },
         {
           "name": "sylkiss",
@@ -20271,7 +20271,7 @@
             "kisssylveon"
           ],
           "location": "sylkiss.gif",
-          "surrogates": "ลย"
+          "surrogates": "507"
         },
         {
           "name": "sylvcry",
@@ -20281,7 +20281,7 @@
             "crysylveon"
           ],
           "location": "sylvcry.gif",
-          "surrogates": "กเ"
+          "surrogates": "508"
         },
         {
           "name": "vulpresent",
@@ -20291,7 +20291,7 @@
             "presentvulpix"
           ],
           "location": "vulpresent.gif",
-          "surrogates": "เท"
+          "surrogates": "509"
         },
         {
           "name": "yes",
@@ -20300,7 +20300,7 @@
             ":да:"
           ],
           "location": "yes.gif",
-          "surrogates": "ขั"
+          "surrogates": "510"
         },
         {
           "name": "fillory",
@@ -20312,7 +20312,7 @@
             "cutie"
           ],
           "location": "fillory.gif",
-          "surrogates": "น่"
+          "surrogates": "515"
         }
       ]
     }

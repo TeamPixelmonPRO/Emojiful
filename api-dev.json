@@ -1,0 +1,17 @@
+{
+    "site": {
+      "link": "https://pixelmon.pro"
+    },
+    "discord": {
+      "link": "https://discord.pixelmon.pro"
+    },
+    "telegram": {
+      "link": "https://t.me/pixelmon"
+    },
+    "emojis": [
+      "https://raw.githubusercontent.com/TeamPixelmonPRO/Emojiful/master/default-dev.min.json"
+    ],
+    "picker": [
+      "https://raw.githubusercontent.com/TeamPixelmonPRO/Emojiful/master/categories-dev.min.json"
+    ]
+  }

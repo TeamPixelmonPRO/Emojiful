@@ -16471,7 +16471,8 @@
           "name": "lovechu",
           "strings": [
             "lovechu",
-            "love_chu"
+            "love_chu",
+            "chu"
           ],
           "location": "lovechu.png",
           "surrogates": "emoji-id-141"
@@ -16498,7 +16499,8 @@
           "name": "psyduckwow",
           "strings": [
             "psyduckwow",
-            "psyduc_kwow"
+            "psyduck_wow",
+            "psy"
           ],
           "location": "psyduckwow.png",
           "surrogates": "emoji-id-144"

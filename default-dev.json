@@ -18429,7 +18429,8 @@
           "strings": [
             "©1967",
             "lovechu",
-            "love_chu"
+            "love_chu",
+            "chu"
           ],
           "location": "lovechu.png",
           "surrogates": "141"
@@ -22313,6 +22314,7 @@
           "strings": [
             "©2298",
             "brainduck",
+            "bck",
             ":брэйндак:"
           ],
           "location": "brainduck.gif",
@@ -22547,6 +22549,7 @@
           "name": "roundlet",
           "strings": [
             "©2319",
+            "rlt",
             "roundlet",
             "roundroulet",
             "rouletround"

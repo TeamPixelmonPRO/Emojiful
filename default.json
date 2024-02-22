@@ -20318,6 +20318,17 @@
           ],
           "location": "fillory.gif",
           "surrogates": "emoji-id-515"
+        },
+        {
+          "name": "y240",
+          "strings": [
+            "assditto",
+            "asd",
+            "dittoass",
+            "y240"
+          ],
+          "location": "assditto.gif",
+          "surrogates": "emoji-id-516"
         }
       ]
     }

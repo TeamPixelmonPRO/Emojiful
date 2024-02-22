@@ -22634,6 +22634,18 @@
           ],
           "location": "fillory.gif",
           "surrogates": "515"
+        },
+        {
+          "name": "y240",
+          "strings": [
+            "©2327",
+            "assditto",
+            "asd",
+            "dittoass",
+            "y240"
+          ],
+          "location": "assditto.gif",
+          "surrogates": "516"
         }
       ]
     }

@@ -20036,6 +20036,7 @@
           "name": "bulbaroll",
           "strings": [
             "bulbaroll",
+            "blr",
             ":бульбарол:"
           ],
           "location": "bulbaroll.gif",

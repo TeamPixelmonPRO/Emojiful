@@ -19169,6 +19169,36 @@
           ],
           "location": "adios.png",
           "surrogates": "514"
+        },
+        {
+          "name": "dt1",
+          "strings": [
+            "©2328",
+            "dt1",
+            "ditto1"
+          ],
+          "location": "ditto1.png",
+          "surrogates": "517"
+        },
+        {
+          "name": "dt2",
+          "strings": [
+            "©2329",
+            "dt2",
+            "ditto2"
+          ],
+          "location": "ditto2.png",
+          "surrogates": "518"
+        },
+        {
+          "name": "dt3",
+          "strings": [
+            "©2330",
+            "dt3",
+            "ditto3"
+          ],
+          "location": "ditto3.png",
+          "surrogates": "519"
         }
       ]
     },
@@ -22406,6 +22436,7 @@
           "name": "idkrowlet",
           "strings": [
             "©2306",
+            "idk",
             "idkrowlet",
             ":идкроулет:"
           ],

@@ -17148,6 +17148,33 @@
           ],
           "location": "adios.png",
           "surrogates": "emoji-id-514"
+        },
+        {
+          "name": "dt1",
+          "strings": [
+            "dt1",
+            "ditto1"
+          ],
+          "location": "ditto1.png",
+          "surrogates": "emoji-id-517"
+        },
+        {
+          "name": "dt2",
+          "strings": [
+            "dt2",
+            "ditto2"
+          ],
+          "location": "ditto2.png",
+          "surrogates": "emoji-id-518"
+        },
+        {
+          "name": "dt3",
+          "strings": [
+            "dt3",
+            "ditto3"
+          ],
+          "location": "ditto3.png",
+          "surrogates": "emoji-id-519"
         }
       ]
     },
@@ -20110,6 +20137,7 @@
         {
           "name": "idkrowlet",
           "strings": [
+            "idk",
             "idkrowlet",
             ":идкроулет:"
           ],

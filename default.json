@@ -6035,6 +6035,7 @@
         {
           "name": "duck",
           "strings": [
+            "dk",
             "duck"
           ],
           "location": "1f986.png",
@@ -15728,6 +15729,7 @@
         {
           "name": "dollar_2",
           "strings": [
+            "dl",
             "dollar_2",
             "pokedollars"
           ],

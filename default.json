@@ -17178,6 +17178,15 @@
           ],
           "location": "ditto3.png",
           "surrogates": "emoji-id-519"
+        },
+        {
+          "name": "grr",
+          "strings": [
+            "grr",
+            "ashhikru"
+          ],
+          "location": "ashhikru.png",
+          "surrogates": "emoji-id-520"
         }
       ]
     },

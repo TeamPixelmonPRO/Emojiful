@@ -17187,6 +17187,17 @@
           ],
           "location": "ashhikru.png",
           "surrogates": "emoji-id-520"
+        },
+        {
+          "name": "ping",
+          "strings": [
+            "ping",
+            "png",
+            "pong",
+            "angryping"
+          ],
+          "location": "ping.gif",
+          "surrogates": "emoji-id-521"
         }
       ]
     },

@@ -17198,6 +17198,15 @@
           ],
           "location": "ping.gif",
           "surrogates": "emoji-id-521"
+        },
+        {
+          "name": "ash",
+          "strings": [
+            "ash",
+            "ashhikru2"
+          ],
+          "location": "ashhikru2.png",
+          "surrogates": "emoji-id-522"
         }
       ]
     },

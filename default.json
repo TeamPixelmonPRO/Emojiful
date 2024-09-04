@@ -17207,6 +17207,17 @@
           ],
           "location": "ashhikru2.png",
           "surrogates": "emoji-id-522"
+        },
+        {
+          "name": "adrenalin",
+          "strings": [
+            "adr",
+            "tdt",
+            "yay",
+            "adrenalin"
+          ],
+          "location": "adrenalin.gif",
+          "surrogates": "emoji-id-523"
         }
       ]
     },

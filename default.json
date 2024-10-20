@@ -16883,7 +16883,8 @@
           "name": "mmm",
           "strings": [
             "mmm",
-            ":ммм:"
+            ":ммм:",
+            "z1"
           ],
           "location": "mmm.png",
           "surrogates": "emoji-id-182"

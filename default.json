@@ -16409,6 +16409,7 @@
           "name": "cuteleon",
           "strings": [
             "cuteleon",
+            "ctl",
             "cut_eleon"
           ],
           "location": "cuteleon.png",

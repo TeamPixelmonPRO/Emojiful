@@ -17220,6 +17220,16 @@
           ],
           "location": "adrenalin.gif",
           "surrogates": "emoji-id-523"
+        },
+        {
+          "name": "aftolfo",
+          "strings": [
+            "ast",
+            "asf",
+            "astolfo"
+          ],
+          "location": "astolfo.png",
+          "surrogates": "emoji-id-524"
         }
       ]
     },

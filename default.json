@@ -17230,6 +17230,15 @@
           ],
           "location": "astolfo.png",
           "surrogates": "emoji-id-524"
+        },
+        {
+          "name": "ash3",
+          "strings": [
+            "ash3",
+            "ashhikru3"
+          ],
+          "location": "ashhikru3.png",
+          "surrogates": "emoji-id-525"
         }
       ]
     },

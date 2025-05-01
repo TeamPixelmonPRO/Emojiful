@@ -5778,7 +5778,8 @@
         {
           "name": "star",
           "strings": [
-            "star2"
+            "star2",
+            "t3"
           ],
           "location": "2b50.png",
           "surrogates": "⭐"
@@ -7627,7 +7628,8 @@
         {
           "name": "trophy",
           "strings": [
-            "trophy"
+            "trophy",
+            "t1"
           ],
           "location": "1f3c6.png",
           "surrogates": "🏆"
@@ -7668,7 +7670,8 @@
         {
           "name": "rosette",
           "strings": [
-            "rosette"
+            "rosette",
+            "t2"
           ],
           "location": "1f3f5.png",
           "surrogates": "🏵"

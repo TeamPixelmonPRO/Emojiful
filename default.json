@@ -17243,6 +17243,17 @@
           ],
           "location": "ashhikru3.png",
           "surrogates": "emoji-id-525"
+        },
+        {
+          "name": "drakek",
+          "strings": [
+            "dg",
+            "drag",
+            "drakek",
+            "reddragon"
+          ],
+          "location": "dragon.png",
+          "surrogates": "emoji-id-526"
         }
       ]
     },
